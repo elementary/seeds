@@ -115,6 +115,7 @@ Web:
  * libapache2-mod-auth-plain     # FabioMassimoDiNitto
  * libapache2-mod-auth-sys-group # FabioMassimoDiNitto
  * libapache2-mod-security       # FabioMassimoDiNitto
+ * libapache2-mod-auth-kerb	 # ChuckShort
 
  * zope3-sandbox
 
@@ -129,6 +130,7 @@ Email:
  * %dovecot                   # ThomMay
  * %exim4
  * %postfix
+ * amavisd-new		      # ChuckShort
 
 Must also consider webmail and so on...
 
@@ -147,6 +149,8 @@ Other:
  * lm-sensors
  * openbsd-inetd
  * nbd-server
+ * open-iscsi # ChuckShort
+ * freeradius   # ChuckShort
 
 Application Servers:
 
@@ -211,6 +215,11 @@ Download:
  * cu                   # super-basic serial access
  * john                 # detects weak passwords, might be needed in desktop
  * libpam-cracklib      # enables weak password checking during password change, should it be in desktop?
+ * libpam-krb5		# ChuckShort
+ * libpam-mount	        # ChuckShort
+ * libpam-p11		# ChuckShort
+ * libpam-radius-auth   # ChuckShort
+ * pam-p11		# ChuckShort
  * chkrootkit           # forensic detection of rootkit
  * xinetd               # JamesTroup, from hoglet
  * libcap-bin
@@ -227,6 +236,9 @@ Download:
  * smartmontools   # hard disk diagnostics
  * mtx		   # ChuckShort - ServerPackageReview
  * logwatch	   # ChuckShort - ServerPackageReview
+ * vlock	# ChuckShort
+ * lsscsi	# ChuckShort
+ * vblade	# ChuckShort
 
 = Documentation =
 
