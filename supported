@@ -1,68 +1,8 @@
 = Hardware =
 
- * i855-crt        # crack to enable video out on i855 chipsets
- * mdetect         # formerly used by X for mouse autodetection
- * irda-utils
- * wacom-tools
- * palo            # hppa boot loader, but needed on other architectures to build hppa CD images
- * ps3-kboot       # boot loader for Sony PlayStation 3
- * powertop
-
-== Filesystems ==
-
- * xfsdump # only useful when machine is setup and working, and only for xfs people
- * cloop-utils # for LiveCD
- * squashfs-tools
- * reiser4progs
- * hfsplus
-
 == Cluster ==
 
- * ocfs2console
  * system-config-cluster
-
-= Servers and Daemons =
-
-Database:
-
- * mdbtools				# OOo2 supports the JET format
- * mdbtools-gmdb
-
-Email:
-
- * fetchmail
- * procmail
-
-Must also consider webmail and so on...
-
-Other:
-
- * racoon
- * sysvinit  # ScottJamesRemnant retain support for now
- * openprinting-ppds-extra          # Less common printer drivers we don't want in desktop
-
-Printing:
-
- * m2300w
- * cups-pdf		  # OOTB PDF printer
-
-Utilities:
-
- * analog                 # essential for any web server, possible candidate for desktop integration
- * graphviz
- * logcheck		  # great security tool for any server
- * logcheck-database	  # useful for above
-
-= Network =
-
- * irssi
-
-Security:
-
-Download:
-
- * bittorrent             # rapid p2p download, for efficient large file distribution, perhaps for desktop
- * jigit                  # specialised Debian/Ubuntu CD image download
 
 = Desktop =
 
@@ -83,30 +23,9 @@ Download:
 == Development Tools ==
 
  * bicyclerepair          # python refactoring tool for vim & emacs
- * bison
- * debconf-english   # for minimal buildd chroots, without i18n cruft
- * flex
- * patchutils
- * gdb
- * valgrind
- * autoconf
- * automake
- * autotools-dev
- * libtool
- * ccache            # C/C++ development, package development
- * kernel-package
- * pychecker
- * exuberant-ctags   # ColinWatson
  * ant
- * linux32		# without it, biarch buildds can go wonky
  * ocaml-native-compilers  # we support the source package anyway
  * pymacs                 # makes bicyclerepair work with emacs
- * bootchart         # boot speed profiling
- * indent
- * autopkgtest
- * cmake
- * apport-retrace
- * apport-cli
  * libpurple-bin	# no particular reason to keep this single binary in universe
 
 == Mono ==
@@ -115,42 +34,6 @@ Download:
  * mono-jay
  * mono-classlib-1.0
  * libmono-sqlite1.0-cil
-
-== Revision Control ==
-
- * subversion
- * subversion-tools
- * python2.4-subversion
- * git-core
- * gitk
- * bzrtools
- * python2.4-paramiko	# for bzr sftp support
- * cvs
-
-== Package Maintainance ==
-
- * debhelper         # ColinWatson
- * dh-make
- * dupload           # ColinWatson
- * linda             # python-based replacement for lintian
- * lintian
- * pbuilder          # ColinWatson
- * apt-listchanges
- * apt-transport-https # sanctioned by MichaelVogt
- * dput
- * pkgstriptranslations # for removing gettext data on the buildds
- * pkg-create-dbgsym # automatic creation of debug symbols
- * hello
- * hello-debhelper
- * dselect            # old-school package management
-
-== Seed Management ==
-
- * germinate         # quis custodiet ipsos custodes?
-
-= Shells =
-
- * zsh
 
 = Desktop =
 
@@ -221,40 +104,6 @@ GNOME Office:
  * xml-twig-tools  # we need libxml-twig-perl as build dep anyway, so we can as well support this binary
  * tracker-utils
 
-= Libraries =
-
- * libcrypt-blowfish-perl
- * libdate-manip-perl
- * libnet-ldap-perl
- * libchart-perl
- * libgd-graph-perl
- * libtemplate-perl
- * libfile-rsyncp-perl
- * libnss-db
- * tdsodbc
- * tk8.3-dev
- * libsdl1.2debian-all
- * libsdl1.2debian-alsa
- * libsdl1.2debian-esd
- * libsdl1.2debian-oss
- * libgl1-mesa-swx11-i686
-
-= System Administration Tools =
-
- * attr                 # will move to base if we go to selinux
- * quota
- * backuppc             # RobertCollins
- * debian-goodies
- * whois                # FabioMassimoDiNitto
- * minicom              # useful for serial access to anything
- * cu                   # super-basic serial access
- * john                 # detects weak passwords, might be needed in desktop
- * libpam-cracklib      # enables weak password checking during password change, should it be in desktop?
- * chkrootkit           # forensic detection of rootkit
- * xinetd               # JamesTroup, from hoglet
- * system-config-kickstart # Kickstart configuration GUI
- * mknbi                # for creating etherboot images for LTSP
-
 = Documentation =
 
 We need a consistent policy for -doc. At the least, any -doc package produced by a source package that also generates a binary package in one of our seed lists should absolutely go into supported.
@@ -324,9 +173,6 @@ Exclude some KDE-specific pieces:
 
 == Development ==
 
- * libc6-prof [amd64 i386 lpia powerpc sparc hppa]
- * libc6.1-prof [ia64]
- * gcc-4.2-locales
  * openoffice.org-qa-tools
  * openoffice.org-qa-api-tests
  * openoffice.org-officebean
@@ -365,50 +211,11 @@ These *-doc packages are in separate source packages, so Extra-Includes won't ca
  * scribus-doc
  * tar-doc
 
-== System Administration ==
-
- * fbset
- * libcap-bin
- * libpam-opie
- * opie-client
- * opie-server
- * sasl2-bin
- * libsasl2-modules-sql
- * autofs
- * awstats
- * acct
- * authbind                     # BIGGER SECURITAH REVIEW
- * siege
- * bonnie++
-
 == Multimedia ==
 
  * flac
  * esound-clients
  * eyed3			# we need to support the source anyway, harmless tool
-
-== Kernel ==
-
- * /^linux-(backports-modules-|headers-)?(386|686|amd64|cell|generic|hppa|itanium|k7|mckinley|powerpc|ps3|server|sparc64|virtual).*/
- * linux-backports-modules
- * linux-doc
- * linux-source
- * linux-kernel-devel
- * /^linux-image-debug.*(?<!-rt)$/
- * vmware-*-kernel-modules
- * kexec-tools
-
-=== Transitional from dapper ===
-
- * linux-image-686
- * linux-image-amd64-k8
- * linux-image-amd64-server
- * linux-image-amd64-xeon
- * linux-image-itanium-smp
- * linux-image-k7
- * linux-image-mckinley-smp
- * linux-restricted-modules-itanium-smp
- * linux-restricted-modules-mckinley-smp
 
 = Database =
 
@@ -472,40 +279,6 @@ These *-doc packages are in separate source packages, so Extra-Includes won't ca
  * /^language-pack-[^-]+$/
  * /^language-pack-gnome-[^-]+$/
  * /^language-support-[^-]+$/
-
-= Installer =
-
- # Used for netboot installations
- * Kernel-Version: 2.6.24-7-386
- * /^.*-firmware-.*-386-di/ [i386]
- * /^.*-modules-.*-386-di/ [i386]
-
- # Used for powerpc+ps3 images
- * Kernel-Version: 2.6.24-7-cell
- * /^.*-firmware-.*-cell-di/ [powerpc]
- * /^.*-modules-.*-cell-di/ [powerpc]
-
- * debian-installer # also has side-effect of pulling in installer image build system
- * gfxboot
- * gfxboot-theme-ubuntu
- * cdebconf # useful for testing, but not used by default yet
-
- * casper # needed by live CD build system
- * lupin-casper # ditto, installer-for-windows
- * livecd-rootfs # live CD build script
-
- * installation-guide-amd64 [amd64]
- * installation-guide-hppa [hppa]
- * installation-guide-i386 [i386]
- * installation-guide-ia64 [ia64]
- * installation-guide-powerpc [powerpc]
- * installation-guide-sparc [sparc]
-
-= LTSP =
-
- * ltsp-server
- * ltsp-server-standalone
- * ltsp-client
 
 = OMG! =
 

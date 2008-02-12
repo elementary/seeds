@@ -24,16 +24,6 @@ modules instead.
  * ltsp-client [amd64 hppa i386 ia64 sparc]            # for LTSP-on-install
  * ldm [amd64 hppa i386 ia64 sparc] # seeded because its not a hard dependency of ltsp-client anymore
 
-== Filesystems ==
-
- * xfsprogs
- * jfsutils
- * hfsplus [powerpc]  # ColinWatson
- * lvm2
- * mdadm
- * dmsetup
- * cryptsetup
-
 == Networking ==
 
  * mailx
@@ -50,11 +40,6 @@ modules instead.
 
  * nfs-common		  # allows people to access NFS filesystems
  # * vim                    # vim-tiny is in minimal; vim includes syntax highlighting, help files, etc.
-
-== For language support in the installer ==
-
- * console-terminus
- * unifont
 
 == Hardware & Network Access ==
 
@@ -76,9 +61,6 @@ modules instead.
  * drdsl
  * libatm1	# suggested by ppp for PPP-over-ATM
  * setserial	# needed by folks with nonstandard serial ports
- * mouseemu	# needed on Macs with single-button mice
- * ps3pf-utils [powerpc] # small utilities for PlayStation 3 systems
- * elfspe2 [powerpc] # SPE access for Cell systems
 
 == Common language packs ==
 
@@ -95,8 +77,6 @@ modules instead.
 == Installer ==
 
  * oem-config-gtk
- * mkvmlinuz [powerpc] # for nobootloader
- * lupin-support # installer-for-windows
 
 == Transitional packages ==
 
