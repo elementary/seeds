@@ -1,23 +1,18 @@
-required:
-minimal: required
-boot:
-standard: required minimal
-desktop: required minimal standard
-dns-server: required minimal standard
-lamp-server: required minimal standard
-openssh-server: required minimal standard
-print-server: required minimal standard
-samba-server: required minimal standard
-postgresql-server: required minimal standard
-mail-server: required minimal standard
-server-ship: boot required minimal standard dns-server lamp-server openssh-server print-server samba-server postgresql-server mail-server
-ship: boot required minimal standard desktop
-live: required minimal standard desktop
-ship-live: boot required minimal standard desktop live
-installer:
-build-essential: required
-development: required minimal standard desktop
-mobile: required minimal
-mobile-dev: required minimal mobile
-jeos: required minimal
-supported: boot required minimal standard desktop dns-server lamp-server openssh-server print-server samba-server postgresql-server mail-server server-ship ship live ship-live build-essential development mobile mobile-dev jeos
+include platform.hardy
+desktop: desktop-common
+dns-server: standard
+lamp-server: standard
+openssh-server: standard
+print-server: standard
+samba-server: standard
+postgresql-server: standard
+mail-server: standard
+server-ship: boot dns-server lamp-server openssh-server print-server samba-server postgresql-server mail-server
+ship: boot desktop d-i-requirements
+live: desktop
+ship-live: boot live
+development: desktop
+mobile: minimal
+mobile-dev: mobile
+jeos: minimal
+supported: server-ship ship ship-live development mobile-dev jeos supported-common
