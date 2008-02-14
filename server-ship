@@ -260,7 +260,6 @@ kill if we run out of space
  * bc
  * screen
  * lftp
- * slocate              # tool to index user files
  * zip
  * unzip                # also used for .zip support in file-roller
  * cupsys                       # our preferred printer management infrastructure
