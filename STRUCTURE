@@ -10,6 +10,7 @@ mail-server: standard
 server-ship: boot dns-server lamp-server openssh-server print-server samba-server postgresql-server mail-server
 ship: boot desktop d-i-requirements
 live: desktop
+dvd-live: live
 ship-live: boot live
 development: desktop
 mobile: minimal
