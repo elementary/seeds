@@ -152,6 +152,7 @@ Other:
  * nbd-server
  * open-iscsi # ChuckShort
  * freeradius   # ChuckShort
+ * drbd8-utils # ChuckShort - ServerPackageReview
 
 Application Servers:
 
@@ -241,6 +242,7 @@ Download:
  * lsscsi	# ChuckShort
  * vblade	# ChuckShort
  * sysstat	# ChuckShort - ServerPackageReview
+ * openipmi     # ChuckShort - ServerPackageReview
 
 = Documentation =
 
