@@ -116,7 +116,7 @@ Web:
  * libapache2-mod-auth-plain     # FabioMassimoDiNitto
  * libapache2-mod-auth-sys-group # FabioMassimoDiNitto
  * libapache2-mod-security       # FabioMassimoDiNitto
- * libapache2-mod-auth-kerb	 # ChuckShort
+ * libapache-mod-auth-kerb	 # ChuckShort
 
  * zope3-sandbox
 
