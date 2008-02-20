@@ -243,6 +243,9 @@ Download:
  * vblade	# ChuckShort
  * sysstat	# ChuckShort - ServerPackageReview
  * openipmi     # ChuckShort - ServerPackageReview
+ * munin	# ChuckShort - ServerPackageReview
+ * muning-plugins-contrib    # ChuckShort - ServerPackageReview
+ * munin-node # ChuckShort - ServerPackageReview
 
 = Documentation =
 
