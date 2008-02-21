@@ -189,10 +189,6 @@ IPv6 tools:
  * radvd                  # FabioMassimoDiNitto
  * quagga                 # RobertCollins
 
-Firewall:
-
- * shorewall
-
 Security:
 
  * cricket                # JamesTroup, from Hoglet
