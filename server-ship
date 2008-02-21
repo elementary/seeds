@@ -243,6 +243,10 @@ Download:
  * muning-plugins-contrib    # ChuckShort - ServerPackageReview
  * munin-node # ChuckShort - ServerPackageReview
 
+= Virtualisation =
+
+ * kvm
+
 = Documentation =
 
  * ubuntu-serverguide
