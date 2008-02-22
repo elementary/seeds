@@ -3,6 +3,7 @@ Task-Section: user
 Task-Description: Ubuntu desktop
 Task-Extended-Description: This task provides the Ubuntu desktop environment.
 Task-Key: ubuntu-desktop
+Task-Seeds: desktop-common
 
 = Hardware and Architecture Support =
 
