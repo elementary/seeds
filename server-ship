@@ -153,6 +153,7 @@ Other:
  * open-iscsi # ChuckShort
  * freeradius   # ChuckShort
  * drbd8-utils # ChuckShort - ServerPackageReview
+ * nut # ChuckShort - ServerPackageReview
 
 Application Servers:
 
