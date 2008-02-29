@@ -151,6 +151,7 @@ Other:
  * openbsd-inetd
  * nbd-server
  * open-iscsi # ChuckShort
+ * open-iscsi-udeb # SorenHansen
  * freeradius   # ChuckShort
  * drbd8-utils # ChuckShort - ServerPackageReview
  * nut # ChuckShort - ServerPackageReview
