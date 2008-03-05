@@ -37,6 +37,7 @@ Extra fonts (should be common, but not so for space reasons):
 
 Input methods:
 
+ * (im-switch)
  * (scim)
  * (scim-bridge-agent)
  * (scim-bridge-client-gtk)
