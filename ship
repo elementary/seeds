@@ -49,6 +49,7 @@ modules instead.
  * bpalogin
  * ndiswrapper-utils [amd64 i386]
  * ndiswrapper-utils-1.9 [amd64 i386]
+ * ndisgtk
 
  * nvidia-glx-new [i386]   # nvidia drivers, for multiseat, but also easy access
 

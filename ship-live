@@ -18,6 +18,7 @@ These packages are needed in order to build Ubuntu packages.
  * bpalogin
  * ndiswrapper-utils [amd64 i386]
  * ndiswrapper-utils-1.9 [amd64 i386]
+ * ndisgtk
 
  * ipppd
  * isdnutils-xtools
