@@ -11,6 +11,8 @@
  * midbrowser
  * gnome-volume-manager
 
+ * desktop-file-utils   # needed to map MIME types to apps
+
  * marquee-plugins
  * moblin-keyboard-manager
  * mobile-basic-flash
