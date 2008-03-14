@@ -250,9 +250,6 @@ These *-doc packages are in separate source packages, so Extra-Includes won't ca
  * nabi
  * imhangul
  * culmus
- * latex-ucs # UTF-8 support for LaTeX
- * latex-ucs-uninames
- * latex-ucs-contrib
  * %texlive-lang
  * openoffice.org-help-en-gb
  * openoffice.org-l10n-en-gb
