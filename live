@@ -15,7 +15,7 @@ Task-Test-new-install: skip show
  * language-pack-${Languages} [i386 amd64]
  * language-pack-gnome-${Languages} [i386 amd64]
 
- * Languages: pt de
+ * Languages: pt
  * language-pack-${Languages} [i386]
  * language-pack-gnome-${Languages} [i386]
 
