@@ -9,8 +9,8 @@ Task-Test-new-install: skip show
 = Language packs; in theory we're putting them all on the DVD =
  * /^language-pack-[^-]+$/
  * /^language-pack-gnome-[^-]+$/
-# temporarily exclude khmer and basque to get test images built
- * /^language-support-[^-]+(?<!km)$/
+# temporarily exclude some languages to get test images built
+ * /^language-support-[^-]+(?<!sr|vi)$/
 
 = Input methods =
 # currently not otherwise seeded on the desktop, but according to
