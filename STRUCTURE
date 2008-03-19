@@ -16,4 +16,5 @@ development: desktop
 mobile: minimal
 mobile-dev: mobile
 jeos: minimal
-supported: server-ship ship ship-live development mobile-dev jeos supported-common
+dvd: server-ship ship development jeos supported-common
+supported: dvd-live ship-live dvd mobile-dev
