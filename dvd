@@ -229,6 +229,3 @@ These *-doc packages are in separate source packages, so Extra-Includes won't ca
  * /^language-pack-gnome-[^-]+$/
  * /^language-support-[^-]+$/
 
-= OMG! =
-
- * firefox-themes-ubuntu
