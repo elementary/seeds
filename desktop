@@ -140,6 +140,7 @@ We've chosen GNOME as our desktop user interface of choice. Rather than using th
  * pulseaudio
  * (pulseaudio-module-gconf)
  * (pulseaudio-module-hal)
+ * (pulseaudio-module-x11)
  * (gvfs-fuse)			# let non-GNOME apps see GVFS via fuse
 
 Themes: we will ship only the very best looking themes. We won't ship everything that Debian ships, just a custom package that includes the themes we want. These packages are included for size guidance until we have Ubuntu-specific packages.
