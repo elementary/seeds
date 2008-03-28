@@ -28,6 +28,7 @@ included due to matching Extra-Include patterns, and has no other effect):
  * Extra-Exclude: libxaw6*		# built from the same source as libxaw7*
  * Extra-Exclude: nvidia-glx-legacy-dev # nvidia-glx-legacy is unsupportable
  * Extra-Exclude: python-qt3-gl-dbg # We don't want python-qt3-gl in main
+ * Extra-Exclude: g77-doc # pulls in gcc-3.4
 
 Transitional packages:
 
