@@ -161,6 +161,19 @@ Other:
  * munin-node
  * munin-plugins-contrib
  * munin
+ * bacula
+ * bacula-common
+ * bacula-director-common
+ * bacula-director-mysql
+ * bacula-director-pgsql
+ * bacula-client
+ * bacula-fd
+ * bacula-server
+ * bacula-sd
+ * bacula-sq-mysql
+ * bacula-sq-pgsql
+ * bacula-console
+ * bacula-traymonitor
 
 Application Servers:
 
