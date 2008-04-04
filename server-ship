@@ -170,8 +170,8 @@ Other:
  * bacula-fd # ChuckShort - SRP
  * bacula-server # ChuckShort - SRP
  * bacula-sd # ChuckShort - SRP
- * bacula-sq-mysql # ChuckShort - SRP
- * bacula-sq-pgsql # ChuckShort - SRP
+ * bacula-sd-mysql # ChuckShort - SRP
+ * bacula-sd-pgsql # ChuckShort - SRP
  * bacula-console # ChuckShort - SRP
  * bacula-traymonitor # ChuckShort - SRP
  * ibmasm-utils # ChuckShort - SRP
