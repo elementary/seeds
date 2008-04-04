@@ -70,9 +70,6 @@ Other:
  * xnest
  * xrestop
  * unclutter           # super useful for anti-mouse freaks
- * emacs               # won't fit on CDs
- * emacs22-el
- * emacs22-nox
  * inkscape            # SVG drawing application
  * screem                  # MRS, our default html editor
  * vim-gnome
@@ -80,7 +77,6 @@ Other:
  * vorbis-tools
  * vorbisgain
  * enscript
- * emacs-goodies-el
  * bbdb
  * auctex
  * lbdb
