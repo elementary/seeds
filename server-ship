@@ -79,6 +79,8 @@ restricted modules.
  * libaio-dev
  * ipvsadm
  * keepalived
+ * gnbd-client
+ * gnbd-server
  * multipath-tools
 
 = Servers and Daemons =
@@ -153,8 +155,17 @@ Other:
  * open-iscsi # ChuckShort
  * open-iscsi-udeb # SorenHansen
  * freeradius   # ChuckShort
+ * freeradius-dialupadmin
+ * freeradius-iodbc
+ * freeradius-krb5
+ * freeradius-ldap
+ * freeradius-mysql
+ * freeradius-postgresql
  * drbd8-utils # ChuckShort - ServerPackageReview
  * nut # ChuckShort - ServerPackageReview
+ * nut-cgi
+ * nut-hal-drivers
+ * nut-snmp
  * openvpn #ChuckShort - ServerPackageReview
  * netcat-openbsd
  * rrdtool
