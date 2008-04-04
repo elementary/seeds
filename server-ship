@@ -175,6 +175,8 @@ Other:
  * bacula-console # ChuckShort - SRP
  * bacula-traymonitor # ChuckShort - SRP
  * ibmasm-utils # ChuckShort - SRP
+ * likewise-open 
+ * likewise-open-gui
 
 Application Servers:
 
