@@ -96,6 +96,7 @@ Other:
  * liferea
  * gkbd-capplet      # we need to support the source anyway
  * gthumb
+ * gvfs-bin
 
 GNOME Office:
 
