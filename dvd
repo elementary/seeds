@@ -209,6 +209,7 @@ These *-doc packages are in separate source packages, so Extra-Includes won't ca
  # renamed to openprinting-* during Feisty
  * linuxprinting.org-ppds
  * linuxprinting.org-ppds-extra
+ * xkeyboard-config
 
 = Miscellaneous =
 
