@@ -93,6 +93,13 @@ Other:
  * gkbd-capplet      # we need to support the source anyway
  * gthumb
  * gvfs-bin
+ * virt-manager
+ * python-libvirt
+ * python-virtinst
+ * python-gtk-vnc
+ * python-urlgrabber
+ * libvirt-bin
+ * virt-viewer
 
 GNOME Office:
 
