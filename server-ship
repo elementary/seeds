@@ -188,6 +188,12 @@ Other:
  * ibmasm-utils # ChuckShort - SRP
  * likewise-open 
  * likewise-open-gui
+ * nagios2-common
+ * nagios2-doc
+ * nagios2-dbg
+ * nagios-plugins
+ * nagios-plugins-basic
+ * nagios-plugins-standard
 
 Application Servers:
 
