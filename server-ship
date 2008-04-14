@@ -292,6 +292,13 @@ Download:
 = Virtualisation =
 
  * kvm
+ * virt-manager
+ * python-libvirt
+ * python-virtinst
+ * python-gtk-vnc
+ * python-urlgrabber
+ * libvirt-bin
+ * virt-viewer
 
 = Documentation =
 
