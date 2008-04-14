@@ -62,6 +62,7 @@ modules instead.
  * drdsl
  * libatm1	# suggested by ppp for PPP-over-ATM
  * setserial	# needed by folks with nonstandard serial ports
+ * b43-fwcutter
 
 == Common language packs ==
 
