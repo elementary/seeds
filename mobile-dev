@@ -33,7 +33,6 @@
  * libosso*-dbg
  * libdbus*-doc
  * libdbus*-dev
- * libdbus*-dbg
  * telepathy-devel
  * telepathy-devel-gtk
  * pkg-config
