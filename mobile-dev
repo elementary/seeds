@@ -28,7 +28,7 @@
  * libtool
  * python-hildon-dev
  * libhildon*-dev
- * libhildon*-dbg
+ * hildon-desktop-dbg
  * libosso*-dev
  * libosso*-dbg
  * libdbus*-doc
