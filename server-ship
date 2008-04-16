@@ -191,7 +191,6 @@ Other:
  * nagios2-common
  * nagios2-doc
  * nagios2-dbg
- * nagios-plugins
  * nagios-plugins-basic
  * nagios-plugins-standard
 
