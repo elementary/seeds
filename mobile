@@ -9,6 +9,7 @@
  * dbus-x11
  * midbrowser
  * gnome-volume-manager
+ * alsa-utils
 
  * desktop-file-utils   # needed to map MIME types to apps
 
