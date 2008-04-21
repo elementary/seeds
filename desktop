@@ -128,6 +128,7 @@ We've chosen GNOME as our desktop user interface of choice. Rather than using th
  * (tracker-search-tool)
  * (totem)
  * (totem-mozilla)
+ * update-manager
  * update-notifier
  * gdebi                   # view/install deb packages
  * (vino) # vnc server
