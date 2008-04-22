@@ -11,11 +11,11 @@ Task-Test-new-install: skip show
  * language-pack-gnome-${Languages}
  * language-support-${Languages} [!powerpc]
 
- * Languages: es xh
+ * Languages: es xh de
  * language-pack-${Languages} [i386 amd64]
  * language-pack-gnome-${Languages} [i386 amd64]
 
- * Languages: pt de fr
+ * Languages: pt fr
  * language-pack-${Languages} [i386]
  * language-pack-gnome-${Languages} [i386]
 
