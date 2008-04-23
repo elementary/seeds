@@ -53,3 +53,7 @@ Exclude some KDE-specific pieces:
  * Extra-Exclude: python-qt3-dbg
  * Extra-Exclude: python-qtext-dbg
  * Extra-Exclude: qt-x11-free-dbg
+
+Temporary workarounds:
+
+ * openoffice.org-hyphenation-en-us # see LP #220949
