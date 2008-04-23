@@ -57,3 +57,4 @@ Exclude some KDE-specific pieces:
 Temporary workarounds:
 
  * openoffice.org-hyphenation-en-us # see LP #220949
+ * openoffice.org-evolution # no rdepends any more, noticed too late
