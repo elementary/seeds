@@ -9,7 +9,6 @@
  * dbus-x11
  * midbrowser
  * gnome-volume-manager
- * alsa-utils
 
  * desktop-file-utils   # needed to map MIME types to apps
 
@@ -18,6 +17,9 @@
  * mobile-basic-flash
 
  * language-pack-en # XXX needed for Maemo translations to work
+
+ * alsa-base # needed for proper hardware detection (hotplug/blacklist.d, modprobe.d)
+ * alsa-utils           # basic audio support and mixer level handling
 
  * seahorse
  * network-manager-gnome
