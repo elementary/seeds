@@ -174,11 +174,11 @@ Accessibility tools:
 
 = Other Desktop GUI Apps =
 
- * (openoffice.org-gnome) [i386 amd64]  # before OOo to avoid openoffice.org-style-default
- * (openoffice.org-writer) [i386 amd64]
- * (openoffice.org-calc) [i386 amd64]
- * (openoffice.org-impress) [i386 amd64]
- #* (openoffice.org-evolution) [i386 amd64] # pulls in oo.o-base, broken ATM
+ * (openoffice.org-gnome) [i386 amd64 powerpc]  # before OOo to avoid openoffice.org-style-default
+ * (openoffice.org-writer) [i386 amd64 powerpc]
+ * (openoffice.org-calc) [i386 amd64 powerpc]
+ * (openoffice.org-impress) [i386 amd64 powerpc]
+ #* (openoffice.org-evolution) [i386 amd64 powerpc] # pulls in oo.o-base, broken ATM
  * (xsane)         # scanner utils
  * evince
  * (gnome-screensaver) # recommends to allow for xscreensaver to be used
