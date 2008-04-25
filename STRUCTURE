@@ -1,4 +1,4 @@
-include platform.hardy
+include platform.intrepid
 desktop: desktop-common
 dns-server: standard
 lamp-server: standard
