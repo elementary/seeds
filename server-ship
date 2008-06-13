@@ -287,6 +287,7 @@ Download:
  * munin-plugins-contrib    # ChuckShort - ServerPackageReview
  * munin-node # ChuckShort - ServerPackageReview
  * aoetools    # ChuckShort - ServerPackageReview
+ * openssh-blacklist-extra
 
 = Virtualisation =
 
