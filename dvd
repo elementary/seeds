@@ -217,7 +217,6 @@ These *-doc packages are in separate source packages, so Extra-Includes won't ca
  * linuxprinting.org-ppds
  * linuxprinting.org-ppds-extra
  * xkeyboard-config
- * libsasl2
 
 = Miscellaneous =
 
