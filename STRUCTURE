@@ -13,8 +13,6 @@ live: desktop
 dvd-live: live
 ship-live: boot live
 development: desktop
-mobile: minimal
-mobile-dev: mobile
 jeos: minimal
 dvd: server-ship ship development jeos supported-common
-supported: dvd-live ship-live dvd mobile-dev
+supported: dvd-live ship-live dvd
