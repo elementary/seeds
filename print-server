@@ -1,11 +1,11 @@
 Task-Section: server
 Task-Description: Print server
 Task-Extended-Description: This task sets up your system to be a print server.
-Task-Key: cupsys, cupsys-bsd, cupsys-client
+Task-Key: cups, cups-bsd, cups-client
 
- * cupsys
- * cupsys-bsd
- * cupsys-client
+ * cups
+ * cups-bsd
+ * cups-client
  * cupsys-driver-gutenprint
  * foomatic-db-engine
  * foomatic-db-hpijs
