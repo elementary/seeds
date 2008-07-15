@@ -90,6 +90,10 @@ modules instead.
  * openoffice.org-l10n-en-us	# mvo: make dapper->edgy cdrom upgrades happy
  * xserver-xorg-driver-all
 
+== Germinate workarounds ==
+
+ * wamerican  # iamerican Depends: ispell Recommends: wordlist, but wamerican isn't spotted in time so germinate arbitrarily picks miscfiles instead
+
 == Blacklist ==
 
 libavcodec cannot be shipped on CDs (cf. Ubuntu technical board resolution 2007-01-02).
