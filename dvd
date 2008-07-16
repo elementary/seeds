@@ -180,8 +180,6 @@ These *-doc packages are in separate source packages, so Extra-Includes won't ca
 
 = Localisation =
 
- * aspell-de
- * aspell-de-alt
  * gettext-el
  * myspell-de-de-oldspell # non-default alternative for language-support-de
  * myspell-fr # myspell-fr-gut preferred
