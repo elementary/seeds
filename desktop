@@ -118,7 +118,6 @@ We've chosen GNOME as our desktop user interface of choice. Rather than using th
  * (brasero)		   # Oliver Grawert
  * rarian-compat
  * alacarte		   # default menu editor
- * (sound-juicer)
  * ssh-askpass-gnome
  * synaptic                # default GUI package manager
  * libgnome2-perl          # so that the debconf GNOME frontend can be used from synaptic
