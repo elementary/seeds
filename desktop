@@ -116,7 +116,7 @@ We've chosen GNOME as our desktop user interface of choice. Rather than using th
  * notification-daemon           # backend for libnotify
  * (rhythmbox)
  * (brasero)		   # Oliver Grawert
- * scrollkeeper
+ * rarian-compat
  * alacarte		   # default menu editor
  * (sound-juicer)
  * ssh-askpass-gnome
