@@ -193,6 +193,7 @@ Other:
  * nagios2-dbg
  * nagios-plugins-basic
  * nagios-plugins-standard
+ * libpkcs11-helper1
 
 Application Servers:
 
