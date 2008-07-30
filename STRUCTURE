@@ -16,3 +16,4 @@ development: desktop
 jeos: minimal
 dvd: server-ship ship development jeos supported-common
 supported: dvd-live ship-live dvd
+server: standard
