@@ -66,6 +66,7 @@ We've chosen GNOME as our desktop user interface of choice. Rather than using th
  * gcalctool
  * gconf-editor
  * gdm
+ * (gdm-guest-session)
  * gedit
  * (gimp)
  * (gimp-gnomevfs)
