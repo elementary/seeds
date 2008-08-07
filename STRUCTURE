@@ -7,7 +7,8 @@ print-server: standard
 samba-server: standard
 postgresql-server: standard
 mail-server: standard
-server-ship: boot dns-server lamp-server openssh-server print-server samba-server postgresql-server mail-server
+server: standard
+server-ship: boot dns-server lamp-server openssh-server print-server samba-server postgresql-server mail-server server
 ship: boot desktop d-i-requirements
 live: desktop
 dvd-live: live
@@ -16,4 +17,3 @@ development: desktop
 jeos: minimal
 dvd: server-ship ship development jeos supported-common
 supported: dvd-live ship-live dvd
-server: standard
