@@ -1,7 +1,8 @@
-Task-Per-Derivative: 1
+Task: server
 Task-Section: user
 Task-Description: Ubuntu server
 Task-Extended-Description: This task provides the Ubuntu server environment.
+Task-Key: ubuntu-serverguide
 
 This seed lists the packages we want to install by default in the new server install.
 
