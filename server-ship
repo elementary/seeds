@@ -65,6 +65,7 @@ restricted modules.
  * mdadm
  * dmsetup
  * cryptsetup
+ * ecryptfs-utils
 
 == For language support in the installer ==
 
