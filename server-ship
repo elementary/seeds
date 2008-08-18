@@ -291,6 +291,7 @@ Download:
  * aoetools    # ChuckShort - ServerPackageReview
  * openssh-blacklist-extra
  * openssl-blacklist-extra
+ * dbconfig-common	# ChuckShort - calendaring spec.
 
 = Virtualisation =
 
