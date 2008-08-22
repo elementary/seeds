@@ -6,7 +6,7 @@ Task-Key: cups, cups-bsd, cups-client
  * cups
  * cups-bsd
  * cups-client
- * cupsys-driver-gutenprint
+ * cups-driver-gutenprint
  * foomatic-db-engine
  * foomatic-db-hpijs
  * foomatic-filters-ppds

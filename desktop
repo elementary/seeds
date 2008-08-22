@@ -24,7 +24,7 @@ Basic network services and Windows integration.
 
 = Printing =
 
- * cupsys-driver-gutenprint     # a ton of cupsys ppds, for real comprehensive printer support
+ * cups-driver-gutenprint     # a ton of cupsys ppds, for real comprehensive printer support
 
 = GUI infrastructure =
 
