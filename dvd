@@ -28,6 +28,7 @@
  * pymacs                 # makes bicyclerepair work with emacs
  * libpurple-bin	# no particular reason to keep this single binary in universe
  * quilt		# build-deps used to be pulled in automatically, now seed this directly
+ * bug-buddy	# included so that upstream GNOME community members can use it
 
 == Mono ==
 
