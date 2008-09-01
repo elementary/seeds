@@ -184,7 +184,7 @@ Accessibility tools:
  * xscreensaver-gl # MRS, we will only ship a subset of the screensavers from rss-glx and xscreensaver
  * xscreensaver-data # subset package for the non-gl screensavers we ship
  * screensaver-default-images
- * tsclient        # rdesktop/vnc/xdmcp client gui
+ * (tsclient)      # rdesktop/vnc/xdmcp client gui
  * (vinagre)      # needed by tsclient
  * (tomboy) [i386 powerpc amd64 ia64 sparc]  # Sebastian Dröge, approved by mdz
  * (f-spot) [i386 powerpc amd64 ia64 sparc]  # Andrew Mitchell, approved by mdz
