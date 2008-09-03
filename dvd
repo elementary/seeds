@@ -209,6 +209,36 @@ These *-doc packages are in separate source packages, so Extra-Includes won't ca
  * openoffice.org-l10n-in	# dependency package for Indian locales
  * openoffice.org-l10n-za	# dependency package for South African locales
 
+= Education =
+
+These are also in the Edubuntu seeds, but it's tricky to include these automatically because the Edubuntu seeds already inherit from the Ubuntu seeds and so we'd end up with a loop. We take the low-tech approach of just copying over the ones that aren't already here.
+
+ * edubuntu-desktop
+
+== Content server ==
+
+ * moodle
+ * php5-pgsql
+
+== Extra desktop stuff ==
+
+ * thin-client-manager-gnome
+ * italc-master
+
+== Needed extra libraries ==
+
+ * libopenexr2ldbl
+ * ttf-gentium
+ * ttf-sil-andika
+
+== app-install metadata ==
+
+ * edubuntu-addon-legacy
+ * app-install-data-edubuntu
+ * edubuntu-addon-science
+ * edubuntu-addon-kde
+ * edubuntu-addon-young
+
 = Transitional packages =
 
  # renamed to openprinting-* during Feisty
