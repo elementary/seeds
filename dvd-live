@@ -19,3 +19,9 @@ Task-Test-new-install: skip show
  * scim-tables-zh
  * scim-anthy
  * scim-hangul
+
+= Hardware =
+ * nvidia-glx-177
+ * nvidia-glx-173
+ * nvidia-glx-96
+ * nvidia-glx-71
