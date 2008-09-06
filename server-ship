@@ -135,6 +135,9 @@ Email:
  * %exim4
  * %postfix
  * amavisd-new		      # ChuckShort
+ * spamassassin		      # Scott Kitterman
+ * clamav		      # Scott Kitterman
+ * clamav-daemon	      # Scott Kitterman
 
 Must also consider webmail and so on...
 
