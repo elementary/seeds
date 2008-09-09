@@ -308,6 +308,7 @@ Download:
  * openssh-blacklist-extra
  * openssl-blacklist-extra
  * dbconfig-common	# ChuckShort - calendaring spec.
+ * landscape-client # MathiasGug
 
 = Virtualisation =
 
