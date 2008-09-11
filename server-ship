@@ -303,7 +303,7 @@ Security:
  * openssl-blacklist-extra
  * dbconfig-common	# ChuckShort - calendaring spec.
  * update-motd # RickClark
-
+ * landscape-client # RickClark
 = Virtualisation =
 
  * kvm
