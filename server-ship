@@ -121,8 +121,6 @@ Web:
  * libapache2-mod-security       # FabioMassimoDiNitto
  * libapache-mod-auth-kerb	 # ChuckShort
 
- * zope3-sandbox
-
  * elinks
 
 PHP:
@@ -257,9 +255,6 @@ Security:
  * checksecurity          # JamesTroup, from Hoglet
  * aide                   # JamesTroup, from Hoglet
 
-Download:
- * bittornado             # used on the servers.
-
 = Shells =
 
  * zsh
@@ -304,22 +299,17 @@ Download:
  * munin	# ChuckShort - ServerPackageReview
  * munin-plugins-contrib    # ChuckShort - ServerPackageReview
  * munin-node # ChuckShort - ServerPackageReview
- * aoetools    # ChuckShort - ServerPackageReview
  * openssh-blacklist-extra
  * openssl-blacklist-extra
  * dbconfig-common	# ChuckShort - calendaring spec.
- * landscape-client # MathiasGug
+ * update-motd # RickClark
 
 = Virtualisation =
 
  * kvm
- * virt-manager
  * python-libvirt
- * python-virtinst
- * python-gtk-vnc
  * python-urlgrabber
  * libvirt-bin
- * virt-viewer
 
 = Documentation =
 
@@ -329,12 +319,6 @@ Download:
 
  * miscfiles
  * lilo
-
-kill if we run out of space
-== LTSP ==
-
- * ltsp-server
- * ltsp-server-standalone
 
 = From desktop =
 
