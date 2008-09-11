@@ -118,6 +118,11 @@ GNOME Office:
  * wdiff
  * xml-twig-tools  # we need libxml-twig-perl as build dep anyway, so we can as well support this binary
  * tracker-utils
+ * bittornado             # used on the servers.
+
+= Server =
+
+ * zope3-sandbox
 
 = Documentation =
 
