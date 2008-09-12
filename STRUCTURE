@@ -7,8 +7,9 @@ print-server: standard
 samba-server: standard
 postgresql-server: standard
 mail-server: standard
+tomcat-server: server-ship
 server: standard
-server-ship: boot dns-server lamp-server openssh-server print-server samba-server postgresql-server mail-server server
+server-ship: boot dns-server lamp-server openssh-server print-server samba-server postgresql-server mail-server server tomcat-server
 ship: boot desktop d-i-requirements
 live: desktop
 dvd-live: live
