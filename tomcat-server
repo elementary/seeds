@@ -1,0 +1,17 @@
+Task-Section: server
+Task-Description: Tomcat server
+Task-Extended-Description: Selects a ready-made Java Application server.
+Task-Key: tomcat6
+
+ * tomcat6
+ * tomcat6-user
+ * tomcat6-examples
+ * tomcat6-docs
+ * tomcat6-common
+ * libtomcat6-java
+ * libservlet2.5-java
+ * libcommons-dbcp-java
+ * libcommons-collections-java
+ * libcomms-pool-java
+ * jsvc
+ * libcomms-daemon-java
