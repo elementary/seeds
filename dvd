@@ -4,6 +4,13 @@
 
  * system-config-cluster
 
+== Graphics ==
+
+ * nvidia-glx-177
+ * nvidia-glx-173
+ * nvidia-glx-96
+ * nvidia-glx-71
+
 = Desktop =
 
  * openoffice.org-filter-binfilter
