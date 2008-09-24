@@ -1,0 +1,10 @@
+Task-Section: server
+Task-Description: Virtualization Host
+Task-Extended-Description: Packages necessary to host virtual machines
+Task-Metapackage: ubuntu-virt-server
+Task-Key: ubuntu-virt-server
+
+ * ubuntu-virt-server
+ * kvm
+ * libvirt-bin
+ * openssh-server
