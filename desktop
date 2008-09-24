@@ -150,6 +150,7 @@ Themes: we will ship only the very best looking themes. We won't ship everything
  * gtk2-engines-pixbuf          # Required by some themes the user might install
  * ubuntu-artwork
  * ubuntu-sounds
+ * libcanberra-gnome		# Needed to make login/logout sounds audible.
  * tangerine-icon-theme		# DanielHolbach (Mark's request)
 
 The gstreamer0.10 packages we want to install:
