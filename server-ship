@@ -302,6 +302,7 @@ Security:
  * openssh-blacklist-extra
  * openssl-blacklist-extra
  * dbconfig-common	# ChuckShort - calendaring spec.
+ * unattended-upgrades
  * update-motd # RickClark
  * landscape-client # RickClark
 
