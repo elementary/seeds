@@ -312,6 +312,7 @@ Security:
  * python-libvirt
  * python-urlgrabber
  * libvirt-bin
+ * virt-host
 
 = Documentation =
 
