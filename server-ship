@@ -190,9 +190,9 @@ Other:
  * ibmasm-utils # ChuckShort - SRP
  * likewise-open 
  * likewise-open-gui
- * nagios2-common
- * nagios2-doc
- * nagios2-dbg
+ * nagios3
+ * nagios3-common
+ * nagios3-doc
  * nagios-plugins-basic
  * nagios-plugins-standard
  * libpkcs11-helper1
