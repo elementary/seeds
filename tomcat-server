@@ -1,5 +1,5 @@
 Task-Section: server
-Task-Description: Tomcat server
+Task-Description: Tomcat Java server
 Task-Extended-Description: Selects a ready-made Java Application server.
 Task-Key: tomcat6
 
