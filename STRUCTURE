@@ -10,7 +10,7 @@ mail-server: standard
 tomcat-server: standard
 virt-host: standard
 server: standard
-server-ship: boot dns-server lamp-server openssh-server print-server samba-server postgresql-server mail-server server tomcat-server virt-host
+server-ship: boot dns-server lamp-server openssh-server print-server samba-server postgresql-server mail-server server tomcat-server virt-host d-i-requirements
 ship: boot desktop d-i-requirements
 live: desktop
 dvd-live: live
