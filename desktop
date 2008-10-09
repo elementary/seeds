@@ -68,7 +68,6 @@ We've chosen GNOME as our desktop user interface of choice. Rather than using th
  * (gdm-guest-session)
  * gedit
  * (gimp)
- * (gimp-gnomevfs)
  * gnome-about
  * gnome-applets
  * gnome-app-install
@@ -196,10 +195,6 @@ Accessibility tools:
 = Python =
 
 Python is a significant commitment, we will present Python wherever we can.
-
-Python Integrated Applications:
-
- * (gimp-python)
 
 Documentation:
 
