@@ -9,9 +9,9 @@ restricted modules.
 == i386 ==
 
  * ${Kernel-Stem}-server [i386]
- * ${Kernel-Stem}-server-bigiron [i386]
  * linux-headers-server [i386]
- * linux-headers-server-bigiron [i386]
+ * ${Kernel-Stem}-virtual [i386]
+ * linux-headers-virtual [i386]
 
 == powerpc ==
 
@@ -22,6 +22,8 @@ restricted modules.
 
  * ${Kernel-Stem}-server [amd64]
  * linux-headers-server [amd64]
+ * ${Kernel-Stem}-virtual [amd64]
+ * linux-headers-virtual [amd64]
 
 == sparc ==
 

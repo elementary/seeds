@@ -16,6 +16,5 @@ live: desktop
 dvd-live: live
 ship-live: boot live
 development: desktop
-jeos: minimal
-dvd: server-ship ship development jeos supported-common
+dvd: server-ship ship development supported-common
 supported: dvd-live ship-live dvd
