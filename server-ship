@@ -307,6 +307,7 @@ Security:
  * unattended-upgrades
  * update-motd # RickClark
  * landscape-client # RickClark
+ * system-cleaner
 
 = Virtualisation =
 
