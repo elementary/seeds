@@ -49,7 +49,6 @@ Moved from supported:
  * python-pygresql         # JamesTroup, from hoglet
  * python-nevow
  * python-twisted
- * python-samba
  * idle             # Python IDE
  * python-pullparser        # modules, where python2.4-foo is in main
  * python-gpod
