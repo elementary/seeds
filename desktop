@@ -192,6 +192,7 @@ Accessibility tools:
  * (f-spot) [i386 powerpc amd64 ia64 sparc]  # Andrew Mitchell, approved by mdz
  * (jockey-gtk) # enable non-free graphics and other drivers easily
  * (displayconfig-gtk)
+ * (usb-creator)
 
 = Python =
 
