@@ -178,6 +178,7 @@ Accessibility tools:
  * (openoffice.org-writer) [i386 amd64 powerpc]
  * (openoffice.org-calc) [i386 amd64 powerpc]
  * (openoffice.org-impress) [i386 amd64 powerpc]
+ * (openoffice.org-math) [i386 amd64 powerpc]
  #* (openoffice.org-evolution) [i386 amd64 powerpc] # pulls in oo.o-base, broken ATM
  * (xsane)         # scanner utils
  * evince
