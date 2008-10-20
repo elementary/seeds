@@ -36,6 +36,7 @@ Transitional packages:
 
  * Extra-Exclude: atm-dev
  * Extra-Exclude: mozilla-firefox-dev
+ * Extra-Exclude: xserver-xorg-video-amd-dbg
 
 Exclude some KDE-specific pieces:
 
