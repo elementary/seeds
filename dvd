@@ -11,16 +11,6 @@
  * nvidia-glx-96
  * nvidia-glx-71
 
-= Desktop =
-
- * openoffice.org-filter-binfilter
- * libuno-cil
- * openoffice.org-style-andromeda
- * openoffice.org-style-default
- * openoffice.org-style-industrial
- * openoffice.org-style-tango
- * gnome-accessibility-themes-extras
-
 = Standards =
 
  * lsb
@@ -64,6 +54,14 @@
  * mozilla-thunderbird-typeaheadfind # neat usability enhancement for thunderbird
  * mozilla-thunderbird-inspector     # used for extension development and debugging
  * nautilus-gksu
+
+ * openoffice.org-filter-binfilter
+ * libuno-cil
+ * openoffice.org-style-andromeda
+ * openoffice.org-style-default
+ * openoffice.org-style-industrial
+ * openoffice.org-style-tango
+ * gnome-accessibility-themes-extras
 
 Other:
 
