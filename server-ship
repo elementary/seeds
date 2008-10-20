@@ -231,6 +231,8 @@ Utilities:
 
 = Network =
 
+ * wireless-tools
+ * wpasupplicant  # ScottJamesRemnant
  * nmap                   # network diagnostics
  * dnstracer              # dns network diagnostics
  * iptraf                 # sysadmin's toy, may be a candidate for removal
