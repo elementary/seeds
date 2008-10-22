@@ -19,3 +19,7 @@ Task-Test-new-install: skip show
  * scim-tables-zh
  * scim-anthy
  * scim-hangul
+
+= Desktop =
+
+ * icedtea6-plugin
