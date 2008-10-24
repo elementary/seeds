@@ -145,6 +145,10 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * automake1.10-doc
  * packaging-guide
  * %texlive-doc
+ * texlive-font-utils
+ * texlive-bibtex-extra
+ * texlive-fonts-extra
+ * texlive-publishers
 
  * gimp-manual
  * gimp-help-en
