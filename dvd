@@ -138,7 +138,7 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * ubuntu-faqguide
  * monodoc
  * monodoc-browser
- * (diveintopython)
+ * diveintopython
  * diveintopython-zh
  * autoconf-doc
  * automake1.8-doc
