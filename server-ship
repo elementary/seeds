@@ -58,6 +58,8 @@ restricted modules.
  * devscripts
  * setserial
 
+ * linux-backports-modules-intrepid-generic # needed for ath5k
+
 == Filesystems ==
 
  * xfsprogs

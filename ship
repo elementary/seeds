@@ -62,6 +62,8 @@ modules instead.
  * setserial	# needed by folks with nonstandard serial ports
  * b43-fwcutter
 
+ * linux-backports-modules-intrepid-generic # needed for ath5k
+
 == Common language packs ==
 
  # must have
