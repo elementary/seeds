@@ -32,6 +32,7 @@ included due to matching Extra-Include patterns, and has no other effect):
  * Extra-Exclude: g77-doc # pulls in gcc-3.4
  * Extra-Exclude: libkiten-dev
  * Extra-Exclude: sendmail-doc
+ * Extra-Exclude: mono-dbg # only useful with mono-debugger, currently in universe
 
 Transitional packages:
 
