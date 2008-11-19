@@ -1,4 +1,4 @@
-include platform.intrepid
+include platform.jaunty
 desktop: desktop-common
 dns-server: standard
 lamp-server: standard
