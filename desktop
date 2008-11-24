@@ -71,7 +71,7 @@ We've chosen GNOME as our desktop user interface of choice. Rather than using th
  * gnome-about
  * gnome-applets
  * gnome-app-install
- * (app-install-data-commercial)
+ * (app-install-data-partner)
  * (transmission-gtk)       # simple GNOME frontend for bittorrent downloads
  * gnome-control-center
  * system-config-printer-gnome
