@@ -60,22 +60,6 @@ restricted modules.
 
  * linux-backports-modules-intrepid-generic # needed for ath5k
 
-== Filesystems ==
-
- * xfsprogs
- * jfsutils
- * hfsplus [powerpc]  # ColinWatson
- * lvm2
- * mdadm
- * dmsetup
- * cryptsetup
- * ecryptfs-utils
-
-== For language support in the installer ==
-
- * console-terminus
- * unifont
-
 = Cluster =
 
  * redhat-cluster-suite
