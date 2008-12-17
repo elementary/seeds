@@ -72,11 +72,11 @@ modules instead.
  * language-pack-gnome-${Languages}
  * language-support-${Languages} [!powerpc]
 
- * Languages: es pt xh bn hi
+ * Languages: es xh bn hi
  * language-pack-${Languages} [i386 amd64]
  * language-pack-gnome-${Languages} [i386 amd64]
 
- * Languages: de fr ar ru ja
+ * Languages: pt de fr ar ru ja
  * language-pack-${Languages} [i386]
  * language-pack-gnome-${Languages} [i386]
 
