@@ -50,7 +50,6 @@ We've chosen GNOME as our desktop user interface of choice. Rather than using th
  * (apport-gtk)
  * consolekit 
  * (contact-lookup-applet)
- * (deskbar-applet)
  * desktop-file-utils
  * dcraw 		   # used by f-spot to display RAW images
  * eog
@@ -108,7 +107,6 @@ We've chosen GNOME as our desktop user interface of choice. Rather than using th
  * (firefox-gnome-support)
  * (ubufox)                # ubuntu firefox tweaks - AlexanderSack
  * nautilus                # SebastienBacher
- * nautilus-cd-burner      # SebastienBacher
  * nautilus-sendto
  * (nautilus-share)
  * notification-daemon           # backend for libnotify
@@ -120,7 +118,6 @@ We've chosen GNOME as our desktop user interface of choice. Rather than using th
  * synaptic                # default GUI package manager
  * libgnome2-perl          # so that the debconf GNOME frontend can be used from synaptic
  * software-properties-gtk # default GUI sources.list editor
- * (tracker)
  * (libdeskbar-tracker)
  * (tracker-search-tool)
  * (totem)
