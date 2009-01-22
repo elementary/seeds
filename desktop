@@ -203,3 +203,5 @@ Documentation:
  * ubuntu-desktop # metapackage for everything here
  * usplash-theme-ubuntu
  * (example-content) # dholbach: dapper feature goal (wiki.ubuntu.com/ExampleContent)
+ * (libwmf0.2-7-gtk)
+
