@@ -212,6 +212,7 @@ Utilities:
 
  * analog                 # essential for any web server, possible candidate for desktop integration
  * graphviz
+ * pm-utils
 
 = Network =
 
