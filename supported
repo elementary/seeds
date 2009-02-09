@@ -33,7 +33,6 @@ included due to matching Extra-Include patterns, and has no other effect):
  * Extra-Exclude: libkiten-dev
  * Extra-Exclude: sendmail-doc
  * Extra-Exclude: mono-dbg # only useful with mono-debugger, currently in universe
- * Extra-Exclude: libjtidy-java-doc
 
 Transitional packages:
 
