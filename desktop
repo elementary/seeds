@@ -189,7 +189,7 @@ Accessibility tools:
  * (usb-creator) [i386 amd64 lpia]
 
 Desktop Experience:
- * alsdorf           # backend for libnotify
+ * notify-osd           # backend for libnotify
  * (indicator-messages)
  * (evolution-indicator)
 
