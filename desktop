@@ -110,7 +110,6 @@ We've chosen GNOME as our desktop user interface of choice. Rather than using th
  * nautilus                # SebastienBacher
  * nautilus-sendto
  * (nautilus-share)
- * alsdorf           # backend for libnotify
  * (rhythmbox)
  * (brasero)		   # Oliver Grawert
  * rarian-compat
@@ -189,6 +188,11 @@ Accessibility tools:
  * (jockey-gtk) # enable non-free graphics and other drivers easily
  * (displayconfig-gtk)
  * (usb-creator) [i386 amd64 lpia]
+
+Desktop Experience:
+ * alsdorf           # backend for libnotify
+ * (indicator-messages)
+ * (evolution-indicator)
 
 = Python =
 
