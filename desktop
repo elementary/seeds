@@ -110,7 +110,7 @@ We've chosen GNOME as our desktop user interface of choice. Rather than using th
  * nautilus                # SebastienBacher
  * nautilus-sendto
  * (nautilus-share)
- * notification-daemon           # backend for libnotify
+ * alsdorf           # backend for libnotify
  * (rhythmbox)
  * (brasero)		   # Oliver Grawert
  * rarian-compat
