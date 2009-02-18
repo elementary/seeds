@@ -84,7 +84,6 @@ We've chosen GNOME as our desktop user interface of choice. Rather than using th
  * gnome-panel
  * (gnome-pilot-conduits)
  * gnome-session
- * gnome-spell
  * seahorse
  * (libpam-gnome-keyring)
  * gnome-system-monitor     # SebastienBacher
