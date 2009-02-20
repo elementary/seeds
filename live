@@ -6,14 +6,14 @@ Task-Relevance: 2
 Task-Key: ubiquity-frontend-gtk
 Task-Test-new-install: skip show
 
- * Languages: en xh
+ * Languages: en
  * language-pack-${Languages}
  * language-pack-gnome-${Languages}
  * language-support-${Languages} [!powerpc]
 
- * Languages: fr
- * language-pack-${Languages} [i386 powerpc]
- * language-pack-gnome-${Languages} [i386 powerpc]
+ * Languages: es xh pt de fr
+ * language-pack-${Languages} [i386 amd64 powerpc]
+ * language-pack-gnome-${Languages} [i386 amd64 powerpc]
 
  * Languages: bn
  * language-pack-${Languages} [i386]
