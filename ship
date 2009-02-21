@@ -75,7 +75,7 @@ modules instead.
  * language-pack-${Languages} [i386 amd64]
  * language-pack-gnome-${Languages} [i386 amd64]
 
- * Languages: zh ja
+ * Languages: zh ja it pl nl
  * language-pack-${Languages} [i386]
  * language-pack-gnome-${Languages} [i386]
 
