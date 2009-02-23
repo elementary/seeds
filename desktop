@@ -192,6 +192,7 @@ Desktop Experience:
  * notify-osd           # backend for libnotify
  * (indicator-messages)
  * (evolution-indicator)
+ * (pidgin-libnotify)
 
 = Python =
 
