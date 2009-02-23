@@ -185,7 +185,6 @@ Accessibility tools:
  * (tomboy) [i386 powerpc amd64 ia64 sparc]  # Sebastian Dröge, approved by mdz
  * (f-spot) [i386 powerpc amd64 ia64 sparc]  # Andrew Mitchell, approved by mdz
  * (jockey-gtk) # enable non-free graphics and other drivers easily
- * (displayconfig-gtk)
  * (usb-creator) [i386 amd64 lpia]
 
 Desktop Experience:
