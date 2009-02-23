@@ -186,6 +186,7 @@ Accessibility tools:
  * (f-spot) [i386 powerpc amd64 ia64 sparc]  # Andrew Mitchell, approved by mdz
  * (jockey-gtk) # enable non-free graphics and other drivers easily
  * (usb-creator) [i386 amd64 lpia]
+ * (computer-janitor)
 
 Desktop Experience:
  * notify-osd           # backend for libnotify
