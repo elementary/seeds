@@ -207,4 +207,5 @@ Documentation:
  * usplash-theme-ubuntu
  * (example-content) # dholbach: dapper feature goal (wiki.ubuntu.com/ExampleContent)
  * (libwmf0.2-7-gtk)
+ * kerneloops # for debugging; currently linked against GTK, really belongs in standard
 
