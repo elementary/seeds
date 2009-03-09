@@ -86,8 +86,11 @@ Samba:
 
 Database:
 
- * %mysql-dfsg-5.0
- * %postgresql-8.3
+ * mysql-client
+ * mysql-server
+ * postgresql
+ * postgresql-client
+ * postgresql-doc
 
 Proxy:
 
@@ -102,7 +105,12 @@ LDAP:
 
 Web:
 
- * %apache2
+ * apache2
+ * apache2-doc
+ * apache2-mpm-event
+ * apache2-mpm-prefork
+ * apache2-mpm-worker
+ * apache2-utils
  * libapache2-mod-auth-mysql # FabioMassimoDiNitto
  * libapache2-mod-auth-pgsql # FabioMassimoDiNitto
  * libapache2-mod-macro      # FabioMassimoDiNitto
@@ -119,13 +127,40 @@ Web:
 
 PHP:
 
- * %php5
+ * libapache2-mod-php5
+ * php-pear
+ * php5-cgi
+ * php5-cli
+ * php5-curl
+ * php5-gd
+ * php5-gmp
+ * php5-ldap
+ * php5-mhash
+ * php5-mysql
+ * php5-odbc
+ * php5-pgsql
+ * php5-pspell
+ * php5-recode
+ * php5-snmp
+ * php5-sqlite
+ * php5-sybase
+ * php5-tidy
+ * php5-xmlrpc
+ * php5-xsl
+ * php5
 
 Email:
 
- * %dovecot                   # ThomMay
- * %exim4
- * %postfix
+ * dovecot-imapd
+ * dovecot-pop3d
+ * dovecot
+ * postfix-cdb
+ * postfix-doc
+ * postfix-ldap
+ * postfix-mysql
+ * postfix-pcre
+ * postfix-pgsql
+ * postfix
  * amavisd-new		      # ChuckShort
  * spamassassin		      # Scott Kitterman
  * clamav		      # Scott Kitterman
@@ -150,13 +185,6 @@ Other:
  * nbd-server
  * open-iscsi # ChuckShort
  * open-iscsi-udeb # SorenHansen
- * freeradius   # ChuckShort
- * freeradius-dialupadmin
- * freeradius-iodbc
- * freeradius-krb5
- * freeradius-ldap
- * freeradius-mysql
- * freeradius-postgresql
  * drbd8-utils # ChuckShort - ServerPackageReview
  * nut # ChuckShort - ServerPackageReview
  * nut-cgi
@@ -164,7 +192,6 @@ Other:
  * nut-snmp
  * openvpn #ChuckShort - ServerPackageReview
  * netcat-openbsd
- * rrdtool
  * munin-node
  * munin-plugins-contrib
  * munin
@@ -204,20 +231,16 @@ Other:
 
 Application Servers:
 
- * python-moinmoin        # moin (>= 1.5)
  * mailman
 
 RCS:
 
- * %subversion
  * cvs
- * git-core
  * bzr
 
 Utilities:
 
  * analog                 # essential for any web server, possible candidate for desktop integration
- * graphviz
  * pm-utils
 
 = Network =
@@ -240,13 +263,8 @@ IPv6 tools:
  * radvd                  # FabioMassimoDiNitto
  * quagga                 # RobertCollins
 
-Firewall:
-
- * shorewall
-
 Security:
 
- * cricket                # JamesTroup, from Hoglet
  * checksecurity          # JamesTroup, from Hoglet
  * aide                   # JamesTroup, from Hoglet
 
@@ -263,7 +281,6 @@ Security:
  * whois                # FabioMassimoDiNitto
  * minicom              # useful for serial access to anything
  * cu                   # super-basic serial access
- * john                 # detects weak passwords, might be needed in desktop
  * libpam-cracklib      # enables weak password checking during password change, should it be in desktop?
  * libpam-krb5		# ChuckShort
  * libpam-mount	        # ChuckShort
@@ -282,7 +299,6 @@ Security:
  * acct
  * authbind                     # BIGGER SECURITAH REVIEW
  * siege
- * bonnie++
  * smartmontools   # hard disk diagnostics
  * mtx		   # ChuckShort - ServerPackageReview
  * logwatch	   # ChuckShort - ServerPackageReview
