@@ -135,6 +135,15 @@ GNOME Office:
 = Server =
 
  * zope3-sandbox
+ * git-core
+ * bonnie++
+ * cricket
+ * exim4
+ * john
+ * subversion
+ * rrdtool
+ * graphviz
+ * freeradius
 
 = Documentation =
 
