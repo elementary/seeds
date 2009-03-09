@@ -86,12 +86,10 @@ Samba:
 
 Database:
 
- * mysql-common
  * mysql-client
  * mysql-server
  * postgresql
  * postgresql-client
- * postgresql-common
  * postgresql-doc
 
 Proxy:
@@ -113,7 +111,6 @@ Web:
  * apache2-mpm-prefork
  * apache2-mpm-worker
  * apache2-utils
- * apache2-common
  * libapache2-mod-auth-mysql # FabioMassimoDiNitto
  * libapache2-mod-auth-pgsql # FabioMassimoDiNitto
  * libapache2-mod-macro      # FabioMassimoDiNitto
@@ -134,7 +131,6 @@ PHP:
  * php-pear
  * php5-cgi
  * php5-cli
- * php5-common
  * php5-curl
  * php5-gd
  * php5-gmp
@@ -155,7 +151,6 @@ PHP:
 
 Email:
 
- * dovecot-common
  * dovecot-imapd
  * dovecot-pop3d
  * dovecot
