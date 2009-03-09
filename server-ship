@@ -76,7 +76,13 @@ restricted modules.
 
 Samba:
 
- * %samba
+ * samba
+ * smbclient
+ * samba-doc
+ * samba-doc-pdf
+ * smbfs
+ * libpam-smbpass
+ * winbind
 
 Database:
 
