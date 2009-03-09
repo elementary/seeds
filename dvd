@@ -139,6 +139,8 @@ GNOME Office:
  * bonnie++
  * cricket
  * exim4
+ * exim4-daemon-heavy
+ * exim4-daemon-light
  * john
  * subversion
  * rrdtool
