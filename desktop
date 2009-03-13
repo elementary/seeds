@@ -137,6 +137,7 @@ We've chosen GNOME as our desktop user interface of choice. Rather than using th
 Themes: we will ship only the very best looking themes. We won't ship everything that Debian ships, just a custom package that includes the themes we want. These packages are included for size guidance until we have Ubuntu-specific packages.
 
  * gnome-themes-selected
+ * gnome-themes-ubuntu
  * gtk2-engines			# DanielHolbach (gtk2-engines were merged into one package)
  * gtk2-engines-pixbuf          # Required by some themes the user might install
  * ubuntu-artwork
