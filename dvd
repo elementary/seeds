@@ -130,10 +130,6 @@ GNOME Office:
  * tracker-utils
  * bittornado             # used on the servers.
 
-= Server =
-
- * zope3-sandbox
-
 = Documentation =
 
 We need a consistent policy for -doc. At the least, any -doc package produced by a source package that also generates a binary package in one of our seed lists should absolutely go into supported.
