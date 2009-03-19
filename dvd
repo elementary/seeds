@@ -135,17 +135,7 @@ GNOME Office:
  * zope3-sandbox
  * git-core
  * bonnie++
- * cricket
- * exim4
- * exim4-daemon-heavy
- * exim4-daemon-light
- * john
  * subversion
- * rrdtool
- * graphviz
- * freeradius
- * bacula-director-sqlite3
- * bacula-sd-sqlite3
 
 = Documentation =
 
