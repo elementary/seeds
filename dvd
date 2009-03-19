@@ -133,9 +133,7 @@ GNOME Office:
 = Server =
 
  * zope3-sandbox
- * git-core
  * bonnie++
- * subversion
 
 = Documentation =
 
