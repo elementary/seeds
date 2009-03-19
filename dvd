@@ -107,11 +107,9 @@ Other:
  * gthumb
  * gvfs-bin
  * virt-manager
- * python-libvirt
  * python-virtinst
  * python-gtk-vnc
  * python-urlgrabber
- * libvirt-bin
 
 GNOME Office:
 
