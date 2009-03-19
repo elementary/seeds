@@ -146,6 +146,8 @@ GNOME Office:
  * rrdtool
  * graphviz
  * freeradius
+ * bacula-director-sqlite3
+ * bacula-sd-sqlite3
 
 = Documentation =
 
