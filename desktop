@@ -165,11 +165,11 @@ Accessibility tools:
 
 = Other Desktop GUI Apps =
 
- * (openoffice.org-gnome) [i386 amd64 powerpc]  # before OOo to avoid openoffice.org-style-default
- * (openoffice.org-writer) [i386 amd64 powerpc]
- * (openoffice.org-calc) [i386 amd64 powerpc]
- * (openoffice.org-impress) [i386 amd64 powerpc]
- * (openoffice.org-math) [i386 amd64 powerpc]
+ * (openoffice.org-gnome) [i386 amd64 powerpc armel]  # before OOo to avoid openoffice.org-style-default
+ * (openoffice.org-writer) [i386 amd64 powerpc armel]
+ * (openoffice.org-calc) [i386 amd64 powerpc armel]
+ * (openoffice.org-impress) [i386 amd64 powerpc armel]
+ * (openoffice.org-math) [i386 amd64 powerpc armel]
  #* (openoffice.org-evolution) [i386 amd64 powerpc] # pulls in oo.o-base, broken ATM
  * (xsane)         # scanner utils
  * evince
