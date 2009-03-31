@@ -65,3 +65,7 @@ Exclude some KDE-specific pieces:
 Temporary workarounds:
 
  * openoffice.org-evolution # no rdepends any more, noticed too late
+
+= Build infrastructure =
+
+ * pkgbinarymangler # needs to be in main to stay in the buildd chroots
