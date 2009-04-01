@@ -335,6 +335,7 @@ Security:
  * miscfiles
  * lilo
  * checkbox-cli # MathiasGug
+ * apport # MathiasGug
 
 = From desktop =
 
