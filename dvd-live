@@ -23,7 +23,3 @@ Task-Test-new-install: skip show
 = Desktop =
 
  * icedtea6-plugin
-
-= Installation =
-
- * grub-pc # may be used via preseeding
