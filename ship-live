@@ -14,9 +14,7 @@ These packages are needed in order to build Ubuntu packages.
 
  * pptp-linux             # client for Microsoft-compatible VPN's, needed for some ISPs
  * sl-modem-daemon	# needed for some Winmodems (see OutoftheboxWinmodem)
- * eagle-usb-utils        # needed for some ADSL modems
  * bpalogin
- * ndiswrapper-utils [amd64 i386]
  * ndiswrapper-utils-1.9 [amd64 i386]
  * ndisgtk
 
@@ -25,7 +23,6 @@ These packages are needed in order to build Ubuntu packages.
  * capiutils
  * pppdcapiplugin
  * linux-wlan-ng
- * avm-fritz-firmware
  * drdsl
  * libatm1	# suggested by ppp for PPP-over-ATM
  * setserial	# needed by folks with nonstandard serial ports
