@@ -34,8 +34,6 @@ These packages are needed in order to build Ubuntu packages.
  * elfspe2 [powerpc] # SPE access for Cell systems
  * b43-fwcutter
 
- * linux-backports-modules-intrepid-generic # needed for ath5k
-
 == Installer ==
 
  * oem-config-gtk
