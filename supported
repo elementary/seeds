@@ -68,3 +68,4 @@ Temporary workarounds:
 = Build infrastructure =
 
  * pkgbinarymangler # needs to be in main to stay in the buildd chroots
+ * lpia-wrapper     # needs to be in main to stay in the buildd chroots
