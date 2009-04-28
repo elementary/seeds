@@ -156,7 +156,7 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * doc-linux-text
  * gimp-helpbrowser
  * exim4-doc-html
- * libstdc++6-4.3-doc
+ * libstdc++6-4.4-doc
 
 These *-doc packages are in separate source packages, so Extra-Includes won't catch them and they need to be listed explicitly.
 
