@@ -51,3 +51,7 @@ Moved from supported:
  * idle             # Python IDE
  * python-pullparser        # modules, where python2.4-foo is in main
  * python-gpod
+
+Extra GCC packages
+
+ * gcj-4.4-source
