@@ -95,7 +95,6 @@ We've chosen GNOME as our desktop user interface of choice. Rather than using th
  * libgnomevfs2-bin
  * libgnomevfs2-extra
  * gucharmap               # SebastienBacher
- * hal
  * checkbox-gtk
  * language-selector	   # MichaelVogt
  * metacity                # SebastienBacher
