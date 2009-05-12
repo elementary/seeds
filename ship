@@ -69,13 +69,13 @@ modules instead.
  * language-pack-gnome-${Languages}
  * language-support-${Languages} [!powerpc]
 
- * Languages: es xh pt de fr bn hi
- * language-pack-${Languages} [i386 amd64]
- * language-pack-gnome-${Languages} [i386 amd64]
-
- * Languages: ar ru zh ja
- * language-pack-${Languages} [i386]
- * language-pack-gnome-${Languages} [i386]
+# * Languages: es xh pt de fr bn hi
+# * language-pack-${Languages} [i386 amd64]
+# * language-pack-gnome-${Languages} [i386 amd64]
+#
+# * Languages: ar ru zh ja
+# * language-pack-${Languages} [i386]
+# * language-pack-gnome-${Languages} [i386]
 
 == Installer ==
 
