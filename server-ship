@@ -337,6 +337,7 @@ Security:
 
  * bc
  * screen
+ * byobu-extras
  * lftp
  * zip
  * unzip                # also used for .zip support in file-roller
