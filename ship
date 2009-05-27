@@ -50,13 +50,7 @@ modules instead.
  * ndiswrapper-utils-1.9 [amd64 i386]
  * ndisgtk
 
- * ipppd
- * isdnutils-xtools
- * capiutils
- * pppdcapiplugin
  * linux-wlan-ng
- * avm-fritz-firmware
- * drdsl
  * libatm1	# suggested by ppp for PPP-over-ATM
  * setserial	# needed by folks with nonstandard serial ports
  * b43-fwcutter
