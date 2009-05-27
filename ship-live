@@ -18,12 +18,7 @@ These packages are needed in order to build Ubuntu packages.
  * ndiswrapper-utils-1.9 [amd64 i386]
  * ndisgtk
 
- * ipppd
- * isdnutils-xtools
- * capiutils
- * pppdcapiplugin
  * linux-wlan-ng
- * drdsl
  * libatm1	# suggested by ppp for PPP-over-ATM
  * setserial	# needed by folks with nonstandard serial ports
  * mouseemu	# needed on Macs with single-button mice
