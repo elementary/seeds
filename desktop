@@ -91,7 +91,6 @@ We've chosen GNOME as our desktop user interface of choice. Rather than using th
  * gnome-terminal
  * gnome-utils
  * (gnome2-user-guide)
- * (ekiga)
  * libgnomevfs2-bin
  * libgnomevfs2-extra
  * gucharmap               # SebastienBacher
