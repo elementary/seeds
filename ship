@@ -22,6 +22,7 @@ modules instead.
  * ltsp-server-standalone [amd64 hppa i386 ia64 sparc] # for LTSP-on-install
  * ltsp-client [amd64 hppa i386 ia64 sparc]            # for LTSP-on-install
  * ldm [amd64 hppa i386 ia64 sparc] # seeded because its not a hard dependency of ltsp-client anymore
+ * ldm-ubuntu-theme [amd64 hppa i386 ia64 sparc] # seeded to make it available for LTSP-on-install
 
 == Networking ==
 
