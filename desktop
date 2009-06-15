@@ -81,7 +81,6 @@ We've chosen GNOME as our desktop user interface of choice. Rather than using th
  * gnome-menus
  * gnome-nettool            # part of 2.8
  * gnome-panel
- * (gnome-pilot-conduits)
  * gnome-session
  * seahorse
  * (libpam-gnome-keyring)
