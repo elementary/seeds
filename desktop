@@ -128,6 +128,7 @@ We've chosen GNOME as our desktop user interface of choice. Rather than using th
  * (pulseaudio-module-gconf)
  * (pulseaudio-module-hal)
  * (pulseaudio-module-x11)
+ * (pulseaudio-module-bluetooth)
  * (gvfs-fuse)			# let non-GNOME apps see GVFS via fuse
  * launchpad-integration	# Needed to show the launchpad menu items
 
