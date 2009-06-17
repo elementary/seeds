@@ -59,8 +59,7 @@ We've chosen GNOME as our desktop user interface of choice. Rather than using th
  * (evolution-webcal)
  * fast-user-switch-applet
  * file-roller
- * (pidgin)
- * (pidgin-otr)
+ * (empathy)
  * gcalctool
  * gconf-editor
  * gdm
