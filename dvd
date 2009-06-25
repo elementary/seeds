@@ -273,10 +273,6 @@ These are also in the Edubuntu seeds, but it's tricky to include these automatic
  * /^language-pack-gnome-[^-]+$/
  * /^language-support-[^-]+$/
 
-= Installation =
-
- * grub-pc # may be used via preseeding
-
 == Blacklist ==
 
 libavcodec cannot be shipped on CDs (c.f. Ubuntu technical board resolution 2007-01-02).
