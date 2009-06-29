@@ -16,5 +16,6 @@ live: desktop
 dvd-live: live
 ship-live: boot live
 development: desktop
-dvd: server-ship ship development supported-common
+education: desktop
+dvd: server-ship ship development education supported-common
 supported: dvd-live ship-live dvd
