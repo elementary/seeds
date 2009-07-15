@@ -186,6 +186,9 @@ Desktop Experience:
  * (indicator-messages)
  * (evolution-indicator)
 
+Online Services:
+ * (ubuntuone-client-gnome)
+
 = Python =
 
 Python is a significant commitment, we will present Python wherever we can.
