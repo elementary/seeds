@@ -81,7 +81,6 @@ modules instead.
  * openoffice.org-gtk-gnome [i386 amd64 sparc]
  * openoffice.org-l10n-en-us	# mvo: make dapper->edgy cdrom upgrades happy
  * xserver-xorg-driver-all
- * sysvutils # replaced by sysvinit-utils
  * mktemp # replaced by coreutils in karmic
 
 == Germinate workarounds ==
