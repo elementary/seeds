@@ -88,8 +88,6 @@ We've chosen GNOME as our desktop user interface of choice. Rather than using th
  * gnome-terminal
  * gnome-utils
  * (gnome2-user-guide)
- * libgnomevfs2-bin
- * libgnomevfs2-extra
  * gucharmap               # SebastienBacher
  * checkbox-gtk
  * language-selector	   # MichaelVogt
@@ -189,11 +187,7 @@ Desktop Experience:
 Online Services:
  * (ubuntuone-client-gnome)
 
-= Python =
-
-Python is a significant commitment, we will present Python wherever we can.
-
-Documentation:
+= Documentation =
 
  * doc-base			# integrates with scrollkeeper
  * (ubuntu-docs)
