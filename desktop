@@ -49,7 +49,6 @@ We've chosen GNOME as our desktop user interface of choice. Rather than using th
 
  * (apport-gtk)
  * consolekit 
- * (contact-lookup-applet)
  * desktop-file-utils
  * dcraw 		   # used by f-spot to display RAW images
  * eog
