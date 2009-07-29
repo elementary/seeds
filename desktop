@@ -9,8 +9,6 @@ Task-Seeds: desktop-common
 
 == Architecture-independent ==
 
- * (hal-cups-utils) # fully automagic printer configuration
-
 Bluetooth:
 
  * (bluez-gnome) # desktop bluetooth support
