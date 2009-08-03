@@ -161,6 +161,7 @@ Accessibility tools:
  * (openoffice.org-impress) [i386 amd64 powerpc armel]
  * (openoffice.org-math) [i386 amd64 powerpc armel]
  #* (openoffice.org-evolution) [i386 amd64 powerpc] # pulls in oo.o-base, broken ATM
+ * (openoffice.org-help-en-us)
  * (xsane)         # scanner utils
  * evince
  * (gnome-screensaver) # recommends to allow for xscreensaver to be used
