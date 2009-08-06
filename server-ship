@@ -238,7 +238,6 @@ Utilities:
 
  * analog                 # essential for any web server, possible candidate for desktop integration
  * pm-utils
- * acpid
  * pciutils		  # kirkland added at the request of onsite hardware enablement (manjo)
 
 = Network =
