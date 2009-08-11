@@ -1,0 +1,12 @@
+Task-Section: server
+Task-Description: Cloud computing node
+Task-Extended-Description: Eucalyptus node controller.
+Task-Key: eucalyptus-nc
+
+ * eucalyptus-nc
+ * libvirt-bin
+ * kvm
+ * vlan
+ * bridge-utils
+ * openssh-server
+ * avahi-daemon
