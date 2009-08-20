@@ -346,7 +346,6 @@ Security:
  * foomatic-db-engine           # integrate the foomatic printer driver engine
  * foomatic-db                  # the foomatic printer driver database
  * foomatic-filters             # converter from postscript to printer-specific formats
- * foomatic-db-hpijs            # printer drivers from the hp inkjet project
  * openprinting-ppds
  * cups-driver-gutenprint     # a ton of cupsys ppds, for real comprehensive printer support
  * pnm2ppa                      # several ppds require this
