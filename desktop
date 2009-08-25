@@ -183,6 +183,7 @@ Desktop Experience:
  * notify-osd           # backend for libnotify
  * (indicator-messages)
  * (evolution-indicator)
+ * indicator-applet-session
 
 Online Services:
  * (ubuntuone-client-gnome)
