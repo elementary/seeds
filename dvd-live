@@ -14,11 +14,15 @@ Task-Test-new-install: skip show
 = Input methods =
 # currently not otherwise seeded on the desktop, but according to
 # doc/langpacks.txt they should be for their corresponding languages
- * scim-chewing
- * scim-pinyin
- * scim-tables-zh
- * scim-anthy
- * scim-hangul
+ * ibus-chewing
+ * ibus-pinyin
+ * ibus-hangul
+ * ibus-anthy
+ * ibus-table-cangjie
+ * ibus-table-erbi
+ * ibus-table-extraphrase
+ * ibus-table-wubi
+ * ibus-table-yong
 
 = Desktop =
 
