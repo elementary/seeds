@@ -4,9 +4,7 @@ Task-Extended-Description: Eucalyptus node controller.
 Task-Key: eucalyptus-nc
 
  * eucalyptus-nc
- * libvirt-bin
- * kvm
+ * ubuntu-virt-server
  * vlan
  * bridge-utils
- * openssh-server
  * avahi-daemon
