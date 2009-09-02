@@ -9,7 +9,7 @@ Task-Test-new-install: skip show
  * Languages: en
  * language-pack-${Languages}
  * language-pack-gnome-${Languages}
- * language-support-${Languages} [!powerpc]
+ * language-support-${Languages} [!powerpc !armel]
 
  * Languages: es xh pt de fr
  * language-pack-${Languages}
