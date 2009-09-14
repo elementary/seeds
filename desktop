@@ -84,7 +84,7 @@ We've chosen GNOME as our desktop user interface of choice. Rather than using th
  * gnome-system-tools
  * gnome-terminal
  * gnome-utils
- * (gnome2-user-guide)
+ * (gnome-user-guide)
  * gucharmap               # SebastienBacher
  * checkbox-gtk
  * language-selector	   # MichaelVogt
