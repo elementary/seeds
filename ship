@@ -62,11 +62,11 @@ modules instead.
  * language-pack-gnome-${Languages}
  * language-support-${Languages}
 
- * Languages: es xh pt de fr
+ * Languages: es xh pt de
  * language-pack-${Languages}
  * language-pack-gnome-${Languages}
 
-# * Languages: bn hi ar ru zh ja
+# * Languages: fr bn hi ar ru zh ja
 # * language-pack-${Languages}
 # * language-pack-gnome-${Languages}
 
