@@ -4,7 +4,9 @@ Task-Extended-Description: Combined Eucalyptus cloud and cluster controllers.
 Task-Key: eucalyptus-cc
 
  * eucalyptus-cloud
+ * eucalyptus-walrus
  * eucalyptus-cc
+ * eucalyptus-sc
  * vlan
  * bridge-utils
  * avahi-daemon
