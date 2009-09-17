@@ -239,9 +239,14 @@ These *-doc packages are in separate source packages, so Extra-Includes won't ca
 
 = Language packs =
 
- * /^language-pack-[^-]+$/
- * /^language-pack-gnome-[^-]+$/
- * /^language-support-[^-]+$/
+The complete set is in the DVD live image (dvd-live). We do not have
+the space to include the entire set of .debs all over again here, so
+let's just pick a few common ones
+
+ * Languages: en es xh pt de fr
+ * language-pack-${Languages}
+ * language-pack-gnome-${Languages}
+ * language-support-${Languages}
 
 == Blacklist ==
 
