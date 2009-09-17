@@ -37,6 +37,7 @@ Ubiquity needs full filesystem support for the partitioner.
  * xfsprogs
  * jfsutils
  * hfsplus [powerpc]  # ColinWatson
+ * reiserfsprogs
 
 == Germinate workarounds ==
 
