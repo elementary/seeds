@@ -316,6 +316,7 @@ Security:
  * system-cleaner
  * puppet # ChuckShort
  * puppetmaster # Chuck Short
+ * facter # Chuck Short
 
 = Virtualisation =
 
