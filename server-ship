@@ -314,6 +314,8 @@ Security:
  * update-motd # RickClark
  * landscape-client # RickClark
  * system-cleaner
+ * puppet # ChuckShort
+ * puppetmaster # Chuck Short
 
 = Virtualisation =
 
