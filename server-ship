@@ -118,7 +118,7 @@ Web:
  * libapache2-mod-auth-sys-group # FabioMassimoDiNitto
  * libapache2-mod-security       # FabioMassimoDiNitto
  * libapache-mod-auth-kerb	 # ChuckShort
-
+ * rabbitmq-server #ChuckShort
  * elinks
 
 PHP:
