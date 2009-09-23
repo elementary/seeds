@@ -13,6 +13,7 @@ eucalyptus-simple-cluster: standard
 eucalyptus-node: standard
 server: standard
 server-ship: boot installer dns-server lamp-server openssh-server print-server samba-server postgresql-server mail-server server tomcat-server virt-host eucalyptus-simple-cluster eucalyptus-node d-i-requirements
+uec: standard
 ship: boot installer desktop d-i-requirements
 live: desktop
 dvd-live: live
