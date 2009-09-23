@@ -1,4 +1,3 @@
-Task: server
 Task-Section: server
 Task-Description: Basic Ubuntu server
 Task-Extended-Description: This task provides the Ubuntu server environment.
