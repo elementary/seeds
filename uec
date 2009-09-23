@@ -1,0 +1,18 @@
+Task: uec
+Task-Section: server
+Task-Description: Ubuntu Enterprise Cloud (instance)
+Task-Extended-Description: Packages included in UEC images.
+Task-Key: ec2-init
+
+= System administration tools =
+
+ * patch
+ * screen
+ * landscape-common
+ * vim
+ * apport # LP: #424051
+
+= Documentation =
+
+ * w3m
+ * ubuntu-serverguide
