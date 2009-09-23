@@ -21,7 +21,6 @@
 
 == Development Tools ==
 
- * bicyclerepair          # python refactoring tool for vim & emacs
  * ant
  * ocaml-native-compilers  # we support the source package anyway
  * pymacs                 # makes bicyclerepair work with emacs
