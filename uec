@@ -3,6 +3,15 @@ Task-Description: Ubuntu Enterprise Cloud (instance)
 Task-Extended-Description: Packages included in UEC images.
 Task-Key: ec2-init
 
+= Libraries =
+
+ * libc6-xen [i386]
+
+= Kernels =
+
+ * linux-ec2
+ * linux-virtual
+
 = System administration tools =
 
  * patch
@@ -10,8 +19,15 @@ Task-Key: ec2-init
  * landscape-common
  * vim
  * apport # LP: #424051
+ * openssh-server
 
 = Documentation =
 
  * w3m
  * ubuntu-serverguide
+
+= EC2 =
+
+ * ec2-init
+# * ec2-ami-tools
+ * euca2ools
