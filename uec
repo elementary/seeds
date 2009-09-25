@@ -5,6 +5,9 @@ Task-Key: ec2-init
 
 = Libraries =
 
+See https://launchpad.net/bugs/427288 for why we need both of these (-i686 on UEC, -xen on EC2).
+
+ * libc6-i686 [i386]
  * libc6-xen [i386]
 
 = Kernels =
