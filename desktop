@@ -64,7 +64,7 @@ We've chosen GNOME as our desktop user interface of choice. Rather than using th
  * (gimp)
  * gnome-about
  * gnome-applets
- * software-store
+ * software-center
  * (app-install-data-partner)
  * (gnome-codec-install)    # new default codec installation tool (from debian)
  * (transmission-gtk)       # simple GNOME frontend for bittorrent downloads
