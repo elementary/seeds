@@ -8,3 +8,4 @@ Task-Key: eucalyptus-nc
  * vlan
  * bridge-utils
  * avahi-daemon
+ * euca2ools
