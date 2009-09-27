@@ -10,3 +10,4 @@ Task-Key: eucalyptus-cc
  * vlan
  * bridge-utils
  * avahi-daemon
+ * euca2ools
