@@ -21,4 +21,4 @@ ship-live: boot live
 development: desktop
 education: desktop
 dvd: server-ship ship development education supported-common
-supported: dvd-live ship-live dvd
+supported: dvd-live ship-live dvd language-packs
