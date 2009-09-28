@@ -93,7 +93,6 @@ Exclude some KDE-specific pieces:
 Temporary workarounds:
 
  * openoffice.org-evolution # no rdepends any more, noticed too late
- * empathy # should finally move to desktop, but see LP #388898
 
 = Build infrastructure =
 
