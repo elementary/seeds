@@ -4,10 +4,8 @@
 == Graphics ==
 
  * nvidia-glx-185
- * nvidia-glx-177
  * nvidia-glx-173
  * nvidia-glx-96
- * nvidia-glx-71
  * xorg-driver-fglrx
 
 == Wireless ==
