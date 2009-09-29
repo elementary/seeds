@@ -73,6 +73,7 @@ modules instead.
 == Installer ==
 
  * oem-config-gtk
+ * uboot-mkimage [armel]
 
 == Transitional packages ==
 
