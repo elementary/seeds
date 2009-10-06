@@ -13,8 +13,7 @@ See https://launchpad.net/bugs/427288 for why we need both of these (-i686 on UE
 = Kernels =
 
  * linux-ec2
- * linux-server [amd64]
- * linux-generic-pae [i386]
+ * linux-virtual
 
 = System administration tools =
 
