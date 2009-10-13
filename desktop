@@ -158,7 +158,8 @@ Accessibility tools:
 
 = Other Desktop GUI Apps =
 
- * (openoffice.org-gnome) [i386 amd64 powerpc armel]  # before OOo to avoid openoffice.org-style-default
+ * (openoffice.org-style-human) [i386 amd64 powerpc armel]  # before OOo to avoid openoffice.org-style-default
+ * (openoffice.org-gnome) [i386 amd64 powerpc armel]
  * (openoffice.org-writer) [i386 amd64 powerpc armel]
  * (openoffice.org-calc) [i386 amd64 powerpc armel]
  * (openoffice.org-impress) [i386 amd64 powerpc armel]
