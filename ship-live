@@ -29,6 +29,7 @@ These packages are needed in order to build Ubuntu packages.
 
 == Installer ==
 
+ * grub # needed for dmraid et al
  * oem-config-gtk
  * lupin-support # installer-for-windows
 
