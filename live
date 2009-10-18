@@ -15,6 +15,10 @@ Task-Test-new-install: skip show
  * language-pack-${Languages}
  * language-pack-gnome-${Languages}
 
+ * Languages: bn
+ * language-pack-${Languages} [i386]
+ * language-pack-gnome-${Languages} [i386]
+
  * ntfsprogs
 
  * gparted
