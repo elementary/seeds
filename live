@@ -19,6 +19,11 @@ Task-Test-new-install: skip show
  * language-pack-${Languages} [i386]
  * language-pack-gnome-${Languages} [i386]
 
+We should have enough space to include all langpacks on the 1 GB armel desktop
+live images:
+ * /^language-pack-[^-]+$/ [armel]
+ * /^language-pack-gnome-[^-]+$/ [armel]
+
  * ntfsprogs
 
  * gparted
