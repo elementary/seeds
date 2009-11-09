@@ -99,7 +99,6 @@ Other:
  * tomboy
  * liferea
  * gkbd-capplet      # we need to support the source anyway
- * gthumb
  * gvfs-bin
  * virt-manager
  * python-virtinst
