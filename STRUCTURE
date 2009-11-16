@@ -1,4 +1,4 @@
-include platform.karmic
+include platform.lucid
 desktop: desktop-common
 dns-server: standard
 lamp-server: standard
