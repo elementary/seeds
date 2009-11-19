@@ -313,7 +313,7 @@ Security:
  * unattended-upgrades
  * update-motd # RickClark
  * landscape-client # RickClark
- * system-cleaner
+ * computer-janitor
  * puppet # ChuckShort
  * puppetmaster # Chuck Short
  * facter # Chuck Short
