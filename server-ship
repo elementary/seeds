@@ -317,6 +317,7 @@ Security:
  * puppet # ChuckShort
  * puppetmaster # Chuck Short
  * facter # Chuck Short
+ * fortunes-ubuntu-server
 
 = Virtualisation =
 
