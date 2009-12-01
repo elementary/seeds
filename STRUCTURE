@@ -9,7 +9,11 @@ postgresql-server: standard
 mail-server: standard
 tomcat-server: standard
 virt-host: standard
-eucalyptus-simple-cluster: server
+eucalyptus-cloud: server
+eucalyptus-walrus: server
+eucalyptus-cluster: server
+eucalyptus-storage: server
+eucalyptus-simple-cluster: eucalyptus-cloud eucalyptus-walrus eucalyptus-cluster eucalyptus-storage
 eucalyptus-node: server
 server: standard
 server-ship: boot installer dns-server lamp-server openssh-server print-server samba-server postgresql-server mail-server server tomcat-server virt-host eucalyptus-simple-cluster eucalyptus-node d-i-requirements
