@@ -1,5 +1,5 @@
 Task-Section: server
-Task-Description: Cloud computing cluster
+Task-Description: Cloud computing: all-in-one cluster
 Task-Extended-Description: Combined Eucalyptus cloud and cluster controllers.
 Task-Key: eucalyptus-cc
 
@@ -7,7 +7,6 @@ Task-Key: eucalyptus-cc
  * eucalyptus-walrus
  * eucalyptus-cc
  * eucalyptus-sc
- * vlan
  * bridge-utils
  * avahi-daemon
  * euca2ools

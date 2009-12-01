@@ -1,0 +1,9 @@
+Task-Section: server
+Task-Description: Cloud computing: storage controller
+Task-Extended-Description: Eucalyptus storage controller.
+Task-Key: eucalyptus-sc
+
+ * eucalyptus-sc
+ * aoetools
+ * avahi-daemon
+ * euca2ools

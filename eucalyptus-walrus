@@ -1,0 +1,7 @@
+Task-Section: server
+Task-Description: Cloud computing: Walrus storage service
+Task-Extended-Description: Eucalyptus Walrus controller.
+Task-Key: eucalyptus-walrus
+
+ * eucalyptus-walrus
+ * avahi-daemon
