@@ -1,0 +1,9 @@
+Task-Section: server
+Task-Description: Cloud computing: cluster controller
+Task-Extended-Description: Eucalyptus cluster controller.
+Task-Key: eucalyptus-cc
+
+ * eucalyptus-cc
+ * bridge-utils
+ * avahi-daemon
+ * euca2ools

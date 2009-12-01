@@ -1,0 +1,8 @@
+Task-Section: server
+Task-Description: Cloud computing: top-level cloud controller
+Task-Extended-Description: Eucalyptus cloud controller.
+Task-Key: eucalyptus-cloud
+
+ * eucalyptus-cloud
+ * avahi-daemon
+ * euca2ools
