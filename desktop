@@ -71,7 +71,6 @@ We've chosen GNOME as our desktop user interface of choice. Rather than using th
  * (transmission-gtk)       # simple GNOME frontend for bittorrent downloads
  * gnome-control-center
  * system-config-printer-gnome
- * (gnome-games) [!ia64]
  * gnome-icon-theme
  * gnome-media
  * gnome-menus
@@ -124,6 +123,14 @@ We've chosen GNOME as our desktop user interface of choice. Rather than using th
  * (gvfs-fuse)			# let non-GNOME apps see GVFS via fuse
  * launchpad-integration	# Needed to show the launchpad menu items
  * (gnome-disk-utility)
+
+Games: We only ship a few by default and keep the full suite on the
+DVD.
+ * (aisleriot)
+ * (gnome-mahjongg)
+ * (gnomine)
+ * (gnome-sudoku)
+ * (gnometris)
 
 Themes: we will ship only the very best looking themes. We won't ship everything that Debian ships, just a custom package that includes the themes we want. These packages are included for size guidance until we have Ubuntu-specific packages.
 
