@@ -124,8 +124,7 @@ We've chosen GNOME as our desktop user interface of choice. Rather than using th
  * launchpad-integration	# Needed to show the launchpad menu items
  * (gnome-disk-utility)
 
-Games: We only ship a few by default and keep the full suite on the
-DVD.
+Games: We only ship a few by default.
  * (aisleriot)
  * (gnome-mahjongg)
  * (gnomine)
