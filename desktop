@@ -202,7 +202,6 @@ Online Services:
 = Other =
 
  * ubuntu-desktop # metapackage for everything here
- * usplash-theme-ubuntu
  * xsplash
  * (example-content) # dholbach: dapper feature goal (wiki.ubuntu.com/ExampleContent)
  * (libwmf0.2-7-gtk)
