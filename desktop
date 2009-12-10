@@ -205,3 +205,5 @@ Online Services:
  * xsplash
  * (example-content) # dholbach: dapper feature goal (wiki.ubuntu.com/ExampleContent)
  * (libwmf0.2-7-gtk)
+ * (bootchart) [armel] # scheduled for removal before lucid beta 2
+ * (pybootchartgui) [armel] # scheduled for removal before lucid beta 2
