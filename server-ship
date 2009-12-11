@@ -338,6 +338,8 @@ Security:
  * apport # MathiasGug
  * kerneloops-daemon # JamesWestby
  * python-beautifulsoup #ChuckShort
+ * python-genshi #ChuckShort
+
 
 = From desktop =
 
