@@ -66,6 +66,7 @@ included due to matching Extra-Include patterns, and has no other effect):
  * Extra-Exclude: sendmail-doc # sendmail source is only in main for libmilter
  * Extra-Exclude: libgnumail-java-doc # depends on classpath
  * Extra-Exclude: javacc-doc # depends on classpath
+ * Extra-Exclude: libcommons-dbcp-java-doc # depends on classpath
 
 Transitional packages:
 
