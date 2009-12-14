@@ -224,6 +224,8 @@ Other:
  * libcommons-pool-java
  * jsvc
  * libcommons-daemon-java
+ * zip #ChuckShort - server-lucid-seeds
+ * unzip #ChuckShort - server-lucid-seeds
 
 Application Servers:
 
