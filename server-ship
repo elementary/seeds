@@ -226,6 +226,9 @@ Other:
  * libcommons-daemon-java
  * zip #ChuckShort - server-lucid-seeds
  * unzip #ChuckShort - server-lucid-seeds
+ * python-svn #ChuckShort - server-lucid-canonical-application-support
+ * tdb-tools #ChuckShort - server-lucid-seeds
+ * acl #ChuckShort - server-lucid-seeds
 
 Application Servers:
 
