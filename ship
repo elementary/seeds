@@ -15,7 +15,6 @@ modules instead.
 == Server ==
 
  * ssh
- * lilo [amd64 i386]   # MattZimmerman wants this for server admins; needed for LVM installs
  * nfs-kernel-server   # need an NFS server
  * samba  [amd64 i386] # for Windows filesharing and integration
  * nis                 # allows Kickstart to configure NIS

@@ -338,7 +338,6 @@ Security:
 == Miscellaneous ==
 
  * miscfiles
- * lilo
  * checkbox-cli # MathiasGug
  * apport # MathiasGug
  * kerneloops-daemon # JamesWestby
