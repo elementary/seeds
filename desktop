@@ -184,6 +184,7 @@ Accessibility tools:
  * (jockey-gtk) # enable non-free graphics and other drivers easily
  * (usb-creator-gtk) [i386 amd64 lpia]
  * (computer-janitor-gtk)
+ * (pitivi)
 
 Desktop Experience:
  * notify-osd           # backend for libnotify
