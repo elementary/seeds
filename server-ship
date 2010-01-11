@@ -256,7 +256,6 @@ Utilities:
 
 IPv6 tools:
 
- * freenet6               # FabioMassimoDiNitto
  * radvd                  # FabioMassimoDiNitto
  * quagga                 # RobertCollins
 
