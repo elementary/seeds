@@ -118,7 +118,6 @@ Web:
  * libapache2-mod-security       # FabioMassimoDiNitto
  * libapache-mod-auth-kerb	 # ChuckShort
  * rabbitmq-server #ChuckShort
- * elinks
 
 PHP:
 
@@ -174,8 +173,6 @@ Other:
  * dhcp3-server
  * snmp
  * snmpd
- * sensord
- * lm-sensors
  * openbsd-inetd
  * nbd-server
  * open-iscsi # ChuckShort
@@ -183,7 +180,6 @@ Other:
  * drbd8-utils # ChuckShort - ServerPackageReview
  * nut # ChuckShort - ServerPackageReview
  * nut-cgi
- * nut-hal-drivers
  * nut-snmp
  * openvpn #ChuckShort - ServerPackageReview
  * netcat-openbsd
@@ -241,7 +237,6 @@ RCS:
 
 Utilities:
 
- * analog                 # essential for any web server, possible candidate for desktop integration
  * pm-utils
  * pciutils		  # kirkland added at the request of onsite hardware enablement (manjo)
 
@@ -281,7 +276,6 @@ Security:
  * backuppc             # RobertCollins
  * debian-goodies
  * whois                # FabioMassimoDiNitto
- * minicom              # useful for serial access to anything
  * cu                   # super-basic serial access
  * libpam-cracklib      # enables weak password checking during password change, should it be in desktop?
  * libpam-krb5		# ChuckShort
@@ -304,7 +298,6 @@ Security:
  * smartmontools   # hard disk diagnostics
  * mtx		   # ChuckShort - ServerPackageReview
  * logwatch	   # ChuckShort - ServerPackageReview
- * vlock	# ChuckShort
  * lsscsi	# ChuckShort
  * vblade	# ChuckShort
  * sysstat	# ChuckShort - ServerPackageReview
@@ -312,8 +305,6 @@ Security:
  * munin	# ChuckShort - ServerPackageReview
  * munin-plugins-contrib    # ChuckShort - ServerPackageReview
  * munin-node # ChuckShort - ServerPackageReview
- * openssh-blacklist-extra
- * openssl-blacklist-extra
  * dbconfig-common	# ChuckShort - calendaring spec.
  * unattended-upgrades
  * update-motd # RickClark
