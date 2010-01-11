@@ -48,7 +48,6 @@ restricted modules.
  * lsb-core
  * lsb-cxx
  * ntp
- * nis
  * mailx
  * mutt
  * build-essential
