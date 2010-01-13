@@ -22,10 +22,6 @@ Basic network services and Windows integration.
  * (avahi-autoipd)     # IPv4 link-local interface configuration support
  * (network-manager-gnome) # see NetworkRoaming spec
 
-= Printing =
-
- * cups-driver-gutenprint     # a ton of cupsys ppds, for real comprehensive printer support
-
 = GUI infrastructure =
 
  * xterm                         # Provide a backup terminal and complete X env.
@@ -47,9 +43,7 @@ Input methods:
 We've chosen GNOME as our desktop user interface of choice. Rather than using the meta-packages they are deliberately expanded so that we can select things a bit better.
 
  * (apport-gtk)
- * consolekit 
  * desktop-file-utils
- * dcraw 		   # used by f-spot to display RAW images
  * eog
  * (evolution)
  * (evolution-plugins)
