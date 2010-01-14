@@ -291,7 +291,7 @@ Security:
  * opie-client
  * opie-server
  * sasl2-bin
- * autofs
+ * autofs5
  * awstats
  * acct
  * authbind                     # BIGGER SECURITAH REVIEW
