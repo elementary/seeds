@@ -112,7 +112,6 @@ Web:
  * libapache2-mod-perl2 # python is in supported
  * libapache2-mod-python        #ThomMay
  * libapache2-mod-python-doc    #ThomMay
- * libapache2-mod-auth-pam       # FabioMassimoDiNitto
  * libapache2-mod-auth-plain     # FabioMassimoDiNitto
  * libapache2-mod-auth-sys-group # FabioMassimoDiNitto
  * libapache2-mod-security       # FabioMassimoDiNitto
