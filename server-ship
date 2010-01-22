@@ -228,6 +228,7 @@ Other:
  * nagios-nrpe-server #ChuckShort - server lucid-canonical-application-support
  * nagios-nrpe-plugins #ChuckShort - server lucid-canonical-applicaton-support
  * pastebin #ChuckShort - server-lucid-seeds
+ * pastescript #ChuckShort -server-lucid-canonical-application-support
  * paste #ChuckShort - server-lucid-seeds
  * irqbalance #ChuckShort - server-lucid-canonical-application-support
 
