@@ -170,7 +170,7 @@ Accessibility tools:
  * (openoffice.org-math) [i386 amd64 powerpc armel]
  #* (openoffice.org-evolution) [i386 amd64 powerpc] # pulls in oo.o-base, broken ATM
  * (openoffice.org-help-en-us) [i386 amd64 powerpc armel]
- * (xsane)         # scanner utils
+ * (simple-scan)
  * evince
  * (gnome-screensaver) # recommends to allow for xscreensaver to be used
  * xscreensaver-gl # MRS, we will only ship a subset of the screensavers from rss-glx and xscreensaver
