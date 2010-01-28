@@ -184,6 +184,9 @@ Other:
  * munin-node
  * munin-plugins-contrib
  * munin
+ * openssh-blacklist-extra
+ * openssl-blacklist-extra
+ * openvpn-blacklist
  * bacula # ChuckShort - SRP
  * bacula-common # ChuckShort - SRP
  * bacula-director-common # ChuckShort - SRP
