@@ -18,7 +18,7 @@ See https://launchpad.net/bugs/427288 for why we need both of these (-i686 on UE
 = System administration tools =
 
  * patch
- * screen
+ * byobu
  * landscape-common
  * vim
  * apport # LP: #424051
@@ -32,6 +32,6 @@ See https://launchpad.net/bugs/427288 for why we need both of these (-i686 on UE
 
 = EC2 =
 
- * ec2-init
+ * cloud-init
 # * ec2-ami-tools
  * euca2ools
