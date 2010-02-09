@@ -191,7 +191,7 @@ Other:
  * bacula-common # ChuckShort - SRP
  * bacula-director-common # ChuckShort - SRP
  * bacula-director-mysql # ChuckShort - SRP
- * bacula-director-pgsql # ChuckShort - SRP 
+ * bacula-director-pgsql # ChuckShort - SRP
  * bacula-client # ChuckShort - SRP
  * bacula-fd # ChuckShort - SRP
  * bacula-server # ChuckShort - SRP
@@ -200,7 +200,7 @@ Other:
  * bacula-sd-pgsql # ChuckShort - SRP
  * bacula-console # ChuckShort - SRP
  * ibmasm-utils # ChuckShort - SRP
- * likewise-open 
+ * likewise-open
  * nagios3
  * nagios3-common
  * nagios3-doc
