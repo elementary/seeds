@@ -12,12 +12,12 @@ Task-Test-new-install: skip show
  * language-support-${Languages}
 
 Enough room on amd64 armel i386, not enough on ia64 powerpc:
- * Languages: es xh pt de bn zh-hans
+ * Languages: es xh pt de
  * language-pack-${Languages} [!ia64 !powerpc]
  * language-pack-gnome-${Languages} [!ia64 !powerpc]
 
 Enough room on i386, not enough on amd64:
- * Languages: fr
+ * Languages: bn fr
  * language-pack-${Languages} [i386]
  * language-pack-gnome-${Languages} [i386]
 
