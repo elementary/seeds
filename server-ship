@@ -363,7 +363,6 @@ Security:
  * pnm2ppa                      # several ppds require this
  * ghostscript                  # some ppds require this
  * hplip                        # support for HP all-in-one printers
- * libxp6 # required for some third party apps. See #21953
 
 = Installer =
 
