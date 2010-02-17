@@ -62,9 +62,9 @@ modules instead.
  * language-support-${Languages}
 
 Enough room on amd64 armel i386, not enough on ia64 powerpc:
- * Languages: es xh pt de fr
- * language-pack-${Languages} [!ia64 !powerpc]
- * language-pack-gnome-${Languages} [!ia64 !powerpc]
+# * Languages: es xh pt de fr
+# * language-pack-${Languages} [!ia64 !powerpc]
+# * language-pack-gnome-${Languages} [!ia64 !powerpc]
 
 # * Languages: bn hi ar ru zh-hans ja
 # * language-pack-${Languages}
