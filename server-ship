@@ -166,6 +166,19 @@ FTP/TFTP:
  * tftpd-hpa # The one from OpenBSD which supports PXE
  * tftp-hpa # client
 
+Printing:
+ * cups                       # our preferred printer management infrastructure
+ * cups-bsd                   # gives us lpc, lpq, lpr, lprm
+ * cups-client                # gives us cancel, cupstestppd, lp, lpoptions, lppasswd, lpstat, cupsaddsmb, accept, lpadmin, lpinfo, lpmove
+ * foomatic-db-engine           # integrate the foomatic printer driver engine
+ * foomatic-db                  # the foomatic printer driver database
+ * foomatic-filters             # converter from postscript to printer-specific formats
+ * openprinting-ppds
+ * cups-driver-gutenprint     # a ton of cupsys ppds, for real comprehensive printer support
+ * pnm2ppa                      # several ppds require this
+ * ghostscript                  # some ppds require this
+ * hplip                        # support for HP all-in-one printers
+
 Other:
 
  * dhcp3-server
@@ -352,17 +365,6 @@ Security:
  * lftp
  * zip
  * unzip                # also used for .zip support in file-roller
- * cups                       # our preferred printer management infrastructure
- * cups-bsd                   # gives us lpc, lpq, lpr, lprm
- * cups-client                # gives us cancel, cupstestppd, lp, lpoptions, lppasswd, lpstat, cupsaddsmb, accept, lpadmin, lpinfo, lpmove
- * foomatic-db-engine           # integrate the foomatic printer driver engine
- * foomatic-db                  # the foomatic printer driver database
- * foomatic-filters             # converter from postscript to printer-specific formats
- * openprinting-ppds
- * cups-driver-gutenprint     # a ton of cupsys ppds, for real comprehensive printer support
- * pnm2ppa                      # several ppds require this
- * ghostscript                  # some ppds require this
- * hplip                        # support for HP all-in-one printers
 
 = Installer =
 
