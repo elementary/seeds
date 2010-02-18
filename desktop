@@ -128,7 +128,7 @@ Games: We only ship a few by default.
  * (gnome-sudoku)
  * (quadrapassel)
  * (gbrainy)
- * (ubuntu-branding)        # Ubuntu branding for some games
+ * (branding-ubuntu)        # Ubuntu branding for some games
 
 Themes: we will ship only the very best looking themes. We won't ship everything that Debian ships, just a custom package that includes the themes we want. These packages are included for size guidance until we have Ubuntu-specific packages.
 
