@@ -1,7 +1,7 @@
 Task-Section: server
 Task-Description: Ubuntu Enterprise Cloud (instance)
 Task-Extended-Description: Packages included in UEC images.
-Task-Key: ec2-init
+Task-Key: cloud-init
 
 = Libraries =
 
