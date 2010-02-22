@@ -10,11 +10,6 @@ See https://launchpad.net/bugs/427288 for why we need both of these (-i686 on UE
  * libc6-i686 [i386]
  * libc6-xen [i386]
 
-= Kernels =
-
- * linux-ec2
- * linux-virtual
-
 = System administration tools =
 
  * patch
