@@ -7,7 +7,7 @@ Task-Key: postfix
  * postfix
  * dovecot-pop3d
  * dovecot-imapd
- * mailx
+ * bsd-mailx
  * mutt
  * procmail
 
