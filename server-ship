@@ -336,6 +336,7 @@ Security:
  * puppetmaster # Chuck Short
  * facter # Chuck Short
  * fortunes-ubuntu-server
+ * etckeeper
 
 = Virtualisation =
 
