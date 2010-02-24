@@ -24,7 +24,7 @@ modules instead.
 
 == Networking ==
 
- * mailx
+ * bsd-mailx
  * vlan                   # userland tools to config 8021q support
 
 == Development ==
