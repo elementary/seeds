@@ -163,6 +163,7 @@ Accessibility tools:
  * (espeak)
  * (speech-dispatcher)
  * (mousetweaks)
+ * (libgail-gnome-module) # Needed for libbonoboui/libgnomeui widget accessibility
 
 = Other Desktop GUI Apps =
 
