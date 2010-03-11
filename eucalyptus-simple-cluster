@@ -10,3 +10,4 @@ Task-Key: eucalyptus-cc
  * bridge-utils
  * avahi-daemon
  * euca2ools
+ * screen
