@@ -231,7 +231,6 @@ to compile a driver. -mdz
 = Other =
 
  * ubuntu-desktop # metapackage for everything here
- * xsplash
  * (example-content) # dholbach: dapper feature goal (wiki.ubuntu.com/ExampleContent)
  * (libwmf0.2-7-gtk)
  * (bootchart) [armel] # scheduled for removal before lucid beta 2
