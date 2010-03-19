@@ -2,6 +2,7 @@ Task-Section: server
 Task-Description: Cloud computing: node controller
 Task-Extended-Description: Eucalyptus node controller.
 Task-Key: eucalyptus-nc
+Task-Test-new-install: skip show
 
  * eucalyptus-nc
  * ubuntu-virt-server

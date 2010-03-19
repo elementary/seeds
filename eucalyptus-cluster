@@ -2,6 +2,7 @@ Task-Section: server
 Task-Description: Cloud computing: cluster controller
 Task-Extended-Description: Eucalyptus cluster controller.
 Task-Key: eucalyptus-cc
+Task-Test-new-install: skip show
 
  * eucalyptus-cc
  * bridge-utils
