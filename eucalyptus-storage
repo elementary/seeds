@@ -2,6 +2,7 @@ Task-Section: server
 Task-Description: Cloud computing: storage controller
 Task-Extended-Description: Eucalyptus storage controller.
 Task-Key: eucalyptus-sc
+Task-Test-new-install: skip show
 
  * eucalyptus-sc
  * aoetools
