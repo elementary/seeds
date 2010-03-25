@@ -151,6 +151,7 @@ The gstreamer0.10 packages we want to install:
 
 For Ubuntu we need libsdl1.2debian-pulseaudio for the above gstreamer0.10-plugins-base-apps < libtheora-dev < libsdl1.2-dev < libsdl1.2debian.
 
+ * libsdl1.2debian # tiny and needed for clean CDROM upgrades
  * libsdl1.2debian-pulseaudio
 
 Accessibility tools:
