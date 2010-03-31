@@ -218,8 +218,6 @@ to compile a driver. -mdz
  * (gcc)
  * (make)
  * (linux-headers-generic) [i386]
- * (linux-headers-powerpc) [powerpc]
- * (linux-headers-powerpc64-smp) [powerpc]
  * (linux-headers-generic) [amd64]
  * (linux-headers-ia64) [ia64]
  * (linux-headers-sparc64) [sparc]
