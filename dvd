@@ -128,6 +128,7 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * texlive-bibtex-extra
  * texlive-fonts-extra
  * texlive-publishers
+ * texlive-science
 
  * gimp-manual
  * gimp-help-en
