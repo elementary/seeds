@@ -26,8 +26,6 @@ live images:
  * /^language-pack-[^-]+$/ [armel]
  * /^language-pack-gnome-[^-]+$/ [armel]
 
- * ntfsprogs
-
  * gparted
 
 == Ubiquity components ==
@@ -38,14 +36,3 @@ These packages make up the Ubiquity live installer.
  * ubiquity-ubuntu-artwork
  * ubiquity-slideshow-ubuntu
  * python-webkit # Needed by ubiquity-frontend-gtk for ubiquity-slideshow.
-
-Ubiquity needs full filesystem support for the partitioner.
-
- * xfsprogs
- * jfsutils
- * hfsplus [powerpc]  # ColinWatson
- * reiserfsprogs
-
-== Germinate workarounds ==
-
- * wamerican  # iamerican Depends: ispell Recommends: wordlist, but wamerican isn't spotted in time so germinate arbitrarily picks miscfiles instead
