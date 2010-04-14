@@ -4,8 +4,7 @@ Task-Extended-Description: Eucalyptus cluster controller.
 Task-Key: eucalyptus-cc
 Task-Test-new-install: skip show
 
- * eucalyptus-cc
- * bridge-utils
- * avahi-daemon
- * euca2ools
- * screen
+ * eucalyptus-cc [amd64 i386]
+ * bridge-utils [amd64 i386]
+ * avahi-daemon [amd64 i386]
+ * euca2ools [amd64 i386]
