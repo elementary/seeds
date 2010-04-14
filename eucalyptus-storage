@@ -4,8 +4,7 @@ Task-Extended-Description: Eucalyptus storage controller.
 Task-Key: eucalyptus-sc
 Task-Test-new-install: skip show
 
- * eucalyptus-sc
- * aoetools
- * avahi-daemon
- * euca2ools
- * screen
+ * eucalyptus-sc [amd64 i386]
+ * aoetools [amd64 i386]
+ * avahi-daemon [amd64 i386]
+ * euca2ools [amd64 i386]

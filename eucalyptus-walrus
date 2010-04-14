@@ -4,7 +4,6 @@ Task-Extended-Description: Eucalyptus Walrus controller.
 Task-Key: eucalyptus-walrus
 Task-Test-new-install: skip show
 
- * eucalyptus-walrus
- * avahi-daemon
- * euca2ools
- * screen
+ * eucalyptus-walrus [amd64 i386]
+ * avahi-daemon [amd64 i386]
+ * euca2ools [amd64 i386]
