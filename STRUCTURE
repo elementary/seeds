@@ -25,3 +25,4 @@ ship-live: boot live
 development: desktop
 dvd: server-ship ship development supported-common
 supported: dvd-live ship-live dvd language-packs
+supported-desktop-extra: dvd
