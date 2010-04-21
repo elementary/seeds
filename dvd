@@ -42,11 +42,7 @@
 = Desktop =
 
  * xchat-gnome
- * mozilla-thunderbird # world favourite mail client
- * mozilla-thunderbird-enigmail # gpg integration for thunderbird
- * mozilla-thunderbird-offline  # offline use of thunderbird
- * mozilla-thunderbird-typeaheadfind # neat usability enhancement for thunderbird
- * mozilla-thunderbird-inspector     # used for extension development and debugging
+ * thunderbird # world favourite mail client
  * nautilus-gksu
  * abrowser
 
