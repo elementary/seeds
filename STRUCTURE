@@ -24,6 +24,6 @@ dvd-live: live
 ship-live: boot live
 development: desktop
 dvd: server-ship ship development supported-common
-supported-desktop-extra: dvd
+supported-desktop-extra: dvd dvd-live
 # make sure supported remains the last entry
 supported: dvd-live ship-live dvd language-packs supported-desktop-extra
