@@ -21,7 +21,7 @@ language-selector:
  * openoffice.org-voikko
  * /^gnome-user-guide-/
  * /^openoffice.org-thesaurus-/
- * /^openoffice.org-hyphenation-/
+ * /^openoffice.org-hyphenation/
 
 Transitional packages for the -zh split, to be kept until after the
 next LTS after 8.04 (most likely karmic+1):
