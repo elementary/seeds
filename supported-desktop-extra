@@ -1,5 +1,27 @@
 This seed exists only to allow fine tuning the 3y support time
 
-= Extra dev tools =
+= Dev tools =
 
  * cdbs
+ * gnupg2
+
+= Additional multimedia =
+
+ * cheese
+ * ffmpeg
+ * gstreamer-tools
+
+= Nvidia =
+
+ * nvidia-180-libvdpau
+ * nvidia-185-libvdpau
+ * nvidia-185-modaliases
+ * nvidia-kernel-common
+
+= Extra desktop =
+
+ * openoffice.org-base
+ * openoffice.org-evolution
+ * pidgin
+ * scrollkeeper
+ * thunderbird-gnome-support
