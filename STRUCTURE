@@ -1,4 +1,4 @@
-include platform.lucid
+include platform.maverick
 desktop: desktop-common
 dns-server: standard
 lamp-server: standard
