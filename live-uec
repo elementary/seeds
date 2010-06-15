@@ -1,0 +1,115 @@
+Task-Per-Derivative: 1
+Task-Section: user
+Task-Description: Ubuntu Enterprise Cloud live CD
+Task-Extended-Description: This task provides the UEC packages installed on the Ubuntu live CD. It is neither useful nor recommended to install this task in other environments.
+Task-Relevance: 2
+Task-Key: ubiquity-frontend-gtk
+Task-Test-new-install: skip show
+Task-Seeds: live-common
+
+ * Languages: en
+
+ * eucalyptus-simple-cluster
+ * eucalyptus-node
+
+ * (avahi-autoipd)     # IPv4 link-local interface configuration support
+ * (network-manager-gnome) # see NetworkRoaming spec
+ * (network-manager-pptp)
+ * (network-manager-pptp-gnome)
+ * xterm                         # Provide a backup terminal and complete X env.
+ * (im-switch)
+ * (ibus)
+ * (ibus-gtk)
+ * (ibus-table)
+ * (ibus-m17n)
+ * (apport-gtk)
+ * desktop-file-utils
+ * eog
+ * file-roller
+ * gcalctool
+ * gconf-editor
+ * gdm
+ * (gdm-guest-session)
+ * gedit
+ * gnome-about
+ * gnome-applets
+ * software-center
+ * (app-install-data-partner)
+ * (gnome-codec-install)    # new default codec installation tool (from debian)
+ * gnome-control-center
+ * system-config-printer-gnome
+ * gnome-icon-theme
+ * gnome-media
+ * gnome-menus
+ * gnome-nettool            # part of 2.8
+ * gnome-panel
+ * gnome-session
+ * seahorse
+ * (libpam-gnome-keyring)
+ * gnome-system-monitor     # SebastienBacher
+ * gnome-power-manager		# OliverGrawert finally ready for shipment
+ * gnome-system-tools
+ * gnome-terminal
+ * gnome-utils
+ * (gnome-user-guide)
+ * gucharmap               # SebastienBacher
+ * checkbox-gtk
+ * language-selector	   # MichaelVogt
+ * metacity                # SebastienBacher
+ * (compiz) [i386 powerpc amd64 ia64 sparc]		   # compiz is our default WM 'mkay
+ * (firefox)
+ * (firefox-gnome-support)
+ * (ubufox)                # ubuntu firefox tweaks - AlexanderSack
+ * nautilus                # SebastienBacher
+ * nautilus-sendto
+ * (nautilus-share)
+ * rarian-compat
+ * alacarte		   # default menu editor
+ * ssh-askpass-gnome
+ * synaptic                # default GUI package manager
+ * libgnome2-perl          # so that the debconf GNOME frontend can be used from synaptic
+ * software-properties-gtk # default GUI sources.list editor
+ * update-manager
+ * update-notifier
+ * gdebi                   # view/install deb packages
+ * yelp
+ * zenity
+ * (xdg-utils)		   # useful utilities
+ * xdg-user-dirs
+ * xdg-user-dirs-gtk
+ * pulseaudio-esound-compat
+ * pulseaudio
+ * (pulseaudio-module-gconf)
+ * (pulseaudio-module-x11)
+ * (pulseaudio-module-bluetooth)
+ * (gvfs-fuse)			# let non-GNOME apps see GVFS via fuse
+ * launchpad-integration	# Needed to show the launchpad menu items
+ * (gnome-disk-utility)
+ * gnome-themes-selected
+ * gnome-themes-ubuntu
+ * gtk2-engines			# DanielHolbach (gtk2-engines were merged into one package)
+ * gtk2-engines-pixbuf          # Required by some themes the user might install
+ * ubuntu-artwork
+ * ubuntu-sounds
+ * gnome-session-canberra	# Needed to make login/logout sounds audible.
+ * libsdl1.2debian # tiny and needed for clean CDROM upgrades
+ * libsdl1.2debian-pulseaudio
+ * evince
+ * (gnome-screensaver) # recommends to allow for xscreensaver to be used
+ * xscreensaver-gl # MRS, we will only ship a subset of the screensavers from rss-glx and xscreensaver
+ * xscreensaver-data # subset package for the non-gl screensavers we ship
+ * screensaver-default-images
+ * (jockey-gtk) # enable non-free graphics and other drivers easily
+ * (usb-creator-gtk) [i386 amd64 lpia]
+ * (gcc)
+ * (make)
+ * (linux-headers-generic) [i386]
+ * (linux-headers-generic) [amd64]
+ * (linux-headers-ia64) [ia64]
+ * (linux-headers-sparc64) [sparc]
+ * (linux-headers-hppa32) [hppa]
+ * (linux-headers-hppa64) [hppa]
+ * (linux-headers-lpia) [lpia]
+ * (linux-headers-imx51) [armel]
+ * (linux-headers-dove) [armel]
+ * (plymouth-theme-ubuntu-logo)
