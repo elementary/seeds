@@ -3,7 +3,7 @@ Task-Section: user
 Task-Description: Ubuntu Enterprise Cloud live CD
 Task-Extended-Description: This task provides the UEC packages installed on the Ubuntu live CD. It is neither useful nor recommended to install this task in other environments.
 Task-Relevance: 2
-Task-Key: ubiquity-frontend-gtk
+Task-Key: eucalyptus-simple-cluster
 Task-Test-new-install: skip show
 Task-Seeds: live-common
 
