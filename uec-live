@@ -1,18 +1,21 @@
 Task-Per-Derivative: 1
 Task-Section: user
-Task-Description: Ubuntu Enterprise Cloud live CD
+Task-Description: Ubuntu Enterprise Cloud Live CD
 Task-Extended-Description: This task provides the UEC packages installed on the Ubuntu live CD. It is neither useful nor recommended to install this task in other environments.
 Task-Relevance: 2
 Task-Key: eucalyptus-simple-cluster
 Task-Test-new-install: skip show
 Task-Seeds: live-common
 
+# Drop all languages but english
  * Languages: en
 
+# Add the UEC packages
  * eucalyptus-simple-cluster
  * eucalyptus-node
  * uec
 
+# Add the necessary liveCD components, drop the rest
  * (avahi-autoipd)     # IPv4 link-local interface configuration support
  * (network-manager-gnome) # see NetworkRoaming spec
  * (network-manager-pptp)
