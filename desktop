@@ -192,6 +192,7 @@ Accessibility tools:
  * (usb-creator-gtk) [i386 amd64 lpia]
  * (computer-janitor-gtk)
  * (pitivi)
+ * (unclutter) # see bug #16492
 
 Desktop Experience:
  * notify-osd           # backend for libnotify
