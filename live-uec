@@ -11,6 +11,7 @@ Task-Seeds: live-common
 
  * eucalyptus-simple-cluster
  * eucalyptus-node
+ * uec
 
  * (avahi-autoipd)     # IPv4 link-local interface configuration support
  * (network-manager-gnome) # see NetworkRoaming spec
