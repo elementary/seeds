@@ -32,6 +32,9 @@ next LTS after 8.04 (most likely karmic+1):
  * language-support-fonts-zh
  * language-support-input-zh
 
+Ensure that uec-live doesn't get orphaned
+ * uec-live
+
 = Transitional packages for clean upgrades =
 
  * nvidia-185-modaliases # drop in lucid+1
