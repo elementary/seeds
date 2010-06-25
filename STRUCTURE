@@ -27,4 +27,4 @@ development: desktop
 dvd: server-ship ship development supported-common
 supported-desktop-extra: dvd dvd-live
 # make sure supported remains the last entry
-supported: dvd-live ship-live dvd language-packs supported-desktop-extra
+supported: dvd-live ship-live uec-live dvd language-packs supported-desktop-extra
