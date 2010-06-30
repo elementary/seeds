@@ -233,6 +233,4 @@ to compile a driver. -mdz
  * ubuntu-desktop # metapackage for everything here
  * (example-content) # dholbach: dapper feature goal (wiki.ubuntu.com/ExampleContent)
  * (libwmf0.2-7-gtk)
- * (bootchart) # scheduled for removal before maverick beta
- * (pybootchartgui) # scheduled for removal before maverick beta
  * (plymouth-theme-ubuntu-logo)
