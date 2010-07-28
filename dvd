@@ -170,7 +170,8 @@ These *-doc packages are in separate source packages, so Extra-Includes won't ca
  * myspell-de-de-oldspell # non-default alternative for language-support-de
  * myspell-fr # myspell-fr-gut preferred
  * ttf-alee
- * ttf-unfonts
+ * ttf-unfonts-core
+ * ttf-unfonts-extra
  * ttf-arphic-bkai00mp
  * ttf-arphic-bsmi00lp
  * ttf-arphic-gbsn00lp
