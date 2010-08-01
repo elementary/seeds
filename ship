@@ -80,8 +80,6 @@ Enough room on amd64 armel i386, not enough on ia64 powerpc:
 
 == Transitional packages ==
 
- * mktemp # replaced by coreutils in karmic
-
 == Germinate workarounds ==
 
  * wamerican  # iamerican Depends: ispell Recommends: wordlist, but wamerican isn't spotted in time so germinate arbitrarily picks miscfiles instead
