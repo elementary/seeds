@@ -30,7 +30,6 @@ modules instead.
 
  * build-essential
  * fakeroot
- * devscripts          # Debian package development
  * bzr [i386]          # amd64 CD overflowing, and the package became a hog
 
 == Common UNIX stuff ==
