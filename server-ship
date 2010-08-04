@@ -177,7 +177,6 @@ Printing:
  * cups-driver-gutenprint     # a ton of cupsys ppds, for real comprehensive printer support
  * pnm2ppa                      # several ppds require this
  * ghostscript                  # some ppds require this
- * hplip                        # support for HP all-in-one printers
 
 Other:
 
