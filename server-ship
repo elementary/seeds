@@ -69,16 +69,6 @@ restricted modules.
 
 = Servers and Daemons =
 
-Samba:
-
- * samba
- * smbclient
- * samba-doc
- * samba-doc-pdf
- * smbfs
- * libpam-smbpass
- * winbind
-
 Database:
 
  * mysql-client
