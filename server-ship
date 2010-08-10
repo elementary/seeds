@@ -104,7 +104,6 @@ Web:
  * libapache2-mod-auth-plain     # FabioMassimoDiNitto
  * libapache2-mod-security       # FabioMassimoDiNitto
  * libapache-mod-auth-kerb	 # ChuckShort
- * rabbitmq-server #ChuckShort
 
 PHP:
 
