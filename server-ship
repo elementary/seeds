@@ -199,7 +199,6 @@ Other:
  * bacula-sd-mysql # ChuckShort - SRP
  * bacula-sd-pgsql # ChuckShort - SRP
  * bacula-console # ChuckShort - SRP
- * ibmasm-utils # ChuckShort - SRP
  * likewise-open
  * nagios3
  * nagios3-common
