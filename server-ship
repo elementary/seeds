@@ -86,7 +86,6 @@ LDAP:
  * slapd
  * ldap-utils
  * ldap-auth-client	# metapackage that pulls in lib{pam,nss}-ldap and configuration magic
- * migrationtools	# ChuckShort for ServerPackageReview
 
 Web:
 
