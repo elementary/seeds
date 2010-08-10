@@ -200,11 +200,6 @@ Other:
  * bacula-sd-pgsql # ChuckShort - SRP
  * bacula-console # ChuckShort - SRP
  * likewise-open
- * nagios3
- * nagios3-common
- * nagios3-doc
- * nagios-plugins-basic
- * nagios-plugins-standard
  * libpkcs11-helper1
  * tomcat6
  * tomcat6-user
@@ -224,8 +219,6 @@ Other:
  * python-svn #ChuckShort - server-lucid-canonical-application-support
  * tdb-tools #ChuckShort - server-lucid-seeds
  * acl #ChuckShort - server-lucid-seeds
- * nagios-nrpe-server #ChuckShort - server lucid-canonical-application-support
- * nagios-nrpe-plugins #ChuckShort - server lucid-canonical-applicaton-support
 
 Application Servers:
 
