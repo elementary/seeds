@@ -187,7 +187,7 @@ Accessibility tools:
  * (tsclient)      # rdesktop/vnc/xdmcp client gui
  * (vinagre)      # needed by tsclient
  * (tomboy) [i386 powerpc amd64 ia64 sparc armel]  # Sebastian Dröge, approved by mdz
- * (f-spot) [i386 powerpc amd64 ia64 sparc armel]  # Andrew Mitchell, approved by mdz
+ * (shotwell)
  * (jockey-gtk) # enable non-free graphics and other drivers easily
  * (usb-creator-gtk) [i386 amd64 lpia]
  * (computer-janitor-gtk)
