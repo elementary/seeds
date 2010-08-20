@@ -41,7 +41,8 @@ Input methods:
  * (ibus)
  * (ibus-gtk)
  * (ibus-table)
- * (ibus-m17n)
+ * (ibus-pinyin)
+ * (ibus-pinyin-db-android)
 
 = Desktop GNOME Apps =
 
