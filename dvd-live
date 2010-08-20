@@ -15,7 +15,6 @@ Task-Test-new-install: skip show
 # currently not otherwise seeded on the desktop, but according to
 # doc/langpacks.txt they should be for their corresponding languages
  * ibus-chewing
- * ibus-pinyin
  * ibus-hangul
  * ibus-anthy
  * ibus-table-cangjie
