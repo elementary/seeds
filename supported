@@ -13,6 +13,7 @@ them as appropriate.
  * /^openoffice.org-help-/
  * /^openoffice.org-l10n-/
  * /^thunderbird-locale-/
+ * poppler-data
 
 The following input aids are also installed on demand by
 language-selector:
