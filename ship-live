@@ -32,7 +32,7 @@ These packages are needed in order to build Ubuntu packages.
 
  * grub # needed for dmraid et al
  * oem-config-gtk
- * lupin-support # installer-for-windows
+ * lupin-support [amd64 i386] # installer-for-windows
  * uboot-mkimage [armel] # needed on dove for uboot
 
 == Blacklist ==
