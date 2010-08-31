@@ -31,6 +31,7 @@ These packages are needed in order to build Ubuntu packages.
 == Installer ==
 
  * grub # needed for dmraid et al
+ * grub-efi [amd64]
  * oem-config-gtk
  * lupin-support [amd64 i386] # installer-for-windows
  * uboot-mkimage [armel] # needed on dove for uboot
