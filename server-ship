@@ -157,8 +157,7 @@ Printing:
  * cups                       # our preferred printer management infrastructure
  * cups-bsd                   # gives us lpc, lpq, lpr, lprm
  * cups-client                # gives us cancel, cupstestppd, lp, lpoptions, lppasswd, lpstat, cupsaddsmb, accept, lpadmin, lpinfo, lpmove
- * foomatic-db-engine           # integrate the foomatic printer driver engine
- * foomatic-db                  # the foomatic printer driver database
+ * foomatic-db-compressed-ppds  # the foomatic printer driver database
  * foomatic-filters             # converter from postscript to printer-specific formats
  * openprinting-ppds
  * cups-driver-gutenprint     # a ton of cupsys ppds, for real comprehensive printer support
