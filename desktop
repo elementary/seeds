@@ -89,7 +89,7 @@ We've chosen GNOME as our desktop user interface of choice. Rather than using th
  * checkbox-gtk
  * language-selector	   # MichaelVogt
  * metacity                # SebastienBacher
- * (compiz) [i386 powerpc amd64 ia64 sparc]		   # compiz is our default WM 'mkay
+ * (compiz) [i386 powerpc amd64]		   # compiz is our default WM 'mkay
  * (firefox)
  * (firefox-gnome-support)
  * (ubufox)                # ubuntu firefox tweaks - AlexanderSack
@@ -186,10 +186,10 @@ Accessibility tools:
  * screensaver-default-images
  * (tsclient)      # rdesktop/vnc/xdmcp client gui
  * (vinagre)      # needed by tsclient
- * (tomboy) [i386 powerpc amd64 ia64 sparc armel]  # Sebastian Dröge, approved by mdz
+ * (tomboy) [i386 powerpc amd64 armel]  # Sebastian Dröge, approved by mdz
  * (shotwell)
  * (jockey-gtk) # enable non-free graphics and other drivers easily
- * (usb-creator-gtk) [i386 amd64 lpia]
+ * (usb-creator-gtk) [i386 amd64]
  * (computer-janitor-gtk)
  * (pitivi)
 
@@ -219,11 +219,6 @@ to compile a driver. -mdz
  * (make)
  * (linux-headers-generic) [i386]
  * (linux-headers-generic) [amd64]
- * (linux-headers-ia64) [ia64]
- * (linux-headers-sparc64) [sparc]
- * (linux-headers-hppa32) [hppa]
- * (linux-headers-hppa64) [hppa]
- * (linux-headers-lpia) [lpia]
  * (linux-headers-dove) [armel]
 
 = Other =

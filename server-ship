@@ -25,23 +25,6 @@ restricted modules.
  * ${Kernel-Stem}-virtual [amd64]
  * linux-headers-virtual [amd64]
 
-== sparc ==
-
- * ${Kernel-Stem}-sparc64-smp [sparc]
- * linux-headers-sparc64-smp [sparc]
-
-== hppa ==
-
- * ${Kernel-Stem}-hppa32 [hppa]
- * ${Kernel-Stem}-hppa64 [hppa]
- * linux-headers-hppa32 [hppa]
- * linux-headers-hppa64 [hppa]
-
-== ia64 ==
-
- * ${Kernel-Stem}-ia64 [ia64]
- * linux-headers-ia64 [ia64]
-
 = From Ship =
 
  * ssh
