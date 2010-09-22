@@ -76,6 +76,7 @@ included due to matching Extra-Include patterns, and has no other effect):
  * Extra-Exclude: libcommons-dbcp-java-doc # depends on classpath
  * Extra-Exclude: javacc-doc # depends on classpath
  * Extra-Exclude: virtuoso-vad-doc # depends on binaries that were not MIR-approved
+ * Extra-Exclude: libgl1-mesa-dri-experimental-dbg # LP: #638097
 
 
 Transitional packages:
