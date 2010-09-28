@@ -19,6 +19,7 @@ See https://launchpad.net/bugs/427288 for why we need both of these (-i686 on UE
  * apport # LP: #424051
  * openssh-server
  * curl
+ * tasksel # LP: #649833
 
 = Documentation =
 
