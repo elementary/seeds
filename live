@@ -27,6 +27,7 @@ live images:
  * /^language-pack-gnome-[^-]+$/ [armel]
 
  * gparted
+ * cifs-utils # Needed by casper for CIFS root=
 
 == Ubiquity components ==
 
