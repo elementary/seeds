@@ -81,7 +81,6 @@ We've chosen GNOME as our desktop user interface of choice. Rather than using th
  * (libpam-gnome-keyring)
  * gnome-system-monitor     # SebastienBacher
  * gnome-power-manager		# OliverGrawert finally ready for shipment
- * gnome-system-tools
  * gnome-terminal
  * gnome-utils
  * (gnome-user-guide)
