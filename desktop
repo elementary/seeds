@@ -195,6 +195,7 @@ Accessibility tools:
  * (pitivi)
 
 Desktop Experience:
+ * unity
  * notify-osd           # backend for libnotify
  * (indicator-messages)
  * (evolution-indicator)
