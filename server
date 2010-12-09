@@ -2,7 +2,7 @@ Task-Section: server
 Task-Description: Basic Ubuntu server
 Task-Extended-Description: This task provides the Ubuntu server environment.
 Task-Relevance: 8
-Task-Key: ubuntu-serverguide
+Task-Key: screen
 
 This seed lists the packages we want to install by default in the new server install.
 
