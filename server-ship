@@ -149,7 +149,7 @@ Printing:
 
 Other:
 
- * dhcp3-server
+ * isc-dhcp-server
  * snmp
  * snmpd
  * openbsd-inetd
