@@ -10,8 +10,8 @@ them as appropriate.
 
  * /^gimp-help-/
  * /^evolution-documentation-/
- * /^openoffice.org-help-/
- * /^openoffice.org-l10n-/
+ * /^libreoffice-help-/
+ * /^libreoffice-l10n-/
  * /^thunderbird-locale-/
  * poppler-data
 
@@ -21,8 +21,8 @@ language-selector:
  * mozvoikko
  * openoffice.org-voikko
  * /^gnome-user-guide-/
- * /^openoffice.org-thesaurus-/
- * /^openoffice.org-hyphenation/
+ * /^libreoffice-thesaurus-/
+ * /^libreoffice-hyphenation/
 
 Transitional packages for the -zh split, to be kept until after the
 next LTS after 8.04 (most likely karmic+1):
@@ -105,7 +105,7 @@ Exclude some KDE-specific pieces:
 
 Temporary workarounds:
 
- * openoffice.org-evolution # no rdepends any more, noticed too late
+ * libreoffice-evolution # no rdepends any more, noticed too late
 
 = Build infrastructure =
 

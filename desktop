@@ -171,14 +171,15 @@ Accessibility tools:
 
 = Other Desktop GUI Apps =
 
- * (openoffice.org-style-human) [i386 amd64 powerpc]  # before OOo to avoid openoffice.org-style-default
- * (openoffice.org-gnome) [i386 amd64 powerpc]
- * (openoffice.org-writer) [i386 amd64 powerpc]
- * (openoffice.org-calc) [i386 amd64 powerpc]
- * (openoffice.org-impress) [i386 amd64 powerpc]
- * (openoffice.org-math) [i386 amd64 powerpc]
- #* (openoffice.org-evolution) [i386 amd64 powerpc] # pulls in oo.o-base, broken ATM
- * (openoffice.org-help-en-us) [i386 amd64 powerpc]
+ #* (libreoffice-style-human) [i386 amd64 powerpc]  # does not currently exist
+ * (libreoffice-style-tango) [i386 amd64 powerpc]
+ * (libreoffice-gnome) [i386 amd64 powerpc]
+ * (libreoffice-writer) [i386 amd64 powerpc]
+ * (libreoffice-calc) [i386 amd64 powerpc]
+ * (libreoffice-impress) [i386 amd64 powerpc]
+ * (libreoffice-math) [i386 amd64 powerpc]
+ #* (libreoffice-evolution) [i386 amd64 powerpc] # pulls in libo-base
+ * (libreoffice-help-en-us) [i386 amd64 powerpc]
  * (simple-scan)
  * evince
  * (gnome-screensaver) # recommends to allow for xscreensaver to be used
