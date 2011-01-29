@@ -172,7 +172,7 @@ Accessibility tools:
 = Other Desktop GUI Apps =
 
  #* (libreoffice-style-human) [i386 amd64 powerpc]  # does not currently exist
- * (libreoffice-style-galaxy) [i386 amd64 powerpc]
+ * (libreoffice-style-tango) [i386 amd64 powerpc]
  * (libreoffice-gnome) [i386 amd64 powerpc]
  * (libreoffice-writer) [i386 amd64 powerpc]
  * (libreoffice-calc) [i386 amd64 powerpc]
