@@ -75,6 +75,7 @@ Enough room on amd64 armel i386, not enough on powerpc:
 
  * grub # needed for dmraid et al
  * oem-config-gtk
+ * oem-config-slideshow-ubuntu
  * uboot-mkimage [armel]
 
 == Transitional packages ==
