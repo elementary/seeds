@@ -201,7 +201,7 @@ Desktop Experience:
  * (indicator-messages)
  * (evolution-indicator)
  * indicator-applet-session
- * ginn
+ * (ginn)
 
 Online Services:
  * (ubuntuone-client-gnome)
