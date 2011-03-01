@@ -13,13 +13,13 @@ Task-Seeds: live-common
  * language-support-${Languages}
 
  #* Languages: es xh pt de
- * Languages: es xh pt
+ * Languages: es xh
  * language-pack-${Languages} [!powerpc]
  * language-pack-gnome-${Languages} [!powerpc]
 
 Enough room on i386, not enough on amd64:
  #* Languages: fr bn zh-hans
- * Languages: de bn zh-hans
+ * Languages: bn zh-hans
  * language-pack-${Languages} [i386]
  * language-pack-gnome-${Languages} [i386]
 
