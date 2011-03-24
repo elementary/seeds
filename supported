@@ -20,9 +20,10 @@ language-selector:
 
  * mozvoikko
  * openoffice.org-voikko
+ * openoffice.org-hyphenation
  * /^gnome-user-guide-/
- * /^libreoffice-thesaurus-/
- * /^libreoffice-hyphenation/
+ * /^hyphen-/
+ * /^mythes-/
 
 Transitional packages for the -zh split, to be kept until after the
 next LTS after 8.04 (most likely karmic+1):
