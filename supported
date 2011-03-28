@@ -26,6 +26,13 @@ language-selector:
  * hyphen-en-us
  * /^mythes-/
 
+Transitional packages:
+
+ * /^openoffice.org-help-/
+ * /^openoffice.org-l10n-/
+ * /^openoffice.org-thesaurus-/
+ * /^openoffice.org-hyphenation-/
+
 = Rescued from Extra =
 
  * Extra-Include: *-dbg *-debug *-dev *-doc *-docs *-gcj gir1.2-*
