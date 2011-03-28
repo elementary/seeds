@@ -25,19 +25,6 @@ language-selector:
  * /^hyphen-..$/
  * /^mythes-/
 
-Transitional packages for the -zh split, to be kept until after the
-next LTS after 8.04 (most likely karmic+1):
-
- * language-pack-gnome-zh-base
- * language-pack-kde-zh-base
- * language-pack-zh-base
- * language-support-fonts-zh
- * language-support-input-zh
-
-= Transitional packages for clean upgrades =
-
- * nvidia-185-modaliases # drop in lucid+1
-
 = Rescued from Extra =
 
  * Extra-Include: *-dbg *-debug *-dev *-doc *-docs *-gcj gir1.2-*
@@ -83,8 +70,6 @@ included due to matching Extra-Include patterns, and has no other effect):
 
 Transitional packages:
 
- * Extra-Exclude: atm-dev
- * Extra-Exclude: mozilla-firefox-dev
  * Extra-Exclude: xserver-xorg-video-amd-dbg
 
 Exclude some KDE-specific pieces:
