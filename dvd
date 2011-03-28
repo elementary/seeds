@@ -44,7 +44,6 @@
  * xchat-gnome
  * thunderbird # world favourite mail client
  * nautilus-gksu
- * abrowser
 
  * libreoffice-filter-binfilter
  * libreoffice-style-andromeda
@@ -202,6 +201,14 @@ These *-doc packages are in separate source packages, so Extra-Includes won't ca
 
 It's useful to have these on the DVD so that it can be used as an
 apt source for upgrades.
+
+Keep until 12.04 LTS:
+ * compiz-fusion-plugins-main
+ * abrowser-branding
+ * firefox-branding
+ * openprinting-ppds-extra
+ * language-selector-qt
+ * netbook-launcher
 
 = Miscellaneous =
 
