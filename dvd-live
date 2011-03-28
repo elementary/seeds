@@ -9,6 +9,8 @@ Task-Test-new-install: skip show
 = Language packs; in theory we're putting them all on the DVD =
  * /^language-pack-[^-]+$/
  * /^language-pack-gnome-[^-]+$/
+ * /^language-pack-[^-]+-zh-han/
+ * /^language-pack-zh-han/
  * /^language-support-[^-]+$/
  * /^language-support-[^-]+-zh-han/
  * /^language-support-zh-han/
