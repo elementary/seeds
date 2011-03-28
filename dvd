@@ -95,6 +95,7 @@ Other:
  * python-virtinst
  * python-gtk-vnc
  * python-urlgrabber
+ * python-desktopcouch
 
 = Console Tools =
 
