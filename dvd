@@ -32,11 +32,17 @@
  * mono-classlib-1.0
  * libmono-sqlite1.0-cil
 
-== OpenOffice.org ==
+== LibreOffice ==
 
  * libreoffice-officebean
+ * libreoffice-nlpsolver
  * libreoffice-help-br
  * libreoffice-l10n-br
+ * libreoffice-filter-binfilter
+ * libreoffice-style-andromeda
+ * libreoffice-style-default
+ * libreoffice-style-industrial
+ * libreoffice-style-tango
  * libxsltc-java
 
 = Desktop =
@@ -44,12 +50,6 @@
  * xchat-gnome
  * thunderbird # world favourite mail client
  * nautilus-gksu
-
- * libreoffice-filter-binfilter
- * libreoffice-style-andromeda
- * libreoffice-style-default
- * libreoffice-style-industrial
- * libreoffice-style-tango
  * gnome-accessibility-themes-extras
 
  * icedtea-plugin
