@@ -23,6 +23,7 @@ language-selector:
  * openoffice.org-hyphenation
  * /^gnome-user-guide-/
  * /^hyphen-..$/
+ * hyphen-en-us
  * /^mythes-/
 
 = Rescued from Extra =
