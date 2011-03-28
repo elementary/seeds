@@ -102,6 +102,12 @@ Temporary workarounds:
 
  * libreoffice-evolution # no rdepends any more, noticed too late
 
+= Transitional packages =
+
+Keep until 12.04 LTS:
+ * abrowser-branding
+ * abrowser
+
 = Build infrastructure =
 
  * pkgbinarymangler # needs to be in main to stay in the buildd chroots
