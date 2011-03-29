@@ -107,6 +107,7 @@ Temporary workarounds:
 Keep until 12.04 LTS:
  * abrowser-branding
  * abrowser
+ * openoffice.org-base
 
 = Build infrastructure =
 
