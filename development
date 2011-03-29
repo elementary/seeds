@@ -50,6 +50,10 @@ Moved from supported:
  * idle             # Python IDE
  * python-pullparser        # modules, where python2.4-foo is in main
  * python-gpod
+ * python-ubuntuone
+
+ * desktopcouch-tools 
+ * desktopcouch-ubuntuone
 
 Extra GCC packages
 
