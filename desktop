@@ -125,6 +125,7 @@ We've chosen GNOME as our desktop user interface of choice. Rather than using th
  * (gvfs-fuse)			# let non-GNOME apps see GVFS via fuse
  * launchpad-integration	# Needed to show the launchpad menu items
  * (gnome-disk-utility)
+ * (overlay-scrollbar)
 
 Games: We only ship a few by default.
  * (aisleriot) [!powerpc]
