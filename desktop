@@ -95,7 +95,7 @@ We've chosen GNOME as our desktop user interface of choice. Rather than using th
  * (compiz) [i386 powerpc amd64]		   # compiz is our default WM 'mkay
  * (firefox)
  * (firefox-gnome-support)
- * (ubufox)                # ubuntu firefox tweaks - AlexanderSack
+ * (xul-ext-ubufox)        # ubuntu firefox tweaks - AlexanderSack
  * nautilus                # SebastienBacher
  * nautilus-sendto
  * (nautilus-share)
