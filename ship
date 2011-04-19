@@ -53,13 +53,13 @@ modules instead.
 == Common language packs ==
 
  # must have
- * Languages: en
+ * Languages: en es xh pt
  * language-pack-${Languages}
  * language-pack-gnome-${Languages}
  * language-support-${Languages}
 
 Enough room on amd64 armel i386, not enough on powerpc:
- * Languages: es xh pt de
+ * Languages: de
  * language-pack-${Languages} [!powerpc]
  * language-pack-gnome-${Languages} [!powerpc]
 
