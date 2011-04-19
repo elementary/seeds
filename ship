@@ -59,17 +59,13 @@ modules instead.
  * language-support-${Languages}
 
 Enough room on amd64 armel i386, not enough on powerpc:
- * Languages: de
+ * Languages: de fr bn hi ar ru zh-hans
  * language-pack-${Languages} [!powerpc]
  * language-pack-gnome-${Languages} [!powerpc]
 
- * Languages: fr
+ * Languages: ja
  * language-pack-${Languages} [i386]
  * language-pack-gnome-${Languages} [i386]
-
-# * Languages: bn hi ar ru zh-hans ja
-# * language-pack-${Languages}
-# * language-pack-gnome-${Languages}
 
 == Installer ==
 
