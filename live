@@ -10,7 +10,7 @@ Task-Seeds: live-common
  * Languages: en
  * language-pack-${Languages}
  * language-pack-gnome-${Languages}
- * language-support-${Languages}
+ * language-support-${Languages} [!powerpc]
 
  * Languages: es xh pt
  * language-pack-${Languages} [!powerpc]
