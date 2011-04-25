@@ -12,7 +12,7 @@ Task-Seeds: live-common
  * language-pack-gnome-${Languages}
  * language-support-${Languages}
 
- * Languages: es xh pt zh-hans
+ * Languages: es xh pt
  * language-pack-${Languages} [!powerpc]
  * language-pack-gnome-${Languages} [!powerpc]
 
@@ -20,6 +20,11 @@ Enough room on i386, not enough on amd64:
  * Languages: de fr
  * language-pack-${Languages} [i386]
  * language-pack-gnome-${Languages} [i386]
+
+Enough room on amd64, not enough on i386:
+ * Languages: zh-hans
+ * language-pack-${Languages} [amd64]
+ * language-pack-gnome-${Languages} [amd64]
 
 We should have enough space to include all langpacks on the 1 GB armel desktop
 live images:
