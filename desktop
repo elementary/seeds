@@ -186,8 +186,7 @@ Accessibility tools:
  * xscreensaver-gl # MRS, we will only ship a subset of the screensavers from rss-glx and xscreensaver
  * xscreensaver-data # subset package for the non-gl screensavers we ship
  * screensaver-default-images
- * (tsclient)      # rdesktop/vnc/xdmcp client gui
- * (vinagre)      # needed by tsclient
+ * (vinagre)
  * (tomboy) [i386 powerpc amd64 armel]  # Sebastian Dröge, approved by mdz
  * (shotwell)
  * (jockey-gtk) # enable non-free graphics and other drivers easily
