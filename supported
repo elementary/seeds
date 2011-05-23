@@ -13,6 +13,7 @@ them as appropriate.
  * /^libreoffice-help-/
  * /^libreoffice-l10n-/
  * /^thunderbird-locale-/
+ * /^firefox-locale-/
  * poppler-data
 
 The following input aids are also installed on demand by
