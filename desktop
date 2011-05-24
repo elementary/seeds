@@ -61,6 +61,7 @@ We've chosen GNOME as our desktop user interface of choice. Rather than using th
  * gcalctool
  * gconf-editor
  * gdm
+ * lightdm                 # Proposed GDM replacement for Oneiric, see https://blueprints.launchpad.net/ubuntu/+spec/desktop-o-lightdm
  * (gdm-guest-session)
  * gedit
  * gnome-about
