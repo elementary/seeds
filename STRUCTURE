@@ -21,10 +21,10 @@ uec: standard
 uec-live: standard
 ship: boot installer desktop d-i-requirements
 live: desktop live-common
-dvd-live: live
+dvd-live: live dvd-live-langsupport
 ship-live: boot live
 development: desktop
-dvd: server-ship ship development supported-common
+dvd: server-ship ship development supported-common dvd-langsupport
 supported-desktop-extra: dvd dvd-live
 # make sure supported remains the last entry
 supported: dvd-live ship-live uec-live dvd language-packs supported-desktop-extra
