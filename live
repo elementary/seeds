@@ -10,7 +10,13 @@ Task-Seeds: live-common
  * Languages: en
  * language-pack-${Languages}
  * language-pack-gnome-${Languages}
- * language-support-${Languages} [!powerpc]
+
+# subset of English language support which we want by default:
+ * firefox-locale-en
+ * libreoffice-help-en-us
+ * hunspell-en-us
+ * openoffice.org-hyphenation
+ * wamerican
 
  * Languages: es xh pt zh-hans
  * language-pack-${Languages} [!powerpc]

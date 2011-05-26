@@ -11,14 +11,6 @@ Task-Test-new-install: skip show
  * /^language-pack-gnome-[^-]+$/
  * /^language-pack-[^-]+-zh-han/
  * /^language-pack-zh-han/
- * /^language-support-[^-]+$/
- * /^language-support-[^-]+-zh-han/
- * /^language-support-zh-han/
-
-= Language support =
-
-We'll gradually move packages from language-support-* to language-selector
- * hunspell-sh
 
 = Input methods =
 # currently not otherwise seeded on the desktop, but according to
