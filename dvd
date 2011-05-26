@@ -169,8 +169,6 @@ These *-doc packages are in separate source packages, so Extra-Includes won't ca
 = Localisation =
 
  * gettext-el
- * myspell-de-de-oldspell # non-default alternative for language-support-de
- * myspell-fr # myspell-fr-gut preferred
  * ttf-alee
  * ttf-unfonts-core
  * ttf-unfonts-extra
