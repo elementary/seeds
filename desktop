@@ -197,6 +197,7 @@ Accessibility tools:
 
 Desktop Experience:
  * unity
+ * unity-2d
  * notify-osd           # backend for libnotify
  * (indicator-messages)
  * (evolution-indicator)
