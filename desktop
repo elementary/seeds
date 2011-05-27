@@ -62,7 +62,6 @@ We've chosen GNOME as our desktop user interface of choice. Rather than using th
  * lightdm                 # Proposed GDM replacement for Oneiric, see https://blueprints.launchpad.net/ubuntu/+spec/desktop-o-lightdm
  * (gdm-guest-session)
  * gedit
- * gnome-about
  * software-center
  * (app-install-data-partner)
  * (gnome-codec-install)    # new default codec installation tool (from debian)
