@@ -34,7 +34,6 @@ Task-Seeds: live-common
  * gdm
  * (gdm-guest-session)
  * gedit
- * gnome-about
  * software-center
  * (app-install-data-partner)
  * (gnome-codec-install)    # new default codec installation tool (from debian)
