@@ -28,7 +28,6 @@ Task-Seeds: live-common
  * (ibus-pinyin)
  * (ibus-pinyin-db-android)
  * (apport-gtk)
- * desktop-file-utils
  * eog
  * file-roller
  * gcalctool
