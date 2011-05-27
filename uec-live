@@ -32,7 +32,6 @@ Task-Seeds: live-common
  * eog
  * file-roller
  * gcalctool
- * gconf-editor
  * gdm
  * (gdm-guest-session)
  * gedit
