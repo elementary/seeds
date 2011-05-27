@@ -65,7 +65,6 @@ We've chosen GNOME as our desktop user interface of choice. Rather than using th
  * (gdm-guest-session)
  * gedit
  * gnome-about
- * gnome-applets
  * software-center
  * (app-install-data-partner)
  * (gnome-codec-install)    # new default codec installation tool (from debian)
@@ -76,7 +75,6 @@ We've chosen GNOME as our desktop user interface of choice. Rather than using th
  * gnome-media
  * gnome-menus
  * gnome-nettool            # part of 2.8
- * gnome-panel
  * gnome-session
  * seahorse
  * (libpam-gnome-keyring)
@@ -103,7 +101,6 @@ We've chosen GNOME as our desktop user interface of choice. Rather than using th
  * (banshee-extension-ubuntuonemusicstore)
  * (brasero)		   # Oliver Grawert
  * rarian-compat
- * alacarte		   # default menu editor
  * ssh-askpass-gnome
  * synaptic                # default GUI package manager
  * software-properties-gtk # default GUI sources.list editor
