@@ -55,7 +55,6 @@ Task-Seeds: live-common
  * gucharmap               # SebastienBacher
  * checkbox-gtk
  * language-selector	   # MichaelVogt
- * (compiz) [i386 powerpc amd64]		   # compiz is our default WM 'mkay
  * (firefox)
  * (firefox-gnome-support)
  * (xul-ext-ubufox)        # ubuntu firefox tweaks - AlexanderSack
