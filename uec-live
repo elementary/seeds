@@ -84,7 +84,6 @@ Task-Seeds: live-common
  * launchpad-integration	# Needed to show the launchpad menu items
  * (gnome-disk-utility)
  * gnome-themes-selected
- * gnome-themes-ubuntu
  * ubuntu-artwork
  * ubuntu-sounds
  * gnome-session-canberra	# Needed to make login/logout sounds audible.
