@@ -37,7 +37,6 @@ Task-Seeds: live-common
  * (gdm-guest-session)
  * gedit
  * gnome-about
- * gnome-applets
  * software-center
  * (app-install-data-partner)
  * (gnome-codec-install)    # new default codec installation tool (from debian)
@@ -47,7 +46,6 @@ Task-Seeds: live-common
  * gnome-media
  * gnome-menus
  * gnome-nettool            # part of 2.8
- * gnome-panel
  * gnome-session
  * seahorse
  * (libpam-gnome-keyring)
@@ -68,7 +66,6 @@ Task-Seeds: live-common
  * nautilus-sendto
  * (nautilus-share)
  * rarian-compat
- * alacarte		   # default menu editor
  * ssh-askpass-gnome
  * synaptic                # default GUI package manager
  * software-properties-gtk # default GUI sources.list editor
