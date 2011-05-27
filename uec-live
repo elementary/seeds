@@ -42,7 +42,6 @@ Task-Seeds: live-common
  * (gnome-codec-install)    # new default codec installation tool (from debian)
  * gnome-control-center
  * system-config-printer-gnome
- * gnome-icon-theme
  * gnome-media
  * gnome-menus
  * gnome-nettool            # part of 2.8
