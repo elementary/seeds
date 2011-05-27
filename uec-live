@@ -71,7 +71,6 @@ Task-Seeds: live-common
  * (xdg-utils)		   # useful utilities
  * xdg-user-dirs
  * xdg-user-dirs-gtk
- * pulseaudio-esound-compat
  * pulseaudio
  * (pulseaudio-module-gconf)
  * (pulseaudio-module-x11)
