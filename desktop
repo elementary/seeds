@@ -87,7 +87,6 @@ We've chosen GNOME as our desktop user interface of choice. Rather than using th
  * gucharmap               # SebastienBacher
  * checkbox-gtk
  * language-selector-gnome # MichaelVogt
- * (compiz) [i386 powerpc amd64]		   # compiz is our default WM 'mkay
  * (firefox)
  * (firefox-gnome-support)
  * (xul-ext-ubufox)        # ubuntu firefox tweaks - AlexanderSack
