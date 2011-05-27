@@ -42,4 +42,3 @@ These packages make up the Ubiquity live installer.
  * ubiquity-frontend-gtk
  * ubiquity-ubuntu-artwork
  * ubiquity-slideshow-ubuntu
- * python-webkit # Needed by ubiquity-frontend-gtk for ubiquity-slideshow.
