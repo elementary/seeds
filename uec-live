@@ -21,6 +21,7 @@ Task-Seeds: live-common
  * (network-manager-pptp)
  * (network-manager-pptp-gnome)
  * xterm                         # Provide a backup terminal and complete X env.
+ * libnotify-bin		 # various scripts need notify-send (such as .bashrc's "alert")
  * (im-switch)
  * (ibus)
  * (ibus-gtk)
