@@ -26,12 +26,6 @@ modules instead.
  * bsd-mailx
  * vlan                   # userland tools to config 8021q support
 
-== Development ==
-
- * build-essential
- * fakeroot
- * bzr [i386]          # amd64 CD overflowing, and the package became a hog
-
 == Common UNIX stuff ==
 
  * nfs-common		  # allows people to access NFS filesystems
