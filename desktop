@@ -147,16 +147,12 @@ For Ubuntu we need libsdl1.2debian-pulseaudio for the above gstreamer0.10-plugin
 Accessibility tools:
 
  * (gnome-accessibility-themes)
- * (gnome-mag)
  * (gnome-orca)
  * (onboard)
  * (brltty)
- * (brltty-x11)
  * (xcursor-themes)
- * (espeak)
  * (speech-dispatcher)
  * (mousetweaks)
- * (libgail-gnome-module) # Needed for libbonoboui/libgnomeui widget accessibility
 
 = Other Desktop GUI Apps =
 
