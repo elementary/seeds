@@ -32,8 +32,7 @@ Task-Seeds: live-common
  * eog
  * file-roller
  * gcalctool
- * gdm
- * (gdm-guest-session)
+ * lightdm
  * gedit
  * software-center
  * (app-install-data-partner)
