@@ -152,6 +152,8 @@ Accessibility tools:
  * (speech-dispatcher)
  * (mousetweaks)
  * (at-spi2-core)
+ * (libatk-adaptor)
+ * (libgail-3-common)
 
 = Other Desktop GUI Apps =
 
