@@ -172,7 +172,6 @@ Accessibility tools:
  * xscreensaver-data # subset package for the non-gl screensavers we ship
  * screensaver-default-images
  * (vinagre)
- * (tomboy) [i386 powerpc amd64 armel]  # Sebastian Dröge, approved by mdz
  * (shotwell)
  * (jockey-gtk) # enable non-free graphics and other drivers easily
  * (usb-creator-gtk) [i386 amd64]
