@@ -61,7 +61,6 @@ Task-Seeds: live-common
  * (nautilus-share)
  * rarian-compat
  * ssh-askpass-gnome
- * synaptic                # default GUI package manager
  * software-properties-gtk # default GUI sources.list editor
  * update-manager
  * update-notifier

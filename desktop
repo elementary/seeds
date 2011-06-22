@@ -95,7 +95,6 @@ We've chosen GNOME as our desktop user interface of choice. Rather than using th
  * (brasero)		   # Oliver Grawert
  * rarian-compat
  * ssh-askpass-gnome
- * synaptic                # default GUI package manager
  * software-properties-gtk # default GUI sources.list editor
  * (totem)
  * (totem-mozilla)
