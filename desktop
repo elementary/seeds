@@ -154,6 +154,7 @@ Accessibility tools:
  * (libatk-adaptor)
  * (libgail-common)
  * (libgail-3-common)
+ * (qt-at-spi)
 
 = Other Desktop GUI Apps =
 
