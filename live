@@ -27,11 +27,6 @@ Enough room on i386, not enough on amd64:
  * language-pack-${Languages} [i386]
  * language-pack-gnome-${Languages} [i386]
 
-We should have enough space to include all langpacks on the 1 GB armel desktop
-live images:
- * /^language-pack-[^-]+$/ [armel]
- * /^language-pack-gnome-[^-]+$/ [armel]
-
  * gparted
  * cifs-utils # Needed by casper for CIFS root=
 
