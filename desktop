@@ -51,10 +51,8 @@ We've chosen GNOME as our desktop user interface of choice. Rather than using th
 
  * (apport-gtk)
  * eog
- * (evolution)
- * (evolution-plugins)
- * (evolution-exchange)
- * (evolution-webcal)
+ * (thunderbird)
+ * (thunderbird-gnome-support)
  * file-roller
  * (empathy)
  * (telepathy-idle)        # basic IRC support for empathy
@@ -164,7 +162,6 @@ Accessibility tools:
  * (libreoffice-calc) [i386 amd64 powerpc]
  * (libreoffice-impress) [i386 amd64 powerpc]
  * (libreoffice-math) [i386 amd64 powerpc]
- #* (libreoffice-evolution) [i386 amd64 powerpc] # pulls in libo-base
  * (libreoffice-help-en-us) [i386 amd64 powerpc]
  * (simple-scan)
  * evince
@@ -182,7 +179,6 @@ Desktop Experience:
  * unity
  * unity-2d
  * notify-osd           # backend for libnotify
- * (evolution-indicator)
  * (ginn)
 
 Online Services:
