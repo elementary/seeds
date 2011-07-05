@@ -180,6 +180,7 @@ Desktop Experience:
  * unity-2d
  * notify-osd           # backend for libnotify
  * (ginn)
+ * (sni-qt)
 
 Online Services:
  * (ubuntuone-client-gnome)
