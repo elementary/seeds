@@ -24,7 +24,7 @@ Task-Seeds: live-common
  * libnotify-bin		 # various scripts need notify-send (such as .bashrc's "alert")
  * (im-switch)
  * (ibus)
- * (ibus-gtk)
+ * (ibus-gtk3)
  * (ibus-table)
  * (ibus-pinyin)
  * (ibus-pinyin-db-android)
