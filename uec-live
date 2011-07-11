@@ -88,6 +88,7 @@ Task-Seeds: live-common
  * xscreensaver-gl # MRS, we will only ship a subset of the screensavers from rss-glx and xscreensaver
  * xscreensaver-data # subset package for the non-gl screensavers we ship
  * screensaver-default-images
+ * (tomboy)
  * (jockey-gtk) # enable non-free graphics and other drivers easily
  * (usb-creator-gtk) [i386 amd64]
  * (gcc)
