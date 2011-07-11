@@ -40,7 +40,7 @@ Input methods:
 
  * (im-switch)
  * (ibus)
- * (ibus-gtk)
+ * (ibus-gtk3)
  * (ibus-table)
  * (ibus-pinyin)
  * (ibus-pinyin-db-android)
