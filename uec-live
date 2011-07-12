@@ -76,7 +76,6 @@ Task-Seeds: live-common
  * (gvfs-fuse)			# let non-GNOME apps see GVFS via fuse
  * launchpad-integration	# Needed to show the launchpad menu items
  * (gnome-disk-utility)
- * gnome-themes-selected
  * ubuntu-artwork
  * ubuntu-sounds
  * gnome-session-canberra	# Needed to make login/logout sounds audible.
