@@ -15,6 +15,7 @@ them as appropriate.
  * /^thunderbird-locale-/
  * /^firefox-locale-/
  * poppler-data
+ * ibus-sunpinyin
 
 The following input aids are also installed on demand by
 language-selector:
