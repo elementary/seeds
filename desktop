@@ -122,7 +122,6 @@ Games: We only ship a few by default.
 
 Themes: we will ship only the very best looking themes. We won't ship everything that Debian ships, just a custom package that includes the themes we want. These packages are included for size guidance until we have Ubuntu-specific packages.
 
- * gnome-themes-selected
  * ubuntu-artwork
  * ubuntu-sounds
  * gnome-session-canberra	# Needed to make login/logout sounds audible.
