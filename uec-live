@@ -26,7 +26,8 @@ Task-Seeds: live-common
  * (ibus)
  * (ibus-gtk3)
  * (ibus-table)
- * (ibus-sunpinyin)
+ * (ibus-pinyin)
+ * (ibus-pinyin-db-android)
  * (apport-gtk)
  * eog
  * file-roller
