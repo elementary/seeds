@@ -1,9 +1,0 @@
-Task-Section: server
-Task-Description: Cloud computing: Walrus storage service
-Task-Extended-Description: Eucalyptus Walrus controller.
-Task-Key: eucalyptus-walrus
-Task-Test-new-install: skip show
-
- * eucalyptus-walrus [amd64 i386]
- * avahi-daemon [amd64 i386]
- * euca2ools [amd64 i386]
