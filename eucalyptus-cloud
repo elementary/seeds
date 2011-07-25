@@ -1,9 +1,0 @@
-Task-Section: server
-Task-Description: Cloud computing: top-level cloud controller
-Task-Extended-Description: Eucalyptus cloud controller.
-Task-Key: eucalyptus-cloud
-Task-Test-new-install: skip show
-
- * eucalyptus-cloud [amd64 i386]
- * avahi-daemon [amd64 i386]
- * euca2ools [amd64 i386]
