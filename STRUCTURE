@@ -11,7 +11,7 @@ tomcat-server: standard
 virt-host: standard
 server: standard
 server-ship: boot installer dns-server lamp-server openssh-server print-server samba-server postgresql-server mail-server server tomcat-server virt-host d-i-requirements
-uec: standard
+cloud-image: standard
 ship: boot installer desktop d-i-requirements
 live: desktop live-common
 dvd-live-langsupport: live
