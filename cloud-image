@@ -1,11 +1,11 @@
 Task-Section: server
-Task-Description: Ubuntu Enterprise Cloud (instance)
-Task-Extended-Description: Packages included in UEC images.
+Task-Description: Ubuntu Cloud Image (instance)
+Task-Extended-Description: Packages included Ubuntu Cloud images.  Previously this task was named 'uec'.
 Task-Key: cloud-init
 
 = Libraries =
 
-See https://launchpad.net/bugs/427288 for why we need both of these (-i686 on UEC, -xen on EC2).
+See https://launchpad.net/bugs/427288 for why we need both of these (-i686 on kvm, -xen on EC2).
 
  * libc6-i686 [i386]
  * libc6-xen [i386]
