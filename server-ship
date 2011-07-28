@@ -200,6 +200,15 @@ Other:
  * tdb-tools #ChuckShort - server-lucid-seeds
  * acl #ChuckShort - server-lucid-seeds
  * ipxe
+ * python-sqlalchemy
+ * python-gflags
+ * python-mox
+ * python-router
+ * python-webob
+ * python-tempita
+ * python-lockfile
+ * pep8
+ * python-xattr
 
 Application Servers:
 
