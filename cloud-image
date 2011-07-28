@@ -1,6 +1,6 @@
 Task-Section: server
 Task-Description: Ubuntu Cloud Image (instance)
-Task-Extended-Description: Packages included Ubuntu Cloud images.  Previously this task was named 'uec'.
+Task-Extended-Description: Packages included in Ubuntu Cloud images.  Previously this task was named 'uec'.
 Task-Key: cloud-init
 
 = Libraries =
