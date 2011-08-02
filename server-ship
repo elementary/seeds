@@ -203,13 +203,14 @@ Other:
  * python-sqlalchemy
  * python-gflags
  * python-mox
- * python-router
+ * python-routes
  * python-webob
  * python-tempita
  * python-lockfile
  * pep8
  * python-xattr
  * python-sqlalchemy
+ * python-migrate
 
 Application Servers:
 
