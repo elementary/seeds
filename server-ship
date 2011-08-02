@@ -209,6 +209,7 @@ Other:
  * python-lockfile
  * pep8
  * python-xattr
+ * python-sqlalchemy
 
 Application Servers:
 
