@@ -1,0 +1,87 @@
+= Language support for en =
+ * firefox-locale-en
+ * hunspell-en-ca
+ * hunspell-en-us
+ * hyphen-en-us
+ * language-pack-en
+ * language-pack-gnome-en
+ * libreoffice-help-en-gb
+ * libreoffice-help-en-us
+ * libreoffice-l10n-en-gb
+ * libreoffice-l10n-en-za
+ * myspell-en-au
+ * myspell-en-gb
+ * myspell-en-za
+ * mythes-en-au
+ * mythes-en-us
+ * openoffice.org-hyphenation
+ * thunderbird-locale-en
+ * thunderbird-locale-en-gb
+ * thunderbird-locale-en-us
+ * wamerican
+ * wbritish
+
+= Language support for es =
+ * firefox-locale-es
+ * language-pack-es
+ * language-pack-gnome-es
+ * libreoffice-help-es
+ * libreoffice-l10n-es
+ * myspell-es
+ * openoffice.org-hyphenation
+ * thunderbird-locale-es
+ * thunderbird-locale-es-ar
+ * thunderbird-locale-es-es
+ * wspanish
+
+= Language support for xh =
+ * language-pack-gnome-xh
+ * language-pack-xh
+ * libreoffice-l10n-xh
+ * myspell-xh
+
+= Language support for pt =
+ * firefox-locale-pt
+ * language-pack-gnome-pt
+ * language-pack-pt
+ * libreoffice-help-pt
+ * libreoffice-help-pt-br
+ * libreoffice-l10n-pt
+ * libreoffice-l10n-pt-br
+ * myspell-pt
+ * openoffice.org-hyphenation
+ * thunderbird-locale-pt
+ * thunderbird-locale-pt-br
+ * thunderbird-locale-pt-pt
+ * wbrazilian
+ * wportuguese
+
+= Language support for de =
+ * firefox-locale-de
+ * hunspell-de-at
+ * hunspell-de-ch
+ * hunspell-de-de
+ * hyphen-de
+ * language-pack-de
+ * language-pack-gnome-de
+ * libreoffice-help-de
+ * libreoffice-l10n-de
+ * mythes-de
+ * mythes-de-ch
+ * thunderbird-locale-de
+ * wngerman
+ * wogerman
+ * wswiss
+
+= Language support for fr =
+ * firefox-locale-fr
+ * hunspell-fr
+ * hyphen-fr
+ * language-pack-fr
+ * language-pack-gnome-fr
+ * libreoffice-help-fr
+ * libreoffice-l10n-fr
+ * mythes-fr
+ * thunderbird-locale-fr
+ * wfrench
+
