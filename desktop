@@ -165,9 +165,6 @@ Accessibility tools:
  * (simple-scan)
  * evince
  * (gnome-screensaver) # recommends to allow for xscreensaver to be used
- * xscreensaver-gl # MRS, we will only ship a subset of the screensavers from rss-glx and xscreensaver
- * xscreensaver-data # subset package for the non-gl screensavers we ship
- * screensaver-default-images
  * (vinagre)
  * (tomboy)
  * (shotwell)
