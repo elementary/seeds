@@ -21,7 +21,8 @@ development: desktop
 dvd-langsupport: ship
 dvd: server-ship ship development supported-common dvd-langsupport
 usb: boot installer desktop usb-langsupport
-usb-live: usb live-common
+usb-langsupport: usb
+usb-live: usb-langsupport live-common
 supported-desktop-extra: dvd dvd-live usb-live
 # make sure supported remains the last entry
 supported: dvd-live ship-live dvd usb-live language-packs supported-desktop-extra
