@@ -182,7 +182,7 @@ Desktop Experience:
  * (sni-qt)
 
 Online Services:
- * (ubuntuone-client-gnome)
+ #* (ubuntuone-client-gnome)
  * (ubuntuone-control-panel-gtk)
 
 = Documentation =
