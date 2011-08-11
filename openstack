@@ -1,0 +1,28 @@
+Task-Section: server
+Task-Description: Openstack
+Task-Extended-Description: All in one openstack cloud.
+Task-Key: python-nova
+
+== nova ==
+ * rabbitmq-server
+ * nova-doc
+ * nova-api
+ * nova-network 
+ * nova-objectstore 
+ * nova-scheduler
+ * nova-compute
+ * euca2ools
+ * unzip
+
+== swift ==
+ * python-swift
+ * swift
+ * swift-account
+ * swift-container
+ * swift-doc
+ * swift-object
+ * swift-proxy
+
+== glance ==
+ * glance
+ * python-glance
