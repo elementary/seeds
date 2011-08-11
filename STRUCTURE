@@ -9,8 +9,9 @@ postgresql-server: standard
 mail-server: standard
 tomcat-server: standard
 virt-host: standard
+openstack: server
 server: standard
-server-ship: boot installer dns-server lamp-server openssh-server print-server samba-server postgresql-server mail-server server tomcat-server virt-host d-i-requirements
+server-ship: boot installer dns-server lamp-server openssh-server print-server samba-server postgresql-server mail-server server tomcat-server virt-host d-i-requirements openstack
 cloud-image: standard
 ship: boot installer desktop d-i-requirements
 live: desktop live-common
@@ -25,4 +26,4 @@ usb: boot installer desktop usb-langsupport
 usb-live: usb-langsupport live-common
 supported-desktop-extra: dvd dvd-live usb-live
 # make sure supported remains the last entry
-supported: dvd-live ship-live dvd usb-live language-packs supported-desktop-extra
+supported: dvd-live ship-live dvd usb-live language-packs supported-desktop-extra openstack
