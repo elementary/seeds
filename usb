@@ -25,8 +25,8 @@ Task-Extended-Description: This task provides the extra packages installed on th
 
 == Games ==
 
- * wesnoth        # NOTE: universe package
- * frozen-bubble  # NOTE: universe package
+ #* wesnoth        # NOTE: universe package
+ #* frozen-bubble  # NOTE: universe package
 
 
 = Documentation =
@@ -86,7 +86,7 @@ Task-Extended-Description: This task provides the extra packages installed on th
 
 = Development =
 
- * anjuta # NOTE: universe package
+ #* anjuta # NOTE: universe package
  * devhelp
  * manpages-dev
  * packaging-guide
