@@ -10,3 +10,7 @@ Task-Key: samba
  * smbclient
  * smbfs
  * winbind
+
+= Germinate workarounds =
+
+ * perl-modules # for update-inetd dependency on virtual libfile-temp-perl (see #723731)
