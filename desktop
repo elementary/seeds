@@ -126,6 +126,7 @@ Themes: we will ship only the very best looking themes. We won't ship everything
  * ubuntu-artwork
  * ubuntu-sounds
  * gnome-session-canberra	# Needed to make login/logout sounds audible.
+ * dmz-cursor-theme
 
 The gstreamer0.10 packages we want to install:
 
