@@ -78,7 +78,6 @@ We've chosen GNOME as our desktop user interface of choice. Rather than using th
  * gnome-screenshot
  * gnome-search-tool
  * gnome-system-log
- * (gnome-user-guide)
  * gucharmap               # SebastienBacher
  * checkbox-gtk
  * language-selector-gnome # MichaelVogt
