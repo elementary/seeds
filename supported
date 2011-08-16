@@ -23,7 +23,6 @@ language-selector:
  * mozvoikko
  * openoffice.org-voikko
  * openoffice.org-hyphenation
- * /^gnome-user-guide-/
  * /^hyphen-..$/
  * hyphen-en-us
  * /^mythes-/
