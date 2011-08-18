@@ -23,3 +23,16 @@ Task-Test-new-install: skip show
  * ibus-table-extraphrase
  * ibus-table-wubi
  * ibus-table-yong
+
+= Ubiquity components =
+
+These packages make up the Ubiquity live installer.
+
+ * ubiquity-frontend-gtk
+ * ubiquity-ubuntu-artwork
+ * ubiquity-slideshow-ubuntu
+
+= Other =
+
+ * gparted
+ * cifs-utils # Needed by casper for CIFS root=
