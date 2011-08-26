@@ -88,7 +88,6 @@ We've chosen GNOME as our desktop user interface of choice. Rather than using th
  * nautilus-sendto
  * (nautilus-share)
  * (banshee)
- * (banshee-extension-ubuntuonemusicstore)
  * (brasero)		   # Oliver Grawert
  * rarian-compat
  * ssh-askpass-gnome
@@ -182,8 +181,7 @@ Desktop Experience:
  * (sni-qt)
 
 Online Services:
- #* (ubuntuone-client-gnome)
- * (ubuntuone-control-panel-gtk)
+ * (ubuntuone-installer)
 
 = Documentation =
 
