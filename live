@@ -13,7 +13,7 @@ Task-Seeds: live-common
 
 # subset of English language support which we want by default:
  * firefox-locale-en
- * libreoffice-help-en-us
+ * libreoffice-help-en-us [i386 amd64 powerpc]
  * hunspell-en-us
  * openoffice.org-hyphenation
  * wamerican
