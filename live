@@ -1,7 +1,7 @@
 Task-Per-Derivative: 1
 Task-Section: user
-Task-Description: Ubuntu live CD
-Task-Extended-Description: This task provides the extra packages installed on the Ubuntu live CD. It is neither useful nor recommended to install this task in other environments.
+Task-Description: elementary live CD
+Task-Extended-Description: This task provides the extra packages installed on the elementary live CD. It is neither useful nor recommended to install this task in other environments.
 Task-Relevance: 2
 Task-Key: ubiquity-frontend-gtk
 Task-Test-new-install: skip show
@@ -12,20 +12,12 @@ Task-Seeds: live-common
  * language-pack-gnome-${Languages}
 
 # subset of English language support which we want by default:
- * firefox-locale-en
- * libreoffice-help-en-us [i386 amd64 powerpc]
  * hunspell-en-us
- * openoffice.org-hyphenation
  * wamerican
 
- * Languages: es xh pt zh-hans
+ * Languages: es xh pt zh-hans de fr sv ru uk it nl
  * language-pack-${Languages} [!powerpc]
  * language-pack-gnome-${Languages} [!powerpc]
-
-Enough room on i386, not enough on amd64:
- * Languages: de
- * language-pack-${Languages} [i386]
- * language-pack-gnome-${Languages} [i386]
 
  * gparted
  * cifs-utils # Needed by casper for CIFS root=
@@ -35,5 +27,5 @@ Enough room on i386, not enough on amd64:
 These packages make up the Ubiquity live installer.
 
  * ubiquity-frontend-gtk
- * ubiquity-ubuntu-artwork
- * ubiquity-slideshow-ubuntu
+# * ubiquity-ubuntu-artwork
+# * ubiquity-slideshow-ubuntu

@@ -25,34 +25,24 @@
  * libpurple-bin	# no particular reason to keep this single binary in universe
  * quilt		# build-deps used to be pulled in automatically, now seed this directly
 
-== Mono ==
-
- * mono-devel
- * mono-jay
- * mono-classlib-1.0
- * libmono-sqlite1.0-cil
-
 == LibreOffice ==
-
- * libreoffice-officebean
- * libreoffice-nlpsolver
- * libreoffice-help-br
- * libreoffice-l10n-br
- * libreoffice-filter-binfilter
- * libreoffice-style-default
- * libreoffice-style-industrial
- * libreoffice-style-tango
- * libxsltc-java
+ * (libreoffice-style-human) [i386 amd64 powerpc]
+ * (libreoffice-gnome) [i386 amd64 powerpc]
+ * (libreoffice-writer) [i386 amd64 powerpc]
+ * (libreoffice-calc) [i386 amd64 powerpc]
+ * (libreoffice-impress) [i386 amd64 powerpc]
+ * (libreoffice-math) [i386 amd64 powerpc]
+ * (libreoffice-help-en-us) [i386 amd64 powerpc]
+ * (libreoffice-officebean) [i386 amd64 powerpc]
+ * (libreoffice-nlpsolver) [i386 amd64 powerpc]
+ * (libreoffice-filter-binfilter) [i386 amd64 powerpc]
+ * (libreoffice-style-human) [i386 amd64 powerpc]
+ * (libxsltc-java) [i386 amd64 powerpc]
 
 = Desktop =
 
- * xchat-gnome
- * thunderbird # world favourite mail client
- * nautilus-gksu
- * gnome-accessibility-themes-extras
-
+ * transmission
  * icedtea-plugin
-
  * gimp
 
 Other:
@@ -199,7 +189,6 @@ apt source for upgrades.
 
 Keep until 12.04 LTS:
  * compiz-fusion-plugins-main
- * firefox-branding
  * openprinting-ppds-extra
  * language-selector-qt
  * netbook-launcher

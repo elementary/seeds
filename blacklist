@@ -61,3 +61,34 @@ clamav
 # mdz, 2004-06-14: upstream deliberately obfuscates vulnerabilities
 # mdz, 2004-06-20: CAN-2002-0757, CAN-2003-0101, SNS 74, SNS 75
 webmin
+
+### elementary ###
+
+# we don't want Unity. Thanks.
+unity
+unity-2d
+# we don't want Ubuntu branding as well
+plymouth-theme-ubuntu-logo
+branding-ubuntu
+ubuntu-artwork
+ubiquity-ubuntu-artwork
+ubiquity-slideshow-ubuntu
+# including Ubuntu metapackages would be ridiculos
+ubuntu-desktop
+# totem recommends totem-mozilla, which recommends Firefox or Epiphany or virtual package that confuses Germinate
+totem-mozilla
+# make sure firefox, nautilus and banshee are not pulled in
+firefox
+nautilus
+banshee
+# fonts replaced by ttf-unifont, which accounts for more languages and is smaller
+ttf-dejavu-core
+ttf-indic-fonts-core
+ttf-kacst-one
+ttf-khmeros-core
+ttf-lao
+ttf-punjabi-fonts
+ttf-takao-pgothic
+ttf-thai-tlwg
+ttf-unfonts-core
+ttf-wqy-microhei

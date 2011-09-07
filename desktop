@@ -1,15 +1,15 @@
 Task-Per-Derivative: 1
 Task-Section: user
-Task-Description: Ubuntu desktop
-Task-Extended-Description: This task provides the Ubuntu desktop environment.
-Task-Key: ubuntu-desktop
+Task-Description: elementary desktop
+Task-Extended-Description: This task provides elementary OS desktop
+Task-Key: elementary-desktop
 Task-Seeds: desktop-common
 
 = Hardware and Architecture Support =
 
 == Architecture-independent ==
 
- * libgd2-xpm # force the xpm-enabled version for edubuntu compatibility
+ * (libgd2-xpm) # force the xpm-enabled version for edubuntu compatibility
 
 Bluetooth:
 
@@ -27,13 +27,11 @@ Basic network services and Windows integration.
 
 = GUI infrastructure =
 
- * xterm                         # Provide a backup terminal and complete X env.
- * libnotify-bin		 # various scripts need notify-send (such as .bashrc's "alert")
+ * (xterm)                         # Provide a backup terminal and complete X env.
+ * (libnotify-bin)		 # various scripts need notify-send (such as .bashrc's "alert")
 
 Extra fonts (should be common, but not so for space reasons):
 
- * (ttf-wqy-microhei)
- * (ttf-unfonts-core)
  * (ttf-liberation)
 
 Input methods:
@@ -45,148 +43,126 @@ Input methods:
  * (ibus-pinyin)
  * (ibus-pinyin-db-android)
 
+= elementary desktop =
+
+ * elementary-artwork
+ * pantheon
+
+Fonts:
+
+ * (ttf-droid)
+ * (ttf-unifont)
+
+Indicators:
+
+ * (indicator-application)
+ * (indicator-datetime)
+ * (indicator-me)
+ * (indicator-session)
+ * (indicator-sound)
+
+OS-only stuff:
+
+ * (elementary-default-settings)
+ * (gnome-session-bin)       # starts up cerbere according to default-settings
+ * (exe-wrapper)
+
 = Desktop GNOME Apps =
 
-We've chosen GNOME as our desktop user interface of choice. Rather than using the meta-packages they are deliberately expanded so that we can select things a bit better.
+Pantheon is not as complete as we want it to be, so we still need some GNOME apps.
+Here's a list.
 
  * (apport-gtk)
- * eog
- * (thunderbird)
- * (thunderbird-gnome-support)
- * file-roller
+ * (file-roller)
+ * (p7zip-full)            # elementary: supports a crazy number of formats
  * (empathy)
  * (telepathy-idle)        # basic IRC support for empathy
- * gcalctool
- * lightdm                 # Proposed GDM replacement for Oneiric, see https://blueprints.launchpad.net/ubuntu/+spec/desktop-o-lightdm
- * gedit
- * software-center
+ * (gcalctool)
+ * (lightdm)                 # Proposed GDM replacement for Oneiric, see https://blueprints.launchpad.net/ubuntu/+spec/desktop-o-lightdm
+ * (gedit)
+ * (software-center)
  * (app-install-data-partner)
  * (gnome-codec-install)    # new default codec installation tool (from debian)
- * (transmission-gtk)       # simple GNOME frontend for bittorrent downloads
- * gnome-control-center
- * system-config-printer-gnome
- * gnome-media
- * gnome-menus
- * gnome-nettool            # part of 2.8
- * gnome-session
- * seahorse
+ * (system-config-printer-gnome)
+ * (gnome-media)
+ * (gnome-menus)
+ * (seahorse)
  * (libpam-gnome-keyring)
- * gnome-system-monitor     # SebastienBacher
- * gnome-power-manager		# OliverGrawert finally ready for shipment
- * gnome-terminal
- * baobab
- * gnome-screenshot
- * gnome-search-tool
- * gnome-system-log
- * gucharmap               # SebastienBacher
- * checkbox-gtk
- * language-selector-gnome # MichaelVogt
- * (firefox)
- * (firefox-gnome-support)
- * (xul-ext-ubufox)        # ubuntu firefox tweaks - AlexanderSack
- * nautilus                # SebastienBacher
- * nautilus-sendto
- * (nautilus-share)
- * (banshee)
+ * (gnome-system-monitor)     # SebastienBacher
+ * (gnome-power-manager)		# OliverGrawert finally ready for shipment
+ * (gnome-screenshot)
+ * (gnome-search-tool)
+ * (gucharmap)               # SebastienBacher
+ * (language-selector-gnome) # MichaelVogt
  * (brasero)		   # Oliver Grawert
- * rarian-compat
- * ssh-askpass-gnome
- * software-properties-gtk # default GUI sources.list editor
+ * (rarian-compat)
+ * (ssh-askpass-gnome)
+ * (software-properties-gtk) # default GUI sources.list editor
  * (totem)
- * (totem-mozilla)
- * update-manager
- * update-notifier
- * (vino) # vnc server
- * yelp
- * zenity
+ * (update-manager)
+ * (update-notifier)
+ * (zenity)
  * (xdg-utils)		   # useful utilities
- * xdg-user-dirs
- * xdg-user-dirs-gtk
- * pulseaudio
+ * (xdg-user-dirs)
+ * (xdg-user-dirs-gtk)
+ * (pulseaudio)
  * (pulseaudio-module-gconf)
  * (pulseaudio-module-x11)
  * (pulseaudio-module-bluetooth)
  * (gvfs-fuse)			# let non-GNOME apps see GVFS via fuse
- * launchpad-integration	# Needed to show the launchpad menu items
- * (gnome-disk-utility)
  * (overlay-scrollbar)
 
-Games: We only ship a few by default.
- * (aisleriot) [!powerpc]
- * (gnome-mahjongg) [!powerpc]
- * (gnomine) [!powerpc]
- * (gnome-sudoku) [!powerpc]
- * (gbrainy) [!powerpc]
- * (branding-ubuntu) [!powerpc]       # Ubuntu branding for some games
-
-Themes: we will ship only the very best looking themes. We won't ship everything that Debian ships, just a custom package that includes the themes we want. These packages are included for size guidance until we have Ubuntu-specific packages.
-
- * ubuntu-artwork
- * ubuntu-sounds
- * gnome-session-canberra	# Needed to make login/logout sounds audible.
- * dmz-cursor-theme
+# * gnome-session-canberra	# Needed to make login/logout sounds audible - but we have no sounds, right?
+ * (dmz-cursor-theme)
 
 The gstreamer0.10 packages we want to install:
 
- * gstreamer0.10-alsa
- * gstreamer0.10-plugins-base-apps
- * gstreamer0.10-pulseaudio
+ * (gstreamer0.10-alsa)
+ * (gstreamer0.10-plugins-base-apps)
+ * (gstreamer0.10-pulseaudio)
 
 For Ubuntu we need libsdl1.2debian-pulseaudio for the above gstreamer0.10-plugins-base-apps < libtheora-dev < libsdl1.2-dev < libsdl1.2debian.
 
- * libsdl1.2debian # tiny and needed for clean CDROM upgrades
- * libsdl1.2debian-pulseaudio
+ * (libsdl1.2debian) # tiny and needed for clean CDROM upgrades
+ * (libsdl1.2debian-pulseaudio)
 
 Accessibility tools:
 
- * (gnome-accessibility-themes)
  * (gnome-orca)
  * (onboard)
  * (brltty)
  * (xcursor-themes)
  * (speech-dispatcher)
  * (mousetweaks)
- * at-spi2-core
- * libatk-adaptor
+ * (at-spi2-core)
+ * (libatk-adaptor)
  * (libgail-common)
  * (libgail-3-common)
  * (qt-at-spi)
 
 = Other Desktop GUI Apps =
 
- * (libreoffice-style-human) [i386 amd64 powerpc]
- * (libreoffice-gnome) [i386 amd64 powerpc]
- * (libreoffice-writer) [i386 amd64 powerpc]
- * (libreoffice-calc) [i386 amd64 powerpc]
- * (libreoffice-impress) [i386 amd64 powerpc]
- * (libreoffice-math) [i386 amd64 powerpc]
- * (libreoffice-help-en-us) [i386 amd64 powerpc]
  * (simple-scan)
- * evince
+ * (evince)
  * (gnome-screensaver) # recommends to allow for xscreensaver to be used
- * (vinagre)
- * (tomboy)
  * (shotwell)
  * (jockey-gtk) # enable non-free graphics and other drivers easily
  * (usb-creator-gtk) [i386 amd64]
  * (deja-dup)
- * xdiagnose
- * gwibber
+ * (xdiagnose)
+ * (gwibber)
 
 Desktop Experience:
- * unity
- * unity-2d
- * notify-osd           # backend for libnotify
+ * (notify-osd)           # backend for libnotify
  * (ginn)
- * (sni-qt)
+ * (sni-qt)             # needed for Qt apps to show up as indicators
 
 Online Services:
  * (ubuntuone-installer)
 
 = Documentation =
 
- * doc-base			# integrates with scrollkeeper
- * (ubuntu-docs)
+ * (doc-base)			# integrates with scrollkeeper
 
 = Development =
 
@@ -203,7 +179,6 @@ to compile a driver. -mdz
 
 = Other =
 
- * ubuntu-desktop # metapackage for everything here
+ * elementary-desktop # metapackage for everything here
  * (example-content) # dholbach: dapper feature goal (wiki.ubuntu.com/ExampleContent)
  * (libwmf0.2-7-gtk)
- * (plymouth-theme-ubuntu-logo)
