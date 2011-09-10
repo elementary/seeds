@@ -73,7 +73,7 @@ gnome-session
 plymouth-theme-ubuntu-logo
 branding-ubuntu
 ubuntu-artwork
-ubiquity-ubuntu-artwork
+#ubiquity-ubuntu-artwork - it needs SOME artwork, we should provide one
 ubiquity-slideshow-ubuntu
 # including Ubuntu metapackages would be ridiculos
 ubuntu-desktop
