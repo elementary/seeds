@@ -27,5 +27,6 @@ Task-Seeds: live-common
 These packages make up the Ubiquity live installer.
 
  * ubiquity-frontend-gtk
-# * ubiquity-ubuntu-artwork
+# * ubiquity-elementary-artwork
 # * ubiquity-slideshow-ubuntu
+ * plank-item-ubiquity
