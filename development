@@ -59,7 +59,6 @@ Extra GCC packages
 
  * gcj-4.4-source
  * g++-4.5-multilib  # seed it directly until changing the defaults
- * gfortran-4.5
  * cpp-4.5-doc
  * gcc-4.5-doc
  * g++-4.5-doc
