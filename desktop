@@ -66,6 +66,7 @@ OS-only stuff:
  * (elementary-default-settings)
  * (gnome-session-bin)       # starts up cerbere according to default-settings
  * (exe-wrapper)
+ * (pantheon-lightdm-theme)
 
 = Desktop GNOME Apps =
 
@@ -149,16 +150,12 @@ Accessibility tools:
  * (jockey-gtk) # enable non-free graphics and other drivers easily
  * (usb-creator-gtk) [i386 amd64]
  * (deja-dup)
- * (xdiagnose)
  * (gwibber)
 
 Desktop Experience:
  * (notify-osd)           # backend for libnotify
  * (ginn)
  * (sni-qt)             # needed for Qt apps to show up as indicators
-
-Online Services:
- * (ubuntuone-installer)
 
 = Documentation =
 
