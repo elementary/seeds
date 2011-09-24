@@ -67,6 +67,7 @@ webmin
 # we don't want Unity. Thanks.
 unity
 unity-2d
+unity-greeter
 # gnome-session is a config package, the binary is in gnome-session-bin
 gnome-session
 # we don't want Ubuntu branding as well
