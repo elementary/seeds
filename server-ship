@@ -212,6 +212,7 @@ Other:
  * python-sqlalchemy
  * python-migrate
  * powernap-server
+ * cobbler-enlist-udeb
 
 Application Servers:
 
