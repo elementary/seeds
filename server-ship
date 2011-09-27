@@ -213,6 +213,7 @@ Other:
  * python-migrate
  * powernap-server
  * cobbler-enlist-udeb
+ * libxmlrpc-core-c3-0-udeb
 
 Application Servers:
 
