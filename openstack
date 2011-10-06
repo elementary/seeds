@@ -13,8 +13,8 @@ Task-Key: python-nova
  * nova-volume
  * nova-compute
  * nova-ajax-console-proxy
+ * nova-compute-kvm
  * nova-compute-lxc
- * nova-compute-uml
  * nova-compute-xen
  * nova-vncproxy
  * euca2ools
