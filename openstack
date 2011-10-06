@@ -10,7 +10,13 @@ Task-Key: python-nova
  * nova-network 
  * nova-objectstore 
  * nova-scheduler
+ * nova-volume
  * nova-compute
+ * nova-ajax-console-proxy
+ * nova-compute-lxc
+ * nova-compute-uml
+ * nova-compute-xen
+ * nova-vncproxy
  * euca2ools
  * unzip
 
