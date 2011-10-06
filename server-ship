@@ -211,7 +211,8 @@ Other:
  * python-xattr
  * python-sqlalchemy
  * python-migrate
- * powernap-server
+ * powernap-serve
+ * cobbler-enlist
  * cobbler-enlist-udeb
  * powernap
 
