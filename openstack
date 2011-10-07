@@ -15,7 +15,6 @@ Task-Key: python-nova
  * nova-ajax-console-proxy
  * nova-compute-kvm
  * nova-compute-lxc
- * nova-compute-xen
  * nova-vncproxy
  * euca2ools
  * unzip
