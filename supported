@@ -45,6 +45,7 @@ Localization images:
 = Installed on demand =
 
  * ubuntuone-client-gnome
+ * apparmor-utils    # AppArmor profile development
 
 = Extra server bits =
 
