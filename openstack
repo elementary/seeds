@@ -31,3 +31,6 @@ Task-Key: python-nova
 == glance ==
  * glance
  * python-glance
+
+== keystone ==
+ * keystone
