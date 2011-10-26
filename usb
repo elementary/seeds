@@ -55,6 +55,8 @@ Task-Seeds: desktop-common desktop
 == Fonts ==
 
  * ttf-alee
+ * ttf-nanum-coding
+ * ttf-nanum-extra
  * ttf-unfonts-core
  * ttf-unfonts-extra
  * ttf-arphic-bkai00mp
