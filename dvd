@@ -166,6 +166,8 @@ These *-doc packages are in separate source packages, so Extra-Includes won't ca
 
  * gettext-el
  * ttf-alee
+ * ttf-nanum-coding
+ * ttf-nanum-extra
  * ttf-unfonts-core
  * ttf-unfonts-extra
  * ttf-arphic-bkai00mp
