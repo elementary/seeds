@@ -51,6 +51,7 @@ Localization images:
 
  * postgresql-plperl-9.1
  * postgresql-plpython-9.1
+ * postgresql-plpython3-9.1
  * postgresql-pltcl-9.1
 
 = Rescued from Extra =
