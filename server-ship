@@ -62,7 +62,7 @@ Database:
 
 Proxy:
 
- * squid # RobertCollins
+ * squid3 # RobertCollins for squid generally, JamieStrandboge for squid3 (LP: #885283)
 
 LDAP:
 
