@@ -46,6 +46,11 @@ Localization images:
 
  * ubuntuone-client-gnome
  * apparmor-utils    # AppArmor profile development
+ * apparmor-notify   # LP: #893266
+ * apparmor-profiles
+ * libapache2-mod-apparmor
+ * libpam-apparmor
+ * python-libapparmor
 
 = Extra server bits =
 
