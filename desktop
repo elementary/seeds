@@ -87,9 +87,7 @@ We've chosen GNOME as our desktop user interface of choice. Rather than using th
  * nautilus                # SebastienBacher
  * nautilus-sendto
  * (nautilus-share)
- * (banshee) [!armel]
- * (banshee-extension-ubuntuonemusicstore) [!armel]
- * (rhythmbox) [armel]
+ * (rhythmbox)
  * (brasero)		   # Oliver Grawert
  * rarian-compat
  * ssh-askpass-gnome
@@ -119,7 +117,6 @@ Games: We only ship a few by default.
  * (gnome-mahjongg) [!powerpc]
  * (gnomine) [!powerpc]
  * (gnome-sudoku) [!powerpc]
- * (gbrainy) [!powerpc]
  * (branding-ubuntu) [!powerpc]       # Ubuntu branding for some games
 
 Themes: we will ship only the very best looking themes. We won't ship everything that Debian ships, just a custom package that includes the themes we want. These packages are included for size guidance until we have Ubuntu-specific packages.
@@ -167,7 +164,6 @@ Accessibility tools:
  * evince
  * (gnome-screensaver) # recommends to allow for xscreensaver to be used
  * (vinagre)
- * (tomboy)
  * (shotwell)
  * (jockey-gtk) # enable non-free graphics and other drivers easily
  * (usb-creator-gtk) [i386 amd64]
