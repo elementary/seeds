@@ -10,7 +10,12 @@ Task-Key: python-nova
  * nova-network 
  * nova-objectstore 
  * nova-scheduler
+ * nova-volume
  * nova-compute
+ * nova-ajax-console-proxy
+ * nova-compute-kvm
+ * nova-compute-lxc
+ * nova-vncproxy
  * euca2ools
  * unzip
 
@@ -26,3 +31,6 @@ Task-Key: python-nova
 == glance ==
  * glance
  * python-glance
+
+== keystone ==
+ * keystone

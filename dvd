@@ -51,7 +51,7 @@ Other:
  * dia-gnome           # useful but a bit specialist
  * finger
  * gftp-gtk
- * glade-gnome
+ * glade
  * memprof
  * xnest
  * xrestop
@@ -80,7 +80,6 @@ Other:
  * python-virtinst
  * python-gtk-vnc
  * python-urlgrabber
- * python-desktopcouch
  * pitivi
 
 = Console Tools =
@@ -156,6 +155,8 @@ These *-doc packages are in separate source packages, so Extra-Includes won't ca
 
  * gettext-el
  * ttf-alee
+ * ttf-nanum-coding
+ * fonts-nanum-extra
  * ttf-unfonts-core
  * ttf-unfonts-extra
  * ttf-arphic-bkai00mp
