@@ -52,7 +52,7 @@ Input methods:
 Fonts:
 
  * (ttf-droid)
- * (ttf-unifont)
+ttf-unifont is shipped by the platform package (IDK why, but let's hope it's done on purpose)
 
 Indicators:
 
