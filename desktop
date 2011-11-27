@@ -106,13 +106,13 @@ Here's a list.
  * (update-notifier)
  * (zenity)
  * (xdg-utils)		   # useful utilities
- * (xdg-user-dirs)
+ * xdg-user-dirs
  * (xdg-user-dirs-gtk)
  * (pulseaudio)
  * (pulseaudio-module-gconf)
  * (pulseaudio-module-x11)
  * (pulseaudio-module-bluetooth)
- * gvfs-bin			# mostly used as xdg-open backend
+ * (gvfs-bin)			# mostly used as xdg-open backend
  * (gvfs-fuse)			# let non-GNOME apps see GVFS via fuse
  * (overlay-scrollbar)
 
