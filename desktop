@@ -84,50 +84,19 @@ Here's a list.
  * (gedit)
  * (software-center)
  * (app-install-data-partner)
-<<<<<<< TREE
  * (gnome-codec-install)    # new default codec installation tool (from debian)
  * (system-config-printer-gnome)
  * (gnome-media)
  * (gnome-menus)
  * (seahorse)
-=======
- * (transmission-gtk)       # simple GNOME frontend for bittorrent downloads
- * gnome-control-center
- * system-config-printer-gnome
- * gnome-media
- * gnome-menus
- * gnome-nettool            # part of 2.8
- * gnome-session
- * seahorse
->>>>>>> MERGE-SOURCE
  * (libpam-gnome-keyring)
-<<<<<<< TREE
  * (gnome-system-monitor)     # SebastienBacher
  * (gnome-power-manager)		# OliverGrawert finally ready for shipment
  * (gnome-screenshot)
  * (gnome-search-tool)
+ * (gnome-font-viewer)
  * (gucharmap)               # SebastienBacher
  * (language-selector-gnome) # MichaelVogt
-=======
- * gnome-system-monitor     # SebastienBacher
- * gnome-power-manager		# OliverGrawert finally ready for shipment
- * gnome-terminal
- * baobab
- * gnome-screenshot
- * gnome-search-tool
- * gnome-system-log
- * gnome-font-viewer
- * gucharmap               # SebastienBacher
- * checkbox-gtk
- * language-selector-gnome # MichaelVogt
- * (firefox)
- * (firefox-gnome-support)
- * (xul-ext-ubufox)        # ubuntu firefox tweaks - AlexanderSack
- * nautilus                # SebastienBacher
- * nautilus-sendto
- * (nautilus-share)
- * (rhythmbox)
->>>>>>> MERGE-SOURCE
  * (brasero)		   # Oliver Grawert
  * (rarian-compat)
  * (ssh-askpass-gnome)
@@ -147,24 +116,8 @@ Here's a list.
  * (gvfs-fuse)			# let non-GNOME apps see GVFS via fuse
  * (overlay-scrollbar)
 
-<<<<<<< TREE
 # * gnome-session-canberra	# Needed to make login/logout sounds audible - but we have no sounds, right?
- * (dmz-cursor-theme)
-=======
-Games: We only ship a few by default.
- * (aisleriot) [!powerpc]
- * (gnome-mahjongg) [!powerpc]
- * (gnomine) [!powerpc]
- * (gnome-sudoku) [!powerpc]
- * (branding-ubuntu) [!powerpc]       # Ubuntu branding for some games
-
-Themes: we will ship only the very best looking themes. We won't ship everything that Debian ships, just a custom package that includes the themes we want. These packages are included for size guidance until we have Ubuntu-specific packages.
-
- * ubuntu-artwork
- * ubuntu-sounds
- * gnome-session-canberra	# Needed to make login/logout sounds audible.
  * dmz-cursor-theme
->>>>>>> MERGE-SOURCE
 
 The gstreamer0.10 packages we want to install:
 
@@ -195,25 +148,11 @@ Accessibility tools:
  * (simple-scan)
  * (evince)
  * (gnome-screensaver) # recommends to allow for xscreensaver to be used
-<<<<<<< TREE
-=======
- * (vinagre)
->>>>>>> MERGE-SOURCE
  * (shotwell)
  * (jockey-gtk) # enable non-free graphics and other drivers easily
- * (usb-creator-gtk) [i386 amd64]
- * (deja-dup)
- * (gwibber)
 
 Desktop Experience:
-<<<<<<< TREE
  * (notify-osd)           # backend for libnotify
-=======
- * unity
- * unity-2d
- * unity-greeter        # lightdm greeter for unity
- * notify-osd           # backend for libnotify
->>>>>>> MERGE-SOURCE
  * (ginn)
  * (sni-qt)             # needed for Qt apps to show up as indicators
 
