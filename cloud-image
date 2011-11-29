@@ -36,3 +36,7 @@ See https://launchpad.net/bugs/427288 for why we need both of these (-i686 on kv
  * euca2ools
  * grub-legacy-ec2
  * lxcguest
+
+= Maintenance =
+
+ * update-notifier-common # LP: 897815
