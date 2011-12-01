@@ -24,6 +24,7 @@ This seed exists only to allow fine tuning the 3y support time
  * rhythmbox
  * evolution-exchange
  * evolution-indicator
+ * banshee  # re-evaluating before precise beta-1
 
 = For Project Qin
  * gwibber-service-sina
