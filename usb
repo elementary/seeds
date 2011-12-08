@@ -29,6 +29,9 @@ Task-Seeds: desktop-common desktop
  #* wesnoth        # NOTE: universe package
  #* frozen-bubble  # NOTE: universe package
 
+== Desktop ==
+
+ * vim
 
 = Documentation =
 
