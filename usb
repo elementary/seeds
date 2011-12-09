@@ -32,6 +32,7 @@ Task-Seeds: desktop-common desktop
 == Desktop ==
 
  * vim
+ * byobu
 
 = Documentation =
 
