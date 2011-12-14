@@ -28,3 +28,8 @@ This seed lists the packages we want to install by default in the new server ins
 = Maintenance =
 
  * update-notifier-common
+
+= Other =
+
+ * fonts-ubuntu-font-family-console
+
