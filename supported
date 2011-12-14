@@ -49,6 +49,7 @@ Transitional packages:
  * openoffice.org-style-tango 
  * openoffice.org-writer 
  * openoffice.org
+ * openoffice.org-common
 
 Needed in main so that LP can import translations for it:
 
