@@ -1,0 +1,20 @@
+Task-Per-Derivative: 1
+Task-Section: user
+Task-Description: Pantheon Desktop Environment
+Task-Extended-Description: Desktop environment based on GNOME with a strong focus on user experience, developed by elementary project
+Task-Key: pantheon
+Task-Metapackage: pantheon
+
+# apps shipped by default, in alphabetical order:
+ * (beatbox)
+ * (contractor)
+ * (dexter)
+ * (lingo)
+ * (marlin)
+ * (maya)
+ * (midori)
+ * (pantheon-calculator)
+ * (pantheon-terminal)
+ * (switchboard)
+
+# it also depends on the shell package, but it's not listed here (see STRUCTURE file)

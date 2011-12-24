@@ -1,6 +1,8 @@
 include platform.precise
 artwork:
-desktop: desktop-common artwork
+pantheon-shell:
+pantheon: pantheon-shell
+desktop: desktop-common artwork pantheon
 dns-server: standard
 lamp-server: standard
 openssh-server: standard

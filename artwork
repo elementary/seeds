@@ -4,6 +4,6 @@ Task-Description: elementary artwork
 Task-Extended-Description: This task provides the acclaimed elementary desktop artwork
 Task-Key: elementary-artwork
 
- * (elementary-icon-theme)
- * (elementary-theme)
+ * elementary-icon-theme
+ * elementary-theme
  * (elementary-wallpapers)
