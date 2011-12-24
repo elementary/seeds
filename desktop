@@ -30,11 +30,6 @@ Basic network services and Windows integration.
  * (xterm)                         # Provide a backup terminal and complete X env.
  * (libnotify-bin)		 # various scripts need notify-send (such as .bashrc's "alert")
 
-Extra fonts (should be common, but not so for space reasons):
-
- * (fonts-nanum)
- * (fonts-liberation)
-
 Input methods:
 
  * (im-switch)
@@ -80,8 +75,8 @@ Here's a list.
  * (empathy)
  * (telepathy-idle)        # basic IRC support for empathy
  * (gcalctool)
- * (lightdm)                 # Proposed GDM replacement for Oneiric, see https://blueprints.launchpad.net/ubuntu/+spec/desktop-o-lightdm
- * (gedit)
+ * (lightdm)               # Proposed GDM replacement for Oneiric, see https://blueprints.launchpad.net/ubuntu/+spec/desktop-o-lightdm
+ * (gedit)                 # TODO: consider Scratch
  * (software-center)
  * (app-install-data-partner)
  * (gnome-codec-install)    # new default codec installation tool (from debian)
@@ -101,7 +96,7 @@ Here's a list.
  * (rarian-compat)
  * (ssh-askpass-gnome)
  * (software-properties-gtk) # default GUI sources.list editor
- * (totem)             # TODO: replace with Audience if it's OK
+ * (totem)             # TODO: consider Audience
  * (update-manager)
  * (update-notifier)
  * (zenity)
