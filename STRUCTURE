@@ -1,3 +1,4 @@
+feature follow-recommends
 include platform.precise
 artwork:
 pantheon-shell:
