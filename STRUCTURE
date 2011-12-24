@@ -1,4 +1,5 @@
 include platform.precise
+artwork:
 desktop: desktop-common artwork
 dns-server: standard
 lamp-server: standard
