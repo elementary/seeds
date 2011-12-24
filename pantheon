@@ -13,8 +13,6 @@ Task-Metapackage: pantheon
  * (marlin)
  * (maya)
  * (midori)
- * (pantheon-calculator)
+ * (pantheon-shell)
  * (pantheon-terminal)
  * (switchboard)
-
-# it also depends on the shell package, but it's not listed here (see STRUCTURE file)
