@@ -47,7 +47,7 @@ Input methods:
 = elementary desktop =
 
  * elementary-artwork
- * pantheon
+ * pantheon  # metapackage for the whole DE; currently maintained independently from seeds (seeds are overly complicated for such things)
 
 Fonts:
 
