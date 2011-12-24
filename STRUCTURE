@@ -1,5 +1,5 @@
 include platform.precise
-desktop: desktop-common
+desktop: desktop-common artwork
 dns-server: standard
 lamp-server: standard
 openssh-server: standard
