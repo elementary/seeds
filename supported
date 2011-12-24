@@ -33,6 +33,23 @@ Transitional packages:
  * /^openoffice.org-l10n-/
  * /^openoffice.org-thesaurus-/
  * /^openoffice.org-hyphenation-/
+ * openoffice.org-calc 
+ * openoffice.org-draw 
+ * openoffice.org-emailmerge 
+ * openoffice.org-filter-binfilter 
+ * openoffice.org-gnome 
+ * openoffice.org-gtk 
+ * openoffice.org-impress 
+ * openoffice.org-java-common 
+ * openoffice.org-kde 
+ * openoffice.org-math 
+ * openoffice.org-officebean 
+ * openoffice.org-style-andromeda 
+ * openoffice.org-style-oxygen 
+ * openoffice.org-style-tango 
+ * openoffice.org-writer 
+ * openoffice.org
+ * openoffice.org-common
 
 Needed in main so that LP can import translations for it:
 

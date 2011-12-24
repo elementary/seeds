@@ -101,20 +101,20 @@ Here's a list.
  * (rarian-compat)
  * (ssh-askpass-gnome)
  * (software-properties-gtk) # default GUI sources.list editor
- * (totem)
+ * (totem)             # TODO: replace with Audience if it's OK
  * (update-manager)
  * (update-notifier)
  * (zenity)
- * (xdg-utils)		   # useful utilities
+ * (xdg-utils)		   # useful utilities - required by some apps and scripts
  * xdg-user-dirs
  * (xdg-user-dirs-gtk)
- * (pulseaudio)
+ * (pulseaudio)        # some people complain about it
  * (pulseaudio-module-gconf)
  * (pulseaudio-module-x11)
  * (pulseaudio-module-bluetooth)
  * (gvfs-bin)			# mostly used as xdg-open backend
  * (gvfs-fuse)			# let non-GNOME apps see GVFS via fuse
- * (overlay-scrollbar)
+ * (overlay-scrollbar)  # 'cause it's a good idea
 
 # * gnome-session-canberra	# Needed to make login/logout sounds audible - but we have no sounds, right?
  * dmz-cursor-theme
@@ -125,10 +125,9 @@ The gstreamer0.10 packages we want to install:
  * (gstreamer0.10-plugins-base-apps)
  * (gstreamer0.10-pulseaudio)
 
-For Ubuntu we need libsdl1.2debian-pulseaudio for the above gstreamer0.10-plugins-base-apps < libtheora-dev < libsdl1.2-dev < libsdl1.2debian.
+For Ubuntu we need libsdl1.2debian for the above gstreamer0.10-plugins-base-apps < libtheora-dev < libsdl1.2-dev < libsdl1.2debian.
 
- * (libsdl1.2debian) # tiny and needed for clean CDROM upgrades
- * (libsdl1.2debian-pulseaudio)
+ * (libsdl1.2debian)
 
 Accessibility tools:
 
@@ -140,6 +139,7 @@ Accessibility tools:
  * (mousetweaks)
  * (at-spi2-core)
  * (libatk-adaptor)
+ * (libatk-adaptor-schemas)
  * (libgail-common)
  * (qt-at-spi)
 
