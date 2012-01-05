@@ -8,8 +8,6 @@ restricted modules.
 
 == i386 ==
 
- * ${Kernel-Stem}-generic-pae [i386]
- * linux-headers-generic-pae [i386]
  * ${Kernel-Stem}-virtual [i386]
  * linux-headers-virtual [i386]
 
