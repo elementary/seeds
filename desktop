@@ -62,7 +62,6 @@ OS-only stuff:
  * (elementary-default-settings)
  * (gnome-session-bin)       # starts up cerbere according to default-settings
  * (exe-wrapper)
- * (pantheon-lightdm-theme)
 
 = Desktop GNOME Apps =
 
