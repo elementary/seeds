@@ -7,12 +7,15 @@ Task-Metapackage: pantheon
 
 # apps shipped by default, in alphabetical order:
  * (beatbox)
- * (contractor)
  * (dexter)
  * (lingo)
  * (marlin)
  * (maya)
  * (midori)
- * (pantheon-shell)
  * (pantheon-terminal)
  * (switchboard)
+
+# not exactly apps, but still part of the DE
+ * (contractor)
+ * (pantheon-lightdm-theme)
+ * (pantheon-shell)
