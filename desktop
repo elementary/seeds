@@ -163,7 +163,7 @@ Accessibility tools:
  * (simple-scan)
  * evince
  * (gnome-screensaver) # recommends to allow for xscreensaver to be used
- * (vinagre)
+ * (remmina)
  * (shotwell)
  * (jockey-gtk) # enable non-free graphics and other drivers easily
  * (usb-creator-gtk) [i386 amd64]
