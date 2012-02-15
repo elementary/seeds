@@ -178,6 +178,7 @@ Desktop Experience:
  * notify-osd           # backend for libnotify
  * (ginn)
  * (sni-qt)
+ * (activity-log-manager-control-center)
 
 Online Services:
  * (ubuntuone-control-panel-gtk)
