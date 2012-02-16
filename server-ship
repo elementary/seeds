@@ -320,6 +320,7 @@ Security:
  * miscfiles
  * checkbox-cli # MathiasGug
  * apport # MathiasGug
+ * whoopsie # http://wiki.ubuntu.com/ErrorTracker - EvanDandrea
  * kerneloops-daemon # JamesWestby
  * python-beautifulsoup #ChuckShort
  * python-genshi #ChuckShort
