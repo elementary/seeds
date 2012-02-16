@@ -50,6 +50,7 @@ Input methods:
 We've chosen GNOME as our desktop user interface of choice. Rather than using the meta-packages they are deliberately expanded so that we can select things a bit better.
 
  * (apport-gtk)
+ * (whoopsie)              # http://wiki.ubuntu.com/ErrorTracker - EvanDandrea
  * eog
  * (thunderbird)
  * (thunderbird-gnome-support)
