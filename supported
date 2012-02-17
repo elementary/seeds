@@ -26,6 +26,7 @@ language-selector:
  * /^hyphen-..$/
  * hyphen-en-us
  * /^mythes-/
+ * /^hunspell-/
 
 Transitional packages:
 
