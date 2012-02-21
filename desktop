@@ -71,6 +71,7 @@ Here's a list.
  * (apport-gtk)
  * (file-roller)
  * (p7zip-full)            # elementary: supports a crazy number of formats
+ * (whoopsie)              # http://wiki.ubuntu.com/ErrorTracker - EvanDandrea
  * (empathy)
  * (telepathy-idle)        # basic IRC support for empathy
  * (gcalctool)
@@ -163,7 +164,7 @@ to compile a driver. -mdz
 
  * (gcc)
  * (make)
- * (linux-headers-generic) [i386]
+ * (linux-headers-generic-pae) [i386]
  * (linux-headers-generic) [amd64]
  * (linux-headers-dove) [armel]
 
@@ -172,3 +173,4 @@ to compile a driver. -mdz
  * elementary-desktop # metapackage for everything here
  * (example-content) # dholbach: dapper feature goal (wiki.ubuntu.com/ExampleContent)
  * (libwmf0.2-7-gtk)
+ * (python-aptdaemon.pkcompat) # needed to keep packagekit off the images

@@ -8,8 +8,6 @@ restricted modules.
 
 == i386 ==
 
- * ${Kernel-Stem}-generic-pae [i386]
- * linux-headers-generic-pae [i386]
  * ${Kernel-Stem}-virtual [i386]
  * linux-headers-virtual [i386]
 
@@ -322,6 +320,7 @@ Security:
  * miscfiles
  * checkbox-cli # MathiasGug
  * apport # MathiasGug
+ * whoopsie # http://wiki.ubuntu.com/ErrorTracker - EvanDandrea
  * kerneloops-daemon # JamesWestby
  * python-beautifulsoup #ChuckShort
  * python-genshi #ChuckShort

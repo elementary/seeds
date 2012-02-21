@@ -11,7 +11,6 @@ packages.
  * ndiswrapper-utils-1.9 [amd64 i386]
  * ndisgtk
 
- * linux-wlan-ng
  * libatm1	# suggested by ppp for PPP-over-ATM
  * setserial	# needed by folks with nonstandard serial ports
  * mouseemu	# needed on Macs with single-button mice
