@@ -79,7 +79,7 @@ We've chosen GNOME as our desktop user interface of choice. Rather than using th
  * gnome-system-log
  * gnome-font-viewer
  * gucharmap               # SebastienBacher
- * checkbox-gtk
+ * checkbox-qt
  * language-selector-gnome # MichaelVogt
  * (firefox)
  * (firefox-gnome-support)
