@@ -155,6 +155,15 @@ Keep until 12.04 LTS:
  * abrowser
  * openoffice.org-base
 
+Renamed to printer-driver-*
+ * c2esp
+ * foo2zjs
+ * m2300w
+ * min12xxw
+ * ptouch-driver
+ * pxljr
+ * splix
+
 = Build infrastructure =
 
  * pkgbinarymangler # needs to be in main to stay in the buildd chroots
