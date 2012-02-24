@@ -153,7 +153,10 @@ Temporary workarounds:
 Keep until 12.04 LTS:
  * abrowser-branding
  * abrowser
+ * netbook-launcher
  * openoffice.org-base
+ * unity-2d-launcher
+ * unity-2d-places
 
 Renamed to printer-driver-*
  * c2esp
