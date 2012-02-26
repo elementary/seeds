@@ -70,8 +70,6 @@ unity-2d
 unity-greeter
 # gnome-session is a config package, the binary is in gnome-session-bin
 gnome-session
-# switchboard is gnome-control-center done right
-gnome-control-center
 # we don't want Ubuntu branding as well
 plymouth-theme-ubuntu-logo
 branding-ubuntu
