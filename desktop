@@ -24,6 +24,8 @@ Basic network services and Windows integration.
  * (network-manager-gnome) # see NetworkRoaming spec
  * (network-manager-pptp)
  * (network-manager-pptp-gnome)
+ * (libproxy1-plugin-gsettings)
+ * (libproxy1-plugin-networkmanager)
 
 = GUI infrastructure =
 
