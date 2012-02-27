@@ -40,7 +40,7 @@
  * language-pack-gnome-${Languages}
 
  # no space on powerpc
- * Languages: es pt
+ * Languages: es
  * language-pack-${Languages} [i386 amd64 amd64+mac]
  * language-pack-gnome-${Languages} [i386 amd64 amd64+mac]
 
