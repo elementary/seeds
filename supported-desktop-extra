@@ -10,13 +10,6 @@ This seed exists only to allow fine tuning the 3y support time
  * ffmpeg
  * gstreamer-tools
 
-= Nvidia =
-
- * nvidia-180-libvdpau
- * nvidia-185-libvdpau
- * nvidia-185-modaliases
- * nvidia-kernel-common
-
 = Extra desktop =
 
  * libreoffice-base

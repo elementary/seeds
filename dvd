@@ -4,8 +4,6 @@
 == Graphics ==
 
  * nvidia-current
- * nvidia-glx-173
- * nvidia-glx-96
  * fglrx
 
 == Wireless ==
@@ -25,22 +23,12 @@
  * libpurple-bin	# no particular reason to keep this single binary in universe
  * quilt		# build-deps used to be pulled in automatically, now seed this directly
 
-== Mono ==
-
- * mono-devel
- * mono-jay
- * mono-classlib-1.0
- * libmono-sqlite1.0-cil
-
 == LibreOffice ==
 
  * libreoffice-officebean
  * libreoffice-nlpsolver
- * libreoffice-help-br
  * libreoffice-l10n-br
  * libreoffice-filter-binfilter
- * libreoffice-style-default
- * libreoffice-style-industrial
  * libreoffice-style-tango
  * libxsltc-java
 
@@ -48,8 +36,6 @@
 
  * xchat-gnome
  * thunderbird # world favourite mail client
- * nautilus-gksu
- * gnome-accessibility-themes-extras
 
  * icedtea-plugin
 
@@ -62,12 +48,10 @@ Other:
  * finger
  * gftp-gtk
  * glade
- * memprof
  * xnest
  * xrestop
  * unclutter           # super useful for anti-mouse freaks
  * inkscape            # SVG drawing application
- * screem                  # MRS, our default html editor
  * vim-gnome
  * vorbis-tools
  * vorbisgain
@@ -81,12 +65,10 @@ Other:
  * dict-foldoc
  * dict-jargon
  * dict-vera
- * sabayon            # desktop profile management
  * liferea
  * gkbd-capplet      # we need to support the source anyway
  * gvfs-bin
  * virt-manager
- * python-virtinst
  * python-gtk-vnc
  * python-urlgrabber
  * pitivi
@@ -105,16 +87,9 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
 
  * doc-linux-html          # ColinWatson; basic HOWTOs and stuff from LDP
  * manpages-dev            # ColinWatson
- * ubuntu-faqguide
- * monodoc
- * monodoc-browser
  * diveintopython
  * diveintopython-zh
  * autoconf-doc
- * automake1.8-doc
- * automake1.9-doc
- * automake1.10-doc
- * packaging-guide
  * %texlive-doc
  * texlive-font-utils
  * texlive-bibtex-extra
@@ -122,26 +97,20 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * texlive-publishers
  * texlive-science
 
- * gimp-manual
  * gimp-help-en
  * gimp-help-de
  * gimp-help-sv
  * gimp-help-fr
  * gfortran-doc
  * doc-linux-text
- * gimp-helpbrowser
  * exim4-doc-html
  * libstdc++6-4.4-doc
 
 These *-doc packages are in separate source packages, so Extra-Includes won't catch them and they need to be listed explicitly.
 
- * automake1.8-doc
- * automake1.9-doc
  * bison-doc
- * diff-doc
  * gawk-doc
  * gdb-doc
- * glibc-doc-reference
  * gnupg-doc
  * make-doc
  * python-gtk2-doc
@@ -152,13 +121,7 @@ These *-doc packages are in separate source packages, so Extra-Includes won't ca
 == Multimedia ==
 
  * flac
- * esound-clients
  * eyed3			# we need to support the source anyway, harmless tool
-
-= Database =
-
- * libqt3c102-mt-mysql
- * libqt3c102-mt-psql
 
 = Localisation =
 
@@ -182,7 +145,6 @@ These *-doc packages are in separate source packages, so Extra-Includes won't ca
  * ttf-punjabi-fonts
  * ttf-gujarati-fonts
  * nabi
- * imhangul
  * culmus
  * %texlive-lang
  * libreoffice-help-en-gb

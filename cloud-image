@@ -7,7 +7,6 @@ Task-Key: cloud-init
 
 See https://launchpad.net/bugs/427288 for why we need both of these (-i686 on kvm, -xen on EC2).
 
- * libc6-i686 [i386]
  * libc6-xen [i386]
 
 = System administration tools =
@@ -27,7 +26,6 @@ See https://launchpad.net/bugs/427288 for why we need both of these (-i686 on kv
 = Documentation =
 
  * w3m
- * ubuntu-serverguide
 
 = EC2 =
 
@@ -36,7 +34,6 @@ See https://launchpad.net/bugs/427288 for why we need both of these (-i686 on kv
 # * ec2-ami-tools
  * euca2ools
  * grub-legacy-ec2
- * lxcguest
 
 = Maintenance =
 
