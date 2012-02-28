@@ -167,6 +167,7 @@ Renamed to printer-driver-*
  * ptouch-driver
  * pxljr
  * splix
+ * hpijs
 
 = Build infrastructure =
 
