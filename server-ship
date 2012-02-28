@@ -81,7 +81,7 @@ Web:
  * libapache2-mod-python        #ThomMay
  * libapache2-mod-python-doc    #ThomMay
  * libapache2-mod-auth-plain     # FabioMassimoDiNitto
- * libapache2-modsecurity       # FabioMassimoDiNitto
+ #* libapache2-modsecurity       # FabioMassimoDiNitto
  * libapache-mod-auth-kerb	 # ChuckShort
 
 PHP:
