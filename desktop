@@ -27,7 +27,6 @@ Basic network services and Windows integration.
 
 = GUI infrastructure =
 
- * (xterm)                         # Provide a backup terminal and complete X env.
  * (libnotify-bin)		 # various scripts need notify-send (such as .bashrc's "alert")
 
 Input methods:
