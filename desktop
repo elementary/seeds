@@ -136,7 +136,6 @@ Accessibility tools:
  * (libatk-adaptor)
  * (libatk-adaptor-schemas)
  * (libgail-common)
- * (qt-at-spi)
 
 = Other Desktop GUI Apps =
 
@@ -149,7 +148,6 @@ Accessibility tools:
 Desktop Experience:
  * (notify-osd)           # backend for libnotify
  * (ginn)
- * (sni-qt)             # needed for Qt apps to show up as indicators
 
 = Documentation =
 
