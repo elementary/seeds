@@ -205,8 +205,8 @@ Other:
  * python-sqlalchemy
  * python-migrate
  * powernap-server
- * cobbler-enlist
- * cobbler-enlist-udeb
+ * maas-enlist
+ * maas-enlist-udeb
  * powernap
 
 Application Servers:
