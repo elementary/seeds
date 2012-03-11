@@ -13,7 +13,10 @@ Task-Metapackage: pantheon
  * (maya)
  * (midori)
  * (pantheon-terminal)
+
+# swithchboard and plugs
  * (switchboard)
+ * (wallpaper-plug)
 
 # not exactly apps, but still part of the DE
  * (contractor)
