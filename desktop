@@ -41,7 +41,7 @@ Input methods:
 = elementary desktop =
 
  * elementary-artwork
- * pantheon  # metapackage for the whole DE; currently maintained independently from seeds (seeds are overly complicated for such things)
+ * pantheon
 
 Fonts:
 
@@ -75,12 +75,10 @@ Here's a list.
  * (telepathy-idle)        # basic IRC support for empathy
  * (gcalctool)
  * (lightdm)               # Proposed GDM replacement for Oneiric, see https://blueprints.launchpad.net/ubuntu/+spec/desktop-o-lightdm
- * (scratch)
  * (software-center)
  * (app-install-data-partner)
  * (gnome-codec-install)    # new default codec installation tool (from debian)
  * (system-config-printer-gnome)
- * (gnome-media)
  * (gnome-menus)
  * (seahorse)
  * (libpam-gnome-keyring)
