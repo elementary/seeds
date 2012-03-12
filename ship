@@ -10,6 +10,8 @@
  * ltsp-client [amd64 i386]            # for LTSP-on-install
  * ldm [amd64 i386] # seeded because its not a hard dependency of ltsp-client anymore
  * ldm-ubuntu-theme [amd64 i386] # seeded to make it available for LTSP-on-install
+ * open-iscsi
+ * open-iscsi-udeb
 
 == Networking ==
 
@@ -54,6 +56,7 @@
  * oem-config-gtk
  * oem-config-slideshow-ubuntu
  * uboot-mkimage [armel]
+ * partman-iscsi
 
 == Transitional packages ==
 
