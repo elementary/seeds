@@ -90,6 +90,7 @@ included due to matching Extra-Include patterns, and has no other effect):
  * Extra-Exclude: gpc*-doc
  * Extra-Exclude: lib*mudflap*
  * Extra-Exclude: gfortran-4.1-doc gfortran-4.2-doc gfortran-4.3-doc lib*gfortran1-dbg
+ * Extra-Exclude: lib*go0-dbg
  * Extra-Exclude: lib*objc1-dbg
  * Extra-Exclude: libavformat-dev libpostproc-dev
  * Extra-Exclude: libgdchart-gd2-xpm-dev
