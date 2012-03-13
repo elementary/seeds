@@ -43,10 +43,12 @@ Input methods:
  * elementary-artwork
  * pantheon
 
-Fonts:
+UI and branding fonts for elementary:
 
- * (ttf-droid)
-ttf-unifont is shipped by the platform package (IDK why, but let's hope it's done on purpose)
+ * (fonts-droid)
+ * (fonts-open-sans)
+ * (fonts-raleway)
+ttf-unifont is shipped by the platform package - so we have a fallback font with lots of chars in any case
 
 Indicators:
 
