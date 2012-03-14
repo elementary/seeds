@@ -44,8 +44,6 @@ restricted modules.
  * libaio-dev
  * ipvsadm
  * keepalived
- * gnbd-client
- * gnbd-server
  * multipath-tools
 
 = Servers and Daemons =
@@ -83,7 +81,7 @@ Web:
  * libapache2-mod-python        #ThomMay
  * libapache2-mod-python-doc    #ThomMay
  * libapache2-mod-auth-plain     # FabioMassimoDiNitto
- * libapache2-mod-security       # FabioMassimoDiNitto
+ #* libapache2-modsecurity       # FabioMassimoDiNitto
  * libapache-mod-auth-kerb	 # ChuckShort
 
 PHP:
@@ -96,7 +94,6 @@ PHP:
  * php5-gd
  * php5-gmp
  * php5-ldap
- * php5-mhash
  * php5-mysql
  * php5-odbc
  * php5-pgsql
@@ -113,7 +110,6 @@ Email:
 
  * dovecot-imapd
  * dovecot-pop3d
- * dovecot
  * postfix-cdb
  * postfix-doc
  * postfix-ldap
@@ -161,7 +157,6 @@ Other:
  * openvpn #ChuckShort - ServerPackageReview
  * netcat-openbsd
  * munin-node
- * munin-plugins-contrib
  * munin
  * openssh-blacklist-extra
  * openssl-blacklist-extra
@@ -210,8 +205,8 @@ Other:
  * python-sqlalchemy
  * python-migrate
  * powernap-server
- * cobbler-enlist
- * cobbler-enlist-udeb
+ * maas-enlist
+ * maas-enlist-udeb
  * powernap
 
 Application Servers:
@@ -270,13 +265,9 @@ Security:
  * libpam-mount	        # ChuckShort
  * libpam-p11		# ChuckShort
  * libpam-radius-auth   # ChuckShort
- * pam-p11		# ChuckShort
  * chkrootkit           # forensic detection of rootkit
  * xinetd               # JamesTroup, from hoglet
- * libcap-bin
- * libpam-opie
- * opie-client
- * opie-server
+ * libcap2-bin
  * sasl2-bin
  * autofs5
  * awstats
@@ -291,7 +282,6 @@ Security:
  * sysstat	# ChuckShort - ServerPackageReview
  * openipmi     # ChuckShort - ServerPackageReview
  * munin	# ChuckShort - ServerPackageReview
- * munin-plugins-contrib    # ChuckShort - ServerPackageReview
  * munin-node # ChuckShort - ServerPackageReview
  * dbconfig-common	# ChuckShort - calendaring spec.
  * unattended-upgrades
@@ -310,10 +300,6 @@ Security:
  * python-libvirt
  * python-urlgrabber
  * libvirt-bin
-
-= Documentation =
-
- * ubuntu-serverguide
 
 == Miscellaneous ==
 

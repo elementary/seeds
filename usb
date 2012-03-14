@@ -13,17 +13,6 @@ Task-Seeds: desktop-common desktop
  * gimp
  * pitivi
 
-== LibreOffice ==
-
- * libreoffice-officebean
- * libreoffice-nlpsolver
- * libreoffice-help-br
- * libreoffice-l10n-br
- * libreoffice-filter-binfilter
- * libreoffice-style-default
- * libreoffice-style-industrial
- * libreoffice-style-tango
-
 == Games ==
 
  #* wesnoth        # NOTE: universe package
@@ -33,15 +22,6 @@ Task-Seeds: desktop-common desktop
 
  * vim
  * byobu
-
-= Documentation =
-
- * ubuntu-faqguide
- * gimp-manual
- * gimp-help-en
- * gimp-help-de
- * gimp-help-sv
- * gimp-help-fr
 
 = Localisation =
 
@@ -81,7 +61,6 @@ Task-Seeds: desktop-common desktop
 
  * gettext-el
  * nabi
- * imhangul
  * culmus
  * %texlive-lang
  * libreoffice-help-en-gb
@@ -94,5 +73,4 @@ Task-Seeds: desktop-common desktop
  #* anjuta # NOTE: universe package
  * devhelp
  * manpages-dev
- * packaging-guide
 

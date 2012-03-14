@@ -24,6 +24,8 @@ Basic network services and Windows integration.
  * (network-manager-gnome) # see NetworkRoaming spec
  * (network-manager-pptp)
  * (network-manager-pptp-gnome)
+ * (libproxy1-plugin-gsettings)
+ * (libproxy1-plugin-networkmanager)
 
 = GUI infrastructure =
 
@@ -62,7 +64,6 @@ OS-only stuff:
 
  * (elementary-default-settings)
  * (gnome-session-bin)       # starts up cerbere according to default-settings
- * (exe-wrapper)
 
 = Desktop GNOME Apps =
 
@@ -145,6 +146,7 @@ Accessibility tools:
 Desktop Experience:
  * (notify-osd)           # backend for libnotify
  * (ginn)
+ * (activity-log-manager-control-center)
 
 = Documentation =
 

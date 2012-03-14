@@ -10,6 +10,8 @@
  * ltsp-client [amd64 i386]            # for LTSP-on-install
  * ldm [amd64 i386] # seeded because its not a hard dependency of ltsp-client anymore
  * ldm-ubuntu-theme [amd64 i386] # seeded to make it available for LTSP-on-install
+ * open-iscsi
+ * open-iscsi-udeb
 
 == Networking ==
 
@@ -24,8 +26,6 @@
 == Hardware & Network Access ==
 
  * pptp-linux             # client for Microsoft-compatible VPN's, needed for some ISPs
- * eagle-usb-utils        # needed for some ADSL modems
- * bpalogin
  * ndiswrapper-utils-1.9 [amd64 i386]
  * ndisgtk
 
@@ -40,7 +40,7 @@
  * language-pack-gnome-${Languages}
 
  # no space on powerpc
- * Languages: es pt
+ * Languages: es
  * language-pack-${Languages} [i386 amd64 amd64+mac]
  * language-pack-gnome-${Languages} [i386 amd64 amd64+mac]
 
@@ -53,6 +53,7 @@
  * oem-config-gtk
  * oem-config-slideshow-ubuntu
  * uboot-mkimage [armel]
+ * partman-iscsi
 
 == Transitional packages ==
 

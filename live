@@ -15,7 +15,7 @@ Task-Seeds: live-common
  * hunspell-en-us
  * wamerican
 
- * Languages: es xh pt zh-hans
+ * Languages: es pt zh-hans
  * language-pack-${Languages} [!powerpc]
  * language-pack-gnome-${Languages} [!powerpc]
 

@@ -3,7 +3,6 @@ Moved from desktop:
  * python-adns              # MRS, stable and useful
  * python-apt               # MRS, we need to be able to interact with APT
  * python-cddb              # MRS, great for desktop users to be able to manage CD's in Python
- * python-clientcookie      # MRS, unless a better cgi-style framework is below
  * python-crypto            # MRS, very useful even though it's very specific
  * python-egenix-mxproxy    # MRS, 
  * python-egenix-mxstack    # MRS, 
@@ -17,7 +16,6 @@ Moved from desktop:
  * python-gnupginterface
  * python-gst0.10
  * python-htmlgen
- * python-id3lib
  * python-imaging-sane
  * python-jabber
  * python-dictclient
@@ -31,7 +29,6 @@ Moved from desktop:
  * python-pisock
  * python-pyao
  * python-pylibacl
- * python-pyopenssl
  * python-pyvorbis
  * python-pyxattr
  * python-reportlab
@@ -48,14 +45,11 @@ Moved from supported:
  * python-nevow
  * python-twisted
  * idle             # Python IDE
- * python-pullparser        # modules, where python2.4-foo is in main
  * python-gpod
- * python-ubuntuone
 
 Extra GCC packages
 
- * gcj-4.4-source
- * g++-4.5-multilib  # seed it directly until changing the defaults
- * cpp-4.5-doc
- * gcc-4.5-doc
- * g++-4.5-doc
+ * gcj-4.6-source
+ * g++-multilib  # seed it directly until changing the defaults
+ * cpp-doc
+ * gcc-doc
