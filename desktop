@@ -148,6 +148,10 @@ Desktop Experience:
  * (ginn)
  * (activity-log-manager-control-center)
 
+= Prerelease stuff =
+
+* (elementaryos-report-problem-dockitem)  # lp:952571
+
 = Documentation =
 
  * (doc-base)			# integrates with scrollkeeper
