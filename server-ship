@@ -44,7 +44,7 @@ restricted modules.
  * libaio-dev
  * ipvsadm
  * keepalived
- * multipath-tools
+ * multipath-tools-boot
 
 = Servers and Daemons =
 
