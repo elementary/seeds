@@ -192,6 +192,7 @@ alternative to avoid pulling in the large MySQL bits
 Online Services:
  * (ubuntuone-installer)
  * (ubuntuone-client-gnome)
+ * (landscape-client-ui-install)
 
 = Documentation =
 
