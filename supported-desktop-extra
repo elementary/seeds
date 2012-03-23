@@ -18,6 +18,7 @@ This seed exists only to allow fine tuning the 3y support time
  * evolution-exchange
  * evolution-indicator
  * landscape-client-ui
+ * ubuntuone-client-proxy
 
 = For Project Qin
  * gwibber-service-sina
