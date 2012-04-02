@@ -39,3 +39,7 @@ See https://launchpad.net/bugs/427288 for why we need both of these (-i686 on kv
 = Maintenance =
 
  * update-notifier-common # LP: 897815
+
+= Locales =
+ 
+ * language-pack-en
