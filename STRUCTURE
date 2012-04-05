@@ -10,8 +10,7 @@ mail-server: standard
 tomcat-server: standard
 virt-host: standard
 server: standard
-openstack: server
-server-ship: boot installer dns-server lamp-server openssh-server print-server samba-server postgresql-server mail-server server tomcat-server virt-host d-i-requirements openstack
+server-ship: boot installer dns-server lamp-server openssh-server print-server samba-server postgresql-server mail-server server tomcat-server virt-host d-i-requirements
 cloud-image: standard
 ship: boot installer desktop d-i-requirements
 live: desktop live-common
