@@ -230,7 +230,6 @@ Security:
  * authbind                     # BIGGER SECURITAH REVIEW
  * siege
  * smartmontools   # hard disk diagnostics
- * mtx		   # ChuckShort - ServerPackageReview
  * logwatch	   # ChuckShort - ServerPackageReview
  * lsscsi	# ChuckShort
  * vblade	# ChuckShort
