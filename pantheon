@@ -21,6 +21,5 @@ Task-Metapackage: pantheon
 
 # not exactly apps, but still part of the DE
  * (contractor)
- * (gloobus-preview)
  * (pantheon-lightdm-theme)
  * (pantheon-shell)
