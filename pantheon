@@ -16,7 +16,7 @@ Task-Metapackage: pantheon
 
 # swithchboard and plugs
  * (switchboard)
- * (wallpaper-plug)
+ * (switchboard-plug-wallpaper)
 
 # not exactly apps, but still part of the DE
  * (contractor)
