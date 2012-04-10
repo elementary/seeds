@@ -8,5 +8,4 @@ Task-Metapackage: pantheon-shell
  * pantheon-xsession-settings   # adds "Pantheon" entry to login screen
  * wingpanel
  * slingshot-launcher
- * pantheon-wallpaper
- * plank
+ * (plank)
