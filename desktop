@@ -157,13 +157,13 @@ Accessibility tools:
 
 = Other Desktop GUI Apps =
 
- * (libreoffice-style-human) [i386 amd64 powerpc]
- * (libreoffice-gnome) [i386 amd64 powerpc]
- * (libreoffice-writer) [i386 amd64 powerpc]
- * (libreoffice-calc) [i386 amd64 powerpc]
- * (libreoffice-impress) [i386 amd64 powerpc]
- * (libreoffice-math) [i386 amd64 powerpc]
- * (libreoffice-help-en-us) [i386 amd64 powerpc]
+ * (libreoffice-style-human) [i386 amd64]
+ * (libreoffice-gnome) [i386 amd64]
+ * (libreoffice-writer) [i386 amd64]
+ * (libreoffice-calc) [i386 amd64]
+ * (libreoffice-impress) [i386 amd64]
+ * (libreoffice-math) [i386 amd64]
+ * (libreoffice-help-en-us) [i386 amd64]
  * (simple-scan)
  * evince
  * (gnome-screensaver) # recommends to allow for xscreensaver to be used
