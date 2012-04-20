@@ -14,10 +14,6 @@ Task-Metapackage: pantheon
  * (pantheon-terminal)
  * (scratch)
 
-# swithchboard and plugs
- * (switchboard)
- * (switchboard-plug-wallpaper)
-
 # not exactly apps, but still part of the DE
  * (contractor)
  * (pantheon-lightdm-theme)
