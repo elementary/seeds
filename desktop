@@ -49,9 +49,6 @@ Input methods:
  * (switchboard)
  * (switchboard-plug-wallpaper)
 
-= Standalone contracts =
- * (print-contract)
-
 UI and branding fonts for elementary:
 
  * (fonts-droid)
