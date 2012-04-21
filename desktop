@@ -94,7 +94,6 @@ Here's a list.
  * (gnome-search-tool)
  * (gnome-font-viewer)
  * (language-selector-gnome) # MichaelVogt
- * (rarian-compat)
  * (ssh-askpass-gnome)
  * (software-properties-gtk) # default GUI sources.list editor
  * (totem)             # TODO: consider Audience
