@@ -6,11 +6,11 @@ Task-Key: pantheon
 Task-Metapackage: pantheon
 
 # apps shipped by default, in alphabetical order:
- * (beatbox)
  * (dexter-contacts)
  * (marlin)
  * (maya)
  * (midori)
+ * (noise)
  * (pantheon-terminal)
  * (scratch)
 
