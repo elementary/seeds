@@ -1,4 +1,4 @@
-include platform.precise
+include platform.quantal
 desktop: desktop-common
 dns-server: standard
 lamp-server: standard
