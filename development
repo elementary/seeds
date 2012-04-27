@@ -49,7 +49,7 @@ Moved from supported:
 
 Extra GCC packages
 
- * gcj-4.6-source
+ * gcj-4.7-source
  * g++-multilib  # seed it directly until changing the defaults
  * cpp-doc
  * gcc-doc
