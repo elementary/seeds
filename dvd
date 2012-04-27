@@ -152,17 +152,6 @@ These *-doc packages are in separate source packages, so Extra-Includes won't ca
  * libreoffice-l10n-in	# dependency package for Indian locales
  * libreoffice-l10n-za	# dependency package for South African locales
 
-= Transitional packages =
-
-It's useful to have these on the DVD so that it can be used as an
-apt source for upgrades.
-
-Keep until 12.04 LTS:
- * compiz-fusion-plugins-main
- * firefox-branding
- * openprinting-ppds-extra
- * language-selector-qt
-
 = Miscellaneous =
 
  * miscfiles
