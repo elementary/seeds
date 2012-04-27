@@ -149,27 +149,6 @@ Temporary workarounds:
  * libreoffice-evolution # no rdepends any more, noticed too late
  * openjade # (b-d of opensp, avoid component-mismatch on openjade-1.3)
 
-= Transitional packages =
-
-Keep until 12.04 LTS:
- * abrowser-branding
- * abrowser
- * netbook-launcher
- * openoffice.org-base
- * unity-2d-launcher
- * unity-2d-places
- * ttf-opensymbol
-
-Renamed to printer-driver-*
- * c2esp
- * foo2zjs
- * m2300w
- * min12xxw
- * ptouch-driver
- * pxljr
- * splix
- * hpijs
-
 = Build infrastructure =
 
  * pkgbinarymangler # needs to be in main to stay in the buildd chroots
