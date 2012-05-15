@@ -76,6 +76,7 @@ Pantheon is not as complete as we want it to be, so we still need some GNOME app
 Here's a list.
 
  * (apport-gtk)
+ * (apport-hooks-elementary) # allows crash reporting about elementary apps
  * (file-roller)
  * (p7zip-full)            # elementary: supports a crazy number of formats
  * (whoopsie)              # http://wiki.ubuntu.com/ErrorTracker - EvanDandrea
