@@ -5,6 +5,10 @@ This seed exists only to allow fine tuning the 3y support time
  * cdbs
  * gnupg2
 
+= Documentation =
+ * gnupg-doc
+ * tar-doc
+
 = Additional multimedia =
 
  * ffmpeg
@@ -19,7 +23,15 @@ This seed exists only to allow fine tuning the 3y support time
  * evolution-indicator
  * landscape-client-ui
  * ubuntuone-client-proxy
+ * icc-profiles-free
+ * virt-manager
+ * xchat-gnome
 
-= For Project Qin
+= Command line tools =
+
+ * bittornado
+ * virtinst
+
+= For Project Qin =
  * gwibber-service-sina
  * gwibber-service-sohu
