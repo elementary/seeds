@@ -78,7 +78,6 @@ Task-Seeds: desktop-common desktop
  * gettext-el
  * nabi
  * culmus
- * %texlive-lang
  * libreoffice-help-en-gb
  * libreoffice-l10n-en-gb
  * libreoffice-l10n-in	# dependency package for Indian locales
