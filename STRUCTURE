@@ -14,16 +14,12 @@ server-ship: boot installer dns-server lamp-server openssh-server print-server s
 cloud-image: standard
 ship: boot installer desktop d-i-requirements
 live: desktop live-common
-dvd-live-langsupport: live
-dvd-live: live dvd-live-langsupport
 ship-live: boot live
 development: desktop
-dvd-langsupport: ship
-dvd: server-ship ship development supported-common dvd-langsupport
 usb: boot installer desktop
 usb-live: usb live-common
 usb-langsupport: usb-live
 usb-ship-live: usb-langsupport
-supported-desktop-extra: dvd dvd-live usb-live
+supported-desktop-extra: usb-live
 # make sure supported remains the last entry
-supported: dvd-live ship-live dvd usb-live language-packs supported-desktop-extra
+supported: ship-live usb-live language-packs supported-desktop-extra
