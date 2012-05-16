@@ -15,7 +15,7 @@ Task-Metapackage: pantheon
  * (scratch)
 
 # not exactly apps, but still part of the DE
- * (pantheon-lightdm-theme)
+ * (pantheon-greeter)
  * (pantheon-shell)
 
 # contractor and very, very default contracts
