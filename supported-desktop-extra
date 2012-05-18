@@ -33,6 +33,10 @@ This seed exists only to allow fine tuning the 3y support time
  * bittornado
  * virtinst
 
+= Certification =
+
+ * lsb
+
 = For Project Qin =
  * gwibber-service-sina
  * gwibber-service-sohu
