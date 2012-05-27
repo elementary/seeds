@@ -144,6 +144,7 @@ Accessibility tools:
  * (simple-scan)
  * (evince)
  * (gnome-screensaver) # recommends to allow for xscreensaver to be used
+ * (geary)
  * (shotwell)
  * (jockey-gtk) # enable non-free graphics and other drivers easily
 
