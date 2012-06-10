@@ -164,6 +164,7 @@ Accessibility tools:
  * (libreoffice-presenter-console) [i386 amd64]
  * (libreoffice-ogltrans) [i386 amd64]
  * (libreoffice-pdfimport) [i386 amd64]
+ * (libreoffice-presentation-minimizer) [i386 amd64]
  * (simple-scan)
  * evince
  * (gnome-screensaver) # recommends to allow for xscreensaver to be used
