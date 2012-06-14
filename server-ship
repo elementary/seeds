@@ -45,6 +45,8 @@ restricted modules.
  * ipvsadm
  * keepalived
  * multipath-tools-boot
+ * pacemaker
+ * heartbeat
 
 = Servers and Daemons =
 
