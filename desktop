@@ -218,4 +218,4 @@ to compile a driver. -mdz
  * (example-content) # dholbach: dapper feature goal (wiki.ubuntu.com/ExampleContent)
  * (libwmf0.2-7-gtk)
  * (plymouth-theme-ubuntu-logo)
- * (python-aptdaemon.pkcompat) # needed to keep packagekit off the images
+ * (python3-aptdaemon.pkcompat) # needed to keep packagekit off the images
