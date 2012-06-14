@@ -27,6 +27,40 @@ language-selector:
  * hyphen-en-us
  * /^mythes-/
  * /^hunspell-[^-]*$/
+ * hunspell-eu-es
+ * hunspell-sv-se
+ * hunspell-gl-es
+
+myspell packages containing the hunspell dictionaries:
+ * myspell-af
+ * myspell-bg
+ * myspell-ca
+ * myspell-el-gr
+ * myspell-eo
+ * myspell-et
+ * myspell-fa
+ * myspell-fo
+ * myspell-ga
+ * myspell-gv
+ * myspell-he
+ * myspell-hy
+ * myspell-it
+ * myspell-ku
+ * myspell-lt
+ * myspell-lv
+ * myspell-nr
+ * myspell-pl
+ * myspell-sk
+ * myspell-sl
+ * myspell-ss
+ * myspell-st
+ * myspell-sw
+ * myspell-th
+ * myspell-tn
+ * myspell-ts
+ * myspell-uk
+ * myspell-ve
+ * myspell-zu
 
 Transitional packages:
 
