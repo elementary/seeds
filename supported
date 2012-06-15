@@ -101,6 +101,39 @@ Other dictionaries/thesauri:
  * wukrainian
  * wmanx
 
+Fonts installed on demand by language-selector:
+
+ * fonts-arabeyes
+ * fonts-arphic-uming
+ * fonts-farsiweb
+ * fonts-kacst
+ * fonts-khmeros
+ * fonts-lao
+ * fonts-manchufont
+ * fonts-mgopen
+ * fonts-nafees
+ * fonts-nanum-extra
+ * fonts-sil-abyssinica
+ * fonts-sil-ezra
+ * fonts-sil-padauk
+ * fonts-sil-scheherazade
+ * fonts-takao-gothic
+ * fonts-takao-mincho
+ * fonts-tibetan-machine
+ * ttf-alee
+ * ttf-arphic-ukai
+ * ttf-bengali-fonts
+ * ttf-devanagari-fonts
+ * ttf-gujarati-fonts
+ * ttf-kannada-fonts
+ * ttf-malayalam-fonts
+ * ttf-oriya-fonts
+ * ttf-punjabi-fonts
+ * ttf-tamil-fonts
+ * ttf-telugu-fonts
+ * ttf-thai-tlwg
+ * ttf-wqy-zenhei
+
 Transitional packages:
 
 Needed in main so that LP can import translations for it:
