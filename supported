@@ -32,34 +32,49 @@ language-selector:
  * hunspell-gl-es
 
 myspell packages containing the hunspell dictionaries:
+
  * myspell-af
  * myspell-bg
  * myspell-ca
+ * myspell-cs
  * myspell-el-gr
+ * myspell-en-au
+ * myspell-en-gb
+ * myspell-en-za
  * myspell-eo
+ * myspell-es
  * myspell-et
  * myspell-fa
  * myspell-fo
  * myspell-ga
+ * myspell-gd
  * myspell-gv
  * myspell-he
+ * myspell-hr
  * myspell-hy
  * myspell-it
  * myspell-ku
  * myspell-lt
  * myspell-lv
+ * myspell-nb
+ * myspell-nl
+ * myspell-nn
  * myspell-nr
+ * myspell-ns
  * myspell-pl
+ * myspell-pt
  * myspell-sk
  * myspell-sl
  * myspell-ss
  * myspell-st
+ * myspell-sv-se
  * myspell-sw
  * myspell-th
  * myspell-tn
  * myspell-ts
  * myspell-uk
  * myspell-ve
+ * myspell-xh
  * myspell-zu
 
 Other dictionaries/thesauri:
