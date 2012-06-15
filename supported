@@ -20,8 +20,10 @@ them as appropriate.
 The following input aids are also installed on demand by
 language-selector:
 
- * mozvoikko
+ * libenchant-voikko
  * libreoffice-voikko
+ * mozvoikko
+ * tmispell-voikko
  * openoffice.org-hyphenation
  * /^hyphen-..$/
  * hyphen-en-us
