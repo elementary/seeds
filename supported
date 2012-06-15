@@ -77,7 +77,7 @@ myspell packages containing the hunspell dictionaries:
  * myspell-xh
  * myspell-zu
 
-Other dictionaries/thesauri:
+Other word lists and thesauri:
 
  * mythes-ca
  * mythes-cs
@@ -105,6 +105,7 @@ Other dictionaries/thesauri:
  * wgalician-minimos
  * wirish
  * witalian
+ * wmanx
  * wngerman
  * wnorwegian
  * wogerman
@@ -114,7 +115,6 @@ Other dictionaries/thesauri:
  * wswedish
  * wswiss
  * wukrainian
- * wmanx
 
 Fonts installed on demand by language-selector:
 
