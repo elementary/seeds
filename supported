@@ -77,8 +77,14 @@ myspell packages containing the hunspell dictionaries:
  * myspell-xh
  * myspell-zu
 
-Other word lists and thesauri:
+Other dictionaries, word lists, and thesauri:
 
+ * dict-foldoc
+ * dict-gcide
+ * dict-jargon
+ * dict-moby-thesaurus
+ * dict-vera
+ * dictd
  * mythes-ca
  * mythes-cs
  * mythes-de
