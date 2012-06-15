@@ -62,6 +62,45 @@ myspell packages containing the hunspell dictionaries:
  * myspell-ve
  * myspell-zu
 
+Other dictionaries/thesauri:
+
+ * mythes-ca
+ * mythes-cs
+ * mythes-de
+ * mythes-de-ch
+ * mythes-en-au
+ * mythes-en-us
+ * mythes-fr
+ * mythes-hu
+ * mythes-it
+ * mythes-ne
+ * mythes-pl
+ * mythes-ro
+ * mythes-ru
+ * mythes-sk
+ * wamerican
+ * wbrazilian
+ * wbritish
+ * wbulgarian
+ * wcatalan
+ * wdanish
+ * wdutch
+ * wfaroese
+ * wfrench
+ * wgalician-minimos
+ * wirish
+ * witalian
+ * wngerman
+ * wnorwegian
+ * wogerman
+ * wpolish
+ * wportuguese
+ * wspanish
+ * wswedish
+ * wswiss
+ * wukrainian
+ * wmanx
+
 Transitional packages:
 
 Needed in main so that LP can import translations for it:
