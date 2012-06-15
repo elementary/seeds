@@ -21,7 +21,7 @@ The following input aids are also installed on demand by
 language-selector:
 
  * mozvoikko
- * openoffice.org-voikko
+ * libreoffice-voikko
  * openoffice.org-hyphenation
  * /^hyphen-..$/
  * hyphen-en-us
