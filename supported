@@ -127,14 +127,19 @@ Fonts installed on demand by language-selector:
  * fonts-manchufont
  * fonts-mgopen
  * fonts-nafees
+ * fonts-nanum
+ * fonts-nanum-coding
  * fonts-nanum-extra
  * fonts-sil-abyssinica
  * fonts-sil-ezra
+ * fonts-sil-nuosusil
  * fonts-sil-padauk
  * fonts-sil-scheherazade
  * fonts-takao-gothic
  * fonts-takao-mincho
  * fonts-tibetan-machine
+ * fonts-ukij-uyghur
+ * fonts-unfonts-core
  * ttf-alee
  * ttf-arphic-ukai
  * ttf-bengali-fonts
