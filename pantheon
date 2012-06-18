@@ -6,7 +6,6 @@ Task-Key: pantheon
 Task-Metapackage: pantheon
 
 # apps shipped by default, in alphabetical order:
- * (dexter-contacts)
  * (pantheon-files)
  * (maya)
  * (midori)
