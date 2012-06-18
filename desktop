@@ -181,7 +181,6 @@ Desktop Experience:
  * unity-2d
  * unity-greeter        # lightdm greeter for unity
  * notify-osd           # backend for libnotify
- * (ginn)
  * (sni-qt)
  * (activity-log-manager-control-center)
 
