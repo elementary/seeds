@@ -11,7 +11,7 @@ Task-Metapackage: pantheon
  * (midori)
  * (noise)
  * (pantheon-terminal)
- * (scratch)
+ * (scratch-text-editor)
 
 # not exactly apps, but still part of the DE
  * (pantheon-greeter)
