@@ -193,6 +193,8 @@ Localization images:
  * libapache2-mod-apparmor
  * libpam-apparmor
  * python-libapparmor
+ * python3-libapparmor
+ * python-ufw
 
 = Extra server bits =
 
