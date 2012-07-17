@@ -176,6 +176,8 @@ Input methods installed on demand by language-selector:
 
 Transitional packages:
 
+ * mahjongg		# needed in main until 14.04
+
 Needed in main so that LP can import translations for it:
 
  * edubuntu-live        # bug 788671
