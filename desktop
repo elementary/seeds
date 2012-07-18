@@ -94,7 +94,7 @@ We've chosen GNOME as our desktop user interface of choice. Rather than using th
  * (rhythmbox-plugin-magnatune)
  * (brasero)		   # Oliver Grawert
  * ssh-askpass-gnome
- * software-properties-gtk # default GUI sources.list editor
+ * software-properties-gtk # default GUI sources.list editor / extra drivers
  * (totem)
  * (totem-mozilla)
  * ubuntu-release-upgrader-gtk
@@ -171,7 +171,6 @@ Accessibility tools:
  * (gnome-screensaver) # recommends to allow for xscreensaver to be used
  * (remmina)
  * (shotwell)
- * (jockey-gtk) # enable non-free graphics and other drivers easily
  * (usb-creator-gtk) [i386 amd64]
  * (deja-dup)
  * xdiagnose
