@@ -69,7 +69,6 @@ We've chosen GNOME as our desktop user interface of choice. Rather than using th
  * system-config-printer-gnome
  * gnome-media
  * gnome-menus
- * gnome-nettool            # part of 2.8
  * gnome-session
  * seahorse
  * (libpam-gnome-keyring)
