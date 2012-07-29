@@ -135,10 +135,6 @@ The gstreamer0.10 packages we want to install:
  * gstreamer0.10-plugins-base-apps
  * gstreamer0.10-pulseaudio
 
-For Ubuntu we need libsdl1.2debian for the above gstreamer0.10-plugins-base-apps < libtheora-dev < libsdl1.2-dev < libsdl1.2debian.
-
- * libsdl1.2debian
-
 Accessibility tools:
 
  * (gnome-accessibility-themes)
