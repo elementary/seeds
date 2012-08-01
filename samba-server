@@ -8,7 +8,7 @@ Task-Key: samba
  * samba
  * samba-doc
  * smbclient
- * smbfs
+ * cifs-utils
  * winbind
 
 = Germinate workarounds =
