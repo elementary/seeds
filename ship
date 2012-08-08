@@ -60,6 +60,8 @@
 
 == Transitional packages ==
 
+ * libgnome2-0
+
 == Germinate workarounds ==
 
  * wamerican  # iamerican Depends: ispell Recommends: wordlist, but wamerican isn't spotted in time so germinate arbitrarily picks miscfiles instead
