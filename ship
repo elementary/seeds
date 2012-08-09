@@ -61,6 +61,8 @@
 == Transitional packages ==
 
  * libgnome2-0
+ * liblaunchpad-integration1.0-cil
+ * libnspr4-0d
 
 == Germinate workarounds ==
 
