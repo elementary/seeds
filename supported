@@ -249,6 +249,7 @@ included due to matching Extra-Include patterns, and has no other effect):
  * Extra-Exclude: python-vigra-doc # libvigraimpex is in main, but nothing uses python-vigra
  * Extra-Exclude: asp.net-examples
  * Extra-Exclude: packagekit-dbg
+ * Extra-Exclude: rest-bench-dbg
 
 Transitional packages:
 
