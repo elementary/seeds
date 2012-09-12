@@ -270,7 +270,7 @@ Security:
 
 = Installer =
 
- * bootstrap-base
+ * live-installer
  * oem-config-debconf
  * partman-iscsi
 
