@@ -240,7 +240,6 @@ Security:
  * unattended-upgrades
  * update-motd # RickClark
  * landscape-client # RickClark
- * computer-janitor
 
 = Virtualisation =
 
