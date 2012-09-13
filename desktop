@@ -153,17 +153,17 @@ Accessibility tools:
 
 = Other Desktop GUI Apps =
 
- * (libreoffice-style-human) [i386 amd64]
- * (libreoffice-gnome) [i386 amd64]
- * (libreoffice-writer) [i386 amd64]
- * (libreoffice-calc) [i386 amd64]
- * (libreoffice-impress) [i386 amd64]
- * (libreoffice-math) [i386 amd64]
- * (libreoffice-help-en-us) [i386 amd64]
- * (libreoffice-presenter-console) [i386 amd64]
- * (libreoffice-ogltrans) [i386 amd64]
- * (libreoffice-pdfimport) [i386 amd64]
- * (libreoffice-presentation-minimizer) [i386 amd64]
+ * (libreoffice-style-human) [!powerpc]
+ * (libreoffice-gnome) [!powerpc]
+ * (libreoffice-writer) [!powerpc]
+ * (libreoffice-calc) [!powerpc]
+ * (libreoffice-impress) [!powerpc]
+ * (libreoffice-math) [!powerpc]
+ * (libreoffice-help-en-us) [!powerpc]
+ * (libreoffice-presenter-console) [!powerpc]
+ * (libreoffice-ogltrans) [!powerpc]
+ * (libreoffice-pdfimport) [!powerpc]
+ * (libreoffice-presentation-minimizer) [!powerpc]
  * (simple-scan)
  * evince
  * (gnome-screensaver) # recommends to allow for xscreensaver to be used
