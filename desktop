@@ -206,7 +206,7 @@ to compile a driver. -mdz
  * (make)
  * (linux-headers-generic-pae) [i386]
  * (linux-headers-generic) [amd64]
- * (linux-headers-dove) [armel]
+ * (linux-headers-omap4) [armhf armel]
 
 = Other =
 
