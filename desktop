@@ -180,6 +180,8 @@ Desktop Experience:
  * notify-osd           # backend for libnotify
  * (sni-qt)
  * (activity-log-manager-control-center)
+ * (unity-firefox-extension)
+ * (unity-webapps-common)
 
 libqt4-sql recommends libqt4-sql-mysql | ...; lets pull in the smallest
 alternative to avoid pulling in the large MySQL bits
