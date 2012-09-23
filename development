@@ -42,7 +42,6 @@ Moved from desktop:
 Moved from supported:
 
  * python-pygresql         # JamesTroup, from hoglet
- * python-nevow
  * python-twisted
  * idle             # Python IDE
  * python-gpod
