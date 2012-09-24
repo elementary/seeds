@@ -50,6 +50,7 @@ Python 3 libraries with sources already in main
 
  * python3-polib
  * python3-requests
+ * python3-pyudev
 
 Extra GCC packages
 
