@@ -45,6 +45,10 @@ Input methods:
  * elementary-artwork
  * pantheon
 
+= System-wide distro-specific artwork =
+ * (plymouth-theme-elementary)
+ * (print-test-page-elementary)
+
 = Swithchboard and plugs =
  * (switchboard)
  * (switchboard-plug-about)
