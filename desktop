@@ -51,7 +51,6 @@ Input methods:
 
 = Swithchboard and plugs =
  * (switchboard)
- * (switchboard-plug-about)
  * (switchboard-plug-power)
  * (switchboard-plug-pantheon-shell)
  * (switchboard-gnome-control-center)
