@@ -18,6 +18,7 @@ packages.
  * b43-fwcutter
  * bcmwl-kernel-source #since we no longer have LRM
  * wvdial       # network-manager should replace this functionality ASAP
+ * dkms
 
 == Installer ==
 
