@@ -22,6 +22,7 @@ This seed lists the packages we want to install by default in the new server ins
 
  * wireless-tools
  * wpasupplicant  # ScottJamesRemnant
+ * ethtool
 
 = Documentation =
 
