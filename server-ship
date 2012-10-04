@@ -197,7 +197,6 @@ Utilities:
  * vlan-udeb              # userland tools to support 8021q from the installer
  * bridge-utils           # userland tools to config kernel bridging feature
  * wakeonlan              # sends magic packet to wake sleeping servers
- * ethtool                # needed to enable a server to wakeonlan
  * iputils-arping         # would have made elmo's life easier at debconf 4
 
 IPv6 tools:
