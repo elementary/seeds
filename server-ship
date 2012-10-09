@@ -5,6 +5,7 @@ images without the restricted component. The linux-* kernels include
 restricted modules.
 
  * Kernel-Stem: linux linux-image
+ * Signed-Kernel-Stem: linux-signed linux-signed-image
 
 == i386 ==
 
@@ -22,6 +23,8 @@ restricted modules.
  * linux-headers-server [amd64]
  * ${Kernel-Stem}-virtual [amd64]
  * linux-headers-virtual [amd64]
+
+ * ${Signed-Kernel-Stem}-generic [amd64]
 
 = From Ship =
 
