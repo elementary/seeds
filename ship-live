@@ -29,12 +29,6 @@ packages.
  * lupin-support [amd64 i386] # installer-for-windows
  * uboot-mkimage [armel] # needed on dove for uboot
 
-== Kernel ==
-
- * Signed-Kernel-Stem: linux-signed linux-signed-image
-
- * ${Signed-Kernel-Stem}-generic [amd64]
-
 == Blacklist ==
 
 libavcodec cannot be shipped on CDs (c.f. Ubuntu technical board resolution 2007-01-02).
