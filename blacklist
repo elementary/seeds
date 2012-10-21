@@ -84,14 +84,3 @@ totem-mozilla
 firefox
 nautilus
 banshee
-# fonts replaced by ttf-unifont, which accounts for more languages and is smaller
-ttf-dejavu-core
-ttf-indic-fonts-core
-ttf-kacst-one
-ttf-khmeros-core
-ttf-lao
-ttf-punjabi-fonts
-ttf-takao-pgothic
-ttf-thai-tlwg
-ttf-unfonts-core
-ttf-wqy-microhei
