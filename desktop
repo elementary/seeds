@@ -148,7 +148,7 @@ Accessibility tools:
 
 = Other Desktop GUI Apps =
 
- * (simple-scan)
+ * (elementary-scan)
  * (evince)
  * (gnome-screensaver) # recommends to allow for xscreensaver to be used
  * (geary)
