@@ -26,8 +26,6 @@
 == Hardware & Network Access ==
 
  * pptp-linux             # client for Microsoft-compatible VPN's, needed for some ISPs
- * ndiswrapper-utils-1.9 [amd64 i386]
- * ndisgtk
 
  * libatm1	# suggested by ppp for PPP-over-ATM
  * setserial	# needed by folks with nonstandard serial ports
