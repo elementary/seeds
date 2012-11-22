@@ -54,8 +54,8 @@ We've chosen GNOME as our desktop user interface of choice. Rather than using th
  * (apport-gtk)
  * (whoopsie)              # http://wiki.ubuntu.com/ErrorTracker - EvanDandrea
  * eog
- * (thunderbird)
- * (thunderbird-gnome-support)
+ * (thunderbird) [!armhf]
+ * (thunderbird-gnome-support) [!armhf]
  * file-roller
  * (empathy)
  * (telepathy-idle)        # basic IRC support for empathy
@@ -153,15 +153,15 @@ Accessibility tools:
 
 = Other Desktop GUI Apps =
 
- * (libreoffice-style-human) [!powerpc]
- * (libreoffice-gnome) [!powerpc]
- * (libreoffice-writer) [!powerpc]
- * (libreoffice-calc) [!powerpc]
- * (libreoffice-impress) [!powerpc]
- * (libreoffice-math) [!powerpc]
- * (libreoffice-help-en-us) [!powerpc]
+ * (libreoffice-style-human) [!powerpc !armhf]
+ * (libreoffice-gnome) [!powerpc !armhf]
+ * (libreoffice-writer) [!powerpc !armhf]
+ * (libreoffice-calc) [!powerpc !armhf]
+ * (libreoffice-impress) [!powerpc !armhf]
+ * (libreoffice-math) [!powerpc !armhf]
+ * (libreoffice-help-en-us) [!powerpc !armhf]
  * (libreoffice-presenter-console) [!powerpc !armhf !armel]
- * (libreoffice-ogltrans) [!powerpc]
+ * (libreoffice-ogltrans) [!powerpc !armhf]
  * (libreoffice-pdfimport) [!powerpc !armhf !armel]
  * (libreoffice-presentation-minimizer) [!powerpc !armhf !armel]
  * (simple-scan)
