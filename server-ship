@@ -9,8 +9,8 @@ restricted modules.
 
 == i386 ==
 
- * ${Kernel-Stem}-virtual [i386]
- * linux-headers-virtual [i386]
+ * ${Kernel-Stem}-generic-lts-quantal [i386]
+ * linux-headers-generic-lts-quantal [i386]
 
 == powerpc ==
 
@@ -19,12 +19,10 @@ restricted modules.
 
 == amd64 ==
 
- * ${Kernel-Stem}-server [amd64]
- * linux-headers-server [amd64]
- * ${Kernel-Stem}-virtual [amd64]
- * linux-headers-virtual [amd64]
+ * ${Kernel-Stem}-generic-lts-quantal [amd64]
+ * linux-headers-generic-lts-quantal [amd64]
 
- * ${Signed-Kernel-Stem}-generic [amd64]
+ * ${Signed-Kernel-Stem}-generic-lts-quantal [amd64]
 
 = From Ship =
 

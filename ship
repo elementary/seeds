@@ -1,6 +1,6 @@
 == Kernel ==
 
- * linux [amd64 i386]
+ * linux-generic-lts-quantal [amd64 i386]
 
 == Server ==
 
