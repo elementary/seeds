@@ -40,7 +40,7 @@ Extra fonts (should be common, but not so for space reasons):
 
 Input methods:
 
- * (im-switch)
+ * (im-config)
  * (ibus)
  * (ibus-gtk3)
  * (ibus-table)
