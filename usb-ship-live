@@ -7,8 +7,6 @@ and fetch more packages.
 
  * pptp-linux             # client for Microsoft-compatible VPN's, needed for some ISPs
  * sl-modem-daemon	# needed for some Winmodems (see OutoftheboxWinmodem)
- * ndiswrapper-utils-1.9 [amd64 i386]
- * ndisgtk
 
  * libatm1	# suggested by ppp for PPP-over-ATM
  * setserial	# needed by folks with nonstandard serial ports
@@ -23,6 +21,8 @@ and fetch more packages.
 
  * grub # needed for dmraid et al
  * grub-efi [amd64]
+ * grub-efi-amd64-signed [amd64]
+ * shim-signed [amd64]
  * oem-config-gtk
  * oem-config-slideshow-ubuntu
  * lupin-support [amd64 i386] # installer-for-windows

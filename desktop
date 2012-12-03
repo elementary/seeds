@@ -177,8 +177,7 @@ to compile a driver. -mdz
 
  * (gcc)
  * (make)
- * (linux-headers-generic-pae) [i386]
- * (linux-headers-generic) [amd64]
+ * (linux-headers-generic-lts-quantal) [amd64 i386]
  * (linux-headers-dove) [armel]
 
 = Other =

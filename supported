@@ -177,3 +177,4 @@ Renamed to printer-driver-*
 = Other =
 
  * checkbox-gtk # still supported by the checkbox team and default "testing apps" applications (-qt doesn't support it yet)
+ * icedtea-plugin
