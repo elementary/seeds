@@ -63,6 +63,8 @@ UI and branding fonts for elementary:
  * (fonts-droid)
  * (fonts-open-sans)
  * (fonts-raleway)
+ * (fonts-lklug-sinhala) # Sinhalese fonts
+# * (fonts-khmeros) # Khmer fonts have yet to be decided. See bug #1048130.
 ttf-unifont is shipped by the platform package - so we have a fallback font with lots of chars in any case
 
 Indicators:
