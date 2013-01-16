@@ -7,7 +7,7 @@ Task-Metapackage: pantheon
 
 # apps shipped by default, in alphabetical order:
  * (pantheon-files)
- * (maya)
+ * (maya-calendar)
  * (midori-granite)
  * (noise)
  * (pantheon-terminal)
