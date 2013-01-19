@@ -245,7 +245,7 @@ Security:
 
 = Virtualisation =
 
- * kvm
+ * qemu-kvm
  * python-libvirt
  * python-urlgrabber
  * libvirt-bin
