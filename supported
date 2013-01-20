@@ -177,6 +177,7 @@ Input methods installed on demand by language-selector:
 Transitional packages:
 
  * mahjongg		# needed in main until 14.04
+ * qemu-common		# needed in main until 14.04
 
 Localization images:
 
