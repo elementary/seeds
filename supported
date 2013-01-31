@@ -194,6 +194,7 @@ Localization images:
  * python-libapparmor
  * python3-libapparmor
  * python-ufw
+ * libseccomp-dev    # promote its use, LP: #1082431
 
 = Extra server bits =
 
