@@ -106,7 +106,6 @@ We've chosen GNOME as our desktop user interface of choice. Rather than using th
  * xdg-user-dirs
  * xdg-user-dirs-gtk
  * pulseaudio
- * (pulseaudio-module-gconf)
  * (pulseaudio-module-x11)
  * (pulseaudio-module-bluetooth)
  * gvfs-bin			# mostly used as xdg-open backend
