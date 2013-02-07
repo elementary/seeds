@@ -67,7 +67,6 @@ We've chosen GNOME as our desktop user interface of choice. Rather than using th
  * (transmission-gtk)       # simple GNOME frontend for bittorrent downloads
  * gnome-control-center
  * system-config-printer-gnome
- * gnome-media
  * gnome-menus
  * gnome-session
  * seahorse
