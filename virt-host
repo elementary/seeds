@@ -5,6 +5,7 @@ Task-Metapackage: ubuntu-virt-server
 Task-Key: ubuntu-virt-server
 
  * ubuntu-virt-server
- * qemu-kvm
+ * qemu-system-x86 [i386 amd64]
+ * qemu-system-ppc [powerpc]
  * libvirt-bin
  * openssh-server
