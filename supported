@@ -195,6 +195,7 @@ Localization images:
  * python3-libapparmor
  * python-ufw
  * libseccomp-dev    # promote its use, LP: #1082431
+ * auditd
 
 = Extra server bits =
 
