@@ -20,7 +20,6 @@ See https://launchpad.net/bugs/427288 for why we need both of these (-i686 on kv
  * openssh-server
  * curl
  * tasksel # LP: #649833
- * cloud-initramfs-growroot
  * acpid
  * overlayroot
 
