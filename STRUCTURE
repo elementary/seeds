@@ -1,5 +1,6 @@
 include platform.raring
 desktop: desktop-common
+touch: minimal
 dns-server: standard
 lamp-server: standard
 openssh-server: standard
