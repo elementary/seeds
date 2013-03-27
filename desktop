@@ -59,7 +59,7 @@ We've chosen GNOME as our desktop user interface of choice. Rather than using th
  * file-roller
  * (empathy)
  * (telepathy-idle)        # basic IRC support for empathy
- * gcalctool
+ * gnome-calculator
  * lightdm                 # Proposed GDM replacement for Oneiric, see https://blueprints.launchpad.net/ubuntu/+spec/desktop-o-lightdm
  * gedit
  * software-center
