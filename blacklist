@@ -84,3 +84,6 @@ totem-mozilla
 firefox
 nautilus
 banshee
+# blacklist 3.2 kernels because we ship quantal-backported 3.5
+linux-image-3.2.0*
+linux-headers-3.2.0*
