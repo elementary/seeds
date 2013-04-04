@@ -34,7 +34,7 @@ These packages make up the Ubiquity live installer.
 
  * ubiquity-frontend-gtk
  * ubiquity-ubuntu-artwork
- * ubiquity-slideshow-ubuntu [!armel] [!armhf] # webkit is broken on arm atm (LP: #1066046)
+ * ubiquity-slideshow-ubuntu
 
 == Kernel ==
 
