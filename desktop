@@ -182,6 +182,7 @@ Desktop Experience:
  * notify-osd           # backend for libnotify
  * (sni-qt)
  * (activity-log-manager-control-center)
+ * (gnome-control-center-unity)
  * (xul-ext-unity)
  * (unity-webapps-common)
  * (xul-ext-webaccounts)
