@@ -163,7 +163,7 @@ Accessibility tools:
 Desktop Experience:
  * (notify-osd)           # backend for libnotify
  * (ginn)
- * (activity-log-manager)
+ * (activity-log-manager-control-center)
 
 = Prerelease stuff =
 
