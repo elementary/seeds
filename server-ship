@@ -163,7 +163,6 @@ Other:
  * netcat-openbsd
  * munin-node
  * munin
- * openssh-blacklist-extra
  * openssl-blacklist-extra
  * openvpn-blacklist
  * likewise-open
