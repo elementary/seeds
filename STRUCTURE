@@ -1,4 +1,4 @@
-include platform.raring
+include platform.saucy
 desktop: desktop-common
 dns-server: standard
 lamp-server: standard
