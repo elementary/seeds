@@ -247,6 +247,7 @@ included due to matching Extra-Include patterns, and has no other effect):
  * Extra-Exclude: packagekit-dbg
  * Extra-Exclude: rest-bench-dbg
  * Extra-Exclude: grub-coreboot-dbg grub-emu-dbg grub-ieee1275-dbg
+ * Extra-Exclude: unity-webapps-dev # we don't want its deps in main
 
 Transitional packages:
 
