@@ -185,7 +185,6 @@ Desktop Experience:
  * (gnome-control-center-unity)
  * (xul-ext-unity)
  * (unity-webapps-common)
- * !unity-webapps-dev   # we don't want the -dev in main
  * (xul-ext-webaccounts)
 
 libqt4-sql recommends libqt4-sql-mysql | ...; lets pull in the smallest
