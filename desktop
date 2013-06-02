@@ -9,8 +9,6 @@ Task-Seeds: desktop-common
 
 == Architecture-independent ==
 
- * libgd2-xpm # force the xpm-enabled version for edubuntu compatibility
-
 Bluetooth:
 
  * (gnome-bluetooth) # desktop bluetooth support
