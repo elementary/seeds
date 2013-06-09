@@ -127,6 +127,7 @@ Other dictionaries, word lists, and thesauri:
 Fonts installed on demand by language-selector:
 
  * fonts-arabeyes
+ * fonts-arphic-ukai
  * fonts-arphic-uming
  * fonts-farsiweb
  * fonts-kacst
@@ -150,7 +151,6 @@ Fonts installed on demand by language-selector:
  * fonts-ukij-uyghur
  * fonts-unfonts-core
  * ttf-alee
- * ttf-arphic-ukai
  * ttf-bengali-fonts
  * ttf-devanagari-fonts
  * ttf-gujarati-fonts
