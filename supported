@@ -145,6 +145,7 @@ Fonts installed on demand by language-selector:
  * fonts-sil-scheherazade
  * fonts-takao-gothic
  * fonts-takao-mincho
+ * fonts-thai-tlwg
  * fonts-tibetan-machine
  * fonts-ukij-uyghur
  * fonts-unfonts-core
@@ -159,7 +160,6 @@ Fonts installed on demand by language-selector:
  * ttf-punjabi-fonts
  * ttf-tamil-fonts
  * ttf-telugu-fonts
- * ttf-thai-tlwg
  * ttf-wqy-zenhei
 
 Input methods installed on demand by language-selector:
