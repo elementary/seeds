@@ -80,7 +80,6 @@ We've chosen GNOME as our desktop user interface of choice. Rather than using th
  * checkbox-qt
  * language-selector-gnome # MichaelVogt
  * (firefox)
- * (firefox-gnome-support)
  * (xul-ext-ubufox)        # ubuntu firefox tweaks - AlexanderSack
  * nautilus                # SebastienBacher
  * nautilus-sendto
