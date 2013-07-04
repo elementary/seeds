@@ -58,6 +58,9 @@ Python 3 libraries with sources already in main
  * python3-json-patch
  * python3-webob
  * python3-stevedore
+ * python3-iso8501
+ * python3-jsonschema
+ * python3-testrepository
 
 Extra GCC packages
 
@@ -66,3 +69,7 @@ Extra GCC packages
  * g++-multilib  # seed it directly until changing the defaults
  * cpp-doc
  * gcc-doc
+
+Useful VCS development tool
+
+ * git-bzr # bzr and git are in main... so why not =)
