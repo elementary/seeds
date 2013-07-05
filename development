@@ -58,9 +58,10 @@ Python 3 libraries with sources already in main
  * python3-json-patch
  * python3-webob
  * python3-stevedore
- * python3-iso8501
+ * python3-iso8601
  * python3-jsonschema
  * python3-testrepository
+ * python3-configglue
 
 Extra GCC packages
 
