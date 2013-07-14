@@ -55,10 +55,10 @@ Task-Seeds: desktop-common desktop
  * ttf-alee
  * ttf-nanum-coding
  * fonts-nanum-extra
- * ttf-arphic-bkai00mp
- * ttf-arphic-bsmi00lp
- * ttf-arphic-gbsn00lp
- * ttf-arphic-gkai00mp
+ * fonts-arphic-bkai00mp
+ * fonts-arphic-bsmi00lp
+ * fonts-arphic-gbsn00lp
+ * fonts-arphic-gkai00mp
  * ttf-malayalam-fonts
  * ttf-devanagari-fonts
  * ttf-tamil-fonts
