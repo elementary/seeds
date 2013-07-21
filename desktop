@@ -164,10 +164,6 @@ Desktop Experience:
  * (ginn)
  * (activity-log-manager-control-center)
 
-= Prerelease stuff =
-
- * (elementary-os-prerelease)
-
 = Documentation =
 
  * (doc-base)			# integrates with scrollkeeper
