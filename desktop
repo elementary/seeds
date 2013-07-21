@@ -78,6 +78,7 @@ OS-only stuff:
 
  * (elementary-default-settings)
  * (gnome-session-bin)       # starts up cerbere according to default-settings
+ * (elementary-os-beta-transition) # converts Daily PPA to Stable if it's installed
 
 = Desktop GNOME Apps =
 
