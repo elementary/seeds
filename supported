@@ -288,3 +288,4 @@ Temporary workarounds:
  * icedtea-plugin
  * evolution # still supported for business environment
  * miscfiles
+ * sosreport # AdamStokes LP: #1206106
