@@ -192,6 +192,8 @@ Transitional packages:
  * python-ufw
  * libseccomp-dev    # promote its use, LP: #1082431
  * auditd
+ * click             # temporary, until touch packages are all in main
+ * click-dev
 
 = Extra server bits =
 
