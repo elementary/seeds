@@ -292,3 +292,5 @@ Temporary workarounds:
  * miscfiles
  * sosreport # AdamStokes LP: #1206106
  * lxc
+ * nvidia-prime
+ * fglrx-pxpress
