@@ -8,5 +8,6 @@ Task-Key: elementary-artwork
  * elementary-theme
  * (elementary-wallpapers)
  * (fonts-elementary-extra)
- * (notify-osd-icons-elementary)
+# Package does not (yet?) exist for dist:
+# * (notify-osd-icons-elementary)
  * (plank-theme-pantheon)

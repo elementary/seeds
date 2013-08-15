@@ -51,9 +51,12 @@ Input methods:
  * pantheon
 
 = System-wide distro-specific artwork =
- * (plymouth-theme-elementary-text)
- * (plymouth-theme-elementary)
- * (print-test-page-elementary)
+# Package does not (yet?) exist for dist:
+# * (plymouth-theme-elementary-text)
+# Package does not (yet?) exist for dist:
+# * (plymouth-theme-elementary)
+# Package does not (yet?) exist for dist:
+# * (print-test-page-elementary)
 
 = Swithchboard and plugs =
  * (switchboard)
@@ -63,7 +66,8 @@ Input methods:
  * (switchboard-plug-power)
  * (switchboard-plug-pantheon-shell)
  * (switchboard-gnome-control-center)
- * (switchboard-gnome-control-center-override)
+# Package does not (yet?) exist for dist:
+# * (switchboard-gnome-control-center-override)
 
 UI and branding fonts for elementary:
 
@@ -75,7 +79,8 @@ Indicators:
 
  * (indicator-application)
  * (indicator-datetime)
- * (indicator-me)
+# Package does not (yet?) exist for dist:
+# * (indicator-me)
  * (indicator-session)
  * (indicator-sound)
 
@@ -83,7 +88,8 @@ OS-only stuff:
 
  * (elementary-default-settings)
  * (gnome-session-bin)       # starts up cerbere according to default-settings
- * (elementary-os-beta-transition) # converts Daily PPA to Stable if it's installed
+# Package does not (yet?) exist for dist:
+# * (elementary-os-beta-transition) # converts Daily PPA to Stable if it's installed
 
 = Desktop GNOME Apps =
 
@@ -123,7 +129,8 @@ Here's a list.
  * (pulseaudio-module-bluetooth)
  * (gvfs-bin)			# mostly used as xdg-open backend
  * (gvfs-fuse)			# let non-GNOME apps see GVFS via fuse
- * (user-specific-alternatives)  # wrapper to launch user-preferred apps for binaries like x-www-browser
+# Package does not (yet?) exist for dist:
+# * (user-specific-alternatives)  # wrapper to launch user-preferred apps for binaries like x-www-browser
  * (overlay-scrollbar)  # 'cause it's a good idea
  * (tumbler-plugins-extra) # extra thumbnailers for common thumbnailing service
 
