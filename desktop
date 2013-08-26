@@ -170,7 +170,6 @@ Accessibility tools:
  * (geary)
  * (shotwell)
  * (simple-scan)
- * (jockey-gtk) # enable non-free graphics and other drivers easily
 
 Desktop Experience:
  * (notify-osd)           # backend for libnotify
