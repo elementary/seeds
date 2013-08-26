@@ -84,6 +84,7 @@ totem-mozilla
 firefox
 nautilus
 banshee
+ubuntu-system-settings
 
 # stuff we don't want in stable
 #apport-gtk
