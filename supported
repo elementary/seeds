@@ -195,6 +195,7 @@ Transitional packages:
  * auditd
  * click             # temporary, until touch packages are all in main
  * click-dev
+ * click-apparmor
 
 = Extra server bits =
 
