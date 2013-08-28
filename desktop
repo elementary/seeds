@@ -55,8 +55,7 @@ Input methods:
 # * (plymouth-theme-elementary-text)
 # Package does not (yet?) exist for dist:
 # * (plymouth-theme-elementary)
-# Package does not (yet?) exist for dist:
-# * (print-test-page-elementary)
+ * (print-test-page-elementary)
 
 = Swithchboard and plugs =
  * (switchboard)
