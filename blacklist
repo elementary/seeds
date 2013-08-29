@@ -85,6 +85,7 @@ firefox
 nautilus
 banshee
 ubuntu-system-settings
+compiz
 
 # stuff we don't want in stable
 #apport-gtk
