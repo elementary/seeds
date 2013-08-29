@@ -30,7 +30,7 @@ See https://launchpad.net/bugs/427288 for why we need both of these (-i686 on kv
 = EC2 =
 
  * cloud-init
- * cloud-utils
+ * cloud-guest-utils
 # * ec2-ami-tools
  * euca2ools
  * grub-legacy-ec2
