@@ -115,7 +115,6 @@ Here's a list.
  * (language-selector-gnome) # MichaelVogt
  * (ssh-askpass-gnome)
  * (software-properties-gtk) # default GUI sources.list editor
- * (totem)             # TODO: consider Audience
  * (update-manager)
  * (update-notifier)
  * (zenity)
