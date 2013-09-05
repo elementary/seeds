@@ -180,7 +180,7 @@ Transitional packages:
  * qemu-common		# needed in main until 14.04
  * iproute		# needed in main until 14.04
  * libaugeas-ruby1.8	# needed in main until 14.04
- * libaugeas-ruby1.9.1  # needed in main until 14.04
+ * libaugeas-ruby1.9.1	# needed in main until 14.04
 
 = Installed on demand =
 
