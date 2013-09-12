@@ -35,6 +35,7 @@ These packages make up the Ubiquity live installer.
  * ubiquity-frontend-gtk
  * ubiquity-ubuntu-artwork
  * ubiquity-slideshow-ubuntu
+ * ubiquity-plugin-ubuntuone
 
 == Kernel ==
 
