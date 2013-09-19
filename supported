@@ -206,6 +206,7 @@ Transitional packages:
  * postgresql-plpython3-9.1
  * postgresql-pltcl-9.1
  * hv-kvp-daemon-init
+ * cloud-utils
 
 = Rescued from Extra =
 
