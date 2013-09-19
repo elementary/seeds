@@ -69,7 +69,7 @@ Python 3 libraries with sources already in main
 
 Extra GCC packages
 
- * gcj-4.7-source
+ * gcj-4.8-source
  * gcc-4.8-source
  * g++-multilib  # seed it directly until changing the defaults
  * cpp-doc
