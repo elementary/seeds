@@ -184,6 +184,7 @@ Transitional packages:
  * libcorosync4			# needed in main until 14.04
  * firefox-globalmenu		# needed in main until 14.04
  * thunderbird-globalmenu	# needed in main until 14.04
+ * apache2.2-bin		# needed in main until 14.04
 
 = Installed on demand =
 
