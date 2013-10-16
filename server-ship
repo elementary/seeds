@@ -163,8 +163,6 @@ Other:
  * netcat-openbsd
  * munin-node
  * munin
- * openssl-blacklist-extra
- * openvpn-blacklist
  * likewise-open
  * libpkcs11-helper1
  * zip #ChuckShort - server-lucid-seeds
