@@ -1,4 +1,4 @@
-include platform.saucy
+include platform.trusty
 desktop: desktop-common
 dns-server: standard
 lamp-server: standard
