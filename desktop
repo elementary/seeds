@@ -57,6 +57,7 @@ Input methods:
 # Package does not (yet?) exist for dist:
 # * (plymouth-theme-elementary)
  * (print-test-page-elementary)
+ * (gtksourceview-3.0-theme-solarized-elementary)
 
 = Swithchboard and plugs =
  * (switchboard)
