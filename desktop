@@ -82,6 +82,7 @@ Indicators:
  * (indicator-datetime)
 # Package does not (yet?) exist for dist:
 # * (indicator-me)
+ * (indicator-power)
  * (indicator-session)
  * (indicator-sound)
 
