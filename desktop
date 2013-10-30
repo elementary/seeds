@@ -88,6 +88,7 @@ We've chosen GNOME as our desktop user interface of choice. Rather than using th
  * (rhythmbox-ubuntuone)
  * (rhythmbox-plugin-magnatune)
  * (brasero)		   # Oliver Grawert
+ * (cheese)
  * ssh-askpass-gnome
  * software-properties-gtk # default GUI sources.list editor / extra drivers
  * (totem)
