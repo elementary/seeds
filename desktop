@@ -79,6 +79,7 @@ ttf-unifont is shipped by the platform package - so we have a fallback font with
 Indicators:
 
  * (indicator-application)
+ * (indicator-bluetooth)
  * (indicator-datetime)
 # Package does not (yet?) exist for dist:
 # * (indicator-me)
