@@ -86,6 +86,7 @@ nautilus
 banshee
 ubuntu-system-settings
 compiz
+gnome-system-monitor
 
 # stuff we don't want in stable
 #apport-gtk
