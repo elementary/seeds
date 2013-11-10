@@ -87,6 +87,7 @@ banshee
 ubuntu-system-settings
 compiz
 gnome-system-monitor
+example-content # creates ~/example.desktop
 
 # stuff we don't want in stable
 #apport-gtk
