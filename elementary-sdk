@@ -9,4 +9,7 @@ Task-Metapackage: elementary-sdk
  * cmake # http://elementaryos.org/docs/code/the-build-system
  * devscripts # packaging tools
  * euclide # elementary IDE
+ * gobject-introspection
  * libgranite-dev # elementary development library
+ * libgtk-3-dev
+ * valac
