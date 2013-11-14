@@ -204,10 +204,10 @@ Transitional packages:
 
 = Extra server bits =
 
- * postgresql-plperl-9.1
- * postgresql-plpython-9.1
- * postgresql-plpython3-9.1
- * postgresql-pltcl-9.1
+ * postgresql-plperl-9.3
+ * postgresql-plpython-9.3
+ * postgresql-plpython3-9.3
+ * postgresql-pltcl-9.3
  * hv-kvp-daemon-init
  * cloud-utils
 
