@@ -5,4 +5,8 @@ Task-Extended-Description: The official SDK of elementary
 Task-Key: elementary-sdk
 Task-Metapackage: elementary-sdk
 
- * euclide
+ * build-essential
+ * cmake # http://elementaryos.org/docs/code/the-build-system
+ * devscripts # packaging tools
+ * euclide # elementary IDE
+ * libgranite-dev # elementary development library
