@@ -110,7 +110,6 @@ Here's a list.
  * (system-config-printer-gnome)
  * (gnome-menus)
  * (libpam-gnome-keyring)
-# * (gnome-system-monitor)     # SebastienBacher
  * (gnome-power-manager)		# OliverGrawert finally ready for shipment
  * (gnome-screenshot)
  * (gnome-font-viewer)

@@ -13,7 +13,7 @@ See https://launchpad.net/bugs/427288 for why we need both of these (-i686 on kv
 
  * patch
  * byobu
- * landscape-common
+ * landscape-client
  * vim
  * apport # LP: #424051
  * whoopsie # http://wiki.ubuntu.com/ErrorTracker - EvanDandrea
@@ -30,7 +30,7 @@ See https://launchpad.net/bugs/427288 for why we need both of these (-i686 on kv
 = EC2 =
 
  * cloud-init
- * cloud-utils
+ * cloud-guest-utils
 # * ec2-ami-tools
  * euca2ools
  * grub-legacy-ec2

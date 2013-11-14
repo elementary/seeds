@@ -32,6 +32,7 @@ language-selector:
  * hunspell-eu-es
  * hunspell-sv-se
  * hunspell-gl-es
+ * hunspell-br
 
 myspell packages containing the hunspell dictionaries:
 
@@ -176,8 +177,15 @@ Input methods installed on demand by language-selector:
 
 Transitional packages:
 
- * mahjongg		# needed in main until 14.04
- * qemu-common		# needed in main until 14.04
+ * mahjongg			# needed in main until 14.04
+ * qemu-common			# needed in main until 14.04
+ * iproute			# needed in main until 14.04
+ * libaugeas-ruby1.8		# needed in main until 14.04
+ * libaugeas-ruby1.9.1		# needed in main until 14.04
+ * libcorosync4			# needed in main until 14.04
+ * firefox-globalmenu		# needed in main until 14.04
+ * thunderbird-globalmenu	# needed in main until 14.04
+ * apache2.2-bin		# needed in main until 14.04
 
 = Installed on demand =
 
@@ -197,11 +205,12 @@ Transitional packages:
 
 = Extra server bits =
 
- * postgresql-plperl-9.1
- * postgresql-plpython-9.1
- * postgresql-plpython3-9.1
- * postgresql-pltcl-9.1
+ * postgresql-plperl-9.3
+ * postgresql-plpython-9.3
+ * postgresql-plpython3-9.3
+ * postgresql-pltcl-9.3
  * hv-kvp-daemon-init
+ * cloud-utils
 
 = Rescued from Extra =
 
@@ -249,9 +258,10 @@ included due to matching Extra-Include patterns, and has no other effect):
  * Extra-Exclude: packagekit-dbg
  * Extra-Exclude: rest-bench-dbg
  * Extra-Exclude: grub-coreboot-dbg grub-emu-dbg grub-ieee1275-dbg
- * Extra-Exclude: ceph-test-dbg
+ * Extra-Exclude: ceph-test-dbg ceph-fs-common-dbg ceph-mds-dbg
  * Extra-Exclude: unity-webapps-dev # we don't want its deps in main
  * Extra-Exclude: sndfile-programs-dbg # sndfile-programs not in main
+ * Extra-Exclude: ubuntu-ui-toolkit-examples
 
 Transitional packages:
 
@@ -291,6 +301,6 @@ Temporary workarounds:
  * evolution # still supported for business environment
  * miscfiles
  * sosreport # AdamStokes LP: #1206106
- * lxc
  * nvidia-prime
  * fglrx-pxpress
+ * ipxe

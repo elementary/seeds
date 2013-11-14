@@ -1,5 +1,5 @@
 feature follow-recommends
-include platform.saucy
+include platform.trusty
 artwork:
 pantheon-shell:
 pantheon:
