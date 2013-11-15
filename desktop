@@ -198,6 +198,5 @@ to compile a driver. -mdz
 = Other =
 
  * elementary-desktop # metapackage for everything here
- * (example-content) # dholbach: dapper feature goal (wiki.ubuntu.com/ExampleContent)
  * (libwmf0.2-7-gtk)
  * (python3-aptdaemon.pkcompat) # needed to keep packagekit off the images
