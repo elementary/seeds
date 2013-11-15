@@ -54,8 +54,7 @@ Input methods:
 = System-wide distro-specific artwork =
 # Package does not (yet?) exist for dist:
 # * (plymouth-theme-elementary-text)
-# Package does not (yet?) exist for dist:
-# * (plymouth-theme-elementary)
+ * (plymouth-theme-elementary)
  * (print-test-page-elementary)
  * (gtksourceview-3.0-theme-solarized-elementary)
 
