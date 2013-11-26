@@ -88,6 +88,7 @@ ubuntu-system-settings
 compiz
 gnome-system-monitor
 example-content # creates ~/example.desktop
+webbrowser-app # ubuntu web browser
 
 # stuff we don't want in stable
 #apport-gtk
