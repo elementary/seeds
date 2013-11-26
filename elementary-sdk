@@ -6,6 +6,7 @@ Task-Key: elementary-sdk
 Task-Metapackage: elementary-sdk
 
  * build-essential
+ * bzr
  * cmake # http://elementaryos.org/docs/code/the-build-system
  * devscripts # packaging tools
  * euclide # elementary IDE
