@@ -162,7 +162,7 @@ Accessibility tools:
 = Other Desktop GUI Apps =
 
  * (evince)
- * (gnome-screensaver) # recommends to allow for xscreensaver to be used
+ * (light-locker)
  * (geary)
  * (shotwell)
  * (simple-scan)
