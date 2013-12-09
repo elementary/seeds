@@ -251,7 +251,7 @@ Security:
  * apport # MathiasGug
  * whoopsie # http://wiki.ubuntu.com/ErrorTracker - EvanDandrea
  * kerneloops-daemon # JamesWestby
- * python-beautifulsoup #ChuckShort
+ * python-bs4 #ChuckShort
  * python-genshi #ChuckShort
 
 
