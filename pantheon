@@ -8,8 +8,7 @@ Task-Metapackage: pantheon
 # apps shipped by default, in alphabetical order:
  * (audience)
  * (pantheon-files)
-# Package does not (yet?) exist for dist:
-# * (maya-calendar)
+ * (maya-calendar)
  * (midori-granite)
  * (noise)
  * (pantheon-terminal)
