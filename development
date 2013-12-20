@@ -72,6 +72,7 @@ Python 3 libraries with sources already in main
  * python3-amqp
  * python3-cliff
  * python3-waitress
+ * python3-prettytable
 
 Extra GCC packages
 
