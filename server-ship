@@ -199,7 +199,6 @@ Utilities:
 IPv6 tools:
 
  * radvd                  # FabioMassimoDiNitto
- * quagga                 # RobertCollins
 
 Security:
 
@@ -210,7 +209,6 @@ Security:
 
  * attr                 # will move to base if we go to selinux
  * quota
- * backuppc             # RobertCollins
  * debian-goodies
  * whois                # FabioMassimoDiNitto
  * cu                   # super-basic serial access
@@ -249,11 +247,7 @@ Security:
 
  * checkbox-cli # MathiasGug
  * apport # MathiasGug
- * whoopsie # http://wiki.ubuntu.com/ErrorTracker - EvanDandrea
  * kerneloops-daemon # JamesWestby
- * python-bs4 #ChuckShort
- * python-genshi #ChuckShort
-
 
 = From desktop =
 
