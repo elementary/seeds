@@ -174,7 +174,6 @@ Other:
  * maas-enlist
  * maas-enlist-udeb
  * powernap
- * grub-ieee1275 # utlemming, ppc64el cloud-images and open-firmware boot
 
 RCS:
 
