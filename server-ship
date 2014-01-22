@@ -17,9 +17,6 @@ restricted modules.
  * ${Kernel-Stem}-powerpc-smp [powerpc]
  * linux-headers-powerpc-smp [powerpc]
 
-== ppc64el ==
- * grub-ieee1275 [ppc64el] # utlemming, open-firmware boot
-
 == amd64 ==
 
  * ${Kernel-Stem}-server [amd64]
