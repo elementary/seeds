@@ -11,25 +11,16 @@ See https://launchpad.net/bugs/427288 for why we need both of these (-i686 on kv
 
 = System administration tools =
 
- * acpid
- * apport # LP: #424051
- * at
- * byobu
- * curl
- * landscape-client
- * openssh-server
- * overlayroot
  * patch
- * screen
- * software-properties-common
- * tasksel # LP: #649833
+ * byobu
+ * landscape-client
  * vim
-
-= Network =
-
- * wireless-tools
- * wpasupplicant  # ScottJamesRemnant
- * ethtool
+ * apport # LP: #424051
+ * openssh-server
+ * curl
+ * tasksel # LP: #649833
+ * acpid
+ * overlayroot
 
 = Documentation =
 
@@ -45,7 +36,3 @@ See https://launchpad.net/bugs/427288 for why we need both of these (-i686 on kv
 = Maintenance =
 
  * update-notifier-common # LP: 897815
-
-= Other =
-
- * fonts-ubuntu-font-family-console
