@@ -8,16 +8,16 @@ This seed lists the packages we want to install by default in the new server ins
 
 = System administration tools =
 
+ * acpid
+ * apport # LP: #424051
  * at
- * patch
- * screen
  * byobu
  * curl
- * acpid
  * landscape-common
- * vim
- * apport # LP: #424051
+ * patch
+ * screen
  * software-properties-common # LP: #439566
+ * vim
 
 = Network =
 
