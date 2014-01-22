@@ -17,6 +17,9 @@ restricted modules.
  * ${Kernel-Stem}-powerpc-smp [powerpc]
  * linux-headers-powerpc-smp [powerpc]
 
+== ppc64el ==
+ * grub-ieee1275 [ppc64el] # utlemming, open-firmware boot
+
 == amd64 ==
 
  * ${Kernel-Stem}-server [amd64]
@@ -171,6 +174,7 @@ Other:
  * maas-enlist
  * maas-enlist-udeb
  * powernap
+ * grub-ieee1275 # utlemming, ppc64el cloud-images and open-firmware boot
 
 RCS:
 
