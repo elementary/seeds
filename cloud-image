@@ -27,8 +27,6 @@ See https://launchpad.net/bugs/427288 for why we need both of these (-i686 on kv
 
 = Network =
 
- * wireless-tools
- * wpasupplicant  # ScottJamesRemnant
  * ethtool
 
 = Documentation =
@@ -39,7 +37,6 @@ See https://launchpad.net/bugs/427288 for why we need both of these (-i686 on kv
 
  * cloud-init
  * cloud-guest-utils
-# * ec2-ami-tools
  * grub-legacy-ec2
 
 = Maintenance =
