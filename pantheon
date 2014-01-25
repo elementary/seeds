@@ -16,7 +16,7 @@ Task-Metapackage: pantheon
  * (snap-photobooth)
 
 # not exactly apps, but still part of the DE
- * (pantheon-greeter)
+# * (pantheon-greeter)
  * (pantheon-shell)
 
 # contractor and very, very default contracts
