@@ -101,8 +101,7 @@ Here's a list.
  * (empathy)
  * (telepathy-idle)        # basic IRC support for empathy
  * (gcalctool)
-# * (lightdm)               # Proposed GDM replacement for Oneiric, see https://blueprints.launchpad.net/ubuntu/+spec/desktop-o-lightdm
- * (gdm) # Temporarily use gdm until lightdm problems are resolved
+ * (lightdm)               # Proposed GDM replacement for Oneiric, see https://blueprints.launchpad.net/ubuntu/+spec/desktop-o-lightdm
  * (software-center)
  * (app-install-data-partner)
  * (gnome-codec-install)    # new default codec installation tool (from debian)
