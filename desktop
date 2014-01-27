@@ -64,6 +64,7 @@ We've chosen GNOME as our desktop user interface of choice. Rather than using th
  * (app-install-data-partner)
  * (transmission-gtk)       # simple GNOME frontend for bittorrent downloads
  * gnome-control-center
+ * gnome-control-center-datetime # We want this to be chosen over the alternate unity-c-c-datetime for now
  * system-config-printer-gnome
  * gnome-menus
  * gnome-session
