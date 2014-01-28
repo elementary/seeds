@@ -7,10 +7,11 @@ Task-Metapackage: pantheon
 
 # apps shipped by default, in alphabetical order:
  * (audience)
- * (pantheon-files)
  * (maya-calendar)
  * (midori-granite)
  * (noise)
+ * (pantheon-files)
+ * (pantheon-photos)
  * (pantheon-terminal)
  * (scratch-text-editor)
  * (snap-photobooth)
