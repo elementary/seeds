@@ -38,6 +38,7 @@ restricted modules.
  * fakeroot
  * devscripts
  * setserial
+ * sosreport
 
 = Cluster =
 
