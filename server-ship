@@ -17,6 +17,13 @@ restricted modules.
  * ${Kernel-Stem}-powerpc-smp [powerpc]
  * linux-headers-powerpc-smp [powerpc]
 
+== ppc64el ==
+
+ * ${Kernel-Stem}-generic [ppc64el]
+ * linux-headers-generic [ppc64el]
+ * ${Kernel-Stem}-virtual [ppc64el]
+ * linux-headers-virtual [ppc64el]
+
 == amd64 ==
 
  * ${Kernel-Stem}-server [amd64]
@@ -238,7 +245,7 @@ Security:
 = Virtualisation =
 
  * qemu-system-x86 [i386 amd64]
- * qemu-system-ppc [powerpc]
+ * qemu-system-ppc [powerpc ppc64el]
  * python-libvirt
  * python-urlgrabber
  * libvirt-bin
