@@ -202,6 +202,7 @@ Transitional packages:
  * auditd
  * click             # temporary, until touch packages are all in main
  * click-dev
+ * unity-settings-daemon #temporary, until ubuntu-desktop transitions from gsettings-daemon
 
 = Extra server bits =
 
