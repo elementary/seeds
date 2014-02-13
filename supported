@@ -186,10 +186,22 @@ Transitional packages:
  * firefox-globalmenu		# needed in main until 14.04
  * thunderbird-globalmenu	# needed in main until 14.04
  * apache2.2-bin		# needed in main until 14.04
- * %xorg-lts-transitional	# needed in main for 14.04 only
- * !xserver-xorg-video-geode-lts-quantal # ^ except for the geode driver, which
- * !xserver-xorg-video-geode-lts-raring  # has always been in universe
+
+Transitional packages for upgrading 12.04.[1-9] with LTS enablement stacks to
+14.04 (remove them entirely in 14.10):
+ * %xorg-lts-transitional
+ * !xserver-xorg-video-geode-lts-quantal
+ * !xserver-xorg-video-geode-lts-raring
  * !xserver-xorg-video-geode-lts-saucy
+ * !xserver-xorg-input-mtrack-lts-quantal
+ * !xserver-xorg-input-mtrack-lts-saucy
+ * !xserver-xorg-input-mtrack-lts-raring
+ * !xserver-xorg-input-keyboard-lts-quantal
+ * !xserver-xorg-input-keyboard-lts-quantal
+ * !xserver-xorg-input-keyboard-lts-saucy
+ * !xserver-xorg-input-joystick-lts-raring
+ * !xserver-xorg-input-joystick-lts-saucy
+ * !xserver-xorg-input-joystick-lts-raring
 
 = Installed on demand =
 
