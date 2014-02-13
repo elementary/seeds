@@ -199,10 +199,10 @@ Transitional packages for upgrading 12.04.[1-9] with LTS enablement stacks to
  * !xserver-xorg-input-kbd-lts-quantal
  * !xserver-xorg-input-kbd-lts-saucy
  * !xserver-xorg-input-kbd-lts-raring
- * !xserver-xorg-input-joystick-lts-raring
+ * !xserver-xorg-input-joystick-lts-quantal
  * !xserver-xorg-input-joystick-lts-saucy
  * !xserver-xorg-input-joystick-lts-raring
- * !xserver-xorg-input-joystick-dev-lts-raring
+ * !xserver-xorg-input-joystick-dev-lts-quantal
  * !xserver-xorg-input-joystick-dev-lts-saucy
  * !xserver-xorg-input-joystick-dev-lts-raring
 
