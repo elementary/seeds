@@ -186,6 +186,10 @@ Transitional packages:
  * firefox-globalmenu		# needed in main until 14.04
  * thunderbird-globalmenu	# needed in main until 14.04
  * apache2.2-bin		# needed in main until 14.04
+ * %xorg-lts-transitional	# needed in main for 14.04 only
+ * !xserver-xorg-video-geode-lts-quantal # ^ except for the geode driver, which
+ * !xserver-xorg-video-geode-lts-raring  # has always been in universe
+ * !xserver-xorg-video-geode-lts-saucy
 
 = Installed on demand =
 
