@@ -65,7 +65,6 @@ We've chosen GNOME as our desktop user interface of choice. Rather than using th
  * (transmission-gtk)       # simple GNOME frontend for bittorrent downloads
  * gnome-settings-daemon    # We will switch to unity-settings-daemon in the future
  * unity-control-center
- * unity-control-center-datetime
  * system-config-printer-gnome
  * gnome-menus
  * gnome-session
