@@ -282,6 +282,7 @@ included due to matching Extra-Include patterns, and has no other effect):
  * Extra-Exclude: unity-webapps-dev # we don't want its deps in main
  * Extra-Exclude: sndfile-programs-dbg # sndfile-programs not in main
  * Extra-Exclude: ubuntu-ui-toolkit-examples
+ * Extra-Exclude: speech-dispatcher-dbg
 
 Transitional packages:
 
