@@ -67,7 +67,7 @@ We've chosen GNOME as our desktop user interface of choice. Rather than using th
  * unity-control-center
  * system-config-printer-gnome
  * gnome-menus
- * ubuntu-session
+ * gnome-session
  * seahorse
  * (libpam-gnome-keyring)
  * gnome-system-monitor     # SebastienBacher
