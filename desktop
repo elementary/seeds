@@ -63,7 +63,7 @@ We've chosen GNOME as our desktop user interface of choice. Rather than using th
  * software-center
  * (app-install-data-partner)
  * (transmission-gtk)       # simple GNOME frontend for bittorrent downloads
- * gnome-settings-daemon    # We will switch to unity-settings-daemon in the future
+ * unity-settings-daemon
  * unity-control-center
  * system-config-printer-gnome
  * gnome-menus
