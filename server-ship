@@ -196,7 +196,7 @@ Utilities:
  * dnstracer              # dns network diagnostics
  * iptraf                 # sysadmin's toy, may be a candidate for removal
  * pptpd                  # server that allows setup of Microsoft-compatible VPN
- * ifenslave-2.6          # interface bonding/trunking/etherchannel
+ * ifenslave              # interface bonding/trunking/etherchannel
  * ipsec-tools            # IPsec configuration
  * vlan                   # userland tools to config 8021q support
  * vlan-udeb              # userland tools to support 8021q from the installer
