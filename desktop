@@ -61,7 +61,8 @@ Input methods:
  * (switchboard-plug-about)
  * (switchboard-plug-default-applications)
  * (switchboard-plug-keyboard)
- * (switchboard-plug-online-accounts)
+# Disabled until lp:1290596 is fixed
+# * (switchboard-plug-online-accounts)
  * (switchboard-plug-power)
  * (switchboard-plug-pantheon-shell)
  * (switchboard-gnome-control-center)
