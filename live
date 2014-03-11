@@ -35,7 +35,8 @@ These packages make up the Ubiquity live installer.
  * ubiquity-frontend-gtk
  * ubiquity-ubuntu-artwork
  * ubiquity-slideshow-ubuntu
- * ubiquity-plugin-ubuntuone
+# Unseed for now, due to http://pad.lv/1289059
+#* ubiquity-plugin-ubuntuone
 
 == Kernel ==
 
