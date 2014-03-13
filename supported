@@ -232,6 +232,7 @@ Transitional packages for upgrading 12.04.[1-9] with LTS enablement stacks to
  * postgresql-pltcl-9.3
  * hv-kvp-daemon-init
  * cloud-utils
+ * nginx
 
 = Rescued from Extra =
 
