@@ -285,6 +285,7 @@ included due to matching Extra-Include patterns, and has no other effect):
  * Extra-Exclude: sndfile-programs-dbg # sndfile-programs not in main
  * Extra-Exclude: ubuntu-ui-toolkit-examples
  * Extra-Exclude: speech-dispatcher-dbg
+ * Extra-Exclude: nginx-extras-dbg nginx-full-dbg nginx-light-dbg nginx-naxsi-dbg
 
 Transitional packages:
 
