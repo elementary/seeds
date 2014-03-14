@@ -129,7 +129,8 @@ Here's a list.
  * (gvfs-fuse)			# let non-GNOME apps see GVFS via fuse
 # Package does not (yet?) exist for dist:
 # * (user-specific-alternatives)  # wrapper to launch user-preferred apps for binaries like x-www-browser
- * (overlay-scrollbar)  # 'cause it's a good idea
+# Don't believe the guy below. It's a bad idea.
+# * (overlay-scrollbar)  # 'cause it's a good idea
  * (tumbler-plugins-extra) # extra thumbnailers for common thumbnailing service
 
 # * gnome-session-canberra	# Needed to make login/logout sounds audible - but we have no sounds, right?
