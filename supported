@@ -188,6 +188,7 @@ Transitional packages:
  * firefox-globalmenu		# needed in main until 14.04
  * thunderbird-globalmenu	# needed in main until 14.04
  * apache2.2-bin		# needed in main until 14.04
+ * libnss-mdns-i386		# needed in main until 14.04
 
 Transitional packages for upgrading 12.04.[1-9] with LTS enablement stacks to
 14.04 (remove them entirely in 14.10):
