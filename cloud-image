@@ -47,3 +47,4 @@ See https://launchpad.net/bugs/427288 for why we need both of these (-i686 on kv
 = Other =
 
  * fonts-ubuntu-font-family-console
+ * open-vm-tools
