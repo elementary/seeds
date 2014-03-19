@@ -91,6 +91,13 @@ Extra GCC packages
  * cpp-doc
  * gcc-doc
 
+Cross Toolchains
+
+ * crossbuild-essential-arm64
+ * crossbuild-essential-armhf
+ * crossbuild-essential-powerpc
+ * crossbuild-essential-ppc64el
+
 Useful VCS development tool
 
  * git-bzr # bzr and git are in main... so why not =)
