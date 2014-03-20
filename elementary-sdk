@@ -9,11 +9,11 @@ Task-Metapackage: elementary-sdk
  * bzr
  * cmake # http://elementaryos.org/docs/code/the-build-system
  * devscripts # packaging tools
- * euclide # elementary IDE
  * gobject-introspection
  * libgirepository1.0-dev
  * libgranite-dev # elementary development library
  * libgtk-3-dev
  * libgirepository1.0-dev
  * python3-debian # needed for wrap-and-sort to work
+ * (scratch-text-editor) # official elementary IDE
  * valac
