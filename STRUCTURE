@@ -1,6 +1,7 @@
 feature follow-recommends
 include platform.trusty
 artwork:
+elementary-sdk:
 pantheon-shell:
 pantheon:
 desktop: desktop-common artwork pantheon
