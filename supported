@@ -235,6 +235,7 @@ Transitional packages for upgrading 12.04.[1-9] with LTS enablement stacks to
  * hv-kvp-daemon-init
  * cloud-utils
  * nginx
+ * joyent-mdata-client
 
 = Rescued from Extra =
 
