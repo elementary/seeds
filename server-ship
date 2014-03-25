@@ -250,6 +250,7 @@ Security:
  * python-libvirt
  * python-urlgrabber
  * libvirt-bin
+ * hv-kvp-daemon-init [amd64] # Robert C Jennings bug 1294856
 
 == Miscellaneous ==
 
