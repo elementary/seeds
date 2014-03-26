@@ -90,6 +90,7 @@ gnome-system-monitor
 example-content # creates ~/example.desktop
 webbrowser-app # ubuntu web browser
 overlay-scrollbar
+gnome-screensaver
 
 # stuff we don't want in stable
 #apport-gtk
