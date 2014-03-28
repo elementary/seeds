@@ -54,6 +54,7 @@ Input methods:
  * (plymouth-theme-elementary-text)
  * (plymouth-theme-elementary)
  * (print-test-page-elementary)
+ * (gtksourceview-3.0-theme-solarized-elementary)
 
 = Swithchboard and plugs =
  * (switchboard)
