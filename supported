@@ -236,6 +236,7 @@ Transitional packages for upgrading 12.04.[1-9] with LTS enablement stacks to
  * cloud-utils
  * nginx
  * joyent-mdata-client
+ * sssd
 
 = Rescued from Extra =
 
