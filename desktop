@@ -85,7 +85,6 @@ We've chosen GNOME as our desktop user interface of choice. Rather than using th
  * nautilus-sendto
  * (nautilus-share)
  * (rhythmbox)
- * (rhythmbox-ubuntuone)
  * (rhythmbox-plugin-magnatune)
  * (brasero)		   # Oliver Grawert
  * (cheese)
@@ -171,7 +170,6 @@ Accessibility tools:
  * (shotwell)
  * (usb-creator-gtk) [i386 amd64]
  * (deja-dup)
- * (deja-dup-backend-ubuntuone)
  * xdiagnose
 
 Desktop Experience:
@@ -189,7 +187,6 @@ alternative to avoid pulling in the large MySQL bits
  * (libqt4-sql-sqlite)
 
 Online Services:
- * (ubuntuone-control-panel-qt)
  * (landscape-client-ui-install)
 
 = Documentation =

@@ -211,7 +211,6 @@ Transitional packages for upgrading 12.04.[1-9] with LTS enablement stacks to
 
 = Installed on demand =
 
- * ubuntuone-client-gnome
  * apparmor-utils    # AppArmor profile development
  * apparmor-notify   # LP: #893266
  * apparmor-profiles
