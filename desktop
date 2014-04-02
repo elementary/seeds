@@ -12,7 +12,6 @@ Task-Seeds: desktop-common
 Bluetooth:
 
  * (gnome-bluetooth) # desktop bluetooth support
- * (bluez-gstreamer)
 
 = Network Services =
 
