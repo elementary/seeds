@@ -253,6 +253,7 @@ included due to matching Extra-Include patterns, and has no other effect):
  * Extra-Exclude: gfortran-4.1-doc gfortran-4.2-doc gfortran-4.3-doc lib*gfortran1-dbg
  * Extra-Exclude: lib*go0-dbg
  * Extra-Exclude: lib*objc1-dbg
+ * Extra-Exclude: lldb-* clang* libclang* libllvm-*
  * Extra-Exclude: libavformat-dev libpostproc-dev
  * Extra-Exclude: libgdchart-gd2-xpm-dev
  * Extra-Exclude: libgdome2-ocaml-dev
