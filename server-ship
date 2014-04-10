@@ -247,6 +247,7 @@ Security:
 
  * qemu-system-x86 [i386 amd64]
  * qemu-system-ppc [powerpc ppc64el]
+ * qemu-system-aarch64 [arm64]
  * python-libvirt
  * python-urlgrabber
  * libvirt-bin
