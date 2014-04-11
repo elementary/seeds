@@ -191,6 +191,7 @@ Transitional packages:
  * libnss-mdns-i386		# needed in main until 14.04
  * libmono-2.0-1		# needed in main until 14.04
  * mono-dmcs			# needed in main until 14.04
+ * libwayland0			# needed in main until 14.04
 
 Transitional packages for upgrading 12.04.[1-9] with LTS enablement stacks to
 14.04 (remove them entirely in 14.10):
