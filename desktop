@@ -92,6 +92,7 @@ We've chosen GNOME as our desktop user interface of choice. Rather than using th
  * (totem)
  * (totem-mozilla)
  * ubuntu-release-upgrader-gtk
+ * ubuntu-sso-client-qt # because software-center uses it for comments/purchases/oneconf, and there is no GTK+ edition
  * update-manager
  * update-notifier
  * (vino) # vnc server
