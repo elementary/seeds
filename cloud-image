@@ -42,4 +42,3 @@ Task-Key: cloud-init
 
  * fonts-ubuntu-font-family-console
  * open-vm-tools
- * sosreport # AdamStokes LP: #1206106
