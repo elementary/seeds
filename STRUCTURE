@@ -1,4 +1,4 @@
-include platform.trusty
+include platform.utopic
 desktop: desktop-common
 dns-server: standard
 lamp-server: standard
