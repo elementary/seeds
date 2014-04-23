@@ -127,8 +127,7 @@ Here's a list.
  * (pulseaudio-module-bluetooth)
  * (gvfs-bin)			# mostly used as xdg-open backend
  * (gvfs-fuse)			# let non-GNOME apps see GVFS via fuse
-# Package does not (yet?) exist for dist:
-# * (user-specific-alternatives)  # wrapper to launch user-preferred apps for binaries like x-www-browser
+ * (user-specific-alternatives)  # wrapper to launch user-preferred apps for binaries like x-www-browser
 # Don't believe the guy below. It's a bad idea.
 # * (overlay-scrollbar)  # 'cause it's a good idea
  * (tumbler-plugins-extra) # extra thumbnailers for common thumbnailing service
