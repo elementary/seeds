@@ -64,6 +64,7 @@ Input methods:
  * (switchboard-plug-online-accounts)
  * (switchboard-plug-power)
  * (switchboard-plug-pantheon-shell)
+ * (switchboard-plug-security-privacy)
  * (switchboard-plug-startup-applications)
  * (switchboard-gnome-control-center)
 # Package does not (yet?) exist for dist:
