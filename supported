@@ -178,22 +178,6 @@ Input methods installed on demand by language-selector:
 
 Transitional packages:
 
- * mahjongg			# needed in main until 14.04
- * qemu-common			# needed in main until 14.04
- * ifenslave-2.6		# needed in main until 14.04
- * iproute			# needed in main until 14.04
- * libaugeas-ruby1.8		# needed in main until 14.04
- * libaugeas-ruby1.9.1		# needed in main until 14.04
- * libcorosync4			# needed in main until 14.04
- * firefox-globalmenu		# needed in main until 14.04
- * thunderbird-globalmenu	# needed in main until 14.04
- * apache2.2-bin		# needed in main until 14.04
- * libnss-mdns-i386		# needed in main until 14.04
- * libmono-2.0-1		# needed in main until 14.04
- * mono-dmcs			# needed in main until 14.04
- * libwayland0			# needed in main until 14.04
- * libkadm5srv-mit8		# needed in main until 14.04
-
 Transitional packages for upgrading 12.04.[1-9] with LTS enablement stacks to
 14.04 (remove them entirely in 14.10):
  * %xorg-lts-transitional
