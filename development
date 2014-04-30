@@ -95,6 +95,8 @@ Extra GCC packages
  * gcj-4.9-jdk
  * gcj-4.9-source
  * gcc-4.9-source
+ * gcc-4.9-source
+ * libstdc++-4.9-pic
 
 Cross Toolchains
 
