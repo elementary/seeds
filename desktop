@@ -61,6 +61,7 @@ Input methods:
  * (switchboard-plug-about)
  * (switchboard-plug-default-applications)
  * (switchboard-plug-keyboard)
+ * (switchboard-plug-locale)
  * (switchboard-plug-online-accounts)
  * (switchboard-plug-power)
  * (switchboard-plug-pantheon-shell)
