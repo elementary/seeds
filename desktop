@@ -49,6 +49,7 @@ Input methods:
 
  * elementary-artwork
  * pantheon
+ * (pantheon-greeter)
 
 = System-wide distro-specific artwork =
  * (plymouth-theme-elementary-text)
