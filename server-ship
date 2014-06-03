@@ -225,7 +225,6 @@ Security:
  * libpam-mount	        # ChuckShort
  * libpam-p11		# ChuckShort
  * libpam-radius-auth   # ChuckShort
- * chkrootkit           # forensic detection of rootkit
  * xinetd               # JamesTroup, from hoglet
  * libcap2-bin
  * sasl2-bin
