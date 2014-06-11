@@ -75,7 +75,6 @@ Input methods:
  * (switchboard-plug-gcc-mouse)
  * (switchboard-plug-gcc-network)
  * (switchboard-plug-gcc-printer)
- * (switchboard-plug-gcc-screen)
  * (switchboard-plug-gcc-sound)
  * (switchboard-plug-gcc-ua)
  * (switchboard-plug-gcc-users)
