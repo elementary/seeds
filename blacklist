@@ -92,6 +92,7 @@ webbrowser-app # ubuntu web browser
 overlay-scrollbar
 gnome-screensaver
 unity-control-center
+light-locker-settings
 
 # stuff we don't want in stable
 #apport-gtk
