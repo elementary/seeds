@@ -90,3 +90,4 @@ apport-gtk
 apport-hooks-elementary
 apport-symptoms
 elementary-os-prerelease
+notification-daemon
