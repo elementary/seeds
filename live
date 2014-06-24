@@ -35,9 +35,3 @@ These packages make up the Ubiquity live installer.
  * ubiquity-frontend-gtk
  * ubiquity-ubuntu-artwork
  * ubiquity-slideshow-ubuntu
-
-== Kernel ==
-
- * Signed-Kernel-Stem: linux-signed linux-signed-image
-
- * ${Signed-Kernel-Stem}-generic [amd64]
