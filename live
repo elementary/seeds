@@ -26,7 +26,8 @@ Enough room on i386/powerpc, not enough on amd64:
  * language-pack-gnome-${Languages} [i386 powerpc]
 
  * gparted
- * cifs-utils # Needed by casper for CIFS root=
+ * cifs-utils # Needed by casper for CIFS root
+ * elementary-live-settings # disables light-locker
 
 == Ubiquity components ==
 
