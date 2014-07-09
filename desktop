@@ -79,8 +79,7 @@ Input methods:
  * (switchboard-plug-gcc-ua)
  * (switchboard-plug-gcc-users)
  * (switchboard-plug-gcc-wacom)
-# Package does not (yet?) exist for dist:
-# * (switchboard-gnome-control-center-override)
+ * (switchboard-gnome-control-center-override)
 
 UI and branding fonts for elementary:
 
