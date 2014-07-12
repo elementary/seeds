@@ -93,6 +93,7 @@ overlay-scrollbar
 gnome-screensaver
 unity-control-center
 light-locker-settings
+metacity
 
 # stuff we don't want in stable
 #apport-gtk
