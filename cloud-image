@@ -43,3 +43,4 @@ Task-Key: cloud-init
  * fonts-ubuntu-font-family-console
  * open-vm-tools
  * sosreport # LP: #1311274
+ * systemd # not supported yet, but working on enablement
