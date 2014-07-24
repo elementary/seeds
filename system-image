@@ -1,9 +1,9 @@
 Task-Section: user
-Task-Description: Ubuntu Core2
+Task-Description: Ubuntu Core Next
 Task-Extended-Description: This task provides system image based ubuntu core
-Task-Key: ubuntu-core2
-Task-Name: ubuntu-core2
-Task-Metapackage: ubuntu-core2
+Task-Key: ubuntu-core
+Task-Name: ubuntu-core
+Task-Metapackage: ubuntu-core
 
 = Core =
  * click
