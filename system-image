@@ -8,5 +8,5 @@ Task-Metapackage: ubuntu-core
 = Core =
  * click
  * systemd
-
+ * openssh-server
 
