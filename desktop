@@ -118,7 +118,6 @@ Here's a list.
  * (software-center)
  * (app-install-data-partner)
  * (gnome-codec-install)    # new default codec installation tool (from debian)
- * (system-config-printer-gnome)
  * (gnome-menus)
  * (libpam-gnome-keyring)
  * (gnome-power-manager)		# OliverGrawert finally ready for shipment
