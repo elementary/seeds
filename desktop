@@ -61,6 +61,7 @@ Input methods:
  * (switchboard)
  * (switchboard-plug-about)
  * (switchboard-plug-applications)
+ * (switchboard-plug-display)
  * (switchboard-plug-keyboard)
  * (switchboard-plug-locale)
  * (switchboard-plug-online-accounts)
