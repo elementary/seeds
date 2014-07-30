@@ -9,4 +9,4 @@ Task-Metapackage: ubuntu-core
  * click
  * systemd
  * openssh-server
-
+ * system-image-cli
