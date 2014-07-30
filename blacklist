@@ -94,7 +94,15 @@ gnome-screensaver
 unity-control-center
 light-locker-settings
 metacity
+#uoa stuff
 mcp-account-manager-uoa
+libaccount-plugin-1.0-0
+libsignon-extension1
+libsignon-plugins-common1
+libsignon-qt5-1
+signon-plugin-password
+signon-ui
+signond
 
 # stuff we don't want in stable
 #apport-gtk
