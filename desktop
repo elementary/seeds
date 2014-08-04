@@ -111,8 +111,6 @@ Here's a list.
  * (file-roller)
  * (p7zip-full)            # elementary: supports a crazy number of formats
  * (whoopsie)              # http://wiki.ubuntu.com/ErrorTracker - EvanDandrea
- * (empathy)
- * (telepathy-idle)        # basic IRC support for empathy
  * (gcalctool)
  * (lightdm)               # Proposed GDM replacement for Oneiric, see https://blueprints.launchpad.net/ubuntu/+spec/desktop-o-lightdm
  * (software-center)
