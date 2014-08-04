@@ -10,3 +10,7 @@ Task-Metapackage: ubuntu-core
  * systemd
  * openssh-server
  * system-image-cli
+
+= Hacks for broken system-image deps =
+ * python3-xdg
+ * python3-ldap
