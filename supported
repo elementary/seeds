@@ -279,6 +279,7 @@ included due to matching Extra-Include patterns, and has no other effect):
  * Extra-Exclude: ubuntu-ui-toolkit-examples
  * Extra-Exclude: speech-dispatcher-dbg
  * Extra-Exclude: nginx-extras-dbg nginx-full-dbg nginx-light-dbg nginx-naxsi-dbg
+ * Extra-Exclude: haproxy-doc # https://lists.ubuntu.com/archives/ubuntu-release/2014-July/002966.html
 
 Transitional packages:
 
