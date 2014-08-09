@@ -177,7 +177,6 @@ Accessibility tools:
  * (simple-scan)
 
 Desktop Experience:
- * (notify-osd)           # backend for libnotify
  * (ginn)
 
 = Prerelease stuff =
