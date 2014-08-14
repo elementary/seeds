@@ -103,6 +103,7 @@ libsignon-qt5-1
 signon-plugin-password
 signon-ui
 signond
+system-config-printer-gnome
 
 # stuff we don't want in stable
 #apport-gtk
