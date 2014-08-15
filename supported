@@ -213,19 +213,6 @@ Transitional packages for upgrading 12.04.[1-9] with LTS enablement stacks to
  * click-dev
  * unity-settings-daemon #temporary, until ubuntu-desktop transitions from gsettings-daemon
 
-= Extra server bits =
-
- * postgresql-plperl-9.3
- * postgresql-plpython-9.3
- * postgresql-plpython3-9.3
- * postgresql-pltcl-9.3
- * hv-kvp-daemon-init
- * cloud-utils
- * nginx
- * joyent-mdata-client
- * sssd
- * sssd-tools
-
 = Rescued from Extra =
 
  * Extra-Include: *-dbg *-debug *-dev *-doc *-docs *-gcj gir1.2-* *-examples
