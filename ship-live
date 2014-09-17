@@ -11,8 +11,6 @@ packages.
  * libatm1	# suggested by ppp for PPP-over-ATM
  * setserial	# needed by folks with nonstandard serial ports
  * mouseemu	# needed on Macs with single-button mice
- * ps3pf-utils [powerpc] # small utilities for PlayStation 3 systems
- * elfspe2 [powerpc] # SPE access for Cell systems
  * b43-fwcutter
  * bcmwl-kernel-source #since we no longer have LRM
  * wvdial       # network-manager should replace this functionality ASAP
