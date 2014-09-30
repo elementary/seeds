@@ -21,6 +21,6 @@ usb-live: usb live-common
 usb-langsupport: usb-live
 usb-ship-live: usb-langsupport
 supported-desktop-extra: usb-live
-system-image: boot standard
+system-image: boot
 # make sure supported remains the last entry
 supported: supported-common server-ship cloud-image ship ship-live development usb-ship-live language-packs supported-desktop-extra
