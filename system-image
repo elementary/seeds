@@ -11,3 +11,4 @@ Task-Metapackage: ubuntu-core
  * openssh-server
  * system-image-cli
  * xz-utils
+ * iptables
