@@ -5,6 +5,8 @@ Task-Key: ubuntu-core
 Task-Name: ubuntu-core
 Task-Metapackage: ubuntu-core
 
+ * Feature: no-follow-recommends
+
 = Core =
  * click
  * systemd
