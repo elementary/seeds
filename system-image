@@ -12,3 +12,4 @@ Task-Metapackage: ubuntu-core
  * system-image-cli
  * xz-utils
  * iptables
+ * initramfs-tools-ubuntu-core
