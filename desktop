@@ -162,7 +162,6 @@ Accessibility tools:
  * (libreoffice-math) [!powerpc !armhf]
  * (libreoffice-ogltrans) [!powerpc !armhf]
  * (libreoffice-pdfimport) [!powerpc !armhf !armel]
- * (libreoffice-presentation-minimizer) [!powerpc !armhf !armel]
  * (simple-scan)
  * evince
  * (gnome-screensaver) # recommends to allow for xscreensaver to be used
