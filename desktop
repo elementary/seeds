@@ -176,7 +176,7 @@ Desktop Experience:
  * unity-greeter        # lightdm greeter for unity
  * notify-osd           # backend for libnotify
  * (sni-qt)
- * (activity-log-manager-control-center)
+ * (activity-log-manager)
  * (xul-ext-unity)
  * (unity-webapps-common)
  * (xul-ext-webaccounts)
