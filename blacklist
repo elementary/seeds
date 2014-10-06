@@ -103,6 +103,8 @@ libsignon-qt5-1
 signon-plugin-password
 signon-ui
 signond
+# unar pulls in gnustep-base resulting in gdomap running, lp:1357051
+unar
 
 # stuff we don't want in stable
 #apport-gtk
