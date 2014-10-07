@@ -16,3 +16,5 @@ Task-Metapackage: ubuntu-core
  * iptables
  * initramfs-tools-ubuntu-core
  * python3-pycurl
+ * systemd-sysv
+ * ubuntu-core-config
