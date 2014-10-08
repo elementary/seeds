@@ -16,3 +16,4 @@ Task-Metapackage: ubuntu-core
  * iptables
  * initramfs-tools-ubuntu-core
  * python3-pycurl
+ * grub-efi [amd64]
