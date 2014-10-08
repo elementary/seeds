@@ -17,3 +17,5 @@ Task-Metapackage: ubuntu-core
  * initramfs-tools-ubuntu-core
  * python3-pycurl
  * grub-efi [amd64]
+ * click-systemd
+ * click-bin-path
