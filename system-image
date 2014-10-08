@@ -20,3 +20,4 @@ Task-Metapackage: ubuntu-core
  * click-systemd
  * click-bin-path
  * cloud-init
+ * ca-certificates
