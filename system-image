@@ -19,3 +19,4 @@ Task-Metapackage: ubuntu-core
  * grub-efi [amd64]
  * click-systemd
  * click-bin-path
+ * cloud-init
