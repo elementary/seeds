@@ -21,3 +21,4 @@ Task-Metapackage: ubuntu-core
  * click-bin-path
  * cloud-init
  * ca-certificates
+ * dbus
