@@ -22,3 +22,4 @@ Task-Metapackage: ubuntu-core
  * cloud-init
  * ca-certificates
  * dbus
+ * libpam-systemd
