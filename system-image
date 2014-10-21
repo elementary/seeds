@@ -24,3 +24,5 @@ Task-Metapackage: ubuntu-core
  * dbus
  * libpam-systemd
  * apparmor
+ * debsig-verify
+ * click-ubuntu-policy
