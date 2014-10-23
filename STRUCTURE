@@ -1,4 +1,4 @@
-include platform.utopic
+include platform.vivid
 desktop: desktop-common
 dns-server: standard
 lamp-server: standard
