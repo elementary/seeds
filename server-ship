@@ -257,6 +257,7 @@ Security:
  * checkbox-ng # roadmr
  * apport # MathiasGug
  * kerneloops-daemon # JamesWestby
+ * intel-microcode # needed to update Intel cpu microcode LP #1386257
 
 = From desktop =
 
