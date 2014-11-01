@@ -162,7 +162,7 @@ Other:
  * nbd-server
  * open-iscsi # ChuckShort
  * open-iscsi-udeb # SorenHansen
- * drbd8-utils # ChuckShort - ServerPackageReview
+ * drbd-utils # ChuckShort - ServerPackageReview
  * nut # ChuckShort - ServerPackageReview
  * nut-cgi
  * nut-snmp
