@@ -26,3 +26,4 @@ Task-Metapackage: ubuntu-core
  * apparmor
  * debsig-verify
  * click-ubuntu-policy
+ * ubuntu-core-upgrader
