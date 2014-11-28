@@ -20,6 +20,7 @@ Task-Metapackage: ubuntu-core
  * grub-pc [amd64]
  * click-systemd
  * click-bin-path
+ * click-apparmor
  * cloud-init
  * ca-certificates
  * dbus
