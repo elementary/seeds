@@ -7,6 +7,7 @@ and fetch more packages.
 
  * pptp-linux             # client for Microsoft-compatible VPN's, needed for some ISPs
  * sl-modem-daemon	# needed for some Winmodems (see OutoftheboxWinmodem)
+ * intel-microcode      # needed to update Intel cpu microcode LP #1386257
 
  * libatm1	# suggested by ppp for PPP-over-ATM
  * setserial	# needed by folks with nonstandard serial ports
