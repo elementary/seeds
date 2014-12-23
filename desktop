@@ -61,6 +61,7 @@ Input methods:
  * (switchboard)
  * (switchboard-plug-about)
  * (switchboard-plug-applications)
+ * (switchboard-plug-date)
  * (switchboard-plug-display)
  * (switchboard-plug-keyboard)
  * (switchboard-plug-locale)
@@ -72,7 +73,6 @@ Input methods:
 # Plugs inherited from GNOME Control Center
  * (switchboard-plug-gcc-bluetooth)
  * (switchboard-plug-gcc-color)
- * (switchboard-plug-gcc-date)
  * (switchboard-plug-gcc-mouse)
  * (switchboard-plug-gcc-network)
  * (switchboard-plug-gcc-printer)
