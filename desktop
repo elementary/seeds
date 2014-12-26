@@ -61,7 +61,7 @@ Input methods:
  * (switchboard)
  * (switchboard-plug-about)
  * (switchboard-plug-applications)
- * (switchboard-plug-date)
+ * (switchboard-plug-datetime)
  * (switchboard-plug-display)
  * (switchboard-plug-keyboard)
  * (switchboard-plug-locale)
