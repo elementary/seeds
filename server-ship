@@ -9,29 +9,29 @@ restricted modules.
 
 == i386 ==
 
- * ${Kernel-Stem}-virtual [i386]
- * linux-headers-virtual [i386]
+ * ${Kernel-Stem}-virtual-lts-utopic [i386]
+ * linux-headers-virtual-lts-utopic [i386]
 
 == powerpc ==
 
- * ${Kernel-Stem}-powerpc-smp [powerpc]
- * linux-headers-powerpc-smp [powerpc]
+ * ${Kernel-Stem}-powerpc-smp-lts-utopic [powerpc]
+ * linux-headers-powerpc-smp-lts-utopic [powerpc]
 
 == ppc64el ==
 
- * ${Kernel-Stem}-generic [ppc64el]
- * linux-headers-generic [ppc64el]
- * ${Kernel-Stem}-virtual [ppc64el]
- * linux-headers-virtual [ppc64el]
+ * ${Kernel-Stem}-generic-lts-utopic [ppc64el]
+ * linux-headers-generic-lts-utopic [ppc64el]
+ * ${Kernel-Stem}-virtual-lts-utopic [ppc64el]
+ * linux-headers-virtual-lts-utopic [ppc64el]
 
 == amd64 ==
 
- * ${Kernel-Stem}-server [amd64]
- * linux-headers-server [amd64]
- * ${Kernel-Stem}-virtual [amd64]
- * linux-headers-virtual [amd64]
+ * ${Kernel-Stem}-generic-lts-utopic [amd64]
+ * linux-headers-generic-lts-utopic [amd64]
+ * ${Kernel-Stem}-virtual-lts-utopic [amd64]
+ * linux-headers-virtual-lts-utopic [amd64]
 
- * ${Signed-Kernel-Stem}-generic [amd64]
+ * ${Signed-Kernel-Stem}-generic-lts-utopic [amd64]
 
 = From Ship =
 

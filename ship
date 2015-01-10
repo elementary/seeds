@@ -1,6 +1,6 @@
 == Kernel ==
 
- * linux-generic [amd64 i386 ppc64el arm64]
+ * linux-generic-lts-utopic [amd64 i386 ppc64el arm64]
 
 == Server ==
 
