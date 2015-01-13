@@ -24,7 +24,6 @@ Basic network services and Windows integration.
  * (network-manager-pptp-gnome)
  * (libproxy1-plugin-gsettings)
  * (libproxy1-plugin-networkmanager)
- * (capnet-assist)
 
 = GUI infrastructure =
 
