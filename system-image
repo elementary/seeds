@@ -29,3 +29,4 @@ Task-Metapackage: ubuntu-core
  * debsig-verify
  * click-ubuntu-policy
  * ubuntu-core-upgrader
+ * libnss-extrausers
