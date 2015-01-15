@@ -10,6 +10,7 @@ Task-Metapackage: pantheon
  * (maya-calendar)
  * (midori-granite)
  * (noise)
+ * (pantheon-calculator)
  * (pantheon-files)
  * (pantheon-photos)
  * (pantheon-terminal)
