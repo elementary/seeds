@@ -211,3 +211,7 @@ to compile a driver. -mdz
  * (libwmf0.2-7-gtk)
  * (plymouth-theme-ubuntu-logo)
  * (python3-aptdaemon.pkcompat) # needed to keep packagekit off the images
+ * xserver-xorg-lts-utopic
+ * libegl1-mesa-drivers-lts-utopic
+ * xserver-xorg-video-all-lts-utopic
+ * xserver-xorg-video-geode-lts-utopic [i386]
