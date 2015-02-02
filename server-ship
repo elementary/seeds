@@ -16,6 +16,8 @@ restricted modules.
 
  * ${Kernel-Stem}-powerpc-smp-lts-utopic [powerpc]
  * linux-headers-powerpc-smp-lts-utopic [powerpc]
+ * ${Kernel-Stem}-powerpc64-smp-lts-utopic [powerpc]
+ * linux-headers-powerpc64-smp-lts-utopic [powerpc]
 
 == ppc64el ==
 
