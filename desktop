@@ -136,6 +136,7 @@ Here's a list.
  * (gvfs-bin)			# mostly used as xdg-open backend
  * (gvfs-fuse)			# let non-GNOME apps see GVFS via fuse
  * (user-specific-alternatives)  # wrapper to launch user-preferred apps for binaries like x-www-browser
+ * (elementary-dpms-helper)
 # Don't believe the guy below. It's a bad idea.
 # * (overlay-scrollbar)  # 'cause it's a good idea
  * (tumbler-plugins-extra) # extra thumbnailers for common thumbnailing service
