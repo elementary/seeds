@@ -142,7 +142,6 @@ Here's a list.
  * (tumbler-plugins-extra) # extra thumbnailers for common thumbnailing service
 
 # * gnome-session-canberra	# Needed to make login/logout sounds audible - but we have no sounds, right?
- * dmz-cursor-theme
 
 The gstreamer0.10 packages we want to install until no gstreamer1.0 packages are on default media:
 
