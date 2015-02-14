@@ -39,6 +39,7 @@ Input methods:
 
  * (im-config)
  * (ibus)
+ * (ibus-gtk)
  * (ibus-gtk3)
  * (ibus-table)
  * (ibus-pinyin)
