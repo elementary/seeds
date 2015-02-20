@@ -91,7 +91,6 @@ We've chosen GNOME as our desktop user interface of choice. Rather than using th
  * ssh-askpass-gnome
  * software-properties-gtk # default GUI sources.list editor / extra drivers
  * (totem)
- * (totem-mozilla)
  * ubuntu-release-upgrader-gtk
  * ubuntu-sso-client-qt # because software-center uses it for comments/purchases/oneconf, and there is no GTK+ edition
  * update-manager
