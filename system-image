@@ -30,3 +30,5 @@ Task-Metapackage: ubuntu-core
  * click-ubuntu-policy
  * ubuntu-core-upgrader
  * libnss-extrausers
+ * wpasupplicant
+
