@@ -17,7 +17,6 @@ This seed lists the packages we want to install by default in the new server ins
  * landscape-common
  * vim
  * apport # LP: #424051
- * whoopsie # http://wiki.ubuntu.com/ErrorTracker - EvanDandrea
  * software-properties-common # LP: #439566
 
 = Network =
@@ -33,6 +32,10 @@ This seed lists the packages we want to install by default in the new server ins
 = Maintenance =
 
  * update-notifier-common
+
+= Debugging and Diagnostics =
+
+ * memtest86+
 
 = Other =
 

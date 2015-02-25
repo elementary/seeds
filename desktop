@@ -12,7 +12,6 @@ Task-Seeds: desktop-common
 Bluetooth:
 
  * (gnome-bluetooth) # desktop bluetooth support
- * (bluez-gstreamer)
 
 = Network Services =
 
@@ -42,7 +41,6 @@ Input methods:
  * (ibus-gtk3)
  * (ibus-table)
  * (ibus-pinyin)
- * (ibus-pinyin-db-android)
 
 = elementary desktop =
 
@@ -202,3 +200,7 @@ to compile a driver. -mdz
  * elementary-desktop # metapackage for everything here
  * (libwmf0.2-7-gtk)
  * (python3-aptdaemon.pkcompat) # needed to keep packagekit off the images
+ * xserver-xorg-lts-utopic
+ * libegl1-mesa-drivers-lts-utopic
+ * xserver-xorg-video-all-lts-utopic
+ * xserver-xorg-video-geode-lts-utopic [i386]

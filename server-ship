@@ -9,22 +9,31 @@ restricted modules.
 
 == i386 ==
 
- * ${Kernel-Stem}-virtual [i386]
- * linux-headers-virtual [i386]
+ * ${Kernel-Stem}-virtual-lts-utopic [i386]
+ * linux-headers-virtual-lts-utopic [i386]
 
 == powerpc ==
 
- * ${Kernel-Stem}-powerpc-smp [powerpc]
- * linux-headers-powerpc-smp [powerpc]
+ * ${Kernel-Stem}-powerpc-smp-lts-utopic [powerpc]
+ * linux-headers-powerpc-smp-lts-utopic [powerpc]
+ * ${Kernel-Stem}-powerpc64-smp-lts-utopic [powerpc]
+ * linux-headers-powerpc64-smp-lts-utopic [powerpc]
+
+== ppc64el ==
+
+ * ${Kernel-Stem}-generic-lts-utopic [ppc64el]
+ * linux-headers-generic-lts-utopic [ppc64el]
+ * ${Kernel-Stem}-virtual-lts-utopic [ppc64el]
+ * linux-headers-virtual-lts-utopic [ppc64el]
 
 == amd64 ==
 
- * ${Kernel-Stem}-server [amd64]
- * linux-headers-server [amd64]
- * ${Kernel-Stem}-virtual [amd64]
- * linux-headers-virtual [amd64]
+ * ${Kernel-Stem}-generic-lts-utopic [amd64]
+ * linux-headers-generic-lts-utopic [amd64]
+ * ${Kernel-Stem}-virtual-lts-utopic [amd64]
+ * linux-headers-virtual-lts-utopic [amd64]
 
- * ${Signed-Kernel-Stem}-generic [amd64]
+ * ${Signed-Kernel-Stem}-generic-lts-utopic [amd64]
 
 = From Ship =
 
@@ -38,6 +47,7 @@ restricted modules.
  * fakeroot
  * devscripts
  * setserial
+ * sosreport
 
 = Cluster =
 
@@ -140,7 +150,6 @@ Printing:
  * cups-bsd                   # gives us lpc, lpq, lpr, lprm
  * cups-client                # gives us cancel, cupstestppd, lp, lpoptions, lppasswd, lpstat, cupsaddsmb, accept, lpadmin, lpinfo, lpmove
  * foomatic-db-compressed-ppds  # the foomatic printer driver database
- * foomatic-filters             # converter from postscript to printer-specific formats
  * openprinting-ppds
  * cups-driver-gutenprint     # a ton of cupsys ppds, for real comprehensive printer support
  * pnm2ppa                      # several ppds require this
@@ -163,7 +172,6 @@ Other:
  * netcat-openbsd
  * munin-node
  * munin
- * likewise-open
  * libpkcs11-helper1
  * zip #ChuckShort - server-lucid-seeds
  * tdb-tools #ChuckShort - server-lucid-seeds
@@ -173,6 +181,7 @@ Other:
  * maas-enlist
  * maas-enlist-udeb
  * powernap
+ * open-vm-tools #utlemming
 
 RCS:
 
@@ -189,8 +198,8 @@ Utilities:
  * dnstracer              # dns network diagnostics
  * iptraf                 # sysadmin's toy, may be a candidate for removal
  * pptpd                  # server that allows setup of Microsoft-compatible VPN
- * ifenslave-2.6          # interface bonding/trunking/etherchannel
- * ipsec-tools            # IPsec configuration
+ * ifenslave              # interface bonding/trunking/etherchannel
+ * strongswan-starter     # IPsec configuration
  * vlan                   # userland tools to config 8021q support
  * vlan-udeb              # userland tools to support 8021q from the installer
  * bridge-utils           # userland tools to config kernel bridging feature
@@ -200,7 +209,6 @@ Utilities:
 IPv6 tools:
 
  * radvd                  # FabioMassimoDiNitto
- * quagga                 # RobertCollins
 
 Security:
 
@@ -211,7 +219,6 @@ Security:
 
  * attr                 # will move to base if we go to selinux
  * quota
- * backuppc             # RobertCollins
  * debian-goodies
  * whois                # FabioMassimoDiNitto
  * cu                   # super-basic serial access
@@ -241,20 +248,18 @@ Security:
 = Virtualisation =
 
  * qemu-system-x86 [i386 amd64]
- * qemu-system-ppc [powerpc]
+ * qemu-system-ppc [powerpc ppc64el]
+ * qemu-system-aarch64 [arm64]
  * python-libvirt
  * python-urlgrabber
  * libvirt-bin
+ * hv-kvp-daemon-init [amd64] # Robert C Jennings bug 1294856
 
 == Miscellaneous ==
 
- * checkbox-cli # MathiasGug
+ * checkbox-ng # roadmr
  * apport # MathiasGug
- * whoopsie # http://wiki.ubuntu.com/ErrorTracker - EvanDandrea
  * kerneloops-daemon # JamesWestby
- * python-beautifulsoup #ChuckShort
- * python-genshi #ChuckShort
-
 
 = From desktop =
 

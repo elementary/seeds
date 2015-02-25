@@ -41,4 +41,4 @@ These packages make up the Ubiquity live installer.
 
  * Signed-Kernel-Stem: linux-signed linux-signed-image
 
- * ${Signed-Kernel-Stem}-generic [amd64]
+ * ${Signed-Kernel-Stem}-generic-lts-utopic [amd64]

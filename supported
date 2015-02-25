@@ -43,6 +43,7 @@ myspell packages containing the hunspell dictionaries:
  * myspell-el-gr
  * myspell-en-au
  * myspell-en-gb
+ * myspell-en-us
  * myspell-en-za
  * myspell-eo
  * myspell-es
@@ -179,6 +180,7 @@ Transitional packages:
 
  * mahjongg			# needed in main until 14.04
  * qemu-common			# needed in main until 14.04
+ * ifenslave-2.6		# needed in main until 14.04
  * iproute			# needed in main until 14.04
  * libaugeas-ruby1.8		# needed in main until 14.04
  * libaugeas-ruby1.9.1		# needed in main until 14.04
@@ -186,10 +188,33 @@ Transitional packages:
  * firefox-globalmenu		# needed in main until 14.04
  * thunderbird-globalmenu	# needed in main until 14.04
  * apache2.2-bin		# needed in main until 14.04
+ * libnss-mdns-i386		# needed in main until 14.04
+ * libmono-2.0-1		# needed in main until 14.04
+ * mono-dmcs			# needed in main until 14.04
+ * libwayland0			# needed in main until 14.04
+ * libkadm5srv-mit8		# needed in main until 14.04
+
+Transitional packages for upgrading 12.04.[1-9] with LTS enablement stacks to
+14.04 (remove them entirely in 14.10):
+ * %xorg-lts-transitional
+ * !xserver-xorg-video-geode-lts-quantal
+ * !xserver-xorg-video-geode-lts-raring
+ * !xserver-xorg-video-geode-lts-saucy
+ * !xserver-xorg-input-mtrack-lts-quantal
+ * !xserver-xorg-input-mtrack-lts-saucy
+ * !xserver-xorg-input-mtrack-lts-raring
+ * !xserver-xorg-input-kbd-lts-quantal
+ * !xserver-xorg-input-kbd-lts-saucy
+ * !xserver-xorg-input-kbd-lts-raring
+ * !xserver-xorg-input-joystick-lts-quantal
+ * !xserver-xorg-input-joystick-lts-saucy
+ * !xserver-xorg-input-joystick-lts-raring
+ * !xserver-xorg-input-joystick-dev-lts-quantal
+ * !xserver-xorg-input-joystick-dev-lts-saucy
+ * !xserver-xorg-input-joystick-dev-lts-raring
 
 = Installed on demand =
 
- * ubuntuone-client-gnome
  * apparmor-utils    # AppArmor profile development
  * apparmor-notify   # LP: #893266
  * apparmor-profiles
@@ -202,6 +227,7 @@ Transitional packages:
  * auditd
  * click             # temporary, until touch packages are all in main
  * click-dev
+ * unity-settings-daemon #temporary, until ubuntu-desktop transitions from gsettings-daemon
 
 = Extra server bits =
 
@@ -211,6 +237,10 @@ Transitional packages:
  * postgresql-pltcl-9.3
  * hv-kvp-daemon-init
  * cloud-utils
+ * nginx
+ * joyent-mdata-client
+ * sssd
+ * sssd-tools
 
 = Rescued from Extra =
 
@@ -227,6 +257,7 @@ included due to matching Extra-Include patterns, and has no other effect):
  * Extra-Exclude: gfortran-4.1-doc gfortran-4.2-doc gfortran-4.3-doc lib*gfortran1-dbg
  * Extra-Exclude: lib*go0-dbg
  * Extra-Exclude: lib*objc1-dbg
+ * Extra-Exclude: lldb-* clang* libclang* libllvm-*
  * Extra-Exclude: libavformat-dev libpostproc-dev
  * Extra-Exclude: libgdchart-gd2-xpm-dev
  * Extra-Exclude: libgdome2-ocaml-dev
@@ -257,11 +288,13 @@ included due to matching Extra-Include patterns, and has no other effect):
  * Extra-Exclude: asp.net-examples
  * Extra-Exclude: packagekit-dbg
  * Extra-Exclude: rest-bench-dbg
- * Extra-Exclude: grub-coreboot-dbg grub-emu-dbg grub-ieee1275-dbg
+ * Extra-Exclude: grub-coreboot-dbg grub-emu-dbg
  * Extra-Exclude: ceph-test-dbg ceph-fs-common-dbg ceph-mds-dbg
  * Extra-Exclude: unity-webapps-dev # we don't want its deps in main
  * Extra-Exclude: sndfile-programs-dbg # sndfile-programs not in main
  * Extra-Exclude: ubuntu-ui-toolkit-examples
+ * Extra-Exclude: speech-dispatcher-dbg
+ * Extra-Exclude: nginx-extras-dbg nginx-full-dbg nginx-light-dbg nginx-naxsi-dbg
 
 Transitional packages:
 
@@ -296,7 +329,6 @@ Temporary workarounds:
 
 = Other =
 
- * checkbox-gtk # still supported by the checkbox team and default "testing apps" applications (-qt doesn't support it yet)
  * icedtea-plugin
  * evolution # still supported for business environment
  * miscfiles

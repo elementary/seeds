@@ -11,7 +11,6 @@ Task-Seeds: desktop-common desktop
 
  * inkscape
  * gimp
- * pitivi
 
 == LibreOffice ==
 
@@ -53,7 +52,7 @@ Task-Seeds: desktop-common desktop
 == Fonts ==
 
  * ttf-alee
- * ttf-nanum-coding
+ * fonts-nanum-coding
  * fonts-nanum-extra
  * fonts-arphic-bkai00mp
  * fonts-arphic-bsmi00lp

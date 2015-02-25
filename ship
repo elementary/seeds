@@ -1,6 +1,6 @@
 == Kernel ==
 
- * linux [amd64 i386]
+ * linux-generic-lts-utopic [amd64 i386 ppc64el arm64]
 
 == Server ==
 
@@ -30,6 +30,7 @@
  * libatm1	# suggested by ppp for PPP-over-ATM
  * setserial	# needed by folks with nonstandard serial ports
  * b43-fwcutter
+ * sosreport
 
 == Common language packs ==
 

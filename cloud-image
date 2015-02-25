@@ -3,25 +3,26 @@ Task-Description: Ubuntu Cloud Image (instance)
 Task-Extended-Description: Packages included in Ubuntu Cloud images.  Previously this task was named 'uec'.
 Task-Key: cloud-init
 
-= Libraries =
-
-See https://launchpad.net/bugs/427288 for why we need both of these (-i686 on kvm, -xen on EC2).
-
- * libc6-xen [i386]
-
 = System administration tools =
 
- * patch
- * byobu
- * landscape-client
- * vim
- * apport # LP: #424051
- * whoopsie # http://wiki.ubuntu.com/ErrorTracker - EvanDandrea
- * openssh-server
- * curl
- * tasksel # LP: #649833
  * acpid
+ * apport # LP: #424051
+ * at
+ * byobu
+ * curl
+ * landscape-client
+ * openssh-server
  * overlayroot
+ * patch
+ * pollinate
+ * screen
+ * software-properties-common
+ * tasksel # LP: #649833
+ * vim
+
+= Network =
+
+ * ethtool
 
 = Documentation =
 
@@ -31,10 +32,14 @@ See https://launchpad.net/bugs/427288 for why we need both of these (-i686 on kv
 
  * cloud-init
  * cloud-guest-utils
-# * ec2-ami-tools
- * euca2ools
  * grub-legacy-ec2
 
 = Maintenance =
 
  * update-notifier-common # LP: 897815
+
+= Other =
+
+ * fonts-ubuntu-font-family-console
+ * open-vm-tools
+ * sosreport # LP: #1311274
