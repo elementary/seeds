@@ -126,7 +126,7 @@ Here's a list.
  * (update-notifier)
  * (zenity)
  * (xdg-utils)		   # useful utilities - required by some apps and scripts
- * xdg-user-dirs
+ * (xdg-user-dirs)
  * (xdg-user-dirs-gtk)
  * (pulseaudio)        # some people complain about it
  * (pulseaudio-module-gconf)
