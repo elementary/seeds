@@ -45,3 +45,4 @@ Task-Key: cloud-init
  * open-vm-tools
  * sosreport # LP: #1311274
  * systemd # not supported yet, but working on enablement
+ * bcache-tools
