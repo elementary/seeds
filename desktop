@@ -96,6 +96,7 @@ Indicators:
 
 OS-only stuff:
 
+ * (capnet-assist)
  * (elementary-default-settings)
  * (gnome-session-bin)       # starts up cerbere according to default-settings
 # Package does not (yet?) exist for dist:
