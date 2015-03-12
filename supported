@@ -134,6 +134,7 @@ Fonts installed on demand by language-selector:
  * fonts-farsiweb
  * fonts-kacst
  * fonts-khmeros
+ * fonts-indic
  * fonts-lao
  * fonts-manchufont
  * fonts-mgopen
@@ -153,15 +154,6 @@ Fonts installed on demand by language-selector:
  * fonts-ukij-uyghur
  * fonts-unfonts-core
  * ttf-alee
- * ttf-bengali-fonts
- * ttf-devanagari-fonts
- * ttf-gujarati-fonts
- * ttf-kannada-fonts
- * ttf-malayalam-fonts
- * ttf-oriya-fonts
- * ttf-punjabi-fonts
- * ttf-tamil-fonts
- * ttf-telugu-fonts
  * ttf-wqy-zenhei
 
 Input methods installed on demand by language-selector:
