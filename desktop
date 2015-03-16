@@ -42,16 +42,6 @@ Input methods:
  * (ibus-gtk)
  * (ibus-gtk3)
  * (ibus-table)
- * (fcitx)                          # Ship fcitx for Chinese
- * (fcitx-frontend-gtk2)
- * (fcitx-frontend-gtk3)
- * (fcitx-frontend-qt4)
- * (fcitx-frontend-qt5)
- * (fcitx-ui-classic)
- * (fcitx-ui-qimpanel)
- * (fcitx-table)
- * (fcitx-pinyin)
- * (fcitx-module-cloudpinyin)
 
 = Desktop GNOME Apps =
 
