@@ -16,18 +16,6 @@ packages.
  * bcmwl-kernel-source #since we no longer have LRM
  * wvdial       # network-manager should replace this functionality ASAP
 
-== Input methods ==
- * fcitx
- * fcitx-frontend-gtk2
- * fcitx-frontend-gtk3
- * fcitx-frontend-qt4
- * fcitx-frontend-qt5
- * fcitx-ui-classic
- * fcitx-ui-qimpanel
- * fcitx-table
- * fcitx-pinyin
- * fcitx-module-cloudpinyin
-
 == Installer ==
 
  * grub # needed for dmraid et al
