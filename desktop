@@ -51,7 +51,7 @@ Input methods:
 = System-wide distro-specific artwork =
  * (plymouth-theme-elementary-text)
  * (plymouth-theme-elementary)
- * (print-test-page-elementary)
+ * (elementary-printer-test-page)
 
 = Swithchboard and plugs =
  * (switchboard)
