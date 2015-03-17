@@ -64,7 +64,7 @@ Task-Seeds: desktop-common desktop
  * ttf-oriya-fonts
  * ttf-kannada-fonts
  * ttf-bengali-fonts
- * ttf-indic-fonts
+ * fonts-indic
  * ttf-indic-fonts-core
  * ttf-telugu-fonts
  * ttf-punjabi-fonts
