@@ -128,6 +128,7 @@ Other dictionaries, word lists, and thesauri:
 
 Fonts installed on demand by language-selector:
 
+ * fonts-alee
  * fonts-arabeyes
  * fonts-arphic-ukai
  * fonts-arphic-uming
@@ -153,7 +154,6 @@ Fonts installed on demand by language-selector:
  * fonts-tibetan-machine
  * fonts-ukij-uyghur
  * fonts-unfonts-core
- * ttf-alee
  * ttf-wqy-zenhei
 
 Input methods installed on demand by language-selector:
