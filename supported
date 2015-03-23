@@ -170,6 +170,8 @@ Input methods installed on demand by language-selector:
 
 Transitional packages:
 
+ * upstart-bin			# Needed in main until after 15.04 ships
+
 Transitional packages for upgrading 12.04.[1-9] with LTS enablement stacks to
 14.04 (remove them entirely in 14.10):
  * %xorg-lts-transitional
