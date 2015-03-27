@@ -12,7 +12,6 @@ Task-Metapackage: ubuntu-core
  * systemd
  * openssh-server
  * system-image-cli
- * system-image-dbus
  * xz-utils
  * iptables
  * initramfs-tools-ubuntu-core
