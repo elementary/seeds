@@ -31,4 +31,4 @@ Task-Metapackage: ubuntu-core
  * ubuntu-core-upgrader
  * libnss-extrausers
  * wpasupplicant
-
+ * rsyslog
