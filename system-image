@@ -31,3 +31,6 @@ Task-Metapackage: ubuntu-core
  * libnss-extrausers
  * wpasupplicant
  * rsyslog
+ # prefer this python3-apparmor-click Depends alternative so
+ # apparmor-easyprof-ubuntu (touch specific) does not get installed
+ * apparmor-easyprof-ubuntu-snappy
