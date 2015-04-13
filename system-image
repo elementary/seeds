@@ -8,17 +8,13 @@ Task-Metapackage: ubuntu-core
  * Feature: no-follow-recommends
 
 = Core =
- * click
  * systemd
  * openssh-server
- * system-image-cli
  * xz-utils
  * iptables
  * initramfs-tools-ubuntu-core
  * python3-pycurl
  * grub-pc [amd64]
- * click-systemd
- * click-bin-path
  * click-apparmor
  * cloud-init
  * ca-certificates
