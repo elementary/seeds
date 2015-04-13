@@ -29,4 +29,4 @@ Task-Metapackage: ubuntu-core
  * rsyslog
  * ubuntu-core-security-apparmor
  * ubuntu-core-security-seccomp
- * ubuntu-core-security-utils
+ * ubuntu-core-security-utils [amd64 armhf i386] # no seccomp on arm64/ppc
