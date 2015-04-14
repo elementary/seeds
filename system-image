@@ -8,6 +8,7 @@ Task-Metapackage: ubuntu-core
  * Feature: no-follow-recommends
 
 = Core =
+ * ubuntu-snappy
  * systemd
  * openssh-server
  * xz-utils
