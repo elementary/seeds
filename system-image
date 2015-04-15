@@ -31,3 +31,6 @@ Task-Metapackage: ubuntu-core
  * ubuntu-core-security-apparmor
  * ubuntu-core-security-seccomp
  * ubuntu-core-security-utils [amd64 armhf i386] # no seccomp on arm64/ppc
+ * isc-dhcp-client
+ * resolvconf
+ * dosfstools
