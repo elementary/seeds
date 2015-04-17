@@ -16,6 +16,7 @@ Task-Metapackage: ubuntu-core
  * initramfs-tools-ubuntu-core
  * python3-pycurl
  * grub-pc [amd64]
+ * grub-efi-amd64-bin [amd64]
  * click-apparmor
  * cloud-init
  * ca-certificates
