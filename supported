@@ -263,6 +263,7 @@ included due to matching Extra-Include patterns, and has no other effect):
  * Extra-Exclude: haproxy-doc # https://lists.ubuntu.com/archives/ubuntu-release/2014-July/002966.html
  * Extra-Exclude: grilo-plugins-0.2-dbg
  * Extra-Exclude: remmina-dbg
+ * Extra-Exclude: tracker-dbg
 
 Transitional packages:
 
