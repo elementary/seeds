@@ -36,3 +36,4 @@ Task-Metapackage: ubuntu-core
  * isc-dhcp-client
  * resolvconf
  * dosfstools
+ * python # temporrarily seeded for walinuxagent
