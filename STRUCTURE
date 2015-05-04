@@ -1,4 +1,4 @@
-include platform.vivid
+include platform.wily
 desktop: desktop-common
 dns-server: standard
 lamp-server: standard
