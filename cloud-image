@@ -10,7 +10,6 @@ Task-Key: cloud-init
  * at
  * byobu
  * curl
- * landscape-client
  * openssh-server
  * overlayroot
  * patch
