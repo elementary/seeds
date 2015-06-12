@@ -176,6 +176,8 @@ Desktop Experience:
  * notify-osd           # backend for libnotify
  * (sni-qt)
  * (activity-log-manager)
+ * (zeitgeist-core) 
+ * (zeitgeist-datahub)
  * (xul-ext-unity)
  * (unity-webapps-common)
  * (xul-ext-webaccounts)
