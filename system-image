@@ -37,3 +37,4 @@ Task-Metapackage: ubuntu-core
  * isc-dhcp-client
  * resolvconf
  * dosfstools
+ * ubuntu-fan
