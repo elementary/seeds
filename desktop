@@ -95,7 +95,7 @@ Indicators:
 
 Location Support:
  * (geoclue-localnet)
- * (geoclue-plazes)
+# * (geoclue-plazes) # crashes every day
  * (geoclue-yahoo)
  * (geoclue-ubuntu-geoip)
  * (geoclue-skyhook)
