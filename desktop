@@ -108,6 +108,14 @@ We've chosen GNOME as our desktop user interface of choice. Rather than using th
  * (gnome-disk-utility)
  * (overlay-scrollbar)
 
+= Key management and signing =
+
+ * (gnome-keyring)
+
+We use gnupg's pinentry support as of wily, instead of gnome-keyring as before.
+
+ * (gnupg-agent)
+
 Games: We only ship a few by default.
  * (aisleriot) [!powerpc]
  * (gnome-mahjongg) [!powerpc]
