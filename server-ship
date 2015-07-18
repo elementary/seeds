@@ -9,31 +9,31 @@ restricted modules.
 
 == i386 ==
 
- * ${Kernel-Stem}-virtual-lts-utopic [i386]
- * linux-headers-virtual-lts-utopic [i386]
+ * ${Kernel-Stem}-virtual-lts-vivid [i386]
+ * linux-headers-virtual-lts-vivid [i386]
 
 == powerpc ==
 
- * ${Kernel-Stem}-powerpc-smp-lts-utopic [powerpc]
- * linux-headers-powerpc-smp-lts-utopic [powerpc]
- * ${Kernel-Stem}-powerpc64-smp-lts-utopic [powerpc]
- * linux-headers-powerpc64-smp-lts-utopic [powerpc]
+ * ${Kernel-Stem}-powerpc-smp-lts-vivid [powerpc]
+ * linux-headers-powerpc-smp-lts-vivid [powerpc]
+ * ${Kernel-Stem}-powerpc64-smp-lts-vivid [powerpc]
+ * linux-headers-powerpc64-smp-lts-vivid [powerpc]
 
 == ppc64el ==
 
- * ${Kernel-Stem}-generic-lts-utopic [ppc64el]
- * linux-headers-generic-lts-utopic [ppc64el]
- * ${Kernel-Stem}-virtual-lts-utopic [ppc64el]
- * linux-headers-virtual-lts-utopic [ppc64el]
+ * ${Kernel-Stem}-generic-lts-vivid [ppc64el]
+ * linux-headers-generic-lts-vivid [ppc64el]
+ * ${Kernel-Stem}-virtual-lts-vivid [ppc64el]
+ * linux-headers-virtual-lts-vivid [ppc64el]
 
 == amd64 ==
 
- * ${Kernel-Stem}-generic-lts-utopic [amd64]
- * linux-headers-generic-lts-utopic [amd64]
- * ${Kernel-Stem}-virtual-lts-utopic [amd64]
- * linux-headers-virtual-lts-utopic [amd64]
+ * ${Kernel-Stem}-generic-lts-vivid [amd64]
+ * linux-headers-generic-lts-vivid [amd64]
+ * ${Kernel-Stem}-virtual-lts-vivid [amd64]
+ * linux-headers-virtual-lts-vivid [amd64]
 
- * ${Signed-Kernel-Stem}-generic-lts-utopic [amd64]
+ * ${Signed-Kernel-Stem}-generic-lts-vivid [amd64]
 
 = From Ship =
 
