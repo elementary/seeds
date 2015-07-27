@@ -11,7 +11,6 @@ This seed exists only to allow fine tuning the 3y support time
 
 = Additional multimedia =
 
- * gstreamer-tools
  * gstreamer1.0-tools
 
 = Extra desktop =
