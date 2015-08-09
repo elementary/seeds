@@ -60,7 +60,6 @@ Input methods:
  * (switchboard-plug-display)
  * (switchboard-plug-keyboard)
  * (switchboard-plug-locale)
- * (switchboard-plug-networking)
  * (switchboard-plug-notifications)
  * (switchboard-plug-online-accounts)
  * (switchboard-plug-power)
@@ -71,6 +70,7 @@ Input methods:
  * (switchboard-plug-gcc-bluetooth)
  * (switchboard-plug-gcc-color)
  * (switchboard-plug-gcc-mouse)
+ * (switchboard-plug-gcc-network)
  * (switchboard-plug-gcc-printer)
  * (switchboard-plug-gcc-sound)
  * (switchboard-plug-gcc-ua)
@@ -92,21 +92,6 @@ Indicators:
  * (indicator-power)
  * (indicator-session)
  * (indicator-sound)
-
-Location Support:
- * (geoclue-localnet)
-# * (geoclue-plazes) # crashes every day
- * (geoclue-yahoo)
- * (geoclue-ubuntu-geoip)
- * (geoclue-skyhook)
-GSM:
- * (geoclue-gsmloc)
-GPS:
- * (geoclue-gpsd)
- * (geoclue-gypsy)
-Street Names:
- * (geoclue-nominatim)
- * (geoclue-geonames)
 
 OS-only stuff:
 
