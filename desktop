@@ -60,6 +60,7 @@ Input methods:
  * (switchboard-plug-display)
  * (switchboard-plug-keyboard)
  * (switchboard-plug-locale)
+ * (switchboard-plug-mouse-touchpad)
  * (switchboard-plug-networking)
  * (switchboard-plug-notifications)
  * (switchboard-plug-online-accounts)
@@ -70,7 +71,6 @@ Input methods:
 # Plugs inherited from GNOME Control Center
  * (switchboard-plug-gcc-bluetooth)
  * (switchboard-plug-gcc-color)
- * (switchboard-plug-gcc-mouse)
  * (switchboard-plug-gcc-printer)
  * (switchboard-plug-gcc-sound)
  * (switchboard-plug-gcc-ua)
