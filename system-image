@@ -39,3 +39,4 @@ Task-Metapackage: ubuntu-core
  * dosfstools
  * ubuntu-fan
  * gdbserver
+ * squashfs-tools
