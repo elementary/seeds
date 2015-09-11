@@ -55,6 +55,7 @@ Input methods:
 = Swithchboard and plugs =
  * (switchboard)
  * (switchboard-plug-about)
+ * (switchboard-plug-a11y)
  * (switchboard-plug-applications)
  * (switchboard-plug-datetime)
  * (switchboard-plug-display)
@@ -73,7 +74,6 @@ Input methods:
  * (switchboard-plug-gcc-color)
  * (switchboard-plug-gcc-printer)
  * (switchboard-plug-gcc-sound)
- * (switchboard-plug-gcc-ua)
  * (switchboard-plug-gcc-wacom)
  * (switchboard-gnome-control-center-override)
 
