@@ -59,3 +59,53 @@ clamav
 # mdz, 2004-06-14: upstream deliberately obfuscates vulnerabilities
 # mdz, 2004-06-20: CAN-2002-0757, CAN-2003-0101, SNS 74, SNS 75
 webmin
+
+### elementary ###
+
+# we don't want Unity. Thanks.
+unity
+unity-2d
+unity-greeter
+# gnome-session is a config package, the binary is in gnome-session-bin
+gnome-session
+# we don't want Ubuntu branding as well
+plymouth-theme-ubuntu-logo
+branding-ubuntu
+ubuntu-artwork
+#ubiquity-ubuntu-artwork - it needs SOME artwork, we should provide one
+ubiquity-slideshow-ubuntu
+# including Ubuntu metapackages would be ridiculos
+ubuntu-desktop
+# totem recommends totem-mozilla, which recommends Firefox or Epiphany or virtual package that confuses Germinate
+totem-mozilla
+# make sure firefox, nautilus and banshee are not pulled in
+firefox
+nautilus
+banshee
+ubuntu-system-settings
+compiz
+gnome-system-monitor
+example-content # creates ~/example.desktop
+webbrowser-app # ubuntu web browser
+overlay-scrollbar
+gnome-screensaver
+unity-control-center
+light-locker-settings
+metacity
+#uoa stuff
+mcp-account-manager-uoa
+libaccount-plugin-1.0-0
+libsignon-extension1
+libsignon-plugins-common1
+libsignon-qt5-1
+signon-plugin-password
+signon-ui
+signond
+# unar pulls in gnustep-base resulting in gdomap running, lp:1357051
+unar
+
+# stuff we don't want in stable
+apport-gtk
+apport-hooks-elementary
+apport-symptoms
+elementary-os-prerelease
