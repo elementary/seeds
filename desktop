@@ -67,6 +67,7 @@ Input methods:
  * (switchboard-plug-online-accounts)
  * (switchboard-plug-power)
  * (switchboard-plug-pantheon-shell)
+ * (switchboard-plug-parental-controls)
  * (switchboard-plug-security-privacy)
  * (switchboard-plug-users)
 # Plugs inherited from GNOME Control Center
