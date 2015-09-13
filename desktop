@@ -199,9 +199,9 @@ Desktop Experience:
 
 = Prerelease stuff =
 
-# * (apport-gtk)
-# * (apport-hooks-elementary) # allows crash reporting about elementary apps
-# * (elementary-os-prerelease)
+ * (apport-gtk)
+ * (apport-hooks-elementary) # allows crash reporting about elementary apps
+ * (elementary-os-prerelease)
 
 = Documentation =
 
