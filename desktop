@@ -117,6 +117,12 @@ OS-only stuff:
 # Package does not (yet?) exist for dist:
 # * (elementary-os-beta-transition) # converts Daily PPA to Stable if it's installed
 
+Pantheon Online Accounts:
+ * (gsignond)
+ * (gsignond-extension-pantheon)
+ * (gsignond-plugin-oauth)
+ * (gsignond-plugin-lastfm)
+
 = Desktop GNOME Apps =
 
 Pantheon is not as complete as we want it to be, so we still need some GNOME apps.
