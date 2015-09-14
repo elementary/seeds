@@ -55,6 +55,7 @@ Input methods:
 = Swithchboard and plugs =
  * (switchboard)
  * (switchboard-plug-about)
+ * (switchboard-plug-a11y)
  * (switchboard-plug-applications)
  * (switchboard-plug-datetime)
  * (switchboard-plug-display)
@@ -66,6 +67,7 @@ Input methods:
  * (switchboard-plug-online-accounts)
  * (switchboard-plug-power)
  * (switchboard-plug-pantheon-shell)
+ * (switchboard-plug-parental-controls)
  * (switchboard-plug-security-privacy)
  * (switchboard-plug-users)
 # Plugs inherited from GNOME Control Center
@@ -73,7 +75,6 @@ Input methods:
  * (switchboard-plug-gcc-color)
  * (switchboard-plug-gcc-printer)
  * (switchboard-plug-gcc-sound)
- * (switchboard-plug-gcc-ua)
  * (switchboard-plug-gcc-wacom)
  * (switchboard-gnome-control-center-override)
 
@@ -115,6 +116,12 @@ OS-only stuff:
  * (gnome-session-bin)       # starts up cerbere according to default-settings
 # Package does not (yet?) exist for dist:
 # * (elementary-os-beta-transition) # converts Daily PPA to Stable if it's installed
+
+Pantheon Online Accounts:
+ * (gsignond)
+ * (gsignond-extension-pantheon)
+ * (gsignond-plugin-oauth)
+ * (gsignond-plugin-lastfm)
 
 = Desktop GNOME Apps =
 
@@ -185,9 +192,9 @@ Desktop Experience:
 
 = Prerelease stuff =
 
-# * (apport-gtk)
-# * (apport-hooks-elementary) # allows crash reporting about elementary apps
-# * (elementary-os-prerelease)
+ * (apport-gtk)
+ * (apport-hooks-elementary) # allows crash reporting about elementary apps
+ * (elementary-os-prerelease)
 
 = Documentation =
 

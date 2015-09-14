@@ -105,7 +105,7 @@ signond
 unar
 
 # stuff we don't want in stable
-apport-gtk
-apport-hooks-elementary
-apport-symptoms
-elementary-os-prerelease
+#apport-gtk
+#apport-hooks-elementary
+#apport-symptoms
+#elementary-os-prerelease
