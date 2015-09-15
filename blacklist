@@ -103,6 +103,7 @@ signon-ui
 signond
 # unar pulls in gnustep-base resulting in gdomap running, lp:1357051
 unar
+gnome-user-guide
 
 # stuff we don't want in stable
 #apport-gtk
