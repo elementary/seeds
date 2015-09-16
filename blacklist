@@ -107,6 +107,7 @@ gnome-user-guide
 ubuntu-touch-sounds
 marco # mate window manager
 plymouth-theme-ubuntu-text
+ubuntu-mono # icon theme
 
 # stuff we don't want in stable
 #apport-gtk

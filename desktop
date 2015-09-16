@@ -148,7 +148,6 @@ Here's a list.
  * (xdg-user-dirs)
  * (xdg-user-dirs-gtk)
  * (pulseaudio)        # some people complain about it
- * (pulseaudio-module-gconf)
  * (pulseaudio-module-x11)
  * (pulseaudio-module-bluetooth)
  * (gvfs-bin)			# mostly used as xdg-open backend
