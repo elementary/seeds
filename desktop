@@ -138,7 +138,6 @@ Here's a list.
  * (gnome-menus)
  * (libpam-gnome-keyring)
  * (gnome-power-manager)		# OliverGrawert finally ready for shipment
- * (gnome-screenshot)
  * (gnome-font-viewer)
  * (ssh-askpass-gnome)
  * (software-properties-gtk) # default GUI sources.list editor
