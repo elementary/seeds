@@ -15,6 +15,7 @@ Task-Metapackage: pantheon
  * (pantheon-photos)
  * (pantheon-terminal)
  * (scratch-text-editor)
+ * (screenshot-tool)
  * (snap-photobooth)
 
 # not exactly apps, but still part of the DE
