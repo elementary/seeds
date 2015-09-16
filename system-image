@@ -40,3 +40,4 @@ Task-Metapackage: ubuntu-core
  * ubuntu-fan
  * gdbserver
  * squashfs-tools
+ * fwupdate
