@@ -106,6 +106,7 @@ signond
 # unar pulls in gnustep-base resulting in gdomap running, lp:1357051
 unar
 gnome-user-guide
+ubuntu-touch-sounds
 
 # stuff we don't want in stable
 #apport-gtk
