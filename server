@@ -15,7 +15,6 @@ This seed lists the packages we want to install by default in the new server ins
  * byobu
  * curl
  * acpid
- * landscape-common
  * vim
  * apport # LP: #424051
  * software-properties-common # LP: #439566
