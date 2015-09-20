@@ -180,9 +180,7 @@ Desktop Experience:
  * (activity-log-manager)
  * (zeitgeist-core) 
  * (zeitgeist-datahub)
- * (xul-ext-unity)
  * (unity-webapps-common)
- * (xul-ext-webaccounts)
 
 libqt4-sql recommends libqt4-sql-mysql | ...; lets pull in the smallest
 alternative to avoid pulling in the large MySQL bits
