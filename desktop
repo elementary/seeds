@@ -118,6 +118,9 @@ OS-only stuff:
 # * (elementary-os-beta-transition) # converts Daily PPA to Stable if it's installed
 
 Pantheon Online Accounts:
+ * (evolution-data-server-google2)
+ * (evolution-data-server-outlook)
+ * (evolution-data-server-pantheon-online-accounts)
  * (gsignond)
  * (gsignond-extension-pantheon)
  * (gsignond-plugin-oauth)
