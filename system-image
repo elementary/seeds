@@ -41,3 +41,4 @@ Task-Metapackage: ubuntu-core
  * gdbserver
  * squashfs-tools
  * fwupdate
+ * tpm-tools
