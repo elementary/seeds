@@ -42,3 +42,7 @@ Task-Metapackage: ubuntu-core
  * squashfs-tools
  * fwupdate
  * tpm-tools
+ * ppp
+ * watchdog
+ * gdisk
+ * libnss-myhostname
