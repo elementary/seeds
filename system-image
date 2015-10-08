@@ -15,9 +15,11 @@ Task-Metapackage: ubuntu-core
  * iptables
  * initramfs-tools-ubuntu-core
  * python3-pycurl
- * grub-pc [amd64]
- * grub-efi-amd64-bin [amd64]
+ * grub-pc [i386]
  * grub-efi-ia32-bin [i386]
+ * grub-pc-bin [amd64]
+ * grub-efi-amd64-signed [amd64]
+ * shim-signed [amd64]
  * cloud-init
  * ca-certificates
  * dbus
