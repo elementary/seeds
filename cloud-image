@@ -47,4 +47,4 @@ Task-Key: cloud-init
  * bcache-tools
  * cloud-initramfs-dyn-netconf
  * cloud-initramfs-copymods
- * lxd
+# * lxd
