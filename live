@@ -34,10 +34,13 @@ Enough room on i386/powerpc, not enough on amd64:
  * fcitx-frontend-gtk3
  * fcitx-frontend-qt4
  * fcitx-frontend-qt5
+ * fcitx-hangul
+ * fcitx-mozc
  * fcitx-ui-classic
  * fcitx-ui-qimpanel
  * fcitx-table
  * fcitx-pinyin
+ * fcitx-unikey
  * fcitx-module-cloudpinyin
 
 == Ubiquity components ==
