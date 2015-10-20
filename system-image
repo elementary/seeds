@@ -48,4 +48,3 @@ Task-Metapackage: ubuntu-core
  * watchdog
  * gdisk
  * libnss-myhostname
- * libnss3
