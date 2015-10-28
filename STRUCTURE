@@ -1,5 +1,10 @@
+feature follow-recommends
 include platform.xenial
-desktop: desktop-common
+artwork:
+elementary-sdk:
+pantheon-shell:
+pantheon:
+desktop: desktop-common artwork pantheon
 dns-server: standard
 lamp-server: standard
 openssh-server: standard

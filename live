@@ -1,6 +1,6 @@
 Task-Per-Derivative: 1
 Task-Section: user
-Task-Description: Ubuntu live CD
+Task-Description: elementary live CD
 Task-Extended-Description: This task provides the extra packages installed on the Ubuntu live CD. It is neither useful nor recommended to install this task in other environments.
 Task-Relevance: 2
 Task-Key: ubiquity-frontend-gtk
@@ -12,7 +12,6 @@ Task-Seeds: live-common
  * language-pack-gnome-${Languages}
 
 # subset of English language support which we want by default:
- * libreoffice-help-en-us [i386 amd64]
  * hunspell-en-us
  * wamerican
 
@@ -26,7 +25,9 @@ Enough room on i386/powerpc, not enough on amd64:
  * language-pack-gnome-${Languages} [i386 powerpc]
 
  * gparted
- * cifs-utils # Needed by casper for CIFS root=
+ * cifs-utils # Needed by casper for CIFS root
+ * jfsutils # Needed for JFS installation (lp:1442982)
+ * elementary-live-settings # disables light-locker
 
 == Input methods ==
  * fcitx
