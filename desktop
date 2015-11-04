@@ -186,9 +186,6 @@ libqt4-sql recommends libqt4-sql-mysql | ...; lets pull in the smallest
 alternative to avoid pulling in the large MySQL bits
  * (libqt4-sql-sqlite)
 
-Online Services:
- * (landscape-client-ui-install)
-
 = Documentation =
 
  * doc-base			# integrates with scrollkeeper
