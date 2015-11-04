@@ -84,15 +84,16 @@ UI and branding fonts for elementary:
  * (fonts-lklug-sinhala) # Sinhalese fonts
 ttf-unifont is shipped by the platform package - so we have a fallback font with lots of chars in any case
 
-Indicators:
-
- * (indicator-application)
- * (indicator-bluetooth)
- * (indicator-datetime)
- * (indicator-keyboard)
- * (indicator-power)
- * (indicator-session)
- * (indicator-sound)
+Wingpanel and indicators:
+ * (wingpanel)
+ * (wingpanel-indicator-bluetooth)
+ * (wingpanel-indicator-datetime)
+ * (wingpanel-indicator-launcher)
+ * (wingpanel-indicator-network)
+ * (wingpanel-indicator-notifications)
+ * (wingpanel-indicator-power)
+ * (wingpanel-indicator-session)
+ * (wingpanel-indicator-sound)
 
 Location Support:
  * (geoclue-localnet)
