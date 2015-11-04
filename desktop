@@ -52,7 +52,7 @@ Input methods:
  * (plymouth-theme-elementary)
  * (elementary-printer-test-page)
 
-= Swithchboard and plugs =
+= Switchboard and plugs =
  * (switchboard)
  * (switchboard-plug-about)
  * (switchboard-plug-a11y)
