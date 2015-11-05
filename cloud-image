@@ -38,6 +38,11 @@ Task-Key: cloud-init
 
  * update-notifier-common # LP: 897815
 
+= Block Device =
+ * open-iscsi
+ * lvm2
+ * mdadm
+
 = Other =
 
  * fonts-ubuntu-font-family-console
@@ -48,4 +53,3 @@ Task-Key: cloud-init
  * cloud-initramfs-dyn-netconf
  * cloud-initramfs-copymods
  * lxd
- * open-iscsi
