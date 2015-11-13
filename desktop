@@ -101,7 +101,15 @@ We use many GNOME applications as part of our desktop user interface. Rather tha
  * gvfs-bin             # mostly used as xdg-open backend
  * (gvfs-fuse)          # let non-GNOME apps see GVFS via fuse
  * (gnome-disk-utility)
- * (overlay-scrollbar-gtk2)
+ * (simple-scan)
+ * (evince)
+ * (gnome-screensaver)
+ * (remmina)
+ * (shotwell)
+ * (usb-creator-gtk) [i386 amd64]
+ * (deja-dup)
+ * xdiagnose
+
 
 = Key management and signing =
 
@@ -118,12 +126,24 @@ Games: We only ship a few by default.
  * (gnome-sudoku)
  * (branding-ubuntu)       # Ubuntu branding for some games
 
+Default office suite: libreoffice
+
+ * (libreoffice-style-human)
+ * (libreoffice-gnome)
+ * (libreoffice-writer)
+ * (libreoffice-calc)
+ * (libreoffice-impress)
+ * (libreoffice-math)
+ * (libreoffice-ogltrans)
+ * (libreoffice-pdfimport)
+
 Themes: we will ship only the very best looking themes. We won't ship everything that Debian ships, just a custom package that includes the themes we want. These packages are included for size guidance until we have Ubuntu-specific packages.
 
  * ubuntu-artwork
  * ubuntu-sounds
  * gnome-session-canberra   # Needed to make login/logout sounds audible.
  * dmz-cursor-theme
+ * (overlay-scrollbar-gtk2)
 
 Settings: we have some settings overrides by default in an unique package.
  * ubuntu-settings
@@ -147,26 +167,6 @@ Accessibility tools:
  * libatk-adaptor
  * (libgail-common)
  * (qt-at-spi)
-
-= Other Desktop GUI Apps =
-
- * (libreoffice-style-human) [!powerpc !armhf]
- * (libreoffice-gnome) [!powerpc !armhf]
- * (libreoffice-writer) [!powerpc !armhf]
- * (libreoffice-calc) [!powerpc !armhf]
- * (libreoffice-impress) [!powerpc !armhf]
- * (libreoffice-math) [!powerpc !armhf]
- * (libreoffice-ogltrans) [!powerpc !armhf]
- * (libreoffice-pdfimport) [!powerpc !armhf !armel]
- * (simple-scan)
- * (evince)
- * (gnome-screensaver)
- * (remmina)
- * (shotwell)
- * (usb-creator-gtk) [i386 amd64]
- * (deja-dup)
- * xdiagnose
-
 Desktop Experience:
  * unity
  * unity-greeter
