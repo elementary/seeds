@@ -108,6 +108,7 @@ ubuntu-touch-sounds
 marco # mate window manager
 plymouth-theme-ubuntu-text
 ubuntu-mono # icon theme
+x11-apps
 
 # stuff we don't want in stable
 #apport-gtk
