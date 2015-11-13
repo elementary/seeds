@@ -53,8 +53,6 @@ We've chosen GNOME as our desktop user interface of choice. Rather than using th
  * (thunderbird) [!armhf]
  * (thunderbird-gnome-support) [!armhf]
  * file-roller
- * (empathy)
- * (telepathy-idle)        # basic IRC support for empathy
  * gnome-calculator
  * lightdm                 # Proposed GDM replacement for Oneiric, see https://blueprints.launchpad.net/ubuntu/+spec/desktop-o-lightdm
  * gedit
@@ -84,8 +82,6 @@ We've chosen GNOME as our desktop user interface of choice. Rather than using th
  * nautilus-sendto
  * (nautilus-share)
  * (rhythmbox)
- * (rhythmbox-plugin-magnatune)
- * (brasero)		   # Oliver Grawert
  * (cheese)
  * ssh-askpass-gnome
  * software-properties-gtk # default GUI sources.list editor / extra drivers
