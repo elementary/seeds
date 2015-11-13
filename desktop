@@ -145,6 +145,10 @@ Themes: we will ship only the very best looking themes. We won't ship everything
  * dmz-cursor-theme
  * (overlay-scrollbar-gtk2)
 
+Boot theme
+
+ * (plymouth-theme-ubuntu-logo)
+
 Settings: we have some settings overrides by default in an unique package.
  * ubuntu-settings
 
@@ -190,5 +194,4 @@ alternative to avoid pulling in the large MySQL bits
  * ubuntu-desktop # metapackage for everything here
  * (example-content)
  * (libwmf0.2-7-gtk) # provides a gdk-pixbuf loader for WMF images
- * (plymouth-theme-ubuntu-logo)
  * (python3-aptdaemon.pkcompat) # needed to keep packagekit off the images
