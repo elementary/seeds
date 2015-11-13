@@ -8,7 +8,6 @@ The following packages also have application translations, but are not
 using gettext, but a custom format. language-selector will install
 them as appropriate.
 
- * /^gimp-help-/
  * /^evolution-documentation-/
  * /^libreoffice-help-/
  * /^libreoffice-l10n-/
