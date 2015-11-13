@@ -55,7 +55,6 @@ We use many GNOME applications as part of our desktop user interface. Rather tha
  * (gnome-calculator)
  * lightdm
  * (gedit)
- * (software-center)
  * (app-install-data-partner)
  * (transmission-gtk)
  * unity-settings-daemon
@@ -86,7 +85,6 @@ We use many GNOME applications as part of our desktop user interface. Rather tha
  * software-properties-gtk
  * (totem)
  * ubuntu-release-upgrader-gtk
- * ubuntu-sso-client-qt # because software-center uses it for comments/purchases/oneconf, and there is no GTK+ edition
  * update-manager
  * update-notifier
  * (vino) # vnc server
@@ -109,6 +107,11 @@ We use many GNOME applications as part of our desktop user interface. Rather tha
  * (usb-creator-gtk) [i386 amd64]
  * (deja-dup)
  * xdiagnose
+
+Software center
+ * (software-center)
+ * ubuntu-sso-client-qt # because software-center uses it for comments/purchases/oneconf, and there is no GTK+ edition
+ * (python3-aptdaemon.pkcompat) # needed to keep packagekit off the images
 
 
 = Key management and signing =
@@ -194,4 +197,3 @@ alternative to avoid pulling in the large MySQL bits
  * ubuntu-desktop # metapackage for everything here
  * (example-content)
  * (libwmf0.2-7-gtk) # provides a gdk-pixbuf loader for WMF images
- * (python3-aptdaemon.pkcompat) # needed to keep packagekit off the images
