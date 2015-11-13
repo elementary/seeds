@@ -61,8 +61,6 @@ We use many GNOME applications as part of our desktop user interface. Rather tha
  * unity-control-center
  * (system-config-printer-gnome)
  * ubuntu-session
- * (seahorse)
- * (libpam-gnome-keyring)
  * (gnome-system-monitor)
  * (gnome-power-manager)
  * (gnome-terminal)
@@ -117,6 +115,8 @@ Software center
 = Key management and signing =
 
  * (gnome-keyring)
+ * (seahorse)
+ * (libpam-gnome-keyring)
 
 We use gnupg's pinentry support as of wily, instead of gnome-keyring as before.
 
