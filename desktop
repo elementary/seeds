@@ -68,12 +68,12 @@ Input methods:
  * (switchboard-plug-power)
  * (switchboard-plug-pantheon-shell)
  * (switchboard-plug-parental-controls)
+ * (switchboard-plug-printers)
  * (switchboard-plug-security-privacy)
  * (switchboard-plug-users)
 # Plugs inherited from GNOME Control Center
  * (switchboard-plug-gcc-bluetooth)
  * (switchboard-plug-gcc-color)
- * (switchboard-plug-gcc-printer)
  * (switchboard-plug-gcc-sound)
  * (switchboard-plug-gcc-wacom)
  * (switchboard-gnome-control-center-override)
