@@ -186,16 +186,6 @@ alternative to avoid pulling in the large MySQL bits
  * doc-base         # integrates with scrollkeeper
  * (ubuntu-docs)
 
-= Development =
-
-Here we provide a minimal development environment sufficient to build kernel
-drivers, so that this is possible on the live CD and in scenarios where
-it is problematic to get these packages onto the installed system in order
-to compile a driver. -mdz
-
- * (gcc)
- * (make)
-
 = Other =
 
  * ubuntu-desktop # metapackage for everything here
