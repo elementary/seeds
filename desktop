@@ -15,11 +15,10 @@ Bluetooth:
 
 = Network Services =
 
-Basic network services and Windows integration.
+Basic network services, VPN and Windows integration.
 
  * (avahi-autoipd)     # IPv4 link-local interface configuration support
  * (network-manager-gnome) # see NetworkRoaming spec
- * (network-manager-pptp)
  * (network-manager-pptp-gnome)
  * (libproxy1-plugin-gsettings)
  * (libproxy1-plugin-networkmanager)
