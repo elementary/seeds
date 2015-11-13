@@ -206,7 +206,6 @@ Transitional packages for upgrading 12.04.[1-9] with LTS enablement stacks to
  * auditd
  * click             # temporary, until touch packages are all in main
  * click-dev
- * unity-settings-daemon #temporary, until ubuntu-desktop transitions from gsettings-daemon
 
 = Rescued from Extra =
 
