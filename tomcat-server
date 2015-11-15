@@ -1,9 +1,0 @@
-Task-Section: server
-Task-Description: Tomcat Java server
-Task-Extended-Description: Selects a ready-made Java Application server.
-Task-Key: tomcat7
-
- * tomcat7
- * tomcat7-examples
- * tomcat7-docs
- * tomcat7-admin

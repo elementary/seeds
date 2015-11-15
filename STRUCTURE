@@ -5,27 +5,6 @@ elementary-sdk:
 pantheon-shell:
 pantheon:
 desktop: desktop-common artwork pantheon
-dns-server: standard
-lamp-server: standard
-openssh-server: standard
-print-server: standard
-samba-server: standard
-postgresql-server: standard
-mail-server: standard
-tomcat-server: standard
-virt-host: standard
-server: standard
-server-ship: boot installer dns-server lamp-server openssh-server print-server samba-server postgresql-server mail-server server tomcat-server virt-host d-i-requirements
-cloud-image: standard
 ship: boot installer desktop d-i-requirements
 live: desktop live-common
 ship-live: boot live
-development: desktop
-usb: boot installer desktop
-usb-live: usb live-common
-usb-langsupport: usb-live
-usb-ship-live: usb-langsupport
-supported-desktop-extra: usb-live
-system-image: boot
-# make sure supported remains the last entry
-supported: supported-common server-ship cloud-image ship ship-live development usb-ship-live language-packs supported-desktop-extra
