@@ -6,6 +6,7 @@ Task-Key: pantheon
 Task-Metapackage: pantheon
 
 # apps shipped by default, in alphabetical order:
+ * (appcenter)
  * (audience)
  * (maya-calendar)
  * (midori-granite)
