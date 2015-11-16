@@ -28,13 +28,6 @@ Task-Seeds: desktop-common desktop
  * vim
  * byobu
 
-= Documentation =
-
- * gimp-help-en
- * gimp-help-de
- * gimp-help-sv
- * gimp-help-fr
-
 = Localisation =
 
 == Input methods ==
