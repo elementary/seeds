@@ -59,6 +59,7 @@ We use many GNOME applications as part of our desktop user interface. Rather tha
  * (transmission-gtk)
  * unity-settings-daemon
  * unity-control-center
+ * gnome-menus
  * (system-config-printer-gnome)
  * ubuntu-session
  * (gnome-system-monitor)
