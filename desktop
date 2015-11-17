@@ -136,7 +136,6 @@ Here's a list.
  * (p7zip-full)            # elementary: supports a crazy number of formats
  * (whoopsie)              # http://wiki.ubuntu.com/ErrorTracker - EvanDandrea
  * (lightdm)               # Proposed GDM replacement for Oneiric, see https://blueprints.launchpad.net/ubuntu/+spec/desktop-o-lightdm
- * (app-install-data-partner)
  * (gnome-codec-install)    # new default codec installation tool (from debian)
  * (gnome-menus)
  * (libpam-gnome-keyring)
