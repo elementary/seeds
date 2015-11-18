@@ -10,6 +10,7 @@ Task-Metapackage: elementary-sdk
  * cmake # http://elementaryos.org/docs/code/the-build-system
  * devscripts # packaging tools
  * gobject-introspection
+ * gtk-3-examples # gtk3-icon-browser
  * libgala-dev
  * libgirepository1.0-dev
  * libgranite-dev # elementary development library
