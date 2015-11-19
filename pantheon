@@ -13,6 +13,7 @@ Task-Metapackage: pantheon
  * (noise)
  * (pantheon-calculator)
  * (pantheon-files)
+ * (pantheon-mail)
  * (pantheon-photos)
  * (pantheon-terminal)
  * (scratch-text-editor)
