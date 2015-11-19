@@ -34,7 +34,6 @@ Task-Metapackage: ubuntu-core
  * ubuntu-core-security-apparmor
  * ubuntu-core-security-seccomp
  * ubuntu-core-security-utils [amd64 armhf i386] # no seccomp on arm64/ppc
- * click-apparmor # this needs to be after ubuntu-core-security-apparmor
  * ubuntu-snappy-cli # make click-apparmor avoid pulling in click
  * isc-dhcp-client
  * resolvconf
