@@ -53,3 +53,5 @@ Task-Key: cloud-init
  * cloud-initramfs-dyn-netconf
  * cloud-initramfs-copymods
  * lxd
+ * btrfs-tools
+ * xfsprogs
