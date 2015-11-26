@@ -7,7 +7,7 @@ Task-Key: ubiquity-frontend-gtk
 Task-Test-new-install: skip show
 Task-Seeds: live-common
 
- * Languages: en
+ * Languages: en, es, zh-hans, pt, de
  * language-pack-${Languages}
  * language-pack-gnome-${Languages}
 
@@ -15,15 +15,6 @@ Task-Seeds: live-common
  * libreoffice-help-en-us [i386 amd64]
  * hunspell-en-us
  * wamerican
-
- * Languages: es zh-hans
- * language-pack-${Languages}
- * language-pack-gnome-${Languages}
-
-Enough room on i386/powerpc, not enough on amd64:
- * Languages: pt de
- * language-pack-${Languages} [i386 powerpc]
- * language-pack-gnome-${Languages} [i386 powerpc]
 
  * gparted
  * cifs-utils # Needed by casper for CIFS root=
