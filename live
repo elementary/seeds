@@ -16,9 +16,6 @@ Task-Seeds: live-common
  * hunspell-en-us
  * wamerican
 
- * gparted
- * cifs-utils # Needed by casper for CIFS root=
-
 == Input methods ==
  * fcitx
  * fcitx-frontend-gtk2
@@ -41,3 +38,8 @@ These packages make up the Ubiquity live installer.
  * ubiquity-frontend-gtk
  * ubiquity-ubuntu-artwork
  * ubiquity-slideshow-ubuntu
+
+== Misc ==
+
+ * gparted
+ * cifs-utils # Needed by casper for CIFS root=
