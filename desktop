@@ -199,4 +199,3 @@ Accessibility tools:
 
  * elementary-desktop # metapackage for everything here
  * (libwmf0.2-7-gtk) # provides a gdk-pixbuf loader for WMF images
- * (python3-aptdaemon.pkcompat) # needed to keep packagekit off the images
