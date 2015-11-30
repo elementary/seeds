@@ -9,6 +9,7 @@ Task-Metapackage: elementary-sdk
  * bzr
  * cmake # http://elementaryos.org/docs/code/the-build-system
  * devscripts # packaging tools
+ * dconf-editor # browse gsettings
  * gobject-introspection
  * gtk-3-examples # gtk3-icon-browser
  * libgala-dev
