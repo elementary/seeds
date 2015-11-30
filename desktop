@@ -15,17 +15,16 @@ Bluetooth:
 
 = Network Services =
 
-Basic network services and Windows integration.
+Basic network services, VPN and Windows integration.
 
  * (network-manager-gnome) # see NetworkRoaming spec
- * (network-manager-pptp)
  * (network-manager-pptp-gnome)
  * (libproxy1-plugin-gsettings)
  * (libproxy1-plugin-networkmanager)
 
 = GUI infrastructure =
 
- * libnotify-bin		 # various scripts need notify-send (such as .bashrc's "alert")
+ * libnotify-bin                  # various scripts need notify-send (such as .bashrc's "alert")
 
 Extra fonts (should be common, but not so for space reasons):
 
@@ -127,7 +126,7 @@ Pantheon Online Accounts:
  * (gsignond-plugin-oauth)
  * (gsignond-plugin-lastfm)
 
-= Desktop GNOME Apps =
+= Desktop apps =
 
 Pantheon is not as complete as we want it to be, so we still need some GNOME apps.
 Here's a list.
@@ -194,20 +193,10 @@ Accessibility tools:
 
 = Documentation =
 
- * doc-base			# integrates with scrollkeeper
-
-= Development =
-
-Here we provide a minimal development environment sufficient to build kernel
-drivers, so that this is possible on the live CD and in scenarios where
-it is problematic to get these packages onto the installed system in order
-to compile a driver. -mdz
-
- * (gcc)
- * (make)
+ * doc-base         # integrates with scrollkeeper
 
 = Other =
 
  * elementary-desktop # metapackage for everything here
- * (libwmf0.2-7-gtk)
+ * (libwmf0.2-7-gtk) # provides a gdk-pixbuf loader for WMF images
  * (python3-aptdaemon.pkcompat) # needed to keep packagekit off the images
