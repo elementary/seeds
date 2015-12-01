@@ -24,6 +24,11 @@ restricted modules.
  * ${Kernel-Stem}-virtual [ppc64el]
  * linux-headers-virtual [ppc64el]
 
+== s390x ==
+
+ * ${Kernel-Stem}-generic [s390x]
+ * linux-headers-generic [s390x]
+
 == amd64 ==
 
  * ${Kernel-Stem}-server [amd64]
