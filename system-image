@@ -33,7 +33,7 @@ Task-Metapackage: ubuntu-core
  * rsyslog
  * ubuntu-core-security-apparmor
  * ubuntu-core-security-seccomp
- * ubuntu-core-security-utils [amd64 armhf i386] # no seccomp on arm64/ppc
+ * ubuntu-core-security-utils
  * python3-libapparmor # snappy-debug.security needs matching userspace
  * ubuntu-snappy-cli # make click-apparmor avoid pulling in click
  * isc-dhcp-client
