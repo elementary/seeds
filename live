@@ -7,26 +7,62 @@ Task-Key: ubiquity-frontend-gtk
 Task-Test-new-install: skip show
 Task-Seeds: live-common
 
- * Languages: en
+
+== Languages ==
+
+The full rationale on how we choose the languages and what we install
+is at https://launchpad.net/bugs/1520278
+
+The ones currently installed on the live are:
+en, es, zh (simplified), pt, de, fr, it, ru
+
+This should install check-language-support --show-installed -l $LANG from
+default live.
+The only exception to "no additional input when installed is for chinese:
+fonts-arphic-uming is 8Mg (and they have their own official Kylin respin)
+
+# Default languages for most applications we ship by default
+ * Languages: en, es, zh-hans, pt, de, fr, it, ru
  * language-pack-${Languages}
  * language-pack-gnome-${Languages}
 
-# subset of English language support which we want by default:
- * libreoffice-help-en-us [i386 amd64]
- * hunspell-en-us
- * wamerican
+# Dictionaries for LibreOffice
+## hyphenation and thesaurus
+ * Languages: en-us, de, fr, it, ru
+ * hyphen-${Languages}
+ * mythes-${Languages}
+ * mythes-en-au
+ * mythes-de-ch
 
- * Languages: es zh-hans
- * language-pack-${Languages}
- * language-pack-gnome-${Languages}
+## hunspell dict
+ * Languages: en-ca, en-us, de-at, de-ch, de-de, fr, ru
+ * hunspell-${Languages}
 
-Enough room on i386/powerpc, not enough on amd64:
- * Languages: pt de
- * language-pack-${Languages} [i386 powerpc]
- * language-pack-gnome-${Languages} [i386 powerpc]
+## myspell dict
+(for languages which don't provide a hunspell dictionary yet)
+ * Languages: en-au, en-gb, en-za, es, pt, it
+ * myspell-${Languages}
 
- * gparted
- * cifs-utils # Needed by casper for CIFS root=
+# Other Dictionaries
+ * Languages: american, british, spanish, portuguese, ngerman, ogerman, swiss, french, italian
+ * w${Languages}
+
+# Default apps having separates translations
+## Libreoffice l10n and help
+ * Languages: en-gb, es, zh-cn, pt, pt-br, de, fr, it, ru
+ * libreoffice-l10n-${Languages}
+ * libreoffice-help-${Languages}
+ * libreoffice-l10n-en-za
+ * libreoffice-help-en-us
+ * openoffice.org-hyphenation
+
+## Firefox
+ * Languages: en, es, zh-hans, pt, de, fr, it, ru
+ * firefox-locale-${Languages}
+
+## Thunderbird
+ * Languages: en, en-gb, en-us, es, es-ar, es-es, zh-hans, pt, pt-br, pt-pt, de, fr, it, ru
+ * thunderbird-locale-${Languages}
 
 == Input methods ==
  * fcitx
@@ -50,3 +86,8 @@ These packages make up the Ubiquity live installer.
  * ubiquity-frontend-gtk
  * ubiquity-ubuntu-artwork
  * ubiquity-slideshow-ubuntu
+
+== Misc ==
+
+ * gparted
+ * cifs-utils # Needed by casper for CIFS root=
