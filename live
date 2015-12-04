@@ -18,8 +18,6 @@ en, es, zh (simplified), pt, de, fr, it, ru
 
 This should install check-language-support --show-installed -l $LANG from
 default live.
-The only exception to "no additional input when installed is for chinese:
-fonts-arphic-uming is 8Mg (and they have their own official Kylin respin)
 
 # Default languages for most applications we ship by default
  * Languages: en es zh-hans pt de fr it ru
@@ -78,6 +76,12 @@ fonts-arphic-uming is 8Mg (and they have their own official Kylin respin)
  * fcitx-pinyin
  * fcitx-unikey
  * fcitx-module-cloudpinyin
+
+== Fonts (zh-hans) ==
+
+ * fonts-droid
+ * fonts-arphic-uming
+ * fonts-arphic-ukai
 
 == Ubiquity components ==
 
