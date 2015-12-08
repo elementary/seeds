@@ -109,6 +109,13 @@ plymouth-theme-ubuntu-text
 ubuntu-mono # icon theme
 x11-apps
 
+# update-manager stuff
+update-manager
+update-manager-core
+update-notifier
+ubuntu-release-upgrader-core
+ubuntu-release-upgrader-gtk
+
 # stuff we don't want in stable
 #apport-gtk
 #apport-hooks-elementary
