@@ -42,12 +42,12 @@ default live.
  * myspell-${Languages}
 
 # Other Dictionaries
- * Languages: american british spanish portuguese ngerman ogerman swiss french italian
+ * Languages: american british spanish portuguese brazilian ngerman ogerman swiss french italian
  * w${Languages}
 
 # Default apps having separates translations
 ## Libreoffice l10n and help
- * Languages: en-gb es zh-cn pt pt-br de fr it ru
+ * Languages: en-gb es zh-cn zh-tw pt pt-br de fr it ru
  * libreoffice-l10n-${Languages}
  * libreoffice-help-${Languages}
  * libreoffice-l10n-en-za
@@ -59,7 +59,7 @@ default live.
  * firefox-locale-${Languages}
 
 ## Thunderbird
- * Languages: en en-gb en-us es es-ar es-es zh-hans pt pt-br pt-pt de fr it ru
+ * Languages: en en-gb en-us es es-ar es-es zh-cn zh-hans zh-tw pt pt-br pt-pt de fr it ru
  * thunderbird-locale-${Languages}
 
 == Input methods ==
