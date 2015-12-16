@@ -28,6 +28,8 @@ restricted modules.
 
  * ${Kernel-Stem}-generic [s390x]
  * linux-headers-generic [s390x]
+ * ${Kernel-Stem}-virtual [s390x]
+ * linux-headers-virtual [s390x]
 
 == amd64 ==
 
