@@ -107,7 +107,6 @@ ubuntu-touch-sounds
 marco # mate window manager
 plymouth-theme-ubuntu-text
 ubuntu-mono # icon theme
-x11-apps
 
 # update-manager stuff
 update-manager
