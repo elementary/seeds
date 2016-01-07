@@ -11,6 +11,3 @@ Task-Key: samba
  * cifs-utils
  * winbind
 
-= Germinate workarounds =
-
- * perl-modules # for update-inetd dependency on virtual libfile-temp-perl (see #723731)
