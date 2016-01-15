@@ -14,7 +14,6 @@ Task-Metapackage: ubuntu-core
  * xz-utils
  * iptables
  * initramfs-tools-ubuntu-core
- * python3-pycurl
  * grub-pc [i386]
  * grub-efi-ia32-bin [i386]
  * grub-pc-bin [amd64]
@@ -25,9 +24,6 @@ Task-Metapackage: ubuntu-core
  * dbus
  * libpam-systemd
  * apparmor
- * debsig-verify
- * click-ubuntu-policy
- * ubuntu-core-upgrader
  * libnss-extrausers
  * wpasupplicant
  * rsyslog
