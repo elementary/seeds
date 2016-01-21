@@ -5,53 +5,51 @@ Task-Key: cloud-init
 
 = System administration tools =
 
- * acpid
- * apport # LP: #424051
- * at
- * byobu
- * curl
- * openssh-server
- * overlayroot
- * patch
- * git # LP: 1394756
- * pollinate
- * screen
- * software-properties-common
- * tasksel # LP: #649833
- * vim
+ * acpid			# Needed for machines deployed by MAAS
+ * apport			# LP: #424051, run ubuntu-bug to collect error info
+ * at				# TODO: Check if systemd can provide this?
+ * byobu			# User interface, share/detach sessions
+ * curl				# Fetch data from the command line
+ * wget				# Fetch data from the command line
+ * openssh-server		# Standard way to access a server
+ * overlayroot			# Needed by MAAS
+ * patch			# Remove?
+ * git				# LP: 1394756, central to automation
+ * pollinate			# Seed the PRNG
+ * screen			# Share/detach sessions
+ * tmux				# Share/detach sessions
+ * software-properties-common	# apt-add-repository (PPAs)
+ * vim				# Syntax highlighting
 
 = Network =
 
- * ethtool
+ * ethtool			# Essential network diagnostics
 
 = Documentation =
 
- * w3m
-
 = EC2 =
 
- * cloud-init
- * cloud-guest-utils
- * grub-legacy-ec2
+ * cloud-init			# Standard Ubuntu cloud boot support
+ * cloud-guest-utils		# growpart (resize partitions)
+ * grub-legacy-ec2		# TODO: Investigate
 
 = Maintenance =
 
- * update-notifier-common # LP: 897815
+ * update-notifier-common	# LP: #897815, display updates available in motd
 
 = Block Device =
- * open-iscsi
- * lvm2
- * mdadm
+ * open-iscsi			# Needed by MAAS images
+ * lvm2				# Needed by MAAS images
+ * mdadm			# Used by many physical machines
 
 = Other =
 
- * fonts-ubuntu-font-family-console
- * open-vm-tools
- * sosreport # LP: #1311274
- * systemd # not supported yet, but working on enablement
- * bcache-tools
- * cloud-initramfs-dyn-netconf
- * cloud-initramfs-copymods
- * lxd
- * btrfs-tools
- * xfsprogs
+ * fonts-ubuntu-font-family-console	# Part of the Ubuntu server experience
+ * open-vm-tools			# Only needed for Ubuntu as VMware guests
+ * sosreport				# LP: #1311274, troubleshooting for Ubuntu Advantage support
+ * bcache-tools				# Used by MAAS images, when possible
+ * cloud-initramfs-dyn-netconf		# Needed by MAAS images
+ * cloud-initramfs-copymods		# Needed by MAAS images
+ * lxd					# Every Ubuntu server can host 100x containers
+ * btrfs-tools				# Commonly used server filesystem
+ * xfsprogs				# Commonly used server filesystem
