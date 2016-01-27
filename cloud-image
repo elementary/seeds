@@ -24,6 +24,8 @@ Task-Key: cloud-init
 = Network =
 
  * ethtool			# Essential network diagnostics
+ * ifenslave			# Network bonding, needed by MAAS
+ * vlan				# Needed by MAAS
 
 = Documentation =
 
