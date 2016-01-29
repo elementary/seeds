@@ -27,6 +27,7 @@ Enough room on i386/powerpc, not enough on amd64:
  * gparted
  * cifs-utils # Needed by casper for CIFS root
  * jfsutils # Needed for JFS installation (lp:1442982)
+ * xfsprogs # Needed for XFS installation
  * elementary-live-settings # disables light-locker
 
 == Input methods ==
