@@ -44,6 +44,12 @@ Enough room on i386/powerpc, not enough on amd64:
  * fcitx-unikey
  * fcitx-module-cloudpinyin
 
+== Fonts (zh-hans) ==
+
+ * fonts-droid
+ * fonts-arphic-uming
+ * fonts-arphic-ukai
+
 == Ubiquity components ==
 
 These packages make up the Ubiquity live installer.
@@ -51,3 +57,8 @@ These packages make up the Ubiquity live installer.
  * ubiquity-frontend-gtk
  * ubiquity-ubuntu-artwork
  * ubiquity-slideshow-ubuntu
+
+== Misc ==
+
+ * gparted
+ * cifs-utils # Needed by casper for CIFS root=
