@@ -60,5 +60,4 @@ These packages make up the Ubiquity live installer.
 
 == Misc ==
 
- * gparted
- * cifs-utils # Needed by casper for CIFS root=
+ * bcmwl-kernel-source
