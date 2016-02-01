@@ -33,7 +33,7 @@ Task-Key: cloud-init
 
  * cloud-init			# Standard Ubuntu cloud boot support
  * cloud-guest-utils		# growpart (resize partitions)
- * grub-legacy-ec2		# TODO: Investigate
+ * grub-legacy-ec2 [!s390x]	# TODO: Investigate
 
 = Maintenance =
 
