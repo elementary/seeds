@@ -209,6 +209,9 @@ Utilities:
  * bridge-utils           # userland tools to config kernel bridging feature
  * wakeonlan              # sends magic packet to wake sleeping servers
  * iputils-arping         # would have made elmo's life easier at debconf 4
+ * ppp                    # ppp utilities useful to be on a CD when someone needs them
+ * pppconfig
+ * pppoeconf
 
 IPv6 tools:
 
