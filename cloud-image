@@ -55,3 +55,4 @@ Task-Key: cloud-init
  * lxd					# Every Ubuntu server can host 100x containers
  * btrfs-tools				# Commonly used server filesystem
  * xfsprogs				# Commonly used server filesystem
+ * ubuntu-cloudimg-keyring              # securely download data from cloud-images.ubuntu.com
