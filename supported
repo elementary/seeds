@@ -294,7 +294,6 @@ Temporary workarounds:
 
 = Other =
 
- * icedtea-plugin
  * miscfiles
  * sosreport # AdamStokes LP: #1206106
  * nvidia-prime
