@@ -30,7 +30,7 @@ Basic network services, VPN and Windows integration.
 
 Extra fonts (should be common, but not so for space reasons):
 
- * (fonts-droid)
+ * (fonts-noto-cjk)
  * (fonts-nanum)
  * (fonts-liberation)
 
