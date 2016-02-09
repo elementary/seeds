@@ -22,6 +22,9 @@ Basic network services, VPN and Windows integration.
  * (network-manager-pptp-gnome)
  * (libproxy1-plugin-gsettings)
  * (libproxy1-plugin-networkmanager)
+ * (ppp)      # ppp utilities useful to be on a CD when someone needs them
+ * (pppconfig)
+ * (pppoeconf)
 
 = GUI infrastructure =
 
