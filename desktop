@@ -112,7 +112,6 @@ We use many GNOME applications as part of our desktop user interface. Rather tha
 
 Software center
  * (software-center)
- * ubuntu-sso-client-qt # because software-center uses it for comments/purchases/oneconf, and there is no GTK+ edition
  * (python3-aptdaemon.pkcompat) # needed to keep packagekit off the images
 
 
