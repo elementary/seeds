@@ -45,3 +45,4 @@ Task-Metapackage: ubuntu-core
  * gdisk
  * libnss-myhostname
  * crda
+ * netbase
