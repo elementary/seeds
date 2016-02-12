@@ -6,7 +6,7 @@ Task-Key: cups, cups-bsd, cups-client
  * cups
  * cups-bsd
  * cups-client
- * cups-driver-gutenprint
+ * printer-driver-gutenprint
  * foomatic-db-compressed-ppds
  * printer-driver-hpijs
  * openprinting-ppds
