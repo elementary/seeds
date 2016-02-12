@@ -5,6 +5,6 @@ Task-Key: apache2, mysql-server
 
  * apache2
  * apache2-mpm-prefork
- * php5-mysql
- * libapache2-mod-php5
+ * php-mysql
+ * libapache2-mod-php
  * mysql-server

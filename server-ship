@@ -105,25 +105,25 @@ Web:
 
 PHP:
 
- * libapache2-mod-php5
+ * libapache2-mod-php
  * php-pear
- * php5-cgi
- * php5-cli
- * php5-curl
- * php5-gd
- * php5-gmp
- * php5-ldap
- * php5-mysql
- * php5-odbc
- * php5-pgsql
- * php5-pspell
- * php5-recode
- * php5-snmp
- * php5-sqlite
- * php5-tidy
- * php5-xmlrpc
- * php5-xsl
- * php5
+ * php-cgi
+ * php-cli
+ * php-curl
+ * php-gd
+ * php-gmp
+ * php-ldap
+ * php-mysql
+ * php-odbc
+ * php-pgsql
+ * php-pspell
+ * php-recode
+ * php-snmp
+ * php-sqlite3
+ * php-tidy
+ * php-xmlrpc
+ * php-xsl
+ * php
 
 Email:
 
