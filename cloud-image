@@ -26,12 +26,6 @@ Task-Key: cloud-init
  * ifenslave			# Network bonding, needed by MAAS
  * vlan				# Needed by MAAS
 
-= EC2 =
-
- * cloud-guest-utils		# growpart (resize partitions)
- * cloud-init			# Standard Ubuntu cloud boot support
- * grub-legacy-ec2 [!s390x]	# TODO: Investigate
-
 = Maintenance =
 
  * update-notifier-common	# LP: #897815, display updates available in motd
@@ -57,7 +51,10 @@ Task-Key: cloud-init
 
 = Other =
 
+ * cloud-guest-utils		# growpart (resize partitions)
+ * cloud-init			# Standard Ubuntu cloud boot support
  * fonts-ubuntu-font-family-console	# Part of the Ubuntu server experience
+ * grub-legacy-ec2 [!s390x]	# TODO: Investigate
  * lxd					# Every Ubuntu server can host 100x containers
  * open-vm-tools			# Only needed for Ubuntu as VMware guests
  * ubuntu-cloudimg-keyring              # securely download data from cloud-images.ubuntu.com
