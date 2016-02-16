@@ -17,17 +17,15 @@ This seed lists the packages we want to install by default in the new server ins
  * patch
  * screen
  * software-properties-common # LP: #439566
+ * tmux				# Share/detach sessions
  * vim
+ * wget				# Fetch data from the command line
 
 = Network =
 
- * ethtool
- * wireless-tools
- * wpasupplicant  # ScottJamesRemnant
-
-= Documentation =
-
- * w3m
+ * ethtool			# Essential network diagnostics
+ * ifenslave			# Network bonding, needed by MAAS
+ * vlan				# Needed by MAAS
 
 = Maintenance =
 
@@ -35,13 +33,28 @@ This seed lists the packages we want to install by default in the new server ins
 
 = Block Device and Filesystem =
 
- * btrfs-tools
- * xfsprogs
+ * lvm2				# Needed by MAAS images
+ * mdadm			# Used by many physical machines
+ * open-iscsi			# Needed by MAAS images
+ * bcache-tools				# Used by MAAS images, when possible
+ * btrfs-tools				# Commonly used server filesystem
+ * xfsprogs				# Commonly used server filesystem
 
 = Debugging and Diagnostics =
 
- * memtest86+
+ * sosreport				# LP: #1311274, troubleshooting for Ubuntu Advantage support
+
+= Initramfs Modules =
+
+ * cloud-initramfs-copymods		# Needed by MAAS images
+ * cloud-initramfs-dyn-netconf		# Needed by MAAS images
+ * overlayroot			# Needed by MAAS
 
 = Other =
 
- * fonts-ubuntu-font-family-console
+ * cloud-guest-utils		# growpart (resize partitions)
+ * fonts-ubuntu-font-family-console	# Part of the Ubuntu server experience
+ * grub-legacy-ec2 [!s390x]	# TODO: Investigate
+ * lxd					# Every Ubuntu server can host 100x containers
+ * open-vm-tools			# Only needed for Ubuntu as VMware guests
+ * ubuntu-cloudimg-keyring              # securely download data from cloud-images.ubuntu.com
