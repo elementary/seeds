@@ -8,22 +8,22 @@ This seed lists the packages we want to install by default in the new server ins
 
 = System administration tools =
 
+ * acpid
+ * apport # LP: #424051
  * at
- * patch
- * git # LP: 1394756
- * screen
  * byobu
  * curl
- * acpid
- * vim
- * apport # LP: #424051
+ * git # LP: 1394756
+ * patch
+ * screen
  * software-properties-common # LP: #439566
+ * vim
 
 = Network =
 
+ * ethtool
  * wireless-tools
  * wpasupplicant  # ScottJamesRemnant
- * ethtool
 
 = Documentation =
 
@@ -33,6 +33,11 @@ This seed lists the packages we want to install by default in the new server ins
 
  * update-notifier-common
 
+= Block Device and Filesystem =
+
+ * btrfs-tools
+ * xfsprogs
+
 = Debugging and Diagnostics =
 
  * memtest86+
@@ -40,5 +45,3 @@ This seed lists the packages we want to install by default in the new server ins
 = Other =
 
  * fonts-ubuntu-font-family-console
- * btrfs-tools
- * xfsprogs
