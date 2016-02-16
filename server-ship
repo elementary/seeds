@@ -212,6 +212,8 @@ Utilities:
  * ppp                    # ppp utilities useful to be on a CD when someone needs them
  * pppconfig
  * pppoeconf
+ * wireless-tools
+ * wpasupplicant
 
 IPv6 tools:
 
@@ -267,6 +269,7 @@ Security:
  * apport # MathiasGug
  * kerneloops-daemon # JamesWestby
  * intel-microcode # needed to update Intel cpu microcode LP #1386257
+ * memtest86+
 
 = From desktop =
 
