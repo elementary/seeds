@@ -292,6 +292,11 @@ Temporary workarounds:
 
  * pkgbinarymangler # needs to be in main to stay in the buildd chroots
 
+= Dynamically installed by deja-dup (to avoid python2 on image) =
+
+ * duplicity
+ * python-gi
+
 = Other =
 
  * miscfiles
