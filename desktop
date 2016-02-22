@@ -134,7 +134,7 @@ Games: We only ship a few by default.
 
 Default office suite: libreoffice
 
- * (libreoffice-style-human)
+ * (libreoffice-style-breeze)
  * (libreoffice-gnome)
  * (libreoffice-writer)
  * (libreoffice-calc)
