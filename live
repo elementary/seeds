@@ -95,3 +95,5 @@ These packages make up the Ubiquity live installer.
 
  * gparted
  * cifs-utils # Needed by casper for CIFS root=
+ * mokutil  # Needed for EFI install with third-party drivers
+
