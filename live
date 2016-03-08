@@ -90,6 +90,7 @@ These packages make up the Ubiquity live installer.
  * ubiquity-frontend-gtk
  * ubiquity-ubuntu-artwork
  * ubiquity-slideshow-ubuntu
+ * a11y-profile-manager
 
 == Misc ==
 

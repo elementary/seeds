@@ -177,6 +177,8 @@ Accessibility tools:
  * libatk-adaptor
  * (libgail-common)
  * (qt-at-spi)
+ * (a11y-profile-manager-indicator)
+
 Desktop Experience:
  * unity
  * unity-greeter
