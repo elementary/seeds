@@ -170,6 +170,7 @@ Transitional packages:
 
  * upstart-bin			# Needed in main until after 15.04 ships
  * upstart-sysv			# Keep in main until 16.04
+ * module-init-tools		# Keep in main until 16.04
 
 Transitional packages for upgrading 12.04.[1-9] with LTS enablement stacks to
 14.04 (remove them entirely in 14.10):
