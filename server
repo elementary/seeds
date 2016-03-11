@@ -52,6 +52,7 @@ This seed lists the packages we want to install by default in the new server ins
 
 = Other =
 
+ * ubuntu-server		# metapackage for everything in this task
  * cloud-guest-utils		# growpart (resize partitions)
  * fonts-ubuntu-font-family-console	# Part of the Ubuntu server experience
  * grub-legacy-ec2 [!s390x]	# TODO: Investigate
