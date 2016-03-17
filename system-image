@@ -40,6 +40,7 @@ Task-Metapackage: ubuntu-core
  * gdbserver
  * squashfs-tools
  * fwupdate
+ * fwupdate-amd64-signed [amd64]
  * tpm-tools
  * ppp
  * watchdog
