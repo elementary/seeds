@@ -9,10 +9,10 @@ Moved from desktop:
  * python-egenix-mxtexttools # MRS, 
  * python-egenix-mxtools    # MRS, 
  * python-epydoc            # MRS, 
- * python-examples          # MRS, 
+ * python3-examples          # MRS, 
  * python-gd                # MRS, 
  * python-genetic
- * python-geoip
+ * python3-geoip
  * python-htmlgen
  * python3-imaging-sane
  * python-jabber
@@ -20,18 +20,17 @@ Moved from desktop:
  * python-librdf
  * python3-pycurl
  * python-ldap
- * python-mysqldb
+ * python3-mysqldb
  * python3-newt
  * python3-pam
- * python-pexpect
+ * python3-pexpect
  * python-pisock
  * python-pyao
  * python3-pylibacl
  * python-pyvorbis
- * python-pyxattr
- * python-reportlab
+ * python3-pyxattr
+ * python3-reportlab
  * python-simpletal
- * python-unit
  * python3-xdg                   # SebastienBacher
  * python-xmpp
  * python-libxml2
@@ -40,7 +39,7 @@ Moved from desktop:
 Moved from supported:
 
  * python-pygresql         # JamesTroup, from hoglet
- * python-twisted
+ * python3-twisted
  * idle3             # Python IDE
  * python-gpod
 
