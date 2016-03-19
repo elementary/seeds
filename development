@@ -33,8 +33,7 @@ Moved from desktop:
  * python-simpletal
  * python3-xdg                   # SebastienBacher
  * python-xmpp
- * python-libxml2
- * python-libxslt1
+ * python3-lxml
 
 Moved from supported:
 
