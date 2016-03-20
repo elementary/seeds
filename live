@@ -48,6 +48,7 @@ Enough room on i386/powerpc, not enough on amd64:
 == Fonts (zh-hans) ==
 
  * fonts-droid
+ * fonts-noto-cjk
  * fonts-arphic-uming
  * fonts-arphic-ukai
 
@@ -61,3 +62,5 @@ These packages make up the Ubiquity live installer.
 == Misc ==
 
  * bcmwl-kernel-source
+ * gparted
+ * cifs-utils # Needed by casper for CIFS root
