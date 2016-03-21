@@ -51,6 +51,7 @@ Task-Key: cloud-init
 
 = Other =
 
+ * ubuntu-server		# metapackage for ubuntu-server
  * cloud-guest-utils		# growpart (resize partitions)
  * cloud-init			# Standard Ubuntu cloud boot support
  * fonts-ubuntu-font-family-console	# Part of the Ubuntu server experience
