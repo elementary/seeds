@@ -58,5 +58,5 @@ This seed lists the packages we want to install by default in the new server ins
  * grub-legacy-ec2 [!s390x]	# TODO: Investigate
  * lxd					# Every Ubuntu server can host 100x containers
  * open-vm-tools			# Only needed for Ubuntu as VMware guests
- * ubuntu-cloudimg-keyring              # securely download data from cloud-images.ubuntu.com
+ * ubuntu-cloudimage-keyring              # securely download data from cloud-images.ubuntu.com
  * ubuntu-snappy-cli
