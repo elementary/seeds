@@ -20,6 +20,7 @@ This seed lists the packages we want to install by default in the new server ins
  * tmux				# Share/detach sessions
  * vim
  * wget				# Fetch data from the command line
+ * libpam-systemd               # proper logind sessions, LP#1561658
 
 = Network =
 
