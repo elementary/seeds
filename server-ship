@@ -174,8 +174,6 @@ Other:
  * nut-snmp
  * openvpn #ChuckShort - ServerPackageReview
  * netcat-openbsd
- * munin-node
- * munin
  * libpkcs11-helper1
  * zip #ChuckShort - server-lucid-seeds
  * tdb-tools #ChuckShort - server-lucid-seeds
