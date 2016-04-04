@@ -246,7 +246,6 @@ Security:
  * smartmontools   # hard disk diagnostics
  * logwatch	   # ChuckShort - ServerPackageReview
  * lsscsi	# ChuckShort
- * vblade	# ChuckShort
  * sysstat	# ChuckShort - ServerPackageReview
  * openipmi     # ChuckShort - ServerPackageReview
  * unattended-upgrades
