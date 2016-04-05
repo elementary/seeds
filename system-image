@@ -19,6 +19,7 @@ Task-Metapackage: ubuntu-core
  * grub-efi-ia32-bin [i386]
  * grub-pc-bin [amd64]
  * grub-efi-amd64-signed [amd64]
+ * grub-xen-bin [amd64 i386]
  * shim-signed [amd64]
  * cloud-init
  * ca-certificates
