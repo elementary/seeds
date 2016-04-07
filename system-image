@@ -14,7 +14,6 @@ Task-Metapackage: ubuntu-core
  * xz-utils
  * iptables
  * initramfs-tools-ubuntu-core
- * ubuntu-core-generic-initrd [ amd64 i386 armhf arm64 ]
  * grub-pc [i386]
  * grub-efi-ia32-bin [i386]
  * grub-pc-bin [amd64]
