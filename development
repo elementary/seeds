@@ -111,6 +111,10 @@ Cross Toolchains
  * crossbuild-essential-powerpc
  * crossbuild-essential-ppc64el
 
+Additional supported languages
+
+ * golang
+
 Useful VCS development tool
 
  * git-bzr # bzr and git are in main... so why not =)
