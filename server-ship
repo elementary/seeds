@@ -180,6 +180,8 @@ Other:
  * acl #ChuckShort - server-lucid-seeds
  * powernap-server
  * maas
+ * maas-region-udeb
+ * maas-rack-udeb
  * maas-enlist
  * maas-enlist-udeb
  * powernap
