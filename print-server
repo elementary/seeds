@@ -1,7 +1,7 @@
 Task-Section: server
 Task-Description: Print server
 Task-Extended-Description: This task sets up your system to be a print server.
-Task-Key: cups, cups-bsd, cups-client
+Task-Key: cups cups-bsd cups-client
 
  * cups
  * cups-bsd
