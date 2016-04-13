@@ -96,12 +96,6 @@ Extra GCC packages
  * g++-multilib  # seed it directly until changing the defaults
  * cpp-doc
  * gcc-doc
- * g++-4.9-multilib
- * gfortran-4.9-multilib
- * gcj-4.9-jdk
- * gcj-4.9-source
- * gcc-4.9-source
- * libstdc++-4.9-pic
 
 Cross Toolchains
 
