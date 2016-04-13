@@ -1,38 +1,19 @@
 Moved from desktop:
 
- * python-adns              # MRS, stable and useful
  * python3-apt               # MRS, we need to be able to interact with APT
- * python-cddb              # MRS, great for desktop users to be able to manage CD's in Python
  * python3-crypto            # MRS, very useful even though it's very specific
- * python-egenix-mxproxy    # MRS, 
- * python-egenix-mxstack    # MRS, 
- * python-egenix-mxtexttools # MRS, 
- * python-egenix-mxtools    # MRS, 
- * python-epydoc            # MRS, 
  * python3-examples          # MRS, 
- * python-gd                # MRS, 
- * python-genetic
  * python3-geoip
- * python-htmlgen
  * python3-imaging-sane
- * python-jabber
- * python-dictclient
- * python-librdf
  * python3-pycurl
- * python-ldap
  * python3-mysqldb
  * python3-newt
  * python3-pam
  * python3-pexpect
- * python-pisock
- * python-pyao
  * python3-pylibacl
- * python-pyvorbis
  * python3-pyxattr
  * python3-reportlab
- * python-simpletal
  * python3-xdg                   # SebastienBacher
- * python-xmpp
  * python3-lxml
 
 Moved from supported:
