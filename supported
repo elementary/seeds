@@ -197,7 +197,6 @@ Transitional packages for upgrading 12.04.[1-9] with LTS enablement stacks to
  * apparmor-profiles
  * libapache2-mod-apparmor
  * libpam-apparmor
- * python-libapparmor
  * python3-libapparmor
  * python-ufw
  * libseccomp-dev    # promote its use, LP: #1082431
