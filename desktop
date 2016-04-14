@@ -115,7 +115,7 @@ Software center
  * (python3-aptdaemon.pkcompat) # needed to keep packagekit off the images
 
 New method of installing and updating software
- * (ubuntu-snappy-cli)
+ * (snapd)
 
 = Key management and signing =
 

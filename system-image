@@ -8,7 +8,8 @@ Task-Metapackage: ubuntu-core
  * Feature: no-follow-recommends
 
 = Core =
- * ubuntu-snappy
+ * ubuntu-core-snapd-units
+ * snapd
  * systemd
  * openssh-server
  * xz-utils
@@ -32,7 +33,6 @@ Task-Metapackage: ubuntu-core
  * ubuntu-core-security-seccomp
  * ubuntu-core-security-utils
  * python3-libapparmor # snappy-debug.security needs matching userspace
- * ubuntu-snappy-cli # make click-apparmor avoid pulling in click
  * isc-dhcp-client
  * resolvconf
  * dosfstools
