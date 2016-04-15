@@ -89,3 +89,8 @@ Additional supported languages
 Useful VCS development tool
 
  * git-bzr # bzr and git are in main... so why not =)
+
+# Packages should be recorded in their reverse-built-dependencies using
+# 'Built-Using' due to code copied into target objects at build time.
+= Built-using workarounds =
+ * drac-dev
