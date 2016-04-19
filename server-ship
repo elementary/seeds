@@ -254,9 +254,11 @@ Security:
 
 = Virtualisation =
 
+ * qemu-kvm
  * qemu-system-x86 [i386 amd64]
  * qemu-system-ppc [powerpc ppc64el]
  * qemu-system-aarch64 [arm64]
+ * qemu-system-s390x [s390x]
  * python-libvirt
  * python-urlgrabber
  * libvirt-bin
