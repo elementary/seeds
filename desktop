@@ -111,7 +111,7 @@ We use many GNOME applications as part of our desktop user interface. Rather tha
  * xdiagnose
 
 Software center
- * (gnome-software)
+ * (ubuntu-software)
  * (python3-aptdaemon.pkcompat) # needed to keep packagekit off the images
 
 = Key management and signing =
