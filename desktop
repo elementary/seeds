@@ -114,9 +114,6 @@ Software center
  * (gnome-software)
  * (python3-aptdaemon.pkcompat) # needed to keep packagekit off the images
 
-New method of installing and updating software
- * (snapd)
-
 = Key management and signing =
 
  * (gnome-keyring)
