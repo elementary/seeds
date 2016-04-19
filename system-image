@@ -41,7 +41,6 @@ Task-Metapackage: ubuntu-core
  * squashfs-tools
  * fwupdate
  * fwupdate-signed
- * tpm-tools
  * ppp
  * watchdog
  * gdisk
