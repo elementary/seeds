@@ -171,24 +171,21 @@ Transitional packages:
  * upstart-bin			# Needed in main until after 15.04 ships
  * upstart-sysv			# Keep in main until 16.04
 
-Transitional packages for upgrading 12.04.[1-9] with LTS enablement stacks to
-14.04 (remove them entirely in 14.10):
+Transitional packages for upgrading 14.04.[1-9] with LTS enablement stacks to
+16.04 (remove them entirely in 16.10):
  * %xorg-lts-transitional
- * !xserver-xorg-video-geode-lts-quantal
- * !xserver-xorg-video-geode-lts-raring
- * !xserver-xorg-video-geode-lts-saucy
- * !xserver-xorg-input-mtrack-lts-quantal
- * !xserver-xorg-input-mtrack-lts-saucy
- * !xserver-xorg-input-mtrack-lts-raring
- * !xserver-xorg-input-kbd-lts-quantal
- * !xserver-xorg-input-kbd-lts-saucy
- * !xserver-xorg-input-kbd-lts-raring
- * !xserver-xorg-input-joystick-lts-quantal
- * !xserver-xorg-input-joystick-lts-saucy
- * !xserver-xorg-input-joystick-lts-raring
- * !xserver-xorg-input-joystick-dev-lts-quantal
- * !xserver-xorg-input-joystick-dev-lts-saucy
- * !xserver-xorg-input-joystick-dev-lts-raring
+ * !xserver-xorg-video-cirrus-lts-utopic
+ * !xserver-xorg-video-mach64-lts-utopic
+ * !xserver-xorg-video-mga-lts-utopic
+ * !xserver-xorg-video-neomagic-lts-utopic
+ * !xserver-xorg-video-openchrome-lts-utopic
+ * !xserver-xorg-video-r128-lts-utopic
+ * !xserver-xorg-video-savage-lts-utopic
+ * !xserver-xorg-video-siliconmotion-lts-utopic
+ * !xserver-xorg-video-sisusb-lts-utopic
+ * !xserver-xorg-video-tdfx-lts-utopic
+ * !xserver-xorg-video-trident-lts-utopic
+ * !xserver-xorg-input-void-lts-utopic
 
 = Installed on demand =
 
