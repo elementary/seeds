@@ -180,6 +180,9 @@ Transitional packages for upgrading 14.04.[1-9] with LTS enablement stacks to
  * !xserver-xorg-video-mach64-lts-utopic
  * !xserver-xorg-video-mach64-lts-vivid
  * !xserver-xorg-video-mach64-lts-wily
+ * !xserver-xorg-video-mach64-lts-utopic-dbg
+ * !xserver-xorg-video-mach64-lts-vivid-dbg
+ * !xserver-xorg-video-mach64-lts-wily-dbg
  * !xserver-xorg-video-mga-lts-utopic
  * !xserver-xorg-video-mga-lts-vivid
  * !xserver-xorg-video-mga-lts-wily
@@ -189,9 +192,15 @@ Transitional packages for upgrading 14.04.[1-9] with LTS enablement stacks to
  * !xserver-xorg-video-openchrome-lts-utopic
  * !xserver-xorg-video-openchrome-lts-vivid
  * !xserver-xorg-video-openchrome-lts-wily
+ * !xserver-xorg-video-openchrome-lts-utopic-dbg
+ * !xserver-xorg-video-openchrome-lts-vivid-dbg
+ * !xserver-xorg-video-openchrome-lts-wily-dbg
  * !xserver-xorg-video-r128-lts-utopic
  * !xserver-xorg-video-r128-lts-vivid
  * !xserver-xorg-video-r128-lts-wily
+ * !xserver-xorg-video-r128-lts-utopic-dbg
+ * !xserver-xorg-video-r128-lts-vivid-dbg
+ * !xserver-xorg-video-r128-lts-wily-dbg
  * !xserver-xorg-video-savage-lts-utopic
  * !xserver-xorg-video-savage-lts-vivid
  * !xserver-xorg-video-savage-lts-wily
@@ -210,6 +219,27 @@ Transitional packages for upgrading 14.04.[1-9] with LTS enablement stacks to
  * !xserver-xorg-input-void-lts-utopic
  * !xserver-xorg-input-void-lts-vivid
  * !xserver-xorg-input-void-lts-wily
+ * !xserver-xorg-input-joystick-lts-utopic
+ * !xserver-xorg-input-joystick-lts-vivid
+ * !xserver-xorg-input-joystick-lts-wily
+ * !xserver-xorg-input-mtrack-lts-utopic
+ * !xserver-xorg-input-mtrack-lts-vivid
+ * !xserver-xorg-input-mtrack-lts-wily
+ * !libegl1-mesa-drivers-lts-utopic
+ * !libegl1-mesa-drivers-lts-vivid
+ * !libegl1-mesa-drivers-lts-wily
+ * !xorg-server-source-lts-utopic
+ * !xorg-server-source-lts-vivid
+ * !xorg-server-source-lts-wily
+ * !xserver-xephyr-lts-utopic
+ * !xserver-xephyr-lts-vivid
+ * !xserver-xephyr-lts-wily
+ * !xwayland-lts-utopic
+ * !xwayland-lts-vivid
+ * !xwayland-lts-wily
+ * !xserver-xspice-lts-utopic
+ * !xserver-xspice-lts-vivid
+ * !xserver-xspice-lts-wily
 
 = Installed on demand =
 
