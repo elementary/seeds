@@ -175,17 +175,41 @@ Transitional packages for upgrading 14.04.[1-9] with LTS enablement stacks to
 16.04 (remove them entirely in 16.10):
  * %xorg-lts-transitional
  * !xserver-xorg-video-cirrus-lts-utopic
+ * !xserver-xorg-video-cirrus-lts-vivid
+ * !xserver-xorg-video-cirrus-lts-wily
  * !xserver-xorg-video-mach64-lts-utopic
+ * !xserver-xorg-video-mach64-lts-vivid
+ * !xserver-xorg-video-mach64-lts-wily
  * !xserver-xorg-video-mga-lts-utopic
+ * !xserver-xorg-video-mga-lts-vivid
+ * !xserver-xorg-video-mga-lts-wily
  * !xserver-xorg-video-neomagic-lts-utopic
+ * !xserver-xorg-video-neomagic-lts-vivid
+ * !xserver-xorg-video-neomagic-lts-wily
  * !xserver-xorg-video-openchrome-lts-utopic
+ * !xserver-xorg-video-openchrome-lts-vivid
+ * !xserver-xorg-video-openchrome-lts-wily
  * !xserver-xorg-video-r128-lts-utopic
+ * !xserver-xorg-video-r128-lts-vivid
+ * !xserver-xorg-video-r128-lts-wily
  * !xserver-xorg-video-savage-lts-utopic
+ * !xserver-xorg-video-savage-lts-vivid
+ * !xserver-xorg-video-savage-lts-wily
  * !xserver-xorg-video-siliconmotion-lts-utopic
+ * !xserver-xorg-video-siliconmotion-lts-vivid
+ * !xserver-xorg-video-siliconmotion-lts-wily
  * !xserver-xorg-video-sisusb-lts-utopic
+ * !xserver-xorg-video-sisusb-lts-vivid
+ * !xserver-xorg-video-sisusb-lts-wily
  * !xserver-xorg-video-tdfx-lts-utopic
+ * !xserver-xorg-video-tdfx-lts-vivid
+ * !xserver-xorg-video-tdfx-lts-wily
  * !xserver-xorg-video-trident-lts-utopic
+ * !xserver-xorg-video-trident-lts-vivid
+ * !xserver-xorg-video-trident-lts-wily
  * !xserver-xorg-input-void-lts-utopic
+ * !xserver-xorg-input-void-lts-vivid
+ * !xserver-xorg-input-void-lts-wily
 
 = Installed on demand =
 
