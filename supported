@@ -222,6 +222,9 @@ Transitional packages for upgrading 14.04.[1-9] with LTS enablement stacks to
  * !xserver-xorg-input-joystick-lts-utopic
  * !xserver-xorg-input-joystick-lts-vivid
  * !xserver-xorg-input-joystick-lts-wily
+ * !xserver-xorg-input-joystick-dev-lts-utopic
+ * !xserver-xorg-input-joystick-dev-lts-vivid
+ * !xserver-xorg-input-joystick-dev-lts-wily
  * !xserver-xorg-input-mtrack-lts-utopic
  * !xserver-xorg-input-mtrack-lts-vivid
  * !xserver-xorg-input-mtrack-lts-wily
