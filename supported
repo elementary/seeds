@@ -231,6 +231,9 @@ Transitional packages for upgrading 14.04.[1-9] with LTS enablement stacks to
  * !libegl1-mesa-drivers-lts-utopic
  * !libegl1-mesa-drivers-lts-vivid
  * !libegl1-mesa-drivers-lts-wily
+ * !libegl1-mesa-drivers-lts-utopic-dbg
+ * !libegl1-mesa-drivers-lts-vivid-dbg
+ * !libegl1-mesa-drivers-lts-wily-dbg
  * !xorg-server-source-lts-utopic
  * !xorg-server-source-lts-vivid
  * !xorg-server-source-lts-wily
