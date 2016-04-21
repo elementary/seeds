@@ -230,6 +230,8 @@ Transitional packages for upgrading 14.04.[1-9] with LTS enablement stacks to
  * libgles2-mesa-lts-vivid-dbg
  * libgles2-mesa-lts-wily
  * libgles2-mesa-lts-wily-dbg
+ * libopenvg1-mesa-dev-lts-utopic
+ * libopenvg1-mesa-lts-utopic
  * libwayland-egl1-mesa-lts-utopic
  * libwayland-egl1-mesa-lts-utopic-dbg
  * libwayland-egl1-mesa-lts-vivid
@@ -352,6 +354,11 @@ Transitional packages for upgrading 14.04.[1-9] with LTS enablement stacks to
  * xserver-xorg-video-vmware-lts-utopic
  * xserver-xorg-video-vmware-lts-vivid
  * xserver-xorg-video-vmware-lts-wily
+
+ * Extra-Exclude: libegl1-mesa-drivers-lts-utopic-dbg
+ * Extra-Exclude: xserver-xorg-video-r128-lts-utopic-dbg
+ * Extra-Exclude: xserver-xorg-video-openchrome-lts-wily-dbg
+ * Extra-Exclude: xserver-xorg-video-mach64-lts-vivid-dbg
 
 = Installed on demand =
 
