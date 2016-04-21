@@ -357,8 +357,14 @@ Transitional packages for upgrading 14.04.[1-9] with LTS enablement stacks to
 
  * Extra-Exclude: libegl1-mesa-drivers-lts-utopic-dbg
  * Extra-Exclude: xserver-xorg-video-r128-lts-utopic-dbg
+ * Extra-Exclude: xserver-xorg-video-r128-lts-vivid-dbg
+ * Extra-Exclude: xserver-xorg-video-r128-lts-wily-dbg
+ * Extra-Exclude: xserver-xorg-video-openchrome-lts-utopic-dbg
+ * Extra-Exclude: xserver-xorg-video-openchrome-lts-vivid-dbg
  * Extra-Exclude: xserver-xorg-video-openchrome-lts-wily-dbg
+ * Extra-Exclude: xserver-xorg-video-mach64-lts-utopic-dbg
  * Extra-Exclude: xserver-xorg-video-mach64-lts-vivid-dbg
+ * Extra-Exclude: xserver-xorg-video-mach64-lts-wily-dbg
 
 = Installed on demand =
 
