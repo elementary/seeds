@@ -176,8 +176,6 @@ Transitional packages for upgrading 14.04.[1-9] with LTS enablement stacks to
  * libegl1-mesa-dev-lts-utopic
  * libegl1-mesa-dev-lts-vivid
  * libegl1-mesa-dev-lts-wily
- * libegl1-mesa-drivers-lts-utopic
- * libegl1-mesa-drivers-lts-utopic-dbg
  * libegl1-mesa-lts-utopic
  * libegl1-mesa-lts-utopic-dbg
  * libegl1-mesa-lts-vivid
@@ -232,9 +230,6 @@ Transitional packages for upgrading 14.04.[1-9] with LTS enablement stacks to
  * libgles2-mesa-lts-vivid-dbg
  * libgles2-mesa-lts-wily
  * libgles2-mesa-lts-wily-dbg
- * libopenvg1-mesa-dev-lts-utopic
- * libopenvg1-mesa-lts-utopic
- * libopenvg1-mesa-lts-utopic-dbg
  * libwayland-egl1-mesa-lts-utopic
  * libwayland-egl1-mesa-lts-utopic-dbg
  * libwayland-egl1-mesa-lts-vivid
@@ -280,6 +275,9 @@ Transitional packages for upgrading 14.04.[1-9] with LTS enablement stacks to
  * xserver-xorg-input-evdev-lts-vivid-dbg
  * xserver-xorg-input-evdev-lts-wily
  * xserver-xorg-input-evdev-lts-wily-dbg
+ * xserver-xorg-input-kbd-lts-utopic
+ * xserver-xorg-input-kbd-lts-vivid
+ * xserver-xorg-input-kbd-lts-wily
  * xserver-xorg-input-mouse-lts-utopic
  * xserver-xorg-input-mouse-lts-vivid
  * xserver-xorg-input-mouse-lts-wily
@@ -313,9 +311,6 @@ Transitional packages for upgrading 14.04.[1-9] with LTS enablement stacks to
  * xserver-xorg-video-ati-lts-vivid-dbg
  * xserver-xorg-video-ati-lts-wily
  * xserver-xorg-video-ati-lts-wily-dbg
- * xserver-xorg-video-cirrus-lts-utopic
- * xserver-xorg-video-cirrus-lts-vivid
- * xserver-xorg-video-cirrus-lts-wily
  * xserver-xorg-video-dummy-lts-utopic
  * xserver-xorg-video-dummy-lts-vivid
  * xserver-xorg-video-dummy-lts-wily
@@ -328,65 +323,29 @@ Transitional packages for upgrading 14.04.[1-9] with LTS enablement stacks to
  * xserver-xorg-video-intel-lts-vivid-dbg
  * xserver-xorg-video-intel-lts-wily
  * xserver-xorg-video-intel-lts-wily-dbg
- * xserver-xorg-video-mach64-lts-utopic
- * xserver-xorg-video-mach64-lts-utopic-dbg
- * xserver-xorg-video-mach64-lts-vivid
- * xserver-xorg-video-mach64-lts-vivid-dbg
- * xserver-xorg-video-mach64-lts-wily
- * xserver-xorg-video-mach64-lts-wily-dbg
- * xserver-xorg-video-mga-lts-utopic
- * xserver-xorg-video-mga-lts-vivid
- * xserver-xorg-video-mga-lts-wily
  * xserver-xorg-video-modesetting-lts-utopic
  * xserver-xorg-video-modesetting-lts-utopic-dbg
- * xserver-xorg-video-neomagic-lts-utopic
- * xserver-xorg-video-neomagic-lts-vivid
- * xserver-xorg-video-neomagic-lts-wily
  * xserver-xorg-video-nouveau-lts-utopic
  * xserver-xorg-video-nouveau-lts-utopic-dbg
  * xserver-xorg-video-nouveau-lts-vivid
  * xserver-xorg-video-nouveau-lts-vivid-dbg
  * xserver-xorg-video-nouveau-lts-wily
  * xserver-xorg-video-nouveau-lts-wily-dbg
- * xserver-xorg-video-openchrome-lts-utopic
- * xserver-xorg-video-openchrome-lts-utopic-dbg
- * xserver-xorg-video-openchrome-lts-vivid
- * xserver-xorg-video-openchrome-lts-vivid-dbg
- * xserver-xorg-video-openchrome-lts-wily
- * xserver-xorg-video-openchrome-lts-wily-dbg
  * xserver-xorg-video-qxl-lts-utopic
  * xserver-xorg-video-qxl-lts-utopic-dbg
  * xserver-xorg-video-qxl-lts-vivid
  * xserver-xorg-video-qxl-lts-vivid-dbg
  * xserver-xorg-video-qxl-lts-wily
  * xserver-xorg-video-qxl-lts-wily-dbg
- * xserver-xorg-video-r128-lts-utopic
- * xserver-xorg-video-r128-lts-utopic-dbg
- * xserver-xorg-video-r128-lts-vivid
- * xserver-xorg-video-r128-lts-vivid-dbg
- * xserver-xorg-video-r128-lts-wily
- * xserver-xorg-video-r128-lts-wily-dbg
  * xserver-xorg-video-radeon-lts-utopic
  * xserver-xorg-video-radeon-lts-utopic-dbg
  * xserver-xorg-video-radeon-lts-vivid
  * xserver-xorg-video-radeon-lts-vivid-dbg
  * xserver-xorg-video-radeon-lts-wily
  * xserver-xorg-video-radeon-lts-wily-dbg
- * xserver-xorg-video-savage-lts-utopic
- * xserver-xorg-video-savage-lts-vivid
- * xserver-xorg-video-savage-lts-wily
- * xserver-xorg-video-siliconmotion-lts-utopic
- * xserver-xorg-video-siliconmotion-lts-vivid
- * xserver-xorg-video-siliconmotion-lts-wily
- * xserver-xorg-video-sisusb-lts-utopic
- * xserver-xorg-video-sisusb-lts-vivid
- * xserver-xorg-video-sisusb-lts-wily
- * xserver-xorg-video-tdfx-lts-utopic
- * xserver-xorg-video-tdfx-lts-vivid
- * xserver-xorg-video-tdfx-lts-wily
- * xserver-xorg-video-trident-lts-utopic
- * xserver-xorg-video-trident-lts-vivid
- * xserver-xorg-video-trident-lts-wily
+ * xserver-xorg-video-s3-lts-utopic
+ * xserver-xorg-video-s3-lts-vivid
+ * xserver-xorg-video-s3-lts-wily
  * xserver-xorg-video-vesa-lts-utopic
  * xserver-xorg-video-vesa-lts-vivid
  * xserver-xorg-video-vesa-lts-wily
