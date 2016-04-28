@@ -15,6 +15,7 @@ This seed lists the packages we want to install by default in the new server ins
  * curl
  * git # LP: 1394756
  * patch
+ * pollinate			# Seed the PRNG
  * screen
  * software-properties-common # LP: #439566
  * tmux				# Share/detach sessions
