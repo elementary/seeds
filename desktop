@@ -115,6 +115,7 @@ OS-only stuff:
  * (capnet-assist)
  * (elementary-default-settings)
  * (gnome-session-bin)       # starts up cerbere according to default-settings
+ * (xserver-xorg-input-libinput)
 # Package does not (yet?) exist for dist:
 # * (elementary-os-beta-transition) # converts Daily PPA to Stable if it's installed
 
