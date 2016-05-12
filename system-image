@@ -29,9 +29,7 @@ Task-Metapackage: ubuntu-core
  * libnss-extrausers
  * wpasupplicant
  * rsyslog
- * ubuntu-core-security-apparmor
- * ubuntu-core-security-seccomp
- * ubuntu-core-security-utils
+ * seccomp # for scmp_sys_resolver
  * python3-libapparmor # snappy-debug.security needs matching userspace
  * isc-dhcp-client
  * resolvconf
