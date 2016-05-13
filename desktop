@@ -67,7 +67,6 @@ Input methods:
  * (switchboard-plug-online-accounts)
  * (switchboard-plug-power)
  * (switchboard-plug-pantheon-shell)
- * (switchboard-plug-parental-controls)
  * (switchboard-plug-printers)
  * (switchboard-plug-sharing)
  * (switchboard-plug-security-privacy)
