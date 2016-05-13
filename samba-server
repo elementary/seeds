@@ -4,7 +4,7 @@ Task-Extended-Description: This task sets up your system to be a Samba file serv
 Task-Extended-Description: especially suitable in networks with both Windows and Linux systems.
 Task-Key: samba
 
- * libpam-smbpass
+ * libpam-winbind
  * samba
  * samba-doc
  * smbclient
