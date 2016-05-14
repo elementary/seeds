@@ -8,5 +8,6 @@ Task-Key: ubuntu-virt-server
  * qemu-system-x86 [i386 amd64]
  * qemu-system-ppc [powerpc ppc64el]
  * qemu-system-aarch64 [arm64]
+ * qemu-system-s390x [s390x]
  * libvirt-bin
  * openssh-server
