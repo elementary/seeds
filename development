@@ -59,7 +59,6 @@ Python 3 libraries with sources already in main
  * python3-webtest
  * python3-tornado
  * python3-alembic
- * python3-billiard
  * python3-changelog
  * python3-dogpile.core
  * python3-kajiki
