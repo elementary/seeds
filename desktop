@@ -88,6 +88,7 @@ Wingpanel and indicators:
  * (wingpanel)
  * (wingpanel-indicator-bluetooth)
  * (wingpanel-indicator-datetime)
+ * (wingpanel-indicator-keyboard)
  * (wingpanel-indicator-network)
  * (wingpanel-indicator-notifications)
  * (wingpanel-indicator-power)
