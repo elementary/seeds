@@ -14,6 +14,7 @@ Task-Metapackage: ubuntu-core
  * openssh-server
  * xz-utils
  * iptables
+ * init
  * initramfs-tools-ubuntu-core
  * grub-pc [i386]
  * grub-efi-ia32-bin [i386]
