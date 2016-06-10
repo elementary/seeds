@@ -8,8 +8,8 @@ Task-Metapackage: pantheon
 # apps shipped by default, in alphabetical order:
  * (appcenter)
  * (audience)
+ * (epiphany-browser)
  * (maya-calendar)
- * (midori-granite)
  * (noise)
  * (pantheon-calculator)
  * (pantheon-files)
