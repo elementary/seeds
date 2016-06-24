@@ -43,8 +43,6 @@ restricted modules.
 = From Ship =
 
  * ssh
- * lsb-core
- * lsb-cxx
  * ntp
  * bsd-mailx
  * mutt
