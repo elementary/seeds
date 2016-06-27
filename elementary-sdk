@@ -8,6 +8,7 @@ Task-Metapackage: elementary-sdk
  * build-essential
  * bzr
  * cmake # http://elementaryos.org/docs/code/the-build-system
+ * (cmake-elementary)
  * devscripts # packaging tools
  * dconf-editor # browse gsettings
  * gobject-introspection
