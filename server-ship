@@ -54,7 +54,6 @@ restricted modules.
 
 = Cluster =
 
- * redhat-cluster-suite
  * ocfs2-tools
  * libaio1
  * libaio-dev
