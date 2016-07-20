@@ -5,6 +5,7 @@ Task-Extended-Description: especially suitable in networks with both Windows and
 Task-Key: samba
 
  * libpam-winbind
+ * libnss-winbind
  * samba
  * samba-doc
  * smbclient
