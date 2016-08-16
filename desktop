@@ -112,7 +112,6 @@ We use many GNOME applications as part of our desktop user interface. Rather tha
 
 Software center
  * (ubuntu-software)
- * (python3-aptdaemon.pkcompat) # needed to keep packagekit off the images
 
 = Key management and signing =
 
