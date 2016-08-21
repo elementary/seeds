@@ -108,6 +108,7 @@ marco # mate window manager
 plymouth-theme-ubuntu-text
 ubuntu-mono # icon theme
 gnome-user-share
+yelp
 
 # update-manager stuff
 update-manager
