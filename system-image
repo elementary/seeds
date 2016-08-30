@@ -41,7 +41,6 @@ Task-Metapackage: ubuntu-core
  * fwupdate
  * fwupdate-signed
  * ppp
- * watchdog
  * gdisk
  * libnss-myhostname
  * crda
