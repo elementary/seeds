@@ -109,6 +109,8 @@ plymouth-theme-ubuntu-text
 ubuntu-mono # icon theme
 gnome-user-share
 yelp
+# fcitx-frontend-gtk3 causes input issues with misc elementary apps
+fcitx-frontend-gtk3
 
 # update-manager stuff
 update-manager
