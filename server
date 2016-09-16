@@ -58,7 +58,6 @@ This seed lists the packages we want to install by default in the new server ins
  * fonts-ubuntu-font-family-console	# Part of the Ubuntu server experience
  * grub-legacy-ec2 [!s390x]	# TODO: Investigate
  * (lxd)					# Every Ubuntu server can host 100x containers
- * (zfs)					# LXD strongly recommends ZFS
  * open-vm-tools			# Only needed for Ubuntu as VMware guests
  * ubuntu-cloudimage-keyring              # securely download data from cloud-images.ubuntu.com
  * (snapd)
