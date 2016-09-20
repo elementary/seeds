@@ -11,6 +11,7 @@ Task-Metapackage: elementary-sdk
  * (cmake-elementary)
  * devscripts # packaging tools
  * dconf-editor # browse gsettings
+ * git
  * gobject-introspection
  * gtk-3-examples # gtk3-icon-browser
  * libgala-dev
