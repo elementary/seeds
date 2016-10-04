@@ -56,7 +56,7 @@ We use many GNOME applications as part of our desktop user interface. Rather tha
  * (thunderbird-gnome-support)
  * (file-roller)
  * (gnome-calculator)
- * lightdm
+ * lightdm [!s390x]
  * (gedit)
  * (app-install-data-partner)
  * (transmission-gtk)
