@@ -1,4 +1,4 @@
-include platform.yakkety
+include platform.zesty
 desktop: desktop-common
 dns-server: standard
 lamp-server: standard
