@@ -197,7 +197,7 @@ Utilities:
 
  * nmap                   # network diagnostics
  * dnstracer              # dns network diagnostics
- * iptraf                 # sysadmin's toy, may be a candidate for removal
+ * iptraf-ng              # sysadmin's toy, may be a candidate for removal
  * pptpd                  # server that allows setup of Microsoft-compatible VPN
  * ifenslave              # interface bonding/trunking/etherchannel
  * strongswan-starter     # IPsec configuration
