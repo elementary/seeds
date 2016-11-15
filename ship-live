@@ -18,7 +18,6 @@ packages.
 
 == Installer ==
 
- * grub # needed for dmraid et al
  * grub-efi [amd64]
  * grub-efi-amd64-signed [amd64]
  * shim-signed [amd64]
