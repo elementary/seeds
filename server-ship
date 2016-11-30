@@ -190,7 +190,6 @@ RCS:
 
 Utilities:
 
- * pm-utils
  * pciutils		  # kirkland added at the request of onsite hardware enablement (manjo)
 
 = Network =
