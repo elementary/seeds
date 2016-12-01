@@ -73,7 +73,7 @@ We use many GNOME applications as part of our desktop user interface. Rather tha
  * unity-settings-daemon
  * unity-control-center
  * gnome-menus
- * (system-config-printer-gnome)
+ * (system-config-printer)
  * ubuntu-session
  * (gnome-system-monitor)
  * (gnome-power-manager)
