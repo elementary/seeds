@@ -57,6 +57,7 @@ Input methods:
  * (switchboard-plug-about)
  * (switchboard-plug-a11y)
  * (switchboard-plug-applications)
+ * (switchboard-plug-bluetooth)
  * (switchboard-plug-datetime)
  * (switchboard-plug-display)
  * (switchboard-plug-keyboard)
@@ -73,7 +74,6 @@ Input methods:
  * (switchboard-plug-security-privacy)
  * (switchboard-plug-users)
 # Plugs inherited from GNOME Control Center
- * (switchboard-plug-gcc-bluetooth)
  * (switchboard-plug-gcc-color)
  * (switchboard-plug-gcc-sound)
  * (switchboard-plug-gcc-wacom)
