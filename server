@@ -14,6 +14,7 @@ This seed lists the packages we want to install by default in the new server ins
  * byobu
  * curl
  * git # LP: 1394756
+ * net-tools
  * patch
  * pollinate			# Seed the PRNG
  * screen
