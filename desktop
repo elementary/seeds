@@ -84,7 +84,7 @@ We use many GNOME applications as part of our desktop user interface. Rather tha
  * (gnome-font-viewer)
  * (gucharmap)
 # XXX: ask QA if we need this in the desktop install or just live
- * checkbox-gui
+ * checkbox-converged
  * language-selector-gnome
  * (firefox)
  * (xul-ext-ubufox)
