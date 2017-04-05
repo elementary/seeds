@@ -434,6 +434,7 @@ included due to matching Extra-Include patterns, and has no other effect):
  * Extra-Exclude: tracker-dbg
  * Extra-Exclude: libfftw3-mpi-dev
  * Extra-Exclude: imagemagick-6-doc # LP: #1667150
+ * Extra-Exclude: imagemagick-doc   # See above
 
 Transitional packages:
 
