@@ -71,7 +71,7 @@ We use many GNOME applications as part of our desktop user interface. Rather tha
  * (app-install-data-partner)
  * (transmission-gtk)
  * unity-settings-daemon
- * unity-control-center
+ * unity-control-center [!s390x]
  * gnome-menus
  * (system-config-printer)
  * ubuntu-session
