@@ -478,3 +478,4 @@ Temporary workarounds:
  * nvidia-prime
  * fglrx-pxpress
  * ipxe
+ * w3m # The One True console web browser, needed to keep doc packages in main
