@@ -1,4 +1,4 @@
-include platform.zesty
+include platform.artful
 desktop: desktop-common
 dns-server: standard
 lamp-server: standard
