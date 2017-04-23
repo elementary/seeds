@@ -165,11 +165,6 @@ Input methods installed on demand by language-selector:
  * ibus-table-wubi
  * ibus-unikey
 
-Transitional packages:
-
- * upstart-bin			# Needed in main until after 15.04 ships
- * upstart-sysv			# Keep in main until 16.04
-
 Transitional packages for upgrading 14.04.[1-9] with LTS enablement stacks to
 16.04 (remove them entirely in 16.10):
  * libegl1-mesa-dev-lts-utopic

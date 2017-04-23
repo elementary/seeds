@@ -187,9 +187,6 @@ Accessibility tools:
  * (a11y-profile-manager-indicator)
  * (unity-accessibility-profiles)
 
-Non-default preview of the new version of the Unity desktop environment
- * (unity8-desktop-session) [!s390x]
-
 libqt4-sql recommends libqt4-sql-mysql | ...; lets pull in the smallest
 alternative to avoid pulling in the large MySQL bits
  * (libqt4-sql-sqlite)
