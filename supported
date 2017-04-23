@@ -475,3 +475,4 @@ Temporary workarounds:
  * ipxe
  * w3m # The One True console web browser, needed to keep doc packages in main
  * curtin # subiquity needs it; python3-curtin already seeded via maas.
+ * network-manager-openvpn # used by Canonical employees to access our VPN
