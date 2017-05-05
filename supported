@@ -370,8 +370,6 @@ Transitional packages for upgrading 14.04.[1-9] with LTS enablement stacks to
  * python3-libapparmor
  * libseccomp-dev    # promote its use, LP: #1082431
  * auditd
- * click             # temporary, until touch packages are all in main
- * click-dev
 
 = Rescued from Extra =
 
