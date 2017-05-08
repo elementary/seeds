@@ -464,6 +464,10 @@ Temporary workarounds:
  * duplicity
  * python-gi
 
+= Kiosk =
+
+ * miral # xnox|alan_g reseed back into main, needed for kiosk
+
 = Other =
 
  * miscfiles
