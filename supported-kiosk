@@ -1,9 +1,9 @@
 This seed exists to keep some items that may be required for the mir
-kiosk / sinage project
+kiosk / signage project
 
 = Kiosk =
 
- * content-hub # alag-griffiths, saviq copy&paste support
+ * content-hub # alan-griffiths, saviq copy&paste support
  * miral
  * qtmir
  * qtmir-gles
