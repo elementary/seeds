@@ -3,9 +3,9 @@ kiosk / signage project
 
 = Kiosk =
 
- * content-hub # alan-griffiths, saviq copy&paste support
- * miral
- * qtmir
- * qtmir-gles
- * qtubuntu
- * qtubuntu-gles
+ * content-hub      # alan-griffiths, saviq copy&paste support
+ * libmiral-dev     # miral
+ * qtmir-desktop    # qtmir
+ * qtmir-android    # qtmir-gles    
+ * qtubuntu-desktop # qtubuntu
+ * qtubuntu-android # qtubuntu-gles
