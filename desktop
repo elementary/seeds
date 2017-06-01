@@ -46,9 +46,8 @@ Input methods:
  * (ibus-table)
 
 Desktop Experience:
- * unity [!s390x]
+ * gnome-shell
  * unity-greeter [!s390x]
- * notify-osd
  * (sni-qt)
  * (activity-log-manager)
  * (zeitgeist-core)
@@ -69,8 +68,8 @@ We use many GNOME applications as part of our desktop user interface. Rather tha
  * (gedit)
  * (app-install-data-partner)
  * (transmission-gtk)
- * unity-settings-daemon
- * unity-control-center [!s390x]
+ * gnome-settings-daemon
+ * gnome-control-center
  * gnome-menus
  * (system-config-printer)
  * ubuntu-session
@@ -156,7 +155,6 @@ Themes: we will ship only the very best looking themes. We won't ship everything
  * ubuntu-sounds
  * gnome-session-canberra   # Needed to make login/logout sounds audible.
  * dmz-cursor-theme
- * (overlay-scrollbar-gtk2)
 
 Boot theme
 
