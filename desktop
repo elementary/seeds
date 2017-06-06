@@ -46,7 +46,6 @@ Input methods:
  * (ibus-table)
 
 Desktop Experience:
- * unity [!s390x]
  * gnome-shell
  * unity-greeter [!s390x]
  * (sni-qt)
@@ -69,8 +68,6 @@ We use many GNOME applications as part of our desktop user interface. Rather tha
  * (gedit)
  * (app-install-data-partner)
  * (transmission-gtk)
- * unity-settings-daemon
- * unity-control-center [!s390x]
  * gnome-settings-daemon
  * gnome-control-center
  * gnome-menus
