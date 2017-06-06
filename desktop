@@ -163,6 +163,10 @@ Boot theme
 Settings: we have some settings overrides by default in an unique package.
  * ubuntu-settings
 
+Custom launchers to be displayed on the Dash by default
+
+ * (ubuntu-web-launchers)
+
 The gstreamer1.0 packages we want to install:
 
  * gstreamer1.0-alsa
