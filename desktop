@@ -47,6 +47,7 @@ Input methods:
 
 Desktop Experience:
  * gnome-shell
+ * ubuntu-session
  * unity-greeter [!s390x]
  * (sni-qt)
  * (activity-log-manager)
