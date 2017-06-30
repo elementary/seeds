@@ -1,7 +1,4 @@
-Task-Section: server
-Task-Description: Virtual Machine host
-Task-Extended-Description: Packages necessary to host virtual machines
-Task-Key: ubuntu-virt-server
+# No more available as task, but still used as reference in STRUCTURES
 
  * qemu-system-x86 [i386 amd64]
  * qemu-system-ppc [powerpc ppc64el]
