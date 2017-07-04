@@ -49,10 +49,6 @@ Desktop Experience:
  * gnome-shell
  * ubuntu-session
  * unity-greeter [!s390x]
- * (sni-qt)
- * (activity-log-manager)
- * (zeitgeist-core)
- * (zeitgeist-datahub)
 
 = Desktop apps =
 
@@ -186,8 +182,6 @@ Accessibility tools:
  * libatk-adaptor
  * (libgail-common)
  * (qt-at-spi)
- * (a11y-profile-manager-indicator)
- * (unity-accessibility-profiles)
 
 libqt4-sql recommends libqt4-sql-mysql | ...; lets pull in the smallest
 alternative to avoid pulling in the large MySQL bits
