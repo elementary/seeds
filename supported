@@ -24,16 +24,11 @@ language-selector:
  * mozvoikko
  * tmispell-voikko
  * /^hyphen-..$/
- * hyphen-en-ca
- * hyphen-en-gb
- * hyphen-en-us
+ * /^hyphen-en-..$/
  * /^mythes-/
  * /^hunspell-[^-]*$/
  * /^hunspell-de-..-frami/
- * /^hunspell-en-..$/
- * hunspell-gl-es
- * hunspell-pt-br
- * hunspell-pt-pt
+ * /^hunspell-..-..$/
 
 myspell packages containing the hunspell dictionaries:
 
