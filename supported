@@ -37,24 +37,8 @@ language-selector:
 
 myspell packages containing the hunspell dictionaries:
 
- * myspell-eo
- * myspell-et
- * myspell-fa
- * myspell-fo
- * myspell-ga
- * myspell-gv
- * myspell-hy
- * myspell-ku
- * myspell-lv
- * myspell-nr
- * myspell-ns
- * myspell-ss
- * myspell-st
- * myspell-tn
- * myspell-ts
- * myspell-ve
- * myspell-xh
- * myspell-zu
+ * Languages: eo et fa fo ga gv hy ku lv nr ns ss st tn ts ve xh zu
+ * myspell-${Languages}
 
 Other dictionaries, word lists, and thesauri:
 
@@ -97,6 +81,7 @@ Fonts installed on demand by language-selector:
  * fonts-farsiweb
  * fonts-gujr
  * fonts-guru
+ * fonts-indic
  * fonts-kacst
  * fonts-khmeros
  * fonts-knda

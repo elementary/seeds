@@ -26,16 +26,14 @@ default live.
 
 # Dictionaries for LibreOffice
 ## hyphenation and thesaurus
- * Languages: en-us de fr it ru
+ * Languages: en-us de fr it pt-pt ru
  * hyphen-${Languages}
  * hyphen-en-ca
  * hyphen-en-gb
  * hyphen-pt-br
- * hyphen-pt-pt
  * mythes-${Languages}
  * mythes-en-au
  * mythes-de-ch
- * mythes-pt-pt
 
 ## hunspell dict
  * Languages: en-au en-ca en-gb en-us en-za es fr it pt-br pt-pt ru
