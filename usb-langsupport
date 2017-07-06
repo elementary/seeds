@@ -1,7 +1,12 @@
 = Language support for en =
  * firefox-locale-en
+ * hunspell-en-au
  * hunspell-en-ca
+ * hunspell-en-gb
  * hunspell-en-us
+ * hunspell-en-za
+ * hyphen-en-ca
+ * hyphen-en-gb
  * hyphen-en-us
  * language-pack-en
  * language-pack-gnome-en
@@ -9,12 +14,8 @@
  * libreoffice-help-en-us
  * libreoffice-l10n-en-gb
  * libreoffice-l10n-en-za
- * myspell-en-au
- * myspell-en-gb
- * myspell-en-za
  * mythes-en-au
  * mythes-en-us
- * openoffice.org-hyphenation
  * thunderbird-locale-en
  * thunderbird-locale-en-gb
  * thunderbird-locale-en-us
@@ -23,33 +24,42 @@
 
 = Language support for es =
  * firefox-locale-es
+ * gnome-getting-started-docs-es
+ * gnome-user-docs-es
+ * hunspell-es
+ * hyphen-es
  * language-pack-es
  * language-pack-gnome-es
  * libreoffice-help-es
  * libreoffice-l10n-es
- * myspell-es
- * openoffice.org-hyphenation
+ * mythes-es
  * thunderbird-locale-es
  * thunderbird-locale-es-ar
  * thunderbird-locale-es-es
  * wspanish
 
-= Language support for xh =
- * language-pack-gnome-xh
- * language-pack-xh
- * libreoffice-l10n-xh
- * myspell-xh
+= Language support for zh =
+ * gnome-user-docs-zh-hans
+ * language-pack-gnome-zh-hans
+ * language-pack-zh-hans
+ * libreoffice-help-zh-cn
+ * libreoffice-l10n-zh-cn
 
 = Language support for pt =
  * firefox-locale-pt
+ * gnome-getting-started-docs-pt
+ * gnome-user-docs-pt
+ * hunspell-pt-br
+ * hunspell-pt-pt
+ * hyphen-pt-br
+ * hyphen-pt-pt
  * language-pack-gnome-pt
  * language-pack-pt
  * libreoffice-help-pt
  * libreoffice-help-pt-br
  * libreoffice-l10n-pt
  * libreoffice-l10n-pt-br
- * myspell-pt
- * openoffice.org-hyphenation
+ * mythes-pt-pt
  * thunderbird-locale-pt
  * thunderbird-locale-pt-br
  * thunderbird-locale-pt-pt
@@ -58,9 +68,11 @@
 
 = Language support for de =
  * firefox-locale-de
- * hunspell-de-at
- * hunspell-de-ch
- * hunspell-de-de
+ * gnome-getting-started-docs-de
+ * gnome-user-docs-de
+ * hunspell-de-at-frami
+ * hunspell-de-ch-frami
+ * hunspell-de-de-frami
  * hyphen-de
  * language-pack-de
  * language-pack-gnome-de
@@ -75,6 +87,8 @@
 
 = Language support for fr =
  * firefox-locale-fr
+ * gnome-getting-started-docs-fr
+ * gnome-user-docs-fr
  * hunspell-fr
  * hyphen-fr
  * language-pack-fr
