@@ -265,7 +265,7 @@ Security:
 
  * checkbox-ng # roadmr
  * apport # MathiasGug
- * kerneloops-daemon # JamesWestby
+ * kerneloops # JamesWestby
  * intel-microcode # needed to update Intel cpu microcode LP #1386257
  * memtest86+
 
