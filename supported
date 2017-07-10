@@ -12,8 +12,9 @@ them as appropriate.
  * /^libreoffice-l10n-/
  * /^thunderbird-locale-/
  * /^firefox-locale-/
+ * /^gnome-user-docs-/
+ * /^gnome-getting-started-docs-/
  * poppler-data
- * ibus-sunpinyin
 
 The following input aids are also installed on demand by
 language-selector:
@@ -22,62 +23,17 @@ language-selector:
  * libreoffice-voikko
  * mozvoikko
  * tmispell-voikko
- * openoffice.org-hyphenation
  * /^hyphen-..$/
- * hyphen-en-us
+ * /^hyphen-en-..$/
  * /^mythes-/
  * /^hunspell-[^-]*$/
- * hunspell-eu-es
- * hunspell-sv-se
- * hunspell-gl-es
- * hunspell-br
+ * /^hunspell-de-..-frami/
+ * /^hunspell-..-..$/
 
 myspell packages containing the hunspell dictionaries:
 
- * myspell-af
- * myspell-bg
- * myspell-ca
- * myspell-cs
- * myspell-el-gr
- * myspell-en-au
- * myspell-en-gb
- * myspell-en-us
- * myspell-en-za
- * myspell-eo
- * myspell-es
- * myspell-et
- * myspell-fa
- * myspell-fo
- * myspell-ga
- * myspell-gd
- * myspell-gv
- * myspell-he
- * myspell-hr
- * myspell-hy
- * myspell-it
- * myspell-ku
- * myspell-lt
- * myspell-lv
- * myspell-nb
- * myspell-nl
- * myspell-nn
- * myspell-nr
- * myspell-ns
- * myspell-pl
- * myspell-pt
- * myspell-sk
- * myspell-sl
- * myspell-ss
- * myspell-st
- * hunspell-sv-se
- * myspell-sw
- * myspell-th
- * myspell-tn
- * myspell-ts
- * myspell-uk
- * myspell-ve
- * myspell-xh
- * myspell-zu
+ * Languages: eo et fa fo ga gv hy ku lv nr ns ss st tn ts ve xh zu
+ * myspell-${Languages}
 
 Other dictionaries, word lists, and thesauri:
 
@@ -87,20 +43,6 @@ Other dictionaries, word lists, and thesauri:
  * dict-moby-thesaurus
  * dict-vera
  * dictd
- * mythes-ca
- * mythes-cs
- * mythes-de
- * mythes-de-ch
- * mythes-en-au
- * mythes-en-us
- * mythes-fr
- * mythes-hu
- * mythes-it
- * mythes-ne
- * mythes-pl
- * mythes-ro
- * mythes-ru
- * mythes-sk
  * wamerican
  * wbrazilian
  * wbritish
@@ -126,20 +68,27 @@ Other dictionaries, word lists, and thesauri:
 
 Fonts installed on demand by language-selector:
 
- * fonts-alee
  * fonts-arabeyes
  * fonts-arphic-ukai
  * fonts-arphic-uming
+ * fonts-beng
+ * fonts-deva
  * fonts-farsiweb
+ * fonts-gujr
+ * fonts-guru
  * fonts-indic
  * fonts-kacst
  * fonts-khmeros
+ * fonts-knda
  * fonts-lao
+ * fonts-lklug-sinhala
  * fonts-manchufont
+ * fonts-mlym
  * fonts-nafees
  * fonts-nanum
  * fonts-nanum-coding
- * fonts-nanum-extra
+ * fonts-noto-cjk
+ * fonts-orya
  * fonts-sil-abyssinica
  * fonts-sil-ezra
  * fonts-sil-nuosusil
@@ -147,21 +96,23 @@ Fonts installed on demand by language-selector:
  * fonts-sil-scheherazade
  * fonts-takao-gothic
  * fonts-takao-mincho
- * fonts-thai-tlwg
+ * fonts-taml
+ * fonts-telu
  * fonts-tibetan-machine
+ * fonts-thai-tlwg
  * fonts-ukij-uyghur
  * fonts-unfonts-core
- * fonts-wqy-zenhei
 
 Input methods installed on demand by language-selector:
 
  * gtk-im-libthai
- * ibus-anthy
  * ibus-chewing
  * ibus-hangul
  * ibus-m17n
+ * ibus-mozc
  * ibus-sunpinyin
  * ibus-table-cangjie
+ * ibus-table-quick-classic
  * ibus-table-wubi
  * ibus-unikey
 

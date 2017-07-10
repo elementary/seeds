@@ -26,20 +26,22 @@ default live.
 
 # Dictionaries for LibreOffice
 ## hyphenation and thesaurus
- * Languages: en-us de fr it ru
+ * Languages: en-us de fr it pt-pt ru
  * hyphen-${Languages}
+ * hyphen-en-ca
+ * hyphen-en-gb
+ * hyphen-pt-br
  * mythes-${Languages}
  * mythes-en-au
  * mythes-de-ch
 
 ## hunspell dict
- * Languages: en-ca en-us de-at de-ch de-de fr ru
+ * Languages: en-au en-ca en-gb en-us en-za es fr it pt-br pt-pt ru
  * hunspell-${Languages}
 
-## myspell dict
-(for languages which don't provide a hunspell dictionary yet)
- * Languages: en-au en-gb en-za es pt it
- * myspell-${Languages}
+## hunspell german frami variant dict (more complete)
+ * Languages: de-at de-ch de-de
+ * hunspell-${Languages}-frami
 
 # Other Dictionaries
  * Languages: american british spanish portuguese brazilian ngerman ogerman swiss french italian
@@ -52,7 +54,6 @@ default live.
  * libreoffice-help-${Languages}
  * libreoffice-l10n-en-za
  * libreoffice-help-en-us
- * openoffice.org-hyphenation
 
 ## Firefox
  * Languages: en es zh-hans pt de fr it ru
@@ -61,6 +62,12 @@ default live.
 ## Thunderbird
  * Languages: en en-gb en-us es es-ar es-es zh-cn zh-hans zh-tw pt pt-br pt-pt de fr it ru
  * thunderbird-locale-${Languages}
+
+## GNOME Help
+ * Languages: de es fr it pt ru
+ * gnome-getting-started-docs-${Languages}
+ * gnome-user-docs-${Languages}
+ * gnome-user-docs-zh-hans
 
 == Input methods ==
  * fcitx
