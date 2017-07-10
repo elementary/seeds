@@ -8,9 +8,8 @@ samba-server: standard
 postgresql-server: standard
 mail-server: standard
 tomcat-server: standard
-virt-host: standard
 server: standard
-server-ship: boot installer dns-server lamp-server openssh-server print-server samba-server postgresql-server mail-server server tomcat-server virt-host d-i-requirements
+server-ship: boot installer dns-server lamp-server openssh-server print-server samba-server postgresql-server mail-server server tomcat-server d-i-requirements
 cloud-image: standard
 ship: boot installer desktop d-i-requirements
 live: desktop live-common
