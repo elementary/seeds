@@ -109,10 +109,8 @@ Input methods installed on demand by language-selector:
  * ibus-chewing
  * ibus-hangul
  * ibus-m17n
- * ibus-mozc
  * ibus-sunpinyin
  * ibus-table-cangjie
- * ibus-table-quick-classic
  * ibus-table-wubi
  * ibus-unikey
 
