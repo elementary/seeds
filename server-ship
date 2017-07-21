@@ -175,13 +175,11 @@ Other:
  * zip #ChuckShort - server-lucid-seeds
  * tdb-tools #ChuckShort - server-lucid-seeds
  * acl #ChuckShort - server-lucid-seeds
- * powernap-server
  * maas
  * maas-region-udeb
  * maas-rack-udeb
  * maas-enlist
  * maas-enlist-udeb
- * powernap
  * open-vm-tools #utlemming
 
 RCS:
