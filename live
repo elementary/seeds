@@ -24,17 +24,6 @@ default live.
  * language-pack-${Languages}
  * language-pack-gnome-${Languages}
 
-# Dictionaries for LibreOffice
-## hyphenation and thesaurus
- * Languages: en-us de fr it pt-pt ru
- * hyphen-${Languages}
- * hyphen-en-ca
- * hyphen-en-gb
- * hyphen-pt-br
- * mythes-${Languages}
- * mythes-en-au
- * mythes-de-ch
-
 ## hunspell dict
  * Languages: en-au en-ca en-gb en-us en-za es fr it pt-br pt-pt ru
  * hunspell-${Languages}

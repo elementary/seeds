@@ -39,10 +39,7 @@
  * language-pack-gnome-${Languages} [i386 amd64 amd64+mac]
 
 # subset of English language support which we want by default:
- * firefox-locale-en
- * libreoffice-help-en-us [i386 amd64 amd64+mac]
  * hunspell-en-us
- * hyphen-en-gb
 
 == Installer ==
 
