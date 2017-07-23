@@ -1,8 +1,8 @@
 Task-Per-Derivative: 1
 Task-Section: user
-Task-Description: Ubuntu desktop
-Task-Extended-Description: This task provides the Ubuntu desktop environment.
-Task-Key: ubuntu-desktop
+Task-Description: elementary desktop
+Task-Extended-Description: This task provides the elementary OS desktop environment.
+Task-Key: elementary-desktop
 Task-Seeds: desktop-common
 
 = Hardware and Architecture Support =
@@ -23,9 +23,6 @@ Basic network services, VPN and Windows integration.
  * (network-manager-pptp-gnome)
  * (libproxy1-plugin-gsettings)
  * (libproxy1-plugin-networkmanager)
- * (ppp)      # ppp utilities useful to be on a CD when someone needs them
- * (pppconfig)
- * (pppoeconf)
 
 = GUI infrastructure =
 
@@ -40,53 +37,96 @@ Input methods:
  * (ibus-table)
 
 Desktop Experience:
- * gnome-shell
- * ubuntu-session
- * gnome-shell-extension-ubuntu-dock
- * gnome-shell-extension-appindicator
- * (thunderbird-gnome-support)
- * (gir1.2-gmenu-3.0) # LP: #1726093
- * (gnome-initial-setup)
- * (ubuntu-report)
+ * elementary-artwork
+ * pantheon
+ * (pantheon-greeter)
+
+System-wide distro-specific artwork:
+ * (plymouth-theme-elementary)
+ * (plymouth-theme-elementary-text)
+ * (elementary-printer-test-page)
+
+Switchboard and plugs:
+ * (switchboard)
+ * (switchboard-plug-about)
+ * (switchboard-plug-a11y)
+ * (switchboard-plug-applications)
+ * (switchboard-plug-bluetooth)
+ * (switchboard-plug-datetime)
+ * (switchboard-plug-display)
+ * (switchboard-plug-keyboard)
+ * (switchboard-plug-locale)
+ * (switchboard-plug-mouse-touchpad)
+ * (switchboard-plug-networking)
+ * (switchboard-plug-notifications)
+ * (switchboard-plug-online-accounts)
+ * (switchboard-plug-power)
+ * (switchboard-plug-pantheon-shell)
+ * (switchboard-plug-parental-controls)
+ * (switchboard-plug-printers)
+ * (switchboard-plug-sharing)
+ * (switchboard-plug-security-privacy)
+ * (switchboard-plug-sound)
+ * (switchboard-plug-users)
+ * (switchboard-gnome-control-center-override)
+
+UI and branding fonts for elementary:
+ * (fonts-elementary-core)
+
+Wingpanel and indicators:
+ * (wingpanel)
+ * (wingpanel-indicator-bluetooth)
+ * (wingpanel-indicator-datetime)
+ * (wingpanel-indicator-keyboard)
+ * (wingpanel-indicator-network)
+ * (wingpanel-indicator-notifications)
+ * (wingpanel-indicator-power)
+ * (wingpanel-indicator-session)
+ * (wingpanel-indicator-sound)
+
+Location Support:
+ * (geoclue-localnet)
+# * (geoclue-plazes) # crashes every day
+ * (geoclue-yahoo)
+ * (geoclue-ubuntu-geoip)
+ * (geoclue-skyhook)
+GSM:
+ * (geoclue-gsmloc)
+Street Names:
+ * (geoclue-nominatim)
+ * (geoclue-geonames)
+
+OS-only stuff:
+ * (capnet-assist)
+ * (elementary-default-settings)
+ * (gnome-session-bin)       # starts up cerbere according to default-settings
+ * (pantheon-agent-polkit)
+ * (user-specific-alternatives)  # wrapper to launch user-preferred apps for binaries like x-www-browser
+ * (elementary-dpms-helper)
+ * (light-locker)
+ * (p7zip-full)            # elementary: supports a crazy number of formats
+
+Pantheon Online Accounts:
+ * (evolution-data-server-google2)
+ * (evolution-data-server-outlook)
+ * (evolution-data-server-pantheon-online-accounts)
+ * (gsignond)
+ * (gsignond-extension-pantheon)
+ * (gsignond-plugin-oauth)
+ * (gsignond-plugin-lastfm)
+
+Prerelease stuff:
+ * (elementary-os-prerelease)
+# * (elementary-os-beta-transition) # converts Daily PPA to Stable if it's installed
 
 = Desktop apps =
 
 We use many GNOME applications as part of our desktop user interface. Rather than using Debian's meta-packages they are deliberately expanded so that we can select things a bit better.
 
- * (apport-gtk)
- * (whoopsie)
- * (eog)
- * (thunderbird)
  * (file-roller)
- * gdm3
- * (gedit)
- * (app-install-data-partner)
- * (transmission-gtk)
- * gnome-settings-daemon
- * gnome-control-center
  * gnome-menus
- * (system-config-printer)
  * (gnome-power-manager)
- * (gnome-terminal)
- * (gnome-todo)
- * (baobab)
- * (gnome-screenshot)
  * (gnome-font-viewer)
- * language-selector-gnome
- * (firefox)
- * (xul-ext-ubufox)
- * nautilus
- * (nautilus-sendto)
- * (nautilus-share)
- * (rhythmbox)
- * (cheese)
- * software-properties-gtk
- * (totem)
- * ubuntu-release-upgrader-gtk
- * update-manager
- * update-notifier
- * (vino) # vnc server
- * yelp
  * zenity
  * (xdg-utils)         # useful utilities
  * xdg-user-dirs
@@ -95,76 +135,9 @@ We use many GNOME applications as part of our desktop user interface. Rather tha
  * (pulseaudio-module-bluetooth)
  * gvfs-bin             # mostly used as xdg-open backend
  * (gvfs-fuse)          # let non-GNOME apps see GVFS via fuse
- * (gnome-disk-utility)
  * (simple-scan)
  * (evince)
- * (remmina)
- * (shotwell)
- * (usb-creator-gtk) [i386 amd64]
- * (deja-dup)
- * (gnome-calendar)
- 
- Desktop snaps
- * snap:gnome-3-26-1604
- * snap:gtk-common-themes
- * snap:gnome-calculator
- * snap:gnome-characters
- * snap:gnome-logs
- * snap:gnome-system-monitor
-
-Software center
- * (ubuntu-software)
- * (gnome-software-plugin-snap)
-
-= Key management and signing =
-
- * (gnome-keyring)
- * (seahorse)
  * (libpam-gnome-keyring)
-
-We use gnupg's pinentry support as of wily, instead of gnome-keyring as before.
-
- * (gpg-agent)
- * (dirmngr)
-
-Games: We only ship a few by default.
- * (aisleriot)
- * (gnome-mahjongg)
- * (gnome-mines)
- * (gnome-sudoku)
- * (branding-ubuntu)       # Ubuntu branding for some games
-
-Default office suite: libreoffice
-
- * (libreoffice-style-breeze)
- * (libreoffice-gnome)
- * (libreoffice-writer)
- * (libreoffice-calc)
- * (libreoffice-impress)
- * (libreoffice-math)
- * (libreoffice-ogltrans)
- * (libreoffice-pdfimport)
-
-Themes: we will ship only the very best looking themes. We won't ship everything that Debian ships, just a custom package that includes the themes we want. These packages are included for size guidance until we have Ubuntu-specific packages.
-
- * ubuntu-artwork
- * ubuntu-sounds
- * gnome-session-canberra   # Needed to make login/logout sounds audible.
- * dmz-cursor-theme
- * (fonts-noto-color-emoji)
-
-Boot theme
-
- * (plymouth-theme-ubuntu-logo)
-
-Settings: we have some settings overrides by default in an unique package.
-          and provide our ones, like sound settings
- * ubuntu-settings
- * (gsettings-ubuntu-schemas)
-
-Custom launchers to be displayed on the Dash by default
-
- * (ubuntu-web-launchers)
 
 The gstreamer1.0 packages we want to install:
 
@@ -183,14 +156,13 @@ Accessibility tools:
  * (mousetweaks)
  * at-spi2-core
  * libatk-adaptor
+ * (libgail-common)
 
 = Documentation =
 
- * (ubuntu-docs)
- * (gnome-getting-started-docs)
+ * doc-base         # integrates with scrollkeeper
 
 = Other =
 
- * ubuntu-desktop # metapackage for everything here
- * (example-content)
+ * elementary-desktop # metapackage for everything here
  * (libwmf0.2-7-gtk) # provides a gdk-pixbuf loader for WMF images

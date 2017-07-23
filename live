@@ -1,6 +1,6 @@
 Task-Per-Derivative: 1
 Task-Section: user
-Task-Description: Ubuntu live CD
+Task-Description: elementary live CD
 Task-Extended-Description: This task provides the extra packages installed on the Ubuntu live CD. It is neither useful nor recommended to install this task in other environments.
 Task-Relevance: 2
 Task-Key: ubiquity-frontend-gtk
@@ -47,28 +47,6 @@ default live.
  * Languages: american british spanish portuguese brazilian ngerman ogerman swiss french italian
  * w${Languages}
 
-# Default apps having separates translations
-## Libreoffice l10n and help
- * Languages: en-gb es zh-cn zh-tw pt pt-br de fr it ru
- * libreoffice-l10n-${Languages}
- * libreoffice-help-${Languages}
- * libreoffice-l10n-en-za
- * libreoffice-help-en-us
-
-## Firefox
- * Languages: en es zh-hans pt de fr it ru
- * firefox-locale-${Languages}
-
-## Thunderbird
- * Languages: en en-gb en-us es es-ar es-es zh-cn zh-hans zh-tw pt pt-br pt-pt de fr it ru
- * thunderbird-locale-${Languages}
-
-## GNOME Help
- * Languages: de es fr it pt ru
- * gnome-getting-started-docs-${Languages}
- * gnome-user-docs-${Languages}
- * gnome-user-docs-zh-hans
-
 == Input methods ==
  * gtk-im-libthai
  * ibus-chewing
@@ -93,10 +71,12 @@ These packages make up the Ubiquity live installer.
 
  * ubiquity-frontend-gtk
  * ubiquity-ubuntu-artwork
- * ubiquity-slideshow-ubuntu
 
 == Misc ==
 
+ * bcmwl-kernel-source
  * gparted
  * cifs-utils # Needed by casper for CIFS root=
+ * jfsutils # Needed for JFS installation (lp:1442982)
+ * xfsprogs # Needed for XFS installation
 
