@@ -1,0 +1,12 @@
+Task-Per-Derivative: 1
+Task-Section: user
+Task-Description: Modern and modular DE-independent desktop shell
+Task-Extended-Description: Pantheon Shell is a modern and modular desktop shell developed by elementary Project
+Task-Key: pantheon-shell
+Task-Metapackage: pantheon-shell
+
+ * pantheon-xsession-settings   # adds "Pantheon" entry to login screen
+ * wingpanel
+ * slingshot-launcher
+ * (plank)
+ * (gala)

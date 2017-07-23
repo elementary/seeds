@@ -1,0 +1,25 @@
+Task-Per-Derivative: 1
+Task-Section: user
+Task-Description: elementary SDK
+Task-Extended-Description: The official SDK of elementary
+Task-Key: elementary-sdk
+Task-Metapackage: elementary-sdk
+
+ * build-essential
+ * bzr
+ * cmake # http://elementaryos.org/docs/code/the-build-system
+ * (cmake-elementary)
+ * devscripts # packaging tools
+ * dconf-editor # browse gsettings
+ * git
+ * gobject-introspection
+ * gtk-3-examples # gtk3-icon-browser
+ * libgala-dev
+ * libgirepository1.0-dev
+ * libgranite-dev # elementary development library
+ * libgtk-3-dev
+ * libswitchboard-2.0-dev
+ * libwingpanel-2.0-dev
+ * python3-debian # needed for wrap-and-sort to work
+ * (scratch-text-editor) # official elementary IDE
+ * valac

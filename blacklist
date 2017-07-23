@@ -55,3 +55,54 @@ clamav
 # mdz, 2004-06-14: upstream deliberately obfuscates vulnerabilities
 # mdz, 2004-06-20: CAN-2002-0757, CAN-2003-0101, SNS 74, SNS 75
 webmin
+
+### elementary ###
+
+apport-gtk
+apport-hooks-elementary
+apport-symptoms
+banshee
+branding-ubuntu
+compiz
+example-content # creates ~/example.desktop
+fcitx-frontend-gtk3
+firefox
+gnome-screensaver
+gnome-session # we only want gnome-session-bin not configs
+gnome-system-monitor
+gnome-user-guide
+libaccount-plugin-1.0-0
+libsignon-extension1
+libsignon-plugins-common1
+libsignon-qt5-1
+light-locker-settings
+marco # mate window manager
+mcp-account-manager-uoa
+metacity
+nautilus
+overlay-scrollbar
+plymouth-theme-ubuntu-logo
+plymouth-theme-ubuntu-text
+signon-plugin-password
+signon-ui
+signond
+totem-mozilla
+ubiquity-slideshow-ubuntu
+ubuntu-artwork
+ubuntu-desktop
+ubuntu-mono # icon theme
+ubuntu-release-upgrader-core
+ubuntu-release-upgrader-gtk
+ubuntu-system-settings
+ubuntu-touch-sounds
+unar # pulls in gnustep-base resulting in gdomap running, lp:1357051
+unity
+unity-2d
+unity-control-center
+unity-greeter
+update-manager
+update-manager-core
+update-notifier
+webbrowser-app # ubuntu web browser
+yelp
+#elementary-os-prerelease

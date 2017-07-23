@@ -1,0 +1,28 @@
+Task-Per-Derivative: 1
+Task-Section: user
+Task-Description: Pantheon Desktop Environment
+Task-Extended-Description: Desktop environment based on GNOME with a strong focus on user experience, developed by elementary project
+Task-Key: pantheon
+Task-Metapackage: pantheon
+
+# apps shipped by default, in alphabetical order:
+ * (appcenter)
+ * (audience)
+ * (epiphany-browser)
+ * (maya-calendar)
+ * (noise)
+ * (pantheon-calculator)
+ * (pantheon-files)
+ * (pantheon-mail)
+ * (pantheon-photos)
+ * (pantheon-terminal)
+ * (scratch-text-editor)
+ * (screenshot-tool)
+ * (snap-photobooth)
+
+# not exactly apps, but still part of the DE
+ * (pantheon-shell)
+
+# contractor and very, very default contracts
+ * (contractor)
+ * (pantheon-print)

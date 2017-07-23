@@ -1,23 +1,10 @@
-include platform.bionic
-desktop: desktop-common
-dns-server: standard
-lamp-server: standard
-openssh-server: standard
-print-server: standard
-samba-server: standard
-postgresql-server: standard
-mail-server: standard
-server: standard
-server-ship: boot installer dns-server lamp-server openssh-server print-server samba-server postgresql-server mail-server server d-i-requirements
-server-ship-live: server
-cloud-image: standard
+feature follow-recommends
+include platform.artful
+artwork:
+elementary-sdk:
+pantheon-shell:
+pantheon:
+desktop: desktop-common artwork pantheon
 ship: boot installer desktop d-i-requirements
 live: desktop live-common
 ship-live: boot live
-development: desktop
-supported-desktop-extra: desktop live
-supported-kiosk: desktop
-system-image: boot
-wsl: minimal
-# make sure supported remains the last entry
-supported: supported-common server-ship server-ship-live cloud-image ship ship-live development language-packs supported-desktop-extra supported-kiosk
