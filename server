@@ -26,7 +26,6 @@ This seed lists the packages we want to install by default in the new server ins
 = Network =
 
  * ethtool			# Essential network diagnostics
- * ifenslave			# Network bonding, needed by MAAS
  * vlan				# Needed by MAAS
 
 = Maintenance =
