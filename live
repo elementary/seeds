@@ -36,18 +36,6 @@ default live.
  * Languages: american british spanish portuguese brazilian ngerman ogerman swiss french italian
  * w${Languages}
 
-== Input methods ==
- * gtk-im-libthai
- * ibus-chewing
- * ibus-hangul
- * ibus-m17n
- * ibus-mozc
- * ibus-libpinyin
- * ibus-table-cangjie
- * ibus-table-quick-classic
- * ibus-table-wubi
- * ibus-unikey
-
 == Fonts (zh-hans) ==
 
  * fonts-noto-cjk
