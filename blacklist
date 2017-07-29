@@ -104,5 +104,6 @@ update-manager
 update-manager-core
 update-notifier
 webbrowser-app # ubuntu web browser
+xserver-xorg-input-synaptics # broke Dan's input
 yelp
 #elementary-os-prerelease
