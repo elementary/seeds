@@ -64,11 +64,13 @@ apport-symptoms
 banshee
 branding-ubuntu
 compiz
-example-content # creates ~/example.desktop
+# creates ~/example.desktop
+example-content
 fcitx-frontend-gtk3
 firefox
 gnome-screensaver
-gnome-session # we only want gnome-session-bin not configs
+# we only want gnome-session-bin not configs
+gnome-session
 gnome-system-monitor
 gnome-user-guide
 libaccount-plugin-1.0-0
@@ -76,7 +78,8 @@ libsignon-extension1
 libsignon-plugins-common1
 libsignon-qt5-1
 light-locker-settings
-marco # mate window manager
+# mate window manager
+marco
 mcp-account-manager-uoa
 metacity
 nautilus
@@ -90,12 +93,13 @@ totem-mozilla
 ubiquity-slideshow-ubuntu
 ubuntu-artwork
 ubuntu-desktop
-ubuntu-mono # icon theme
+ubuntu-mono
 ubuntu-release-upgrader-core
 ubuntu-release-upgrader-gtk
 ubuntu-system-settings
 ubuntu-touch-sounds
-unar # pulls in gnustep-base resulting in gdomap running, lp:1357051
+# unar pulls in gnustep-base resulting in gdomap running, lp:1357051
+unar
 unity
 unity-2d
 unity-control-center
@@ -103,7 +107,9 @@ unity-greeter
 update-manager
 update-manager-core
 update-notifier
-webbrowser-app # ubuntu web browser
-xserver-xorg-input-synaptics # broke Dan's input
+# ubuntu web browser
+webbrowser-app
+# synaptics broke Dan's input
+xserver-xorg-input-synaptics
 yelp
 #elementary-os-prerelease
