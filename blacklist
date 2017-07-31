@@ -93,7 +93,7 @@ totem-mozilla
 ubiquity-slideshow-ubuntu
 ubuntu-artwork
 ubuntu-desktop
-ubuntu-mono
+# ubuntu-mono
 ubuntu-release-upgrader-core
 ubuntu-release-upgrader-gtk
 ubuntu-system-settings
