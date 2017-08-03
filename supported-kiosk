@@ -4,3 +4,4 @@ kiosk / signage project
 = Kiosk =
 
  * libmiral-dev     # miral
+ * qtubuntu-desktop # supported for kiosk LP: #1708326
