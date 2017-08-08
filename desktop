@@ -177,11 +177,6 @@ Accessibility tools:
  * at-spi2-core
  * libatk-adaptor
  * (libgail-common)
- * (qt-at-spi)
-
-libqt4-sql recommends libqt4-sql-mysql | ...; lets pull in the smallest
-alternative to avoid pulling in the large MySQL bits
- * (libqt4-sql-sqlite)
 
 = Documentation =
 
