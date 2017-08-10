@@ -153,7 +153,9 @@ Boot theme
  * (plymouth-theme-ubuntu-logo)
 
 Settings: we have some settings overrides by default in an unique package.
+          and provide our ones, like sound settings
  * ubuntu-settings
+ * (gsettings-ubuntu-schemas)
 
 Custom launchers to be displayed on the Dash by default
 
