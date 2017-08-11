@@ -380,6 +380,8 @@ included due to matching Extra-Include patterns, and has no other effect):
  * Extra-Exclude: qtdeclarative5-examples # Was pulling qtquickcontrols-opensource-src and a bunch of other Qt/QML modules in main
  * Extra-Exclude: thunderbird-gnome-support-dbg # Unity support additions
  * Extra-Exclude: libqt4-dev # qt4 is dead, long live qt5
+ * Extra-Exclude: libavahi-qt4-dev # ditto
+ * Extra-Exclude: libpoppler-qt4-dev # ditto
 
 Transitional packages:
 
