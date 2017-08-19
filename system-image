@@ -33,7 +33,6 @@ Task-Metapackage: ubuntu-core
  * seccomp # for scmp_sys_resolver
  * python3-libapparmor # snappy-debug.security needs matching userspace
  * isc-dhcp-client
- * resolvconf
  * dosfstools
  * ubuntu-fan
  * gdbserver
