@@ -19,6 +19,7 @@ Basic network services, VPN and Windows integration.
 
  * (avahi-autoipd)     # IPv4 link-local interface configuration support
  * (network-manager)
+ * (network-manager-config-connectivity-ubuntu)
  * (network-manager-pptp-gnome)
  * (libproxy1-plugin-gsettings)
  * (libproxy1-plugin-networkmanager)
