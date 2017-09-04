@@ -168,6 +168,7 @@ The gstreamer1.0 packages we want to install:
 
  * gstreamer1.0-alsa
  * gstreamer1.0-plugins-base-apps
+ * gstreamer1.0-packagekit
  * gstreamer1.0-pulseaudio
 
 Accessibility tools:
