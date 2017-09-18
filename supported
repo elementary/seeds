@@ -382,6 +382,7 @@ included due to matching Extra-Include patterns, and has no other effect):
  * Extra-Exclude: libqt4-dev # qt4 is dead, long live qt5
  * Extra-Exclude: libavahi-qt4-dev # ditto
  * Extra-Exclude: libpoppler-qt4-dev # ditto
+ * Extra-Exclude: libturbojpeg0-dev # legacy API not for main
 
 Transitional packages:
 
