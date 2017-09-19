@@ -88,6 +88,7 @@ Fonts installed on demand by language-selector:
  * fonts-nanum
  * fonts-nanum-coding
  * fonts-noto-cjk
+ * fonts-noto-cjk-extra
  * fonts-orya
  * fonts-sil-abyssinica
  * fonts-sil-ezra
@@ -102,17 +103,6 @@ Fonts installed on demand by language-selector:
  * fonts-thai-tlwg
  * fonts-ukij-uyghur
  * fonts-unfonts-core
-
-Input methods installed on demand by language-selector:
-
- * gtk-im-libthai
- * ibus-chewing
- * ibus-hangul
- * ibus-m17n
- * ibus-sunpinyin
- * ibus-table-cangjie
- * ibus-table-wubi
- * ibus-unikey
 
 Transitional packages for upgrading 14.04.[1-9] with LTS enablement stacks to
 16.04 (remove them entirely in 16.10):
