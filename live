@@ -70,19 +70,16 @@ default live.
  * gnome-user-docs-zh-hans
 
 == Input methods ==
- * fcitx
- * fcitx-frontend-gtk2
- * fcitx-frontend-gtk3
- * fcitx-frontend-qt4
- * fcitx-frontend-qt5
- * fcitx-hangul
- * fcitx-mozc
- * fcitx-ui-classic
- * fcitx-ui-qimpanel
- * fcitx-table
- * fcitx-pinyin
- * fcitx-unikey
- * fcitx-module-cloudpinyin
+ * gtk-im-libthai
+ * ibus-chewing
+ * ibus-hangul
+ * ibus-m17n
+ * ibus-mozc
+ * ibus-sunpinyin
+ * ibus-table-cangjie
+ * ibus-table-quick-classic
+ * ibus-table-wubi
+ * ibus-unikey
 
 == Fonts (zh-hans) ==
 
