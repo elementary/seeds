@@ -373,6 +373,8 @@ included due to matching Extra-Include patterns, and has no other effect):
  * Extra-Exclude: libavahi-qt4-dev # ditto
  * Extra-Exclude: libpoppler-qt4-dev # ditto
  * Extra-Exclude: libturbojpeg0-dev # legacy API not for main
+ * Extra-Exclude: libappstreamqt-dev # Qt5
+ * Extra-Exclude: libpoppler-qt5-dev # Qt5
 
 Transitional packages:
 
