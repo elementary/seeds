@@ -31,12 +31,6 @@ Basic network services, VPN and Windows integration.
 
  * libnotify-bin                  # various scripts need notify-send (such as .bashrc's "alert")
 
-Extra fonts (should be common, but not so for space reasons):
-
- * (fonts-noto-cjk)
- * (fonts-nanum)
- * (fonts-liberation)
-
 Input methods:
 
  * (im-config)
