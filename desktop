@@ -135,7 +135,6 @@ We use many GNOME applications as part of our desktop user interface. Rather tha
  * (pulseaudio-module-bluetooth)
  * gvfs-bin             # mostly used as xdg-open backend
  * (gvfs-fuse)          # let non-GNOME apps see GVFS via fuse
- * (simple-scan)
  * (evince)
  * (libpam-gnome-keyring)
 
