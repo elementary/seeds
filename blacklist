@@ -61,6 +61,7 @@ webmin
 apport-gtk
 apport-hooks-elementary
 apport-symptoms
+apt-transport-https
 banshee
 branding-ubuntu
 compiz
