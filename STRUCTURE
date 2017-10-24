@@ -1,4 +1,4 @@
-include platform.artful
+include platform.bionic
 desktop: desktop-common
 dns-server: standard
 lamp-server: standard
