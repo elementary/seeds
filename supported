@@ -331,7 +331,7 @@ included due to matching Extra-Include patterns, and has no other effect):
  * Extra-Exclude: libmpich-mpd1.0-dev libmpich-shmem1.0-dev
  * Extra-Exclude: libnetpbm9-dev
  * Extra-Exclude: libavahi-compat-howl-dev
- * Extra-Exclude: libboost-*-dev libboost*-all-dev
+ * Extra-Exclude: libboost-*-dev libboost*-all-dev libboost-doc libboost*-doc
  * Extra-Exclude: libcairo-directfb2-dev
  * Extra-Exclude: libcdio-*-dev libiso9660-dev
  * Extra-Exclude: libxaw6*		# built from the same source as libxaw7*
