@@ -61,3 +61,4 @@ This seed lists the packages we want to install by default in the new server ins
  * open-vm-tools			# Only needed for Ubuntu as VMware guests
  * ubuntu-cloudimage-keyring              # securely download data from cloud-images.ubuntu.com
  * (snapd)
+ * s390-tools [s390x]           # needed for z block devices, bootloader, encryption features, etc.
