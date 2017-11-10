@@ -44,8 +44,6 @@ Task-Seeds: desktop-common desktop
 == Fonts ==
 
  * fonts-alee
- * fonts-nanum-coding
- * fonts-nanum-extra
  * fonts-arphic-bkai00mp
  * fonts-arphic-bsmi00lp
  * fonts-arphic-gbsn00lp

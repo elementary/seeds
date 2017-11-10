@@ -85,8 +85,6 @@ Fonts installed on demand by language-selector:
  * fonts-manchufont
  * fonts-mlym
  * fonts-nafees
- * fonts-nanum
- * fonts-nanum-coding
  * fonts-noto-cjk
  * fonts-noto-cjk-extra
  * fonts-orya
@@ -95,14 +93,11 @@ Fonts installed on demand by language-selector:
  * fonts-sil-nuosusil
  * fonts-sil-padauk
  * fonts-sil-scheherazade
- * fonts-takao-gothic
- * fonts-takao-mincho
  * fonts-taml
  * fonts-telu
  * fonts-tibetan-machine
  * fonts-thai-tlwg
  * fonts-ukij-uyghur
- * fonts-unfonts-core
 
 Transitional packages for upgrading 14.04.[1-9] with LTS enablement stacks to
 16.04 (remove them entirely in 16.10):
