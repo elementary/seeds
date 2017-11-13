@@ -266,6 +266,7 @@ Security:
  * apport # MathiasGug
  * kerneloops # JamesWestby
  * intel-microcode # needed to update Intel cpu microcode LP #1386257
+ * amd64-microcode # needed to update AMD cpu microcode LP #1386257
  * memtest86+
 
 = From desktop =
