@@ -23,6 +23,7 @@ restricted modules.
  * linux-headers-generic [ppc64el]
  * ${Kernel-Stem}-virtual [ppc64el]
  * linux-headers-virtual [ppc64el]
+ * opal-prd [ppc64el] # for OpenPOWER machines LP: #1555904 LP: #1691557
 
 == s390x ==
 
