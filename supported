@@ -336,6 +336,7 @@ included due to matching Extra-Include patterns, and has no other effect):
  * Extra-Exclude: python-qt4-gl python-qt4-gl-dbg # We don't want python-qt4-gl in main
  * Extra-Exclude: libkiten-dev
  * Extra-Exclude: sendmail-doc
+ * Extra-Exclude: *-cil *-cil-dev # Mono stuff
  * Extra-Exclude: mono-dbg # only useful with mono-debugger, currently in universe
  * Extra-Exclude: python-renderpm-dbg
  * Extra-Exclude: python-reportlab-accel-dbg # packages aren't in main, -dbg shouldn't cause them to be
