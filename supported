@@ -1,8 +1,12 @@
-Most of what was formerly in the supported seed is now in the dvd seed. This
-seed now includes some things that are too big for a DVD, and of course also
+This seed includes some things that are too big for a DVD, and of course also
 inherits from everything else.
 
 = Language support =
+
+ * /^language-pack-[^-]+$/
+ * /^language-pack-gnome-[^-]+$/
+ * /^language-pack-gnome-zh-han/
+ * /^language-pack-zh-han/
 
 The following packages also have application translations, but are not
 using gettext, but a custom format. language-selector will install

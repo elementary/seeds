@@ -15,11 +15,7 @@ ship: boot installer desktop d-i-requirements
 live: desktop live-common
 ship-live: boot live
 development: desktop
-usb: boot installer desktop
-usb-live: usb live-common
-usb-langsupport: usb-live
-usb-ship-live: usb-langsupport
-supported-desktop-extra: usb-live
+supported-desktop-extra: desktop live
 supported-kiosk: desktop
 system-image: boot
 # make sure supported remains the last entry

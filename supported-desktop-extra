@@ -6,6 +6,7 @@ This seed exists only to allow fine tuning the 3y support time
 
 = Documentation =
  * gnupg-doc
+ * manpages-dev
  * tar-doc
 
 = Additional multimedia =
@@ -15,7 +16,9 @@ This seed exists only to allow fine tuning the 3y support time
 = Extra desktop =
 
  * libreoffice-base
- * rhythmbox
+ * libreoffice-nlpsolver
+ * libreoffice-officebean
+ * libreoffice-style-tango
  * icc-profiles-free
  * xchat-gnome
  * vim-gnome
