@@ -19,4 +19,4 @@ supported-desktop-extra: desktop live
 supported-kiosk: desktop
 system-image: boot
 # make sure supported remains the last entry
-supported: supported-common server-ship cloud-image ship ship-live development usb-ship-live language-packs supported-desktop-extra supported-kiosk
+supported: supported-common server-ship cloud-image ship ship-live development language-packs supported-desktop-extra supported-kiosk
