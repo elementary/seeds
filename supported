@@ -381,6 +381,7 @@ included due to matching Extra-Include patterns, and has no other effect):
  * Extra-Exclude: libturbojpeg0-dev # legacy API not for main
  * Extra-Exclude: libappstreamqt-dev # Qt5
  * Extra-Exclude: libpoppler-qt5-dev # Qt5
+ * Extra-Exclude: libgraphviz-dev
 
 Transitional packages:
 
