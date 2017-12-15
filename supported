@@ -343,7 +343,7 @@ included due to matching Extra-Include patterns, and has no other effect):
  * Extra-Exclude: *-cil *-cil-dev # Mono stuff
  * Extra-Exclude: libappindicator-dev libindicator3-dev libindicator-dev libdbusmenu-gtk-dev # gtk2 versions
  * Extra-Exclude: gir1.2-appindicator-0.1 gir1.2-dbusmenu-gtk-0.4 # gtk2 versions
- * Extra-Exclude: libcanberra-gtk-dev libgraphviz-dev libgutenprintui2-dev # pulls in gtk2
+ * Extra-Exclude: libcanberra-gtk-dev graphviz-dev libgraphviz-dev libgutenprintui2-dev # pulls in gtk2
  * Extra-Exclude: libgtk2.0-dev libavahi-ui-dev libdbusmenu-glib-dev libglade2-dev # pulls in gtk2
  * Extra-Exclude: python-gtk2-doc python-gtk2-dev python-gtk2-dbg # pulls in gtk2
  * Extra-Exclude: python-renderpm-dbg
@@ -381,7 +381,6 @@ included due to matching Extra-Include patterns, and has no other effect):
  * Extra-Exclude: libturbojpeg0-dev # legacy API not for main
  * Extra-Exclude: libappstreamqt-dev # Qt5
  * Extra-Exclude: libpoppler-qt5-dev # Qt5
- * Extra-Exclude: libgraphviz-dev
 
 Transitional packages:
 
