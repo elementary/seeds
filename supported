@@ -330,7 +330,6 @@ included due to matching Extra-Include patterns, and has no other effect):
  * Extra-Exclude: libgdome2-ocaml-dev
  * Extra-Exclude: libmpich-mpd1.0-dev libmpich-shmem1.0-dev
  * Extra-Exclude: libnetpbm9-dev
- * Extra-Exclude: libavahi-compat-howl-dev
  * Extra-Exclude: libboost-*-dev libboost*-all-dev libboost-doc libboost*-doc
  * Extra-Exclude: libcairo-directfb2-dev
  * Extra-Exclude: libcdio-*-dev libiso9660-dev
@@ -343,8 +342,8 @@ included due to matching Extra-Include patterns, and has no other effect):
  * Extra-Exclude: *-cil *-cil-dev # Mono stuff
  * Extra-Exclude: libappindicator-dev libindicator3-dev libindicator-dev libdbusmenu-gtk-dev # gtk2 versions
  * Extra-Exclude: gir1.2-appindicator-0.1 gir1.2-dbusmenu-gtk-0.4 # gtk2 versions
- * Extra-Exclude: libcanberra-gtk-dev graphviz-doc graphviz-dev libgraphviz-dev libgutenprintui2-dev # pulls in gtk2
- * Extra-Exclude: libgtk2.0-dev libavahi-ui-dev libdbusmenu-glib-dev libglade2-dev # pulls in gtk2
+ * Extra-Exclude: libcanberra-gtk-dev libgutenprintui2-dev # pulls in gtk2
+ * Extra-Exclude: libgtk2.0-dev libglade2-dev # pulls in gtk2
  * Extra-Exclude: python-gtk2-doc python-gtk2-dev python-gtk2-dbg # pulls in gtk2
  * Extra-Exclude: python-renderpm-dbg
  * Extra-Exclude: python-reportlab-accel-dbg # packages aren't in main, -dbg shouldn't cause them to be
@@ -357,26 +356,17 @@ included due to matching Extra-Include patterns, and has no other effect):
  * Extra-Exclude: libgl1-mesa-dri-experimental-dbg # LP: #638097
  * Extra-Exclude: python-vigra-doc # libvigraimpex is in main, but nothing uses python-vigra
  * Extra-Exclude: asp.net-examples
- * Extra-Exclude: packagekit-dbg
- * Extra-Exclude: rest-bench-dbg
  * Extra-Exclude: grub-coreboot-dbg grub-emu-dbg
- * Extra-Exclude: ceph-test-dbg ceph-fs-common-dbg ceph-mds-dbg
  * Extra-Exclude: unity-webapps-dev # we don't want its deps in main
- * Extra-Exclude: sndfile-programs-dbg # sndfile-programs not in main
  * Extra-Exclude: ubuntu-ui-toolkit-examples
- * Extra-Exclude: speech-dispatcher-dbg
  * Extra-Exclude: nginx-extras-dbg nginx-full-dbg nginx-light-dbg nginx-naxsi-dbg
  * Extra-Exclude: haproxy-doc # https://lists.ubuntu.com/archives/ubuntu-release/2014-July/002966.html
- * Extra-Exclude: grilo-plugins-0.2-dbg
- * Extra-Exclude: remmina-dbg
- * Extra-Exclude: tracker-dbg
  * Extra-Exclude: libfftw3-mpi-dev
  * Extra-Exclude: imagemagick-6-doc # LP: #1667150
  * Extra-Exclude: imagemagick-doc   # See above
  * Extra-Exclude: qtdeclarative5-examples # Was pulling qtquickcontrols-opensource-src and a bunch of other Qt/QML modules in main
  * Extra-Exclude: thunderbird-gnome-support-dbg # Unity support additions
  * Extra-Exclude: libqt4-dev # qt4 is dead, long live qt5
- * Extra-Exclude: libavahi-qt4-dev # ditto
  * Extra-Exclude: libpoppler-qt4-dev # ditto
  * Extra-Exclude: libturbojpeg0-dev # legacy API not for main
  * Extra-Exclude: libappstreamqt-dev # Qt5
