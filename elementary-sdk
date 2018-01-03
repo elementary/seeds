@@ -20,6 +20,7 @@ Task-Metapackage: elementary-sdk
  * libgtk-3-dev
  * libswitchboard-2.0-dev
  * libwingpanel-2.0-dev
+ * meson
  * python3-debian # needed for wrap-and-sort to work
  * (scratch-text-editor) # official elementary IDE
  * valac
