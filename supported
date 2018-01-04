@@ -103,201 +103,6 @@ Fonts installed on demand by language-selector:
  * fonts-thai-tlwg
  * fonts-ukij-uyghur
 
-Transitional packages for upgrading 14.04.[1-9] with LTS enablement stacks to
-16.04 (remove them entirely in 16.10):
- * libegl1-mesa-dev-lts-utopic
- * libegl1-mesa-dev-lts-vivid
- * libegl1-mesa-dev-lts-wily
- * libegl1-mesa-lts-utopic
- * libegl1-mesa-lts-utopic-dbg
- * libegl1-mesa-lts-vivid
- * libegl1-mesa-lts-vivid-dbg
- * libegl1-mesa-lts-wily
- * libegl1-mesa-lts-wily-dbg
- * libgbm1-lts-utopic
- * libgbm1-lts-utopic-dbg
- * libgbm1-lts-vivid
- * libgbm1-lts-vivid-dbg
- * libgbm1-lts-wily
- * libgbm1-lts-wily-dbg
- * libgbm-dev-lts-utopic
- * libgbm-dev-lts-vivid
- * libgbm-dev-lts-wily
- * libgl1-mesa-dev-lts-utopic
- * libgl1-mesa-dev-lts-vivid
- * libgl1-mesa-dev-lts-wily
- * libgl1-mesa-dri-lts-utopic
- * libgl1-mesa-dri-lts-utopic-dbg
- * libgl1-mesa-dri-lts-vivid
- * libgl1-mesa-dri-lts-vivid-dbg
- * libgl1-mesa-dri-lts-wily
- * libgl1-mesa-dri-lts-wily-dbg
- * libgl1-mesa-glx-lts-utopic
- * libgl1-mesa-glx-lts-utopic-dbg
- * libgl1-mesa-glx-lts-vivid
- * libgl1-mesa-glx-lts-vivid-dbg
- * libgl1-mesa-glx-lts-wily
- * libgl1-mesa-glx-lts-wily-dbg
- * libglapi-mesa-lts-utopic
- * libglapi-mesa-lts-utopic-dbg
- * libglapi-mesa-lts-vivid
- * libglapi-mesa-lts-vivid-dbg
- * libglapi-mesa-lts-wily
- * libglapi-mesa-lts-wily-dbg
- * libgles1-mesa-dev-lts-utopic
- * libgles1-mesa-dev-lts-vivid
- * libgles1-mesa-dev-lts-wily
- * libgles1-mesa-lts-utopic
- * libgles1-mesa-lts-utopic-dbg
- * libgles1-mesa-lts-vivid
- * libgles1-mesa-lts-vivid-dbg
- * libgles1-mesa-lts-wily
- * libgles1-mesa-lts-wily-dbg
- * libgles2-mesa-dev-lts-utopic
- * libgles2-mesa-dev-lts-vivid
- * libgles2-mesa-dev-lts-wily
- * libgles2-mesa-lts-utopic
- * libgles2-mesa-lts-utopic-dbg
- * libgles2-mesa-lts-vivid
- * libgles2-mesa-lts-vivid-dbg
- * libgles2-mesa-lts-wily
- * libgles2-mesa-lts-wily-dbg
- * libopenvg1-mesa-dev-lts-utopic
- * libopenvg1-mesa-lts-utopic
- * libwayland-egl1-mesa-lts-utopic
- * libwayland-egl1-mesa-lts-utopic-dbg
- * libwayland-egl1-mesa-lts-vivid
- * libwayland-egl1-mesa-lts-vivid-dbg
- * libwayland-egl1-mesa-lts-wily
- * libwayland-egl1-mesa-lts-wily-dbg
- * libxatracker2-lts-utopic
- * libxatracker2-lts-utopic-dbg
- * libxatracker2-lts-vivid
- * libxatracker2-lts-vivid-dbg
- * libxatracker2-lts-wily
- * libxatracker2-lts-wily-dbg
- * libxatracker-dev-lts-utopic
- * libxatracker-dev-lts-vivid
- * libxatracker-dev-lts-wily
- * mesa-common-dev-lts-utopic
- * mesa-common-dev-lts-vivid
- * mesa-common-dev-lts-wily
- * mesa-vdpau-drivers-lts-utopic
- * mesa-vdpau-drivers-lts-utopic-dbg
- * mesa-vdpau-drivers-lts-vivid
- * mesa-vdpau-drivers-lts-vivid-dbg
- * mesa-vdpau-drivers-lts-wily
- * mesa-vdpau-drivers-lts-wily-dbg
- * xserver-xorg-core-lts-utopic
- * xserver-xorg-core-lts-utopic-dbg
- * xserver-xorg-core-lts-vivid
- * xserver-xorg-core-lts-vivid-dbg
- * xserver-xorg-core-lts-wily
- * xserver-xorg-core-lts-wily-dbg
- * xserver-xorg-dev-lts-utopic
- * xserver-xorg-dev-lts-vivid
- * xserver-xorg-dev-lts-wily
- * xserver-xorg-input-all-lts-utopic
- * xserver-xorg-input-all-lts-vivid
- * xserver-xorg-input-all-lts-wily
- * xserver-xorg-input-evdev-dev-lts-utopic
- * xserver-xorg-input-evdev-dev-lts-vivid
- * xserver-xorg-input-evdev-dev-lts-wily
- * xserver-xorg-input-evdev-lts-utopic
- * xserver-xorg-input-evdev-lts-utopic-dbg
- * xserver-xorg-input-evdev-lts-vivid
- * xserver-xorg-input-evdev-lts-vivid-dbg
- * xserver-xorg-input-evdev-lts-wily
- * xserver-xorg-input-evdev-lts-wily-dbg
- * xserver-xorg-input-kbd-lts-utopic
- * xserver-xorg-input-kbd-lts-vivid
- * xserver-xorg-input-kbd-lts-wily
- * xserver-xorg-input-mouse-lts-utopic
- * xserver-xorg-input-mouse-lts-vivid
- * xserver-xorg-input-mouse-lts-wily
- * xserver-xorg-input-synaptics-dev-lts-utopic
- * xserver-xorg-input-synaptics-dev-lts-vivid
- * xserver-xorg-input-synaptics-dev-lts-wily
- * xserver-xorg-input-synaptics-lts-utopic
- * xserver-xorg-input-synaptics-lts-utopic-dbg
- * xserver-xorg-input-synaptics-lts-vivid
- * xserver-xorg-input-synaptics-lts-vivid-dbg
- * xserver-xorg-input-synaptics-lts-wily
- * xserver-xorg-input-synaptics-lts-wily-dbg
- * xserver-xorg-input-vmmouse-lts-utopic
- * xserver-xorg-input-vmmouse-lts-vivid
- * xserver-xorg-input-vmmouse-lts-wily
- * xserver-xorg-input-wacom-lts-utopic
- * xserver-xorg-input-wacom-lts-utopic-dbg
- * xserver-xorg-input-wacom-lts-vivid
- * xserver-xorg-input-wacom-lts-vivid-dbg
- * xserver-xorg-input-wacom-lts-wily
- * xserver-xorg-input-wacom-lts-wily-dbg
- * xserver-xorg-lts-utopic
- * xserver-xorg-lts-vivid
- * xserver-xorg-lts-wily
- * xserver-xorg-video-all-lts-utopic
- * xserver-xorg-video-all-lts-vivid
- * xserver-xorg-video-all-lts-wily
- * xserver-xorg-video-ati-lts-utopic
- * xserver-xorg-video-ati-lts-utopic-dbg
- * xserver-xorg-video-ati-lts-vivid
- * xserver-xorg-video-ati-lts-vivid-dbg
- * xserver-xorg-video-ati-lts-wily
- * xserver-xorg-video-ati-lts-wily-dbg
- * xserver-xorg-video-dummy-lts-utopic
- * xserver-xorg-video-dummy-lts-vivid
- * xserver-xorg-video-dummy-lts-wily
- * xserver-xorg-video-fbdev-lts-utopic
- * xserver-xorg-video-fbdev-lts-vivid
- * xserver-xorg-video-fbdev-lts-wily
- * xserver-xorg-video-intel-lts-utopic
- * xserver-xorg-video-intel-lts-utopic-dbg
- * xserver-xorg-video-intel-lts-vivid
- * xserver-xorg-video-intel-lts-vivid-dbg
- * xserver-xorg-video-intel-lts-wily
- * xserver-xorg-video-intel-lts-wily-dbg
- * xserver-xorg-video-modesetting-lts-utopic
- * xserver-xorg-video-modesetting-lts-utopic-dbg
- * xserver-xorg-video-nouveau-lts-utopic
- * xserver-xorg-video-nouveau-lts-utopic-dbg
- * xserver-xorg-video-nouveau-lts-vivid
- * xserver-xorg-video-nouveau-lts-vivid-dbg
- * xserver-xorg-video-nouveau-lts-wily
- * xserver-xorg-video-nouveau-lts-wily-dbg
- * xserver-xorg-video-qxl-lts-utopic
- * xserver-xorg-video-qxl-lts-utopic-dbg
- * xserver-xorg-video-qxl-lts-vivid
- * xserver-xorg-video-qxl-lts-vivid-dbg
- * xserver-xorg-video-qxl-lts-wily
- * xserver-xorg-video-qxl-lts-wily-dbg
- * xserver-xorg-video-radeon-lts-utopic
- * xserver-xorg-video-radeon-lts-utopic-dbg
- * xserver-xorg-video-radeon-lts-vivid
- * xserver-xorg-video-radeon-lts-vivid-dbg
- * xserver-xorg-video-radeon-lts-wily
- * xserver-xorg-video-radeon-lts-wily-dbg
- * xserver-xorg-video-s3-lts-utopic
- * xserver-xorg-video-s3-lts-vivid
- * xserver-xorg-video-s3-lts-wily
- * xserver-xorg-video-vesa-lts-utopic
- * xserver-xorg-video-vesa-lts-vivid
- * xserver-xorg-video-vesa-lts-wily
- * xserver-xorg-video-vmware-lts-utopic
- * xserver-xorg-video-vmware-lts-vivid
- * xserver-xorg-video-vmware-lts-wily
-
- * Extra-Exclude: libegl1-mesa-drivers-lts-utopic-dbg
- * Extra-Exclude: xserver-xorg-video-r128-lts-utopic-dbg
- * Extra-Exclude: xserver-xorg-video-r128-lts-vivid-dbg
- * Extra-Exclude: xserver-xorg-video-r128-lts-wily-dbg
- * Extra-Exclude: xserver-xorg-video-openchrome-lts-utopic-dbg
- * Extra-Exclude: xserver-xorg-video-openchrome-lts-vivid-dbg
- * Extra-Exclude: xserver-xorg-video-openchrome-lts-wily-dbg
- * Extra-Exclude: xserver-xorg-video-mach64-lts-utopic-dbg
- * Extra-Exclude: xserver-xorg-video-mach64-lts-vivid-dbg
- * Extra-Exclude: xserver-xorg-video-mach64-lts-wily-dbg
-
 = Installed on demand =
 
  * apparmor-utils    # AppArmor profile development
@@ -326,18 +131,11 @@ included due to matching Extra-Include patterns, and has no other effect):
  * Extra-Exclude: binutils-alpha-linux-gnu-dbg binutils-arm-linux-gnueabi-dbg binutils-hppa-linux-gnu-dbg  binutils-hppa64-linux-gnu-dbg binutils-m68k-linux-gnu-dbg binutils-mips-linux-gnu-dbg binutils-mips64-linux-gnuabi64-dbg binutils-mips64-linux-gnuabin32-dbg binutils-mips64el-linux-gnuabi64-dbg binutils-mips64el-linux-gnuabin32-dbg binutils-mipsel-linux-gnu-dbg binutils-powerpc-linux-gnuspe-dbg binutils-powerpc64-linux-gnu-dbg binutils-sh4-linux-gnu-dbg binutils-sparc64-linux-gnu-dbg binutils-mipsisa32r6-linux-gnu-dbg binutils-mipsisa32r6el-linux-gnu-dbg binutils-mipsisa64r6-linux-gnuabi64-dbg binutils-mipsisa64r6-linux-gnuabin32-dbg binutils-mipsisa64r6el-linux-gnuabi64-dbg binutils-mipsisa64r6el-linux-gnuabin32-dbg binutils-powerpc-linux-ia64-dbg
  * Extra-Exclude: lldb-* liblldb-* clang* libclang* libllvm-* libfuzzer-*
  * Extra-Exclude: libavformat-dev libpostproc-dev
- * Extra-Exclude: libgdchart-gd2-xpm-dev
- * Extra-Exclude: libgdome2-ocaml-dev
- * Extra-Exclude: libmpich-mpd1.0-dev libmpich-shmem1.0-dev
- * Extra-Exclude: libnetpbm9-dev
  * Extra-Exclude: libboost-*-dev libboost*-all-dev libboost-doc libboost*-doc
  * Extra-Exclude: libcairo-directfb2-dev
  * Extra-Exclude: libcdio-*-dev libiso9660-dev
- * Extra-Exclude: libxaw6*		# built from the same source as libxaw7*
  * Extra-Exclude: nvidia-glx-legacy-dev # nvidia-glx-legacy is unsupportable
- * Extra-Exclude: python-qt3-gl-dbg # We don't want python-qt3-gl in main
  * Extra-Exclude: python-qt4-gl python-qt4-gl-dbg # We don't want python-qt4-gl in main
- * Extra-Exclude: libkiten-dev
  * Extra-Exclude: sendmail-doc
  * Extra-Exclude: *-cil *-cil-dev # Mono stuff
  * Extra-Exclude: libappindicator-dev libindicator3-dev libindicator-dev libdbusmenu-gtk-dev # gtk2 versions
@@ -347,19 +145,16 @@ included due to matching Extra-Include patterns, and has no other effect):
  * Extra-Exclude: python-gtk2-doc python-gtk2-dev python-gtk2-dbg # pulls in gtk2
  * Extra-Exclude: python-renderpm-dbg
  * Extra-Exclude: python-reportlab-accel-dbg # packages aren't in main, -dbg shouldn't cause them to be
- * Extra-Exclude: libnewlib-dev # not used in main, we only want newlib-spu for powerpc
  * Extra-Exclude: sendmail-doc # sendmail source is only in main for libmilter
  * Extra-Exclude: libgnumail-java-doc # depends on classpath
  * Extra-Exclude: libcommons-dbcp-java-doc # depends on classpath
  * Extra-Exclude: javacc-doc # depends on classpath
  * Extra-Exclude: virtuoso-vad-doc # depends on binaries that were not MIR-approved
- * Extra-Exclude: libgl1-mesa-dri-experimental-dbg # LP: #638097
  * Extra-Exclude: python-vigra-doc # libvigraimpex is in main, but nothing uses python-vigra
  * Extra-Exclude: asp.net-examples
  * Extra-Exclude: grub-coreboot-dbg grub-emu-dbg
  * Extra-Exclude: unity-webapps-dev # we don't want its deps in main
  * Extra-Exclude: ubuntu-ui-toolkit-examples
- * Extra-Exclude: nginx-extras-dbg nginx-full-dbg nginx-light-dbg nginx-naxsi-dbg
  * Extra-Exclude: haproxy-doc # https://lists.ubuntu.com/archives/ubuntu-release/2014-July/002966.html
  * Extra-Exclude: libfftw3-mpi-dev
  * Extra-Exclude: imagemagick-6-doc # LP: #1667150
@@ -373,31 +168,10 @@ included due to matching Extra-Include patterns, and has no other effect):
  * Extra-Exclude: libpoppler-qt5-dev # Qt5
  * Extra-Exclude: rrdtool-dbg # pulls in rrdtool-tcl & tcl/tk
 
-Transitional packages:
-
- * Extra-Exclude: xserver-xorg-video-amd-dbg
-
 Exclude some KDE-specific pieces:
 
- * Extra-Exclude: kdebase-dbg
- * Extra-Exclude: kdelibs-dbg
- * Extra-Exclude: kdelibs4-doc
- * Extra-Exclude: kdepim-dbg
- * Extra-Exclude: kdesdk-dbg
- * Extra-Exclude: libdbus-qt-1-dev
- * Extra-Exclude: libdcop3-java-dev
- * Extra-Exclude: libindex0-dev
- * Extra-Exclude: libpoppler-qt-dev
  * Extra-Exclude: libqt4-debug libqt4-debug-dev qt4-doc
- * Extra-Exclude: libsmokekde-dev
- * Extra-Exclude: python-kde3-dbg
- * Extra-Exclude: python-qt3-dbg
- * Extra-Exclude: python-qtext-dbg
  * Extra-Exclude: qt-x11-free-dbg
-
-Temporary workarounds:
-
- * openjade # (b-d of opensp, avoid component-mismatch on openjade-1.3)
 
 = Build infrastructure =
 
