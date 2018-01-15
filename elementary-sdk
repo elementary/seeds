@@ -22,5 +22,5 @@ Task-Metapackage: elementary-sdk
  * libwingpanel-2.0-dev
  * meson
  * python3-debian # needed for wrap-and-sort to work
- * (scratch-text-editor) # official elementary IDE
+ * (io.elementary.code) # official elementary IDE
  * valac

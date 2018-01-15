@@ -16,7 +16,7 @@ Task-Metapackage: pantheon
  * (pantheon-mail)
  * (pantheon-photos)
  * (pantheon-terminal)
- * (scratch-text-editor)
+ * (io.elementary.code)
  * (screenshot-tool)
  * (snap-photobooth)
 
