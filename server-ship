@@ -233,7 +233,6 @@ Security:
  * libpam-mount	        # ChuckShort
  * libpam-p11		# ChuckShort
  * libpam-radius-auth   # ChuckShort
- * xinetd               # JamesTroup, from hoglet
  * libcap2-bin
  * sasl2-bin
  * autofs5
