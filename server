@@ -56,7 +56,7 @@ This seed lists the packages we want to install by default in the new server ins
  * ubuntu-server		# metapackage for everything in this task
  * cloud-guest-utils		# growpart (resize partitions)
  * fonts-ubuntu-font-family-console	# Part of the Ubuntu server experience
- * grub-legacy-ec2 [!s390x !ppc64el]	# TODO: Investigate
+ * (grub-legacy-ec2) [!s390x !ppc64el]	# Unknown if still in use, but is purged on a few images
  * (lxd)					# Every Ubuntu server can host 100x containers
  * open-vm-tools			# Only needed for Ubuntu as VMware guests
  * ubuntu-cloudimage-keyring              # securely download data from cloud-images.ubuntu.com
