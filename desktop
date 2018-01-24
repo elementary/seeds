@@ -79,6 +79,7 @@ Wingpanel and indicators:
  * (wingpanel-indicator-datetime)
  * (wingpanel-indicator-keyboard)
  * (wingpanel-indicator-network)
+ * (wingpanel-indicator-nightlight)
  * (wingpanel-indicator-notifications)
  * (wingpanel-indicator-power)
  * (wingpanel-indicator-session)
