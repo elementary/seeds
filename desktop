@@ -100,7 +100,6 @@ We use many GNOME applications as part of our desktop user interface. Rather tha
  * (gnome-disk-utility)
  * (simple-scan)
  * (evince)
- * (gnome-screensaver)
  * (remmina)
  * (shotwell)
  * (usb-creator-gtk) [i386 amd64]
