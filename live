@@ -75,7 +75,7 @@ default live.
  * ibus-hangul
  * ibus-m17n
  * ibus-mozc
- * ibus-sunpinyin
+ * ibus-libpinyin
  * ibus-table-cangjie
  * ibus-table-quick-classic
  * ibus-table-wubi
