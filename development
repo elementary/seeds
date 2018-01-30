@@ -16,10 +16,6 @@ Moved from desktop:
  * python3-xdg                   # SebastienBacher
  * python3-lxml
 
-Moved from supported:
-
- * idle             # Python IDE
-
 Python 3 libraries with sources already in main
 
  * python3-polib
