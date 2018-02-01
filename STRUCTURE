@@ -17,6 +17,7 @@ ship-live: boot live
 development: desktop
 supported-desktop-extra: desktop live
 supported-kiosk: desktop
+supported-cloud-image: cloud-image
 system-image: boot
 # make sure supported remains the last entry
-supported: supported-common server-ship cloud-image ship ship-live development language-packs supported-desktop-extra supported-kiosk
+supported: supported-common server-ship cloud-image ship ship-live development language-packs supported-desktop-extra supported-kiosk supported-cloud-image
