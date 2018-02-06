@@ -58,6 +58,5 @@ This seed lists the packages we want to install by default in the new server ins
  * (grub-legacy-ec2) [!s390x !ppc64el]	# Unknown if still in use, but is purged on a few images
  * (lxd)					# Every Ubuntu server can host 100x containers
  * open-vm-tools			# Only needed for Ubuntu as VMware guests
- * ubuntu-cloudimage-keyring              # securely download data from cloud-images.ubuntu.com
  * (snapd)
  * s390-tools [s390x]           # needed for z block devices, bootloader, encryption features, etc.
