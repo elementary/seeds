@@ -72,6 +72,7 @@ firefox
 gnome-screensaver
 # we only want gnome-session-bin not configs
 gnome-session
+gnome-software
 gnome-system-monitor
 gnome-user-guide
 libaccount-plugin-1.0-0
