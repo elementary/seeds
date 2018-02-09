@@ -128,7 +128,8 @@ included due to matching Extra-Include patterns, and has no other effect):
  * Extra-Exclude: lib*go[0-9]*-dbg
  * Extra-Exclude: lib*objc[0-9]*-dbg
  * Extra-Exclude: libgcj[0-9]*-dbg libgcj[0-9]*-dev
- * Extra-Exclude: lib*gphobos[0-9]*-dbg
+ * Extra-Exclude: lib*gphobos[0-9]*-dbg lib*gphobos[0-9]*-dev
+ * Extra-Exclude: gcc-8-plugin-dev gccgo-8-doc gfortran-8-doc cpp-8-doc gcc-8-doc lib*gfortran-8-dev lib*gcc-8-dev libhsail-rt-8-dev lib*objc-8-dev lib*stdc++-8-dev lib*ubsan1-dev lib*ubsan1-dbg lib*stdc++6-8-dbg # GCC 8
  * Extra-Exclude: binutils-alpha-linux-gnu-dbg binutils-arm-linux-gnueabi-dbg binutils-hppa-linux-gnu-dbg binutils-hppa64-linux-gnu-dbg binutils-m68k-linux-gnu-dbg binutils-mips-linux-gnu-dbg binutils-mips64-linux-gnuabi64-dbg binutils-mips64-linux-gnuabin32-dbg binutils-mips64el-linux-gnuabi64-dbg binutils-mips64el-linux-gnuabin32-dbg binutils-mipsel-linux-gnu-dbg binutils-powerpc-linux-gnuspe-dbg binutils-powerpc64-linux-gnu-dbg binutils-sh4-linux-gnu-dbg binutils-sparc64-linux-gnu-dbg binutils-mipsisa32r6-linux-gnu-dbg binutils-mipsisa32r6el-linux-gnu-dbg binutils-mipsisa64r6-linux-gnuabi64-dbg binutils-mipsisa64r6-linux-gnuabin32-dbg binutils-mipsisa64r6el-linux-gnuabi64-dbg binutils-mipsisa64r6el-linux-gnuabin32-dbg binutils-ia64-linux-gnu-dbg binutils-riscv64-linux-gnu-dbg
  * Extra-Exclude: lldb-* liblldb-* clang* libclang* libllvm-* libfuzzer-*
  * Extra-Exclude: libavformat-dev libpostproc-dev
