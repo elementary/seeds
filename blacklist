@@ -110,6 +110,7 @@ ubuntu-mono # icon theme
 yelp
 # fcitx-frontend-gtk3 causes input issues with misc elementary apps
 fcitx-frontend-gtk3
+xserver-xorg-input-synaptics-hwe-16.04
 
 # update-manager stuff
 update-manager
