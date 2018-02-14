@@ -1,7 +1,0 @@
-This seed exists to keep some items that are required for specialized
-format cloud images
-
-= Supported Cloud Image Packages =
-
- * xe-guest-utilities # for XEN-virt-like cloud images, examples in the wild are Rackspace and Softlayer. LP: #1746680
- 
