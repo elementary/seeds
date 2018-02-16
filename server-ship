@@ -44,7 +44,7 @@ restricted modules.
 = From Ship =
 
  * ssh
- * ntp
+ * chrony # ntpd replaced by chrony >=18.04 (LP: #1744072)
  * bsd-mailx
  * mutt
  * build-essential
