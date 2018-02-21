@@ -48,6 +48,7 @@ This seed lists the packages we want to install by default in the new server ins
 = Initramfs Modules =
 
  * cloud-initramfs-copymods		# Needed by MAAS images
+ * cloud-initramfs-dyn-netconf		# Needed by MAAS images (LP: #1750851)
  * overlayroot			# Needed by MAAS
 
 = Other =
