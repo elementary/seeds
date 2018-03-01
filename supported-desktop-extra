@@ -2,7 +2,8 @@ This seed exists only to allow fine tuning the 3y support time
 
 = Dev tools =
 
- * gnupg2
+ * gnupg
+ * dirmngr
 
 = Documentation =
  * gnupg-doc
