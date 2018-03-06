@@ -175,6 +175,7 @@ included due to matching Extra-Include patterns, and has no other effect):
  * Extra-Exclude: libappstreamqt-dev # Qt5
  * Extra-Exclude: libpoppler-qt5-dev # Qt5
  * Extra-Exclude: rrdtool-dbg # pulls in rrdtool-tcl & tcl/tk
+ * Extra-Exclude: gstreamer1.0-plugins-good-dbg # pulls in the whole Qt stack
 
 Exclude some KDE-specific pieces:
 
