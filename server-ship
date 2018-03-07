@@ -191,6 +191,7 @@ Utilities:
 
  * nmap                   # network diagnostics
  * dnstracer              # dns network diagnostics
+ * ifupdown               # (old) high level tools to configure network interfaces
  * iptraf                 # For smooth upgrades from 16.04, can be dropped in 18.10
  * iptraf-ng              # sysadmin's toy, may be a candidate for removal
  * pptpd                  # server that allows setup of Microsoft-compatible VPN
