@@ -183,10 +183,6 @@ Other:
  * maas-enlist-udeb
  * open-vm-tools #utlemming
 
-RCS:
-
- * bzr
-
 Utilities:
 
  * numactl		  # LP: #1700826
