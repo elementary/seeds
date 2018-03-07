@@ -162,7 +162,6 @@ Other:
  * isc-dhcp-server
  * snmp
  * snmpd
- * openbsd-inetd
  * nbd-server
  * open-iscsi # ChuckShort
  * open-iscsi-udeb # SorenHansen
