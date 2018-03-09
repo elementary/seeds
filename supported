@@ -111,7 +111,6 @@ Fonts installed on demand by language-selector:
  * libapache2-mod-apparmor
  * libpam-apparmor
  * python3-libapparmor
- * libseccomp-dev    # promote its use, LP: #1082431
  * auditd
 
 = Rescued from Extra =
@@ -166,11 +165,6 @@ included due to matching Extra-Include patterns, and has no other effect):
  * Extra-Exclude: libblockdev-lvm-dev # pulls in thin-provisioning-tools, no MIR yet
  * Extra-Exclude: libblockdev-btrfs-dev libblockdev-kbd-dev libblockdev-mdraid-dev # pulls in libbytesize, no MIR yet
  * Extra-Exclude: libblockdev-crypto-dev # can be dropped once LP: #1754422 is approved
-
-Exclude some KDE-specific pieces:
-
- * Extra-Exclude: libqt4-debug libqt4-debug-dev qt4-doc
- * Extra-Exclude: qt-x11-free-dbg
 
 = Build infrastructure =
 
