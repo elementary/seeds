@@ -11,7 +11,7 @@ Task-Seeds: desktop-common
 
 Bluetooth:
 
- * (gnome-bluetooth) [!s390x] # desktop bluetooth support
+ * (gnome-bluetooth) # desktop bluetooth support
 
 = Network Services =
 
