@@ -140,37 +140,24 @@ included due to matching Extra-Include patterns, and has no other effect):
  * Extra-Exclude: libavformat-dev libpostproc-dev
  * Extra-Exclude: libnetpbm9-dev
  * Extra-Exclude: libboost-*-dev libboost*-all-dev libboost-doc libboost*-doc
- * Extra-Exclude: libcairo-directfb2-dev
  * Extra-Exclude: libcdio-*-dev libiso9660-dev
  * Extra-Exclude: nvidia-glx-legacy-dev # nvidia-glx-legacy is unsupportable
- * Extra-Exclude: python-qt4-gl python-qt4-gl-dbg # We don't want python-qt4-gl in main
- * Extra-Exclude: sendmail-doc
  * Extra-Exclude: *-cil *-cil-dev # Mono stuff
  * Extra-Exclude: libappindicator-dev libindicator3-dev libindicator-dev libdbusmenu-gtk-dev # gtk2 versions
  * Extra-Exclude: gir1.2-appindicator-0.1 gir1.2-dbusmenu-gtk-0.4 # gtk2 versions
  * Extra-Exclude: libcanberra-gtk-dev libgutenprintui2-dev # pulls in gtk2
  * Extra-Exclude: libgtk2.0-dev libglade2-dev # pulls in gtk2
- * Extra-Exclude: python-gtk2-doc python-gtk2-dev python-gtk2-dbg # pulls in gtk2
  * Extra-Exclude: python-renderpm-dbg
  * Extra-Exclude: python-reportlab-accel-dbg # packages aren't in main, -dbg shouldn't cause them to be
  * Extra-Exclude: sendmail-doc # sendmail source is only in main for libmilter
- * Extra-Exclude: libgnumail-java-doc # depends on classpath
- * Extra-Exclude: libcommons-dbcp-java-doc # depends on classpath
- * Extra-Exclude: javacc-doc # depends on classpath
- * Extra-Exclude: virtuoso-vad-doc # depends on binaries that were not MIR-approved
- * Extra-Exclude: python-vigra-doc # libvigraimpex is in main, but nothing uses python-vigra
- * Extra-Exclude: asp.net-examples
  * Extra-Exclude: grub-coreboot-dbg grub-emu-dbg
  * Extra-Exclude: unity-webapps-dev # we don't want its deps in main
- * Extra-Exclude: ubuntu-ui-toolkit-examples
- * Extra-Exclude: haproxy-doc # https://lists.ubuntu.com/archives/ubuntu-release/2014-July/002966.html
- * Extra-Exclude: libfftw3-mpi-dev
+ * Extra-Exclude: haproxy-doc # https://lists.ubuntu.com/archives/ubuntu-release/2014-July/002967.html
  * Extra-Exclude: imagemagick-6-doc # LP: #1667150
  * Extra-Exclude: imagemagick-doc   # See above
+ * Extra-Exclude: libfftw3-mpi-dev
  * Extra-Exclude: qtdeclarative5-examples # Was pulling qtquickcontrols-opensource-src and a bunch of other Qt/QML modules in main
  * Extra-Exclude: thunderbird-gnome-support-dbg # Unity support additions
- * Extra-Exclude: libqt4-dev # qt4 is dead, long live qt5
- * Extra-Exclude: libpoppler-qt4-dev # ditto
  * Extra-Exclude: libturbojpeg0-dev # legacy API not for main
  * Extra-Exclude: libappstreamqt-dev # Qt5
  * Extra-Exclude: libpoppler-qt5-dev # Qt5
