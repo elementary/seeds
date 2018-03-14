@@ -175,6 +175,14 @@ included due to matching Extra-Include patterns, and has no other effect):
  * duplicity
  * python-gi
 
+= Converted to snaps =
+# Especially since we don't convert .deb to snaps on upgrade, let's keep these in main for now:
+
+ * gnome-calculator
+ * gnome-characters
+ * gnome-logs
+ * gnome-system-monitor
+
 = Other =
 
  * miscfiles
