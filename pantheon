@@ -17,6 +17,7 @@ Task-Metapackage: pantheon
  * (pantheon-photos)
  * (pantheon-terminal)
  * (io.elementary.code)
+ * (io.elementary.shortcut-overlay)
  * (screenshot-tool)
  * (snap-photobooth)
 
