@@ -165,6 +165,7 @@ included due to matching Extra-Include patterns, and has no other effect):
  * Extra-Exclude: libblockdev-lvm-dev # pulls in thin-provisioning-tools, no MIR yet
  * Extra-Exclude: libblockdev-btrfs-dev libblockdev-kbd-dev libblockdev-mdraid-dev # pulls in libbytesize, no MIR yet
  * Extra-Exclude: libblockdev-crypto-dev # can be dropped once LP: #1754422 is approved
+ * Extra-Exclude: libu2f-host-dev # we actually just want the udev rules for U2F devices
 
 = Build infrastructure =
 
