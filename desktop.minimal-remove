@@ -96,13 +96,17 @@ python3-uno
 rhythmbox-data
 rhythmbox-plugin-alternative-toolbar
 rhythmbox-plugins
+remmina-common
 remmina-plugin-rdp
+remmina-plugin-secret
 remmina-plugin-vnc
 duplicity
 seahorse-daemon
 shotwell-common
 transmission-common
 cheese-common
+gnome-todo-common
+libgnome-todo
 gnome-video-effects
 libcheese-gtk25
 libcheese8
