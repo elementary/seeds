@@ -64,3 +64,4 @@ This seed lists the packages we want to install by default in the new server ins
  * s390-tools [s390x]           # needed for z block devices, bootloader, encryption features, etc.
  * gnupg
  * dirmngr
+ * landscape-common # LP: #1756261
