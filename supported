@@ -128,7 +128,7 @@ included due to matching Extra-Include patterns, and has no other effect):
  * Extra-Exclude: lib*objc[0-9]*-dbg
  * Extra-Exclude: libgcj[0-9]*-dbg libgcj[0-9]*-dev
  * Extra-Exclude: lib*gphobos[0-9]*-dbg lib*gphobos[0-9]*-dev
- * Extra-Exclude: gcc-8-doc gccgo-8-doc gfortran-8-doc cpp-8-doc libgccjit-8-doc
+ * Extra-Exclude: gcc-8-doc gfortran-8-doc cpp-8-doc libgccjit-8-doc
  * Extra-Exclude: gcc-8-plugin-dev
  * Extra-Exclude: lib*gfortran-8-dev lib*gfortran5-dbg
  * Extra-Exclude: lib*stdc++-8-dev lib*stdc++6-8-dbg
