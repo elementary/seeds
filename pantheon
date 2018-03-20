@@ -19,7 +19,7 @@ Task-Metapackage: pantheon
  * (io.elementary.code)
  * (io.elementary.shortcut-overlay)
  * (screenshot-tool)
- * (snap-photobooth)
+ * (io.elementary.camera)
 
 # not exactly apps, but still part of the DE
  * (pantheon-shell)
