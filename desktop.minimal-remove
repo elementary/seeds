@@ -13,6 +13,7 @@ rhythmbox
 cheese
 vino
 shotwell
+totem
 usb-creator-gtk
 deja-dup
 gnome-calendar
@@ -83,6 +84,9 @@ thunderbird-locale-it
 thunderbird-locale-ru
 
 # Unused rdepends
+gir1.2-rb-3.0
+gir1.2-totem-1.0
+gir1.2-totemplparser-1.0
 libreoffice-avmedia-backend-gstreamer
 libreoffice-base-core
 libreoffice-common
@@ -92,6 +96,8 @@ libreoffice-gtk3
 libreoffice-style-elementary
 libreoffice-style-galaxy
 libreoffice-style-tango
+librhythmbox-core10
+libtotem0
 python3-uno
 rhythmbox-data
 rhythmbox-plugin-alternative-toolbar
@@ -103,6 +109,8 @@ remmina-plugin-vnc
 duplicity
 seahorse-daemon
 shotwell-common
+totem-common
+totem-plugins
 transmission-common
 cheese-common
 gnome-todo-common
