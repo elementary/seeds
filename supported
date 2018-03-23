@@ -113,6 +113,11 @@ Fonts installed on demand by language-selector:
  * python3-libapparmor
  * auditd
 
+= Transistional Pacakages for Upgrades from 16.04 =
+
+ * libcomerr2
+ * e2fslibs
+
 = Rescued from Extra =
 
  * Extra-Include: *-dbg *-debug *-dev *-doc *-docs gir1.2-* *-examples
