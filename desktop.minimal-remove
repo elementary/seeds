@@ -42,6 +42,7 @@ libreoffice-pdfimport
 
 # Others
 example-content
+ubuntu-web-launchers
 
 # Langpacks (keeping libreoffice and thunderbird installed otherwise)
 libreoffice-l10n-en-gb
