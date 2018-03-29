@@ -12,7 +12,6 @@
 == Networking ==
 
  * bsd-mailx
- * vlan                   # userland tools to config 8021q support
 
 == Common UNIX stuff ==
 
