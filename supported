@@ -199,3 +199,7 @@ included due to matching Extra-Include patterns, and has no other effect):
  * w3m # The One True console web browser, needed to keep doc packages in main
  * curtin # subiquity needs it; python3-curtin already seeded via maas.
  * network-manager-openvpn # used by Canonical employees to access our VPN
+
+ * openjdk-11-jdk
+ * openjdk-11-doc
+ * openjdk-11-source
