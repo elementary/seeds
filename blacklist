@@ -58,6 +58,7 @@ webmin
 
 ### elementary ###
 
+apport
 apport-gtk
 apport-hooks-elementary
 apport-symptoms
