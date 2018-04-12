@@ -70,6 +70,7 @@ compiz
 example-content
 fcitx-frontend-gtk3
 firefox
+gnome-control-center
 gnome-screensaver
 # we only want gnome-session-bin not configs
 gnome-session
