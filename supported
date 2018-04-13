@@ -191,6 +191,7 @@ included due to matching Extra-Include patterns, and has no other effect):
 
 = Other =
 
+ * apt-config-icons*
  * miscfiles
  * sosreport # AdamStokes LP: #1206106
  * nvidia-prime
