@@ -46,6 +46,8 @@ Desktop Experience:
  * gnome-shell-extension-appindicator
  * (thunderbird-gnome-support)
  * (gir1.2-gmenu-3.0) # LP: #1726093
+ * (gnome-initial-setup)
+ * (ubuntu-report)
 
 = Desktop apps =
 
