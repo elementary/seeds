@@ -34,6 +34,8 @@ This seed exists only to allow fine tuning the 3y support time
  * nvidia-current-updates-dev
  * nvidia-settings-updates
  * /^nvidia-[0-9]+/
+ * /^nvidia-headless-[0-9]+/
+ * /^nvidia-headless-no-dkms-[0-9]+/
  * /^nvidia-[0-9]+-updates/
  * /^nvidia-[0-9]+-dev/
  * /^nvidia-[0-9]+-updates-dev/
