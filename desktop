@@ -104,7 +104,7 @@ OS-only stuff:
  * (pantheon-agent-geoclue2)
  * (pantheon-agent-polkit)
  * (user-specific-alternatives)  # wrapper to launch user-preferred apps for binaries like x-www-browser
- * (elementary-dpms-helper)
+ * (io.elementary.dpms-helper)
  * (light-locker)
  * (p7zip-full)            # elementary: supports a crazy number of formats
 
