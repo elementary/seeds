@@ -13,6 +13,7 @@ Task-Metapackage: elementary-sdk
  * dconf-editor # browse gsettings
  * git
  * gobject-introspection
+ * granite-demo
  * gtk-3-examples # gtk3-icon-browser
  * libgala-dev
  * libgirepository1.0-dev
