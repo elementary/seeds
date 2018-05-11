@@ -77,6 +77,7 @@ gnome-session
 gnome-software
 gnome-system-monitor
 gnome-user-guide
+humanity-icon-theme
 libaccount-plugin-1.0-0
 libsignon-extension1
 libsignon-plugins-common1
@@ -98,7 +99,6 @@ totem-mozilla
 ubiquity-slideshow-ubuntu
 ubuntu-artwork
 ubuntu-desktop
-# ubuntu-mono
 ubuntu-release-upgrader-core
 ubuntu-release-upgrader-gtk
 ubuntu-system-settings
