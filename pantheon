@@ -26,4 +26,4 @@ Task-Metapackage: pantheon
 
 # contractor and very, very default contracts
  * (contractor)
- * (pantheon-print)
+ * (io.elementary.print)
