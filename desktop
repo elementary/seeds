@@ -68,7 +68,6 @@ Switchboard and plugs:
  * (switchboard-plug-security-privacy)
  * (switchboard-plug-sound)
  * (switchboard-plug-users)
- * (switchboard-gnome-control-center-override)
 
 UI and branding fonts for elementary:
  * (fonts-elementary-core)
