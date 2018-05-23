@@ -106,11 +106,11 @@ We use many GNOME applications as part of our desktop user interface. Rather tha
  
  Desktop snaps
  * snap:gnome-3-26-1604
+ * snap:gtk-common-themes
  * snap:gnome-calculator
  * snap:gnome-characters
  * snap:gnome-logs
  * snap:gnome-system-monitor
- * snap:gtk-common-themes
 
 Software center
  * (ubuntu-software)
