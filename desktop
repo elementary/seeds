@@ -112,7 +112,6 @@ Pantheon Online Accounts:
  * (evolution-data-server-outlook)
  * (evolution-data-server-pantheon-online-accounts)
  * (gsignond)
- * (gsignond-extension-pantheon)
  * (gsignond-plugin-oauth)
  * (gsignond-plugin-lastfm)
 
