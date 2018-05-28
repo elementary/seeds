@@ -102,7 +102,6 @@ OS-only stuff:
  * (gnome-session-bin)       # starts up cerbere according to default-settings
  * (pantheon-agent-geoclue2)
  * (pantheon-agent-polkit)
- * (user-specific-alternatives)  # wrapper to launch user-preferred apps for binaries like x-www-browser
  * (io.elementary.dpms-helper)
  * (light-locker)
  * (p7zip-full)            # elementary: supports a crazy number of formats
