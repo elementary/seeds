@@ -70,6 +70,8 @@ compiz
 example-content
 fcitx-frontend-gtk3
 firefox
+# fonts-indic superseded by fonts-noto
+fonts-indic
 gnome-control-center
 gnome-screensaver
 # we only want gnome-session-bin not configs
