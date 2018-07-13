@@ -13,6 +13,7 @@ Task-Metapackage: elementary-sdk
  * gobject-introspection
  * granite-demo
  * gtk-3-examples # gtk3-icon-browser
+ * (io.elementary.vala-lint)
  * libgala-dev
  * libgirepository1.0-dev
  * libgranite-dev # elementary development library
