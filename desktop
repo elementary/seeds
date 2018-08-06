@@ -31,14 +31,20 @@ Basic network services, VPN and Windows integration.
 Input methods:
 
  * (gtk-im-libthai)
+ * (ibus-chewing)
  * (im-config)
  * (ibus)
  * (ibus-gtk)
  * (ibus-gtk3)
  * (ibus-hangul)
+ * (ibus-libpinyin)
+ * (ibus-m17n)
  * (ibus-mozc)
  * (ibus-table)
+ * (ibus-table-cangjie)
+ * (ibus-table-quick-classic)
  * (ibus-unikey)
+ * (ibus-table-wubi)
 
 Desktop Experience:
  * elementary-artwork
