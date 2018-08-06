@@ -209,17 +209,26 @@ Dutch:
  * (wdutch)
 
 English:
+ * (hunspell-en-au)
+ * (hunspell-en-ca)
+ * (hunspell-en-gb)
+ * (hunspell-en-us)
+ * (hunspell-en-za)
  * (language-pack-gnome-en)
  * (language-pack-en)
  * (wamerican)
  * (wbritish)
 
 French:
+ * (hunspell-fr)
  * (language-pack-gnome-fr)
  * (language-pack-fr)
  * (wfrench)
 
 German:
+ * (hunspell-de-at-frami)
+ * (hunspell-de-ch-frami)
+ * (hunspell-de-de-frami)
  * (language-pack-gnome-de)
  * (language-pack-de)
  * (wngerman)
@@ -234,6 +243,7 @@ Indonesian:
  * (language-pack-id)
 
 Italian:
+ * (hunspell-it)
  * (language-pack-gnome-it)
  * (language-pack-it)
  * (witalian)
@@ -257,16 +267,20 @@ Polish:
  * (wpolish)
 
 Portuguese:
+ * (hunspell-pt-br)
+ * (hunspell-pt-pt)
  * (language-pack-gnome-pt)
  * (language-pack-pt)
  * (wbrazilian)
  * (wportuguese)
 
 Russian:
+ * (hunspell-ru)
  * (language-pack-gnome-ru)
  * (language-pack-ru)
 
 Spanish:
+ * (hunspell-es)
  * (language-pack-gnome-es)
  * (language-pack-es)
  * (wspanish)
