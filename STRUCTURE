@@ -1,5 +1,5 @@
 feature follow-recommends
-include platform.artful
+include platform.bionic
 artwork:
 elementary-sdk:
 pantheon-shell:
