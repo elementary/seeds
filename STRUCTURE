@@ -7,4 +7,3 @@ pantheon:
 desktop: desktop-common artwork pantheon
 ship: boot installer desktop d-i-requirements
 live: desktop live-common
-ship-live: boot live
