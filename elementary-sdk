@@ -9,6 +9,7 @@ Task-Metapackage: elementary-sdk
  * (dconf-editor) # browse gsettings
  * (devscripts) # package tools
  * (equivs) # needed for make-build-deps to work
+ * desktop-file-utils
  * (gdb)
  * gettext
  * (git)
