@@ -7,7 +7,7 @@ Task-Metapackage: elementary-sdk
 
  * build-essential
  * (dconf-editor) # browse gsettings
- * devscripts # package tools
+ * (devscripts) # package tools
  * gdb
  * git
  * gobject-introspection
