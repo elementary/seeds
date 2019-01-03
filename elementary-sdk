@@ -23,6 +23,7 @@ Task-Metapackage: elementary-sdk
  * libglib2.0-dev
  * libgranite-dev # elementary development library
  * libgtk-3-dev
+ * libplank-dev
  * libswitchboard-2.0-dev
  * libwingpanel-2.0-dev
  * meson
