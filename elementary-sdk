@@ -9,7 +9,7 @@ Task-Metapackage: elementary-sdk
  * (dconf-editor) # browse gsettings
  * (devscripts) # package tools
  * (gdb)
- * git
+ * (git)
  * gobject-introspection
  * granite-demo
  * gtk-3-examples # gtk3-icon-browser
