@@ -8,7 +8,7 @@ Task-Metapackage: elementary-sdk
  * build-essential
  * (dconf-editor) # browse gsettings
  * (devscripts) # package tools
- * gdb
+ * (gdb)
  * git
  * gobject-introspection
  * granite-demo
