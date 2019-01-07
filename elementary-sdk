@@ -31,3 +31,4 @@ Task-Metapackage: elementary-sdk
  * meson
  * (python3-debian) # needed for wrap-and-sort to work
  * valac
+ * valadoc
