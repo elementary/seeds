@@ -28,6 +28,7 @@ Task-Metapackage: elementary-sdk
  * libswitchboard-2.0-dev
  * libunity-dev
  * libwingpanel-2.0-dev
+ * libxml2-dev
  * meson
  * (python3-debian) # needed for wrap-and-sort to work
  * valac
