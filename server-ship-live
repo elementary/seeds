@@ -1,7 +1,9 @@
 = Kernel =
 
 == generic ==
+
  * linux-generic
+ * linux-generic-hwe-18.04
  * opal-prd [ppc64el] # for OpenPOWER machines LP: #1555904 LP: #1691557
 
 = OpenSSH server =
