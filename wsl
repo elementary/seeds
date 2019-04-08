@@ -1,0 +1,17 @@
+Packages needed or useful in Windows Subsystem for Linux (WSL) installations.
+
+The WSL environment is somewhere between a chroot and a container.
+The Ubuntu installation runs processes in a root file system separate from the
+Windows root file system, but it can interact with the Windows programs sharing
+the network interfaces including localhost and via Unix sockets.
+
+The WSL environment does not need tools for setting up boot and does not run
+systemd at the moment.
+
+== Integration Utilities ==
+
+ * wslu           # utilites for WSL
+
+= Meta =
+
+ * ubuntu-wsl     # Ubuntu-specific bits we want on every Ubuntu WSL system

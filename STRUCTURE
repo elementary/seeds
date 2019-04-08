@@ -18,5 +18,6 @@ development: desktop
 supported-desktop-extra: desktop live
 supported-kiosk: desktop
 system-image: boot
+wsl: minimal
 # make sure supported remains the last entry
 supported: supported-common server-ship server-ship-live cloud-image ship ship-live development language-packs supported-desktop-extra supported-kiosk
