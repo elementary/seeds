@@ -50,6 +50,7 @@ Desktop Experience:
  * elementary-artwork
  * pantheon
  * (pantheon-greeter)
+ * (io.elementary.onboarding)
 
 System-wide distro-specific artwork:
  * (plymouth-theme-elementary)
