@@ -18,6 +18,7 @@ Task-Metapackage: pantheon
  * (pantheon-terminal)
  * (io.elementary.code)
  * (io.elementary.shortcut-overlay)
+ * (io.elementary.sideload)
  * (screenshot-tool)
  * (io.elementary.camera)
 
