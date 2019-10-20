@@ -58,3 +58,8 @@ These packages make up the Ubiquity live installer.
  * jfsutils # Needed for JFS installation (lp:1442982)
  * xfsprogs # Needed for XFS installation
 
+ * casper
+ * discover
+ * laptop-detect
+ * os-prober
+
