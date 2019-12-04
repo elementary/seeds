@@ -12,17 +12,5 @@ jobs:
       image: debian:latest
 
     steps:
-    - name: Clone metapackages
-      run: |
-        apt-get update && apt-get install -y git devscripts debootstrap germinate
-        git clone https://github.com/elementary/metapackages.git && cd metapackages
-        git remote set-url origin https://x-access-token:"$GITHUB_TOKEN"@github.com/elementary/metapackages.git
-        git config --global user.email "action@github.com"
-        git config --global user.name "GitHub Action"
-        echo "Updating metapackages..."
-        git checkout bionic
-        sh update
-        git add .
-        git commit -m "Automatic update via elementary seeds"
-        git push origin bionic
-        echo "Push complete"
+    - name: Update metapackages
+      run: ./update_metapackages.sh bionic
