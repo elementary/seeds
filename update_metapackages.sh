@@ -17,19 +17,6 @@ fi
 apt-get update
 apt-get install -y git devscripts debootstrap germinate
 
-echo "Setting up git credentials..."
-# default email and username to github actions user
-if [ -z "$GIT_USER_EMAIL" ]; then
-  GIT_USER_EMAIL="action@github.com"
-fi
-if [ -z "$GIT_USER_NAME" ]; then
-  GIT_USER_NAME="GitHub Action"
-fi
-git remote set-url origin https://x-access-token:"$GITHUB_TOKEN"@github.com/elementary/metapackages.git
-git config --global user.email "$GIT_USER_EMAIL"
-git config --global user.name "$GIT_USER_NAME"
-echo "git credentials configured."
-
 echo "Updating metapackages..."
 git checkout "$BRANCH"
 sh update
