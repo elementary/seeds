@@ -19,4 +19,4 @@ jobs:
         path: metapackages
         token: "${{ secrets.GIT_USER_TOKEN }}"
     - name: Update metapackages
-      run: cd metapackages && ./update_metapackages.sh focal
+      run: cd metapackages && ./../update_metapackages.sh focal
