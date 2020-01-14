@@ -1,0 +1,22 @@
+name: Update Metapackages
+
+on:
+  push:
+    branches:
+      - focal
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    container:
+      image: debian:stable-slim
+
+    steps:
+    - name: Checkout metapackages
+      uses: actions/checkout@v2
+      with:
+        repository: elementary/metapackages
+        path: metapackages
+        token: "${{ secrets.GIT_USER_TOKEN }}"
+    - name: Update metapackages
+      run: cd metapackages && bash ../update_metapackages.sh focal
