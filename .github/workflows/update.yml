@@ -12,11 +12,15 @@ jobs:
       image: debian:stable-slim
 
     steps:
+    - name: Checkout seeds
+      uses: actions/checkout@v2
+
     - name: Checkout metapackages
       uses: actions/checkout@v2
       with:
         repository: elementary/metapackages
         path: metapackages
         token: "${{ secrets.GIT_USER_TOKEN }}"
+
     - name: Update metapackages
       run: cd metapackages && bash ../update_metapackages.sh focal
