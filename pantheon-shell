@@ -5,6 +5,7 @@ Task-Extended-Description: Pantheon Shell is a modern and modular desktop shell 
 Task-Key: pantheon-shell
 Task-Metapackage: pantheon-shell
 
+ * io.elementary.notifications
  * pantheon-xsession-settings   # adds "Pantheon" entry to login screen
  * wingpanel
  * slingshot-launcher
