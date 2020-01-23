@@ -79,6 +79,7 @@ fonts-liberation
 fonts-lklug-sinhala
 fonts-thai-tlwg
 fonts-tibetan-machine
+gdm3
 gnome-control-center
 gnome-screensaver
 # we only want gnome-session-bin not configs
