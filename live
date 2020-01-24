@@ -42,14 +42,6 @@ default live.
  * fonts-arphic-uming
  * fonts-arphic-ukai
 
-== Ubiquity components ==
-
-These packages make up the Ubiquity live installer.
-
- * ubiquity-frontend-gtk
- * ubiquity-ubuntu-artwork
- * ubiquity-slideshow-elementary
-
 == Misc ==
 
  * gparted
