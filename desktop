@@ -98,16 +98,7 @@ Wingpanel and indicators:
  * (wingpanel-indicator-sound)
 
 Location Support:
- * (geoclue-localnet)
-# * (geoclue-plazes) # crashes every day
- * (geoclue-yahoo)
- * (geoclue-ubuntu-geoip)
- * (geoclue-skyhook)
-GSM:
- * (geoclue-gsmloc)
-Street Names:
- * (geoclue-nominatim)
- * (geoclue-geonames)
+ * (geoclue-2.0)
 
 OS-only stuff:
  * (capnet-assist)
