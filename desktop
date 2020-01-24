@@ -59,6 +59,7 @@ System-wide distro-specific artwork:
  * (elementary-printer-test-page)
 
 Switchboard and plugs:
+ * (io.elementary.switchboard.wacom)
  * (switchboard)
  * (switchboard-plug-about)
  * (switchboard-plug-a11y)
