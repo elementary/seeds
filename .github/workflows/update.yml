@@ -9,7 +9,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     container:
-      image: debian:stable-slim
+      image: ubuntu:rolling
 
     steps:
     # We need git to checkout the metapackages repository with git so keep it above
@@ -41,6 +41,8 @@ jobs:
             echo "Everything is up-to-date, nothing to commit"
         else
             echo "Committing new changes"
+            git config --global user.email "builds@elementary.io"
+            git config --global user.name "elementaryBot"
             git add .
             git commit -m "Automatic update via elementary seeds"
             git push origin "$BRANCH"
