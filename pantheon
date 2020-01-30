@@ -20,6 +20,7 @@ Task-Metapackage: pantheon
  * (io.elementary.shortcut-overlay)
  * (io.elementary.sideload)
  * (screenshot-tool)
+ * (io.elementary.tasks)
  * (io.elementary.camera)
 
 # not exactly apps, but still part of the DE
