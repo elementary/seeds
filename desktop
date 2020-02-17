@@ -152,10 +152,8 @@ The gstreamer1.0 packages we want to install:
 
 Accessibility tools:
 
- * (gnome-accessibility-themes)
  * (orca)
  * (brltty)
- * (xcursor-themes)
  * (speech-dispatcher)
  * (mousetweaks)
  * at-spi2-core
