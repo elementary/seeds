@@ -5,7 +5,7 @@ Task-Extended-Description: This task provides the acclaimed elementary desktop a
 Task-Key: elementary-artwork
 
  * elementary-icon-theme
- * adwaita-icon-theme
+ * adwaita-icon-theme-full
  * elementary-theme
  * (elementary-wallpapers)
  * (fonts-elementary-extra)
