@@ -81,7 +81,7 @@ Switchboard and plugs:
  * (switchboard-plug-sharing)
  * (switchboard-plug-security-privacy)
  * (switchboard-plug-sound)
- * (switchboard-plug-users)
+ * (switchboard-plug-useraccounts)
 
 UI and branding fonts for elementary:
  * (fonts-elementary-core)
