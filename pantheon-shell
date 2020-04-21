@@ -8,6 +8,6 @@ Task-Metapackage: pantheon-shell
  * io.elementary.notifications
  * pantheon-xsession-settings   # adds "Pantheon" entry to login screen
  * wingpanel
- * slingshot-launcher
+ * (slingshot-launcher)
  * (plank)
  * (gala)
