@@ -16,8 +16,9 @@ jobs:
     - name: Install dependencies
       shell: bash
       run: |
-        apt-get update
-        apt-get install -qq tzdata git devscripts debootstrap germinate
+        export DEBIAN_FRONTEND=noninteractive
+        apt-get -qq update
+        apt-get -qq install tzdata git devscripts debootstrap germinate
 
     - name: Checkout seeds
       uses: actions/checkout@v2
