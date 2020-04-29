@@ -17,7 +17,7 @@ jobs:
       shell: bash
       run: |
         apt-get update
-        apt-get install -y git devscripts debootstrap germinate
+        apt-get install -qq tzdata git devscripts debootstrap germinate
 
     - name: Checkout seeds
       uses: actions/checkout@v2
