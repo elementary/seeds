@@ -11,3 +11,4 @@ Task-Key: elementary-artwork
  * (fonts-elementary-extra)
  * (fonts-inter)
  * (io.elementary.sound-theme)
+ * (io.elementary.stylesheet)
