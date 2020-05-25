@@ -109,7 +109,6 @@ OS-only stuff:
  * (pantheon-agent-geoclue2)
  * (pantheon-agent-polkit)
  * (io.elementary.dpms-helper)
- * (light-locker)
  * (p7zip-full)            # elementary: supports a crazy number of formats
 
 Pantheon Online Accounts:
