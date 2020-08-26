@@ -45,6 +45,7 @@ Input methods:
  * (ibus-table-quick-classic)
  * (ibus-unikey)
  * (ibus-table-wubi)
+ * (mozc-utils-gui)
 
 Desktop Experience:
  * elementary-artwork
