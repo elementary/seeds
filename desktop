@@ -108,7 +108,6 @@ OS-only stuff:
  * (gnome-session-bin)       # starts up cerbere according to default-settings
  * (pantheon-agent-geoclue2)
  * (pantheon-agent-polkit)
- * (io.elementary.dpms-helper)
  * (p7zip-full)            # elementary: supports a crazy number of formats
 
 Pantheon Online Accounts:
