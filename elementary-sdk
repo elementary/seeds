@@ -10,6 +10,7 @@ Task-Metapackage: elementary-sdk
  * (devscripts) # package tools
  * (equivs) # needed for make-build-deps to work
  * desktop-file-utils
+ * flatpak-builder
  * (gdb)
  * gettext
  * (git)
