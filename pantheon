@@ -7,7 +7,6 @@ Task-Metapackage: pantheon
 
 # apps shipped by default, in alphabetical order:
  * (appcenter)
- * (epiphany-browser)
  * (maya-calendar)
  * (noise)
  * (pantheon-files)
