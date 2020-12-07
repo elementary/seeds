@@ -61,7 +61,6 @@ System-wide distro-specific artwork:
 
 Switchboard and plugs:
  * (io.elementary.switchboard.wacom)
- * (io.elementary.switchboard.wallet)
  * (switchboard)
  * (switchboard-plug-about)
  * (switchboard-plug-a11y)
