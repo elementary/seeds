@@ -28,7 +28,7 @@ Task-Metapackage: elementary-sdk
  * libplank-dev
  * libswitchboard-2.0-dev
  * libunity-dev
- * libwingpanel-2.0-dev
+ * libwingpanel-dev
  * libxml2-dev
  * libxml2-utils
  * meson
