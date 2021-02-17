@@ -87,7 +87,7 @@ UI and branding fonts for elementary:
  * (fonts-elementary-core)
 
 Wingpanel and indicators:
- * (wingpanel)
+ * (io.elementary.wingpanel)
  * (wingpanel-indicator-a11y)
  * (wingpanel-indicator-bluetooth)
  * (wingpanel-indicator-datetime)
