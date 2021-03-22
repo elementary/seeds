@@ -12,6 +12,7 @@ Task-Seeds: desktop-common
 Bluetooth:
 
  * (gnome-bluetooth) # desktop bluetooth support
+ * (io.elementary.contractor.gnome-bluetooth-contract)
 
 = Network Services =
 
