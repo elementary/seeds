@@ -6,9 +6,9 @@ Task-Key: pantheon-shell
 Task-Metapackage: pantheon-shell
 
  * io.elementary.notifications
+ * io.elementary.wingpanel
  * pantheon-xsession-settings   # adds "Pantheon" entry to login screen
  * touchegg
- * wingpanel
  * (slingshot-launcher)
  * (plank)
  * (gala)
