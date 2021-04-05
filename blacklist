@@ -117,6 +117,7 @@ ubuntu-system-settings
 ubuntu-touch-sounds
 ubuntu-wallpapers
 ubuntu-wallpapers-focal
+ubuntu-advantage-tools
 # unar pulls in gnustep-base resulting in gdomap running, lp:1357051
 unar
 unity
