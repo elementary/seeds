@@ -11,7 +11,6 @@ Task-Metapackage: pantheon
  * (noise)
  * (pantheon-files)
  * (pantheon-photos)
- * (io.elementary.camera)
  * (io.elementary.code)
  * (io.elementary.mail)
  * (io.elementary.settings-daemon)
