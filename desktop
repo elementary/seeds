@@ -117,7 +117,6 @@ Pantheon Online Accounts:
  * (evolution-data-server-pantheon-online-accounts)
  * (gsignond)
  * (gsignond-plugin-oauth)
- * (gsignond-plugin-lastfm)
 
 Prerelease stuff:
  * (elementary-os-prerelease)
