@@ -51,7 +51,7 @@ Input methods:
 Desktop Experience:
  * elementary-artwork
  * pantheon
- * (pantheon-greeter)
+ * (io.elementary.greeter)
  * (io.elementary.initial-setup)
  * (io.elementary.onboarding)
 
