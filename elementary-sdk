@@ -34,5 +34,6 @@ Task-Metapackage: elementary-sdk
  * libxml2-utils
  * meson
  * (python3-debian) # needed for wrap-and-sort to work
+ * (vala-language-server)
  * valac
  * valadoc
