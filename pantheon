@@ -1,7 +1,7 @@
 Task-Per-Derivative: 1
 Task-Section: user
 Task-Description: Pantheon Desktop Environment
-Task-Extended-Description: Desktop environment based on GNOME with a strong focus on user experience, developed by elementary project
+Task-Extended-Description: elementary Desktop environment
 Task-Key: pantheon
 Task-Metapackage: pantheon
 
