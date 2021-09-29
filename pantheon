@@ -13,6 +13,7 @@ Task-Metapackage: pantheon
  * (pantheon-photos)
  * (io.elementary.code)
  * (io.elementary.mail)
+ * (io.elementary.portals)
  * (io.elementary.settings-daemon)
  * (io.elementary.shortcut-overlay)
  * (io.elementary.sideload)
