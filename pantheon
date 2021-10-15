@@ -17,6 +17,7 @@ Task-Metapackage: pantheon
  * (io.elementary.settings-daemon)
  * (io.elementary.shortcut-overlay)
  * (io.elementary.sideload)
+ * (io.elementary.screenshot)
  * (io.elementary.tasks)
  * (io.elementary.terminal)
  * (io.elementary.videos)
