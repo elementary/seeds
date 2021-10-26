@@ -126,8 +126,7 @@ Prerelease stuff:
 
 We use many GNOME applications as part of our desktop user interface. Rather than using Debian's meta-packages they are deliberately expanded so that we can select things a bit better.
 
- * (file-roller)
- * (io.elementary.contractor.file-roller)
+ * (org.gnome.fileroller)
  * gnome-menus
  * (gnome-power-manager)
  * (gnome-font-viewer)
