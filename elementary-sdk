@@ -17,6 +17,7 @@ Task-Metapackage: elementary-sdk
  * gobject-introspection
  * (granite-demo)
  * (gtk-3-examples) # gtk3-icon-browser
+ * (gtk-4-examples) # widget factory, demo
  * (io.elementary.code) # official elementary IDE
  * (io.elementary.vala-lint)
  * libgala-dev
@@ -25,6 +26,7 @@ Task-Metapackage: elementary-sdk
  * libglib2.0-dev
  * libgranite-dev # elementary development library
  * libgtk-3-dev
+ * libgtk-4-dev
  * libhandy-1-dev
  * libplank-dev
  * libswitchboard-2.0-dev
