@@ -8,11 +8,11 @@ Task-Metapackage: pantheon
 # apps shipped by default, in alphabetical order:
  * (appcenter)
  * (maya-calendar)
- * (noise)
  * (pantheon-files)
  * (pantheon-photos)
  * (io.elementary.code)
  * (io.elementary.mail)
+ * (io.elementary.music)
  * (io.elementary.portals)
  * (io.elementary.settings-daemon)
  * (io.elementary.shortcut-overlay)
