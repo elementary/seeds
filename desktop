@@ -14,6 +14,10 @@ Bluetooth:
  * (gnome-bluetooth) # desktop bluetooth support
  * (io.elementary.contractor.gnome-bluetooth-contract)
 
+Pipewire:
+ * (pipewire-audio-client-libraries)
+ * (libspa-0.2-bluetooth) # Bluetooth headsets
+
 = Network Services =
 
 Basic network services, VPN and Windows integration.
