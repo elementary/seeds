@@ -16,6 +16,8 @@ Bluetooth:
 
 Pipewire:
  * (pipewire-audio-client-libraries)
+ * (pipewire-media-session)
+ * (pipewire-pulse)
  * (libspa-0.2-bluetooth) # Bluetooth headsets
 
 = Network Services =
