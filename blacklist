@@ -65,6 +65,7 @@ apport-symptoms
 apt-transport-https
 banshee
 branding-ubuntu
+budgie-desktop
 compiz
 # creates ~/example.desktop
 example-content
