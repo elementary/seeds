@@ -82,6 +82,7 @@ fonts-thai-tlwg
 fonts-tibetan-machine
 gdm3
 gnome-control-center
+gnome-remote-desktop
 gnome-screensaver
 # we only want gnome-session-bin not configs
 gnome-session
