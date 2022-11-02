@@ -23,6 +23,7 @@ Task-Metapackage: pantheon
  * (io.elementary.tasks)
  * (io.elementary.terminal)
  * (io.elementary.videos)
+ * (org.gnome.Epiphany)
 
 # not exactly apps, but still part of the DE
  * (pantheon-shell)
