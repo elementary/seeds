@@ -11,6 +11,7 @@ Task-Metapackage: pantheon
  * (pantheon-files)
  * (pantheon-photos)
  * (io.elementary.calculator)
+ * (io.elementary.camera)
  * (io.elementary.code)
  * (io.elementary.mail)
  * (io.elementary.music)
