@@ -10,6 +10,8 @@ Task-Metapackage: pantheon
  * (maya-calendar)
  * (pantheon-files)
  * (pantheon-photos)
+ * (io.elementary.calculator)
+ * (io.elementary.camera)
  * (io.elementary.code)
  * (io.elementary.mail)
  * (io.elementary.music)
@@ -21,6 +23,8 @@ Task-Metapackage: pantheon
  * (io.elementary.tasks)
  * (io.elementary.terminal)
  * (io.elementary.videos)
+ * (org.gnome.epiphany)
+ * (org.gnome.evince)
 
 # not exactly apps, but still part of the DE
  * (pantheon-shell)
