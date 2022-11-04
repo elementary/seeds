@@ -21,10 +21,10 @@ jobs:
         apt-get -qq install tzdata git devscripts debootstrap germinate
 
     - name: Checkout seeds
-      uses: actions/checkout@v2
+      uses: actions/checkout@v3
 
     - name: Checkout metapackages
-      uses: actions/checkout@v2
+      uses: actions/checkout@v3
       with:
         repository: elementary/metapackages
         path: metapackages
