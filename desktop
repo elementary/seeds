@@ -107,7 +107,6 @@ OS-only stuff:
  * (capnet-assist)
  * (elementary-default-settings)
  * (gnome-session-bin)       # starts up cerbere according to default-settings
- * (pantheon-agent-geoclue2)
  * (pantheon-agent-polkit)
  * (p7zip-full)            # elementary: supports a crazy number of formats
 
