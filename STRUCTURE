@@ -1,5 +1,5 @@
 feature follow-recommends
-include platform.jammy
+include platform.mantic
 artwork:
 elementary-sdk:
 pantheon-shell:
