@@ -303,3 +303,5 @@ Vietnamese:
 
  * elementary-desktop # metapackage for everything here
  * (libwmf0.2-7-gtk) # provides a gdk-pixbuf loader for WMF images
+ * (heif-gdk-pixbuf) # provides a gdk-pixbuf loader for HEIF images
+ * (heif-thumbnailer) # image thumbnailer plugin for HEIF images
