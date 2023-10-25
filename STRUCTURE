@@ -1,5 +1,5 @@
 feature follow-recommends
-include platform.jammy
+include platform.noble
 artwork:
 elementary-sdk:
 pantheon-shell:
