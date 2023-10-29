@@ -5,5 +5,5 @@ elementary-sdk:
 pantheon-shell:
 pantheon:
 desktop: desktop-common artwork pantheon
-ship: boot installer desktop d-i-requirements
+ship: boot installer desktop
 live: desktop live-common
