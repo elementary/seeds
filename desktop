@@ -61,17 +61,17 @@ System-wide distro-specific artwork:
  * (elementary-printer-test-page)
 
 System Settings and extensions:
-* (io.elementary.settings)
-* (io.elementary.settings.applications)
-* (io.elementary.settings-bluetooth)
-* (io.elementary.settings.datetime)
-* (io.elementary.settings.locale)
-* (io.elementary.settings-mouse-touchpad)
-* (io.elementary.settings.notifications)
-* (io.elementary.settings.onlineaccounts)
-* (io.elementary.settings.power)
-* (io.elementary.settings.sharing)
-* (io.elementary.settings.sound)
+ * (io.elementary.settings)
+ * (io.elementary.settings.applications)
+ * (io.elementary.settings-bluetooth)
+ * (io.elementary.settings.datetime)
+ * (io.elementary.settings.locale)
+ * (io.elementary.settings-mouse-touchpad)
+ * (io.elementary.settings.notifications)
+ * (io.elementary.settings.onlineaccounts)
+ * (io.elementary.settings.power)
+ * (io.elementary.settings.sharing)
+ * (io.elementary.settings.sound)
 
 Switchboard and plugs:
  * (io.elementary.switchboard.wacom)
