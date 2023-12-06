@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - noble
+  workflow_dispatch: {}
 
 jobs:
   build:
