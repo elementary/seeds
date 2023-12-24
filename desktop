@@ -72,6 +72,7 @@ System Settings and extensions:
  * (io.elementary.settings.power)
  * (io.elementary.settings.sharing)
  * (io.elementary.settings.sound)
+ * (io.elementary.settings.system)
 
 Switchboard and plugs:
  * (io.elementary.switchboard.wacom)
