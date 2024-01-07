@@ -70,6 +70,7 @@ System Settings and extensions:
  * (io.elementary.settings.notifications)
  * (io.elementary.settings.onlineaccounts)
  * (io.elementary.settings.power)
+ * (io.elementary.settings.screentime-limits)
  * (io.elementary.settings.sharing)
  * (io.elementary.settings.sound)
  * (io.elementary.settings.system)
@@ -82,7 +83,6 @@ Switchboard and plugs:
  * (switchboard-plug-keyboard)
  * (switchboard-plug-networking)
  * (switchboard-plug-pantheon-shell)
- * (switchboard-plug-parental-controls)
  * (switchboard-plug-printers)
  * (switchboard-plug-security-privacy)
 
