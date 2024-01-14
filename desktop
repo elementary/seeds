@@ -65,6 +65,7 @@ System Settings and extensions:
  * (io.elementary.settings.applications)
  * (io.elementary.settings-bluetooth)
  * (io.elementary.settings.datetime)
+ * (io.elementary.settings.desktop)
  * (io.elementary.settings.locale)
  * (io.elementary.settings-mouse-touchpad)
  * (io.elementary.settings.notifications)
@@ -83,7 +84,6 @@ Switchboard and plugs:
  * (switchboard-plug-display)
  * (switchboard-plug-keyboard)
  * (switchboard-plug-networking)
- * (switchboard-plug-pantheon-shell)
  * (switchboard-plug-printers)
 
 UI and branding fonts for elementary:
