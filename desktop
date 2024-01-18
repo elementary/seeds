@@ -66,6 +66,7 @@ System Settings and extensions:
  * (io.elementary.settings-bluetooth)
  * (io.elementary.settings.datetime)
  * (io.elementary.settings.desktop)
+ * (io.elementary.settings.keyboard)
  * (io.elementary.settings.locale)
  * (io.elementary.settings-mouse-touchpad)
  * (io.elementary.settings.notifications)
@@ -82,7 +83,6 @@ Switchboard and plugs:
  * (io.elementary.switchboard.wacom)
  * (switchboard)
  * (switchboard-plug-display)
- * (switchboard-plug-keyboard)
  * (switchboard-plug-networking)
  * (switchboard-plug-printers)
 
