@@ -31,6 +31,7 @@ Task-Metapackage: elementary-sdk
  * libgtk-4-dev
  * libhandy-1-dev
  * libswitchboard-2.0-dev
+ * libswitchboard-3-dev
  * libunity-dev
  * libwingpanel-dev
  * libxml2-dev
