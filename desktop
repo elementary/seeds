@@ -72,6 +72,7 @@ System Settings and extensions:
  * (io.elementary.settings.notifications)
  * (io.elementary.settings.onlineaccounts)
  * (io.elementary.settings.power)
+ * (io.elementary.settings.printers)
  * (io.elementary.settings.screentime-limits)
  * (io.elementary.settings.security-privacy)
  * (io.elementary.settings.sharing)
@@ -84,7 +85,6 @@ Switchboard and plugs:
  * (switchboard)
  * (switchboard-plug-display)
  * (switchboard-plug-networking)
- * (switchboard-plug-printers)
 
 UI and branding fonts for elementary:
  * (fonts-elementary-core)
