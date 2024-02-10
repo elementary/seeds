@@ -69,6 +69,7 @@ System Settings and extensions:
  * (io.elementary.settings.keyboard)
  * (io.elementary.settings.locale)
  * (io.elementary.settings-mouse-touchpad)
+ * (io.elementary.settings.network)
  * (io.elementary.settings.notifications)
  * (io.elementary.settings.onlineaccounts)
  * (io.elementary.settings.power)
@@ -82,9 +83,7 @@ System Settings and extensions:
 
 Switchboard and plugs:
  * (io.elementary.switchboard.wacom)
- * (switchboard)
  * (switchboard-plug-display)
- * (switchboard-plug-networking)
 
 UI and branding fonts for elementary:
  * (fonts-elementary-core)
