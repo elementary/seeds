@@ -89,6 +89,7 @@ UI and branding fonts for elementary:
  * (fonts-elementary-core)
 
 Wingpanel and indicators:
+ * (io.elementary.quick-settings)
  * (io.elementary.wingpanel)
  * (wingpanel-indicator-a11y)
  * (wingpanel-indicator-bluetooth)
@@ -98,7 +99,6 @@ Wingpanel and indicators:
  * (wingpanel-indicator-nightlight)
  * (wingpanel-indicator-notifications)
  * (wingpanel-indicator-power)
- * (wingpanel-indicator-session)
  * (wingpanel-indicator-sound)
 
 Location Support:
