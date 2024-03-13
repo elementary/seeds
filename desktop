@@ -81,9 +81,7 @@ System Settings and extensions:
  * (io.elementary.settings.sound)
  * (io.elementary.settings.system)
  * (io.elementary.settings.useraccounts)
-
-Switchboard and plugs:
- * (io.elementary.switchboard.wacom)
+ * (io.elementary.settings.wacom)
 
 UI and branding fonts for elementary:
  * (fonts-elementary-core)
