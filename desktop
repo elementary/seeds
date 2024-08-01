@@ -63,7 +63,7 @@ System-wide distro-specific artwork:
 System Settings and extensions:
  * (io.elementary.settings)
  * (io.elementary.settings.applications)
- * (io.elementary.settings-bluetooth)
+ * (io.elementary.settings.bluetooth)
  * (io.elementary.settings.datetime)
  * (io.elementary.settings.desktop)
  * (io.elementary.settings.display)
