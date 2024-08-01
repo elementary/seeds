@@ -124,9 +124,9 @@ Prerelease stuff:
 We use many GNOME applications as part of our desktop user interface. Rather than using Debian's meta-packages they are deliberately expanded so that we can select things a bit better.
 
  * (org.gnome.fileroller)
+ * (org.gnome.font-viewer)
  * gnome-menus
  * (gnome-power-manager)
- * (gnome-font-viewer)
  * (xdg-utils)         # useful utilities
  * xdg-user-dirs
  * xdg-user-dirs-gtk
