@@ -68,7 +68,7 @@ System Settings and extensions:
  * (io.elementary.settings.display)
  * (io.elementary.settings.keyboard)
  * (io.elementary.settings.locale)
- * (io.elementary.settings-mouse-touchpad)
+ * (io.elementary.settings.mouse-touchpad)
  * (io.elementary.settings.network)
  * (io.elementary.settings.notifications)
  * (io.elementary.settings.onlineaccounts)
