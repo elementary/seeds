@@ -26,6 +26,7 @@
  * setserial	# needed by folks with nonstandard serial ports
  * b43-fwcutter
  * sosreport
+ * dkms
 
 == Common language packs ==
 
