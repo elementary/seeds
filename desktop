@@ -14,12 +14,6 @@ Bluetooth:
  * (gnome-bluetooth) # desktop bluetooth support
  * (io.elementary.contractor.gnome-bluetooth-contract)
 
-Pipewire:
- * (pipewire-audio-client-libraries)
- * (pipewire-media-session)
- * (pipewire-pulse)
- * (libspa-0.2-bluetooth) # Bluetooth headsets
-
 = Network Services =
 
 Basic network services, VPN and Windows integration.
@@ -140,8 +134,6 @@ We use many GNOME applications as part of our desktop user interface. Rather tha
  * (xdg-utils)         # useful utilities
  * xdg-user-dirs
  * xdg-user-dirs-gtk
- * pulseaudio
- * (pulseaudio-module-bluetooth)
  * gvfs-bin             # mostly used as xdg-open backend
  * (gvfs-fuse)          # let non-GNOME apps see GVFS via fuse
  * (libpam-gnome-keyring)
