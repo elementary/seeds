@@ -129,8 +129,6 @@ We use many GNOME applications as part of our desktop user interface. Rather tha
  * (xdg-utils)         # useful utilities
  * xdg-user-dirs
  * xdg-user-dirs-gtk
- * pulseaudio
- * (pulseaudio-module-bluetooth)
  * gvfs-bin             # mostly used as xdg-open backend
  * (gvfs-fuse)          # let non-GNOME apps see GVFS via fuse
  * (libpam-gnome-keyring)
