@@ -49,6 +49,7 @@ default live.
 
 == Misc ==
 
+ * apparmor-profiles # Launch Flatpak apps
  * gparted
  * expect
  * cifs-utils # Needed by casper for CIFS root=
