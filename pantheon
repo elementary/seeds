@@ -26,7 +26,7 @@ Task-Metapackage: pantheon
  * (io.elementary.terminal)
  * (io.elementary.videos)
  * (org.gnome.epiphany)
- * (org.gnome.evince)
+ * (org.gnome.papers)
 
 # not exactly apps, but still part of the DE
  * (pantheon-shell)
