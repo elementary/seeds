@@ -88,13 +88,13 @@ UI and branding fonts for elementary:
 Wingpanel and indicators:
  * (io.elementary.quick-settings)
  * (io.elementary.wingpanel)
- * (wingpanel-indicator-bluetooth)
- * (wingpanel-indicator-datetime)
- * (wingpanel-indicator-keyboard)
+ * (io.elementary.panel.bluetooth)
+ * (io.elementary.panel.datetime)
+ * (io.elementary.panel.keyboard)
  * (wingpanel-indicator-network)
- * (wingpanel-indicator-nightlight)
+ * (io.elementary.panel.nightlight)
  * (wingpanel-indicator-notifications)
- * (wingpanel-indicator-power)
+ * (io.elementary.panel.power)
  * (wingpanel-indicator-sound)
 
 Location Support:
