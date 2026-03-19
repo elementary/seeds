@@ -91,9 +91,9 @@ Wingpanel and indicators:
  * (io.elementary.panel.bluetooth)
  * (io.elementary.panel.datetime)
  * (io.elementary.panel.keyboard)
- * (wingpanel-indicator-network)
+ * (io.elementary.panel.network)
  * (io.elementary.panel.nightlight)
- * (wingpanel-indicator-notifications)
+ * (io.elementary.panel.notifications)
  * (io.elementary.panel.power)
  * (wingpanel-indicator-sound)
 
