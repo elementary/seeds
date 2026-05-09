@@ -6,10 +6,10 @@ Task-Key: pantheon
 Task-Metapackage: pantheon
 
 # apps shipped by default, in alphabetical order:
- * (appcenter)
  * (maya-calendar)
  * (pantheon-files)
  * (pantheon-photos)
+ * (io.elementary.appcenter)
  * (io.elementary.calculator)
  * (io.elementary.camera)
  * (io.elementary.code)
