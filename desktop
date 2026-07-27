@@ -123,7 +123,6 @@ We use many GNOME applications as part of our desktop user interface. Rather tha
 
  * (org.gnome.fileroller)
  * (org.gnome.font-viewer)
- * gnome-menus
  * (gnome-power-manager)
  * (xdg-utils)         # useful utilities
  * xdg-user-dirs
