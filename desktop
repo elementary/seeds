@@ -100,7 +100,6 @@ Location Support:
  * (geoclue-2.0)
 
 OS-only stuff:
- * (capnet-assist)
  * (elementary-default-settings)
  * (gnome-session-bin)       # starts up cerbere according to default-settings
  * (gnome-session-common)       # provides systemd gnome-session-*.target files that our sessions depend on
@@ -122,8 +121,6 @@ Prerelease stuff:
 
 We use many GNOME applications as part of our desktop user interface. Rather than using Debian's meta-packages they are deliberately expanded so that we can select things a bit better.
 
- * (org.gnome.fileroller)
- * (org.gnome.font-viewer)
  * (gnome-power-manager)
  * (xdg-utils)         # useful utilities
  * xdg-user-dirs
