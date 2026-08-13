@@ -85,6 +85,7 @@ UI and branding fonts for elementary:
  * (fonts-elementary-core)
 
 Wingpanel and indicators:
+ * (io.elementary.applications-menu)
  * (io.elementary.quick-settings)
  * (io.elementary.wingpanel)
  * (io.elementary.panel.bluetooth)
