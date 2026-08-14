@@ -32,7 +32,6 @@ Input methods:
 
  * (gtk-im-libthai)
  * (ibus-chewing)
- * (im-config)
  * (ibus)
  * (ibus-gtk)
  * (ibus-gtk3)
@@ -86,24 +85,25 @@ UI and branding fonts for elementary:
  * (fonts-elementary-core)
 
 Wingpanel and indicators:
+ * (io.elementary.applications-menu)
  * (io.elementary.quick-settings)
  * (io.elementary.wingpanel)
- * (wingpanel-indicator-bluetooth)
- * (wingpanel-indicator-datetime)
- * (wingpanel-indicator-keyboard)
- * (wingpanel-indicator-network)
- * (wingpanel-indicator-nightlight)
- * (wingpanel-indicator-notifications)
- * (wingpanel-indicator-power)
+ * (io.elementary.panel.bluetooth)
+ * (io.elementary.panel.datetime)
+ * (io.elementary.panel.keyboard)
+ * (io.elementary.panel.network)
+ * (io.elementary.panel.nightlight)
+ * (io.elementary.panel.notifications)
+ * (io.elementary.panel.power)
  * (wingpanel-indicator-sound)
 
 Location Support:
  * (geoclue-2.0)
 
 OS-only stuff:
- * (capnet-assist)
  * (elementary-default-settings)
  * (gnome-session-bin)       # starts up cerbere according to default-settings
+ * (gnome-session-common)       # provides systemd gnome-session-*.target files that our sessions depend on
  * (pantheon-agent-polkit)
  * (p7zip-full)            # elementary: supports a crazy number of formats
 
@@ -122,9 +122,6 @@ Prerelease stuff:
 
 We use many GNOME applications as part of our desktop user interface. Rather than using Debian's meta-packages they are deliberately expanded so that we can select things a bit better.
 
- * (org.gnome.fileroller)
- * (org.gnome.font-viewer)
- * gnome-menus
  * (gnome-power-manager)
  * (xdg-utils)         # useful utilities
  * xdg-user-dirs
@@ -300,6 +297,7 @@ Vietnamese:
  * (heif-gdk-pixbuf) # provides a gdk-pixbuf loader for HEIF images
  * (heif-thumbnailer) # image thumbnailer plugin for HEIF images
  * (systemd-coredump) # allows us to give consistent commands to get useful backtraces from a crash
+ * (initramfs-tools)
  * (steam-devices) # udev rules for Steam
 
 == Architecture-dependent ==

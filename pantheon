@@ -6,31 +6,22 @@ Task-Key: pantheon
 Task-Metapackage: pantheon
 
 # apps shipped by default, in alphabetical order:
- * (appcenter)
  * (maya-calendar)
  * (pantheon-files)
  * (pantheon-photos)
- * (io.elementary.calculator)
- * (io.elementary.camera)
+ * (io.elementary.appcenter)
  * (io.elementary.code)
  * (io.elementary.mail)
- * (io.elementary.maps)
  * (io.elementary.monitor)
- * (io.elementary.music)
  * (io.elementary.portals)
  * (io.elementary.settings-daemon)
  * (io.elementary.shortcut-overlay)
  * (io.elementary.sideload)
- * (io.elementary.screenshot)
  * (io.elementary.tasks)
  * (io.elementary.terminal)
- * (io.elementary.videos)
- * (org.gnome.epiphany)
- * (org.gnome.evince)
 
 # not exactly apps, but still part of the DE
  * (pantheon-shell)
 
 # contractor and very, very default contracts
  * (contractor)
- * (io.elementary.print)
