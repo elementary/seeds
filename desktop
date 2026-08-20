@@ -95,7 +95,7 @@ Wingpanel and indicators:
  * (io.elementary.panel.nightlight)
  * (io.elementary.panel.notifications)
  * (io.elementary.panel.power)
- * (wingpanel-indicator-sound)
+ * (io.elementary.panel.sound)
 
 Location Support:
  * (geoclue-2.0)
