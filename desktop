@@ -298,6 +298,7 @@ Vietnamese:
  * (heif-thumbnailer) # image thumbnailer plugin for HEIF images
  * (systemd-coredump) # allows us to give consistent commands to get useful backtraces from a crash
  * (initramfs-tools)
+ * (steam-devices) # udev rules for Steam
 
 == Architecture-dependent ==
 
