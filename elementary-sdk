@@ -6,12 +6,11 @@ Task-Key: elementary-sdk
 Task-Metapackage: elementary-sdk
 
  * build-essential
- * (dconf-editor) # browse gsettings
  * (devscripts) # package tools
  * (equivs) # needed for make-build-deps to work
  * desktop-file-utils
  * flatpak-builder
- * (gdb)
+ * gdb
  * gettext
  * (git)
  * gobject-introspection
