@@ -23,6 +23,8 @@ Basic network services, VPN and Windows integration.
  * (network-manager-pptp-gnome)
  * (libproxy1-plugin-gsettings)
  * (libproxy1-plugin-networkmanager)
+ * (wireguard)
+
 
 = GUI infrastructure =
 
