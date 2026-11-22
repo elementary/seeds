@@ -50,7 +50,7 @@ default live.
 == Misc ==
 
  * apparmor-profiles # Launch Flatpak apps
- * gparted
+ * gnome-disk-utility
  * expect
  * cifs-utils # Needed by casper for CIFS root=
  * jfsutils # Needed for JFS installation (lp:1442982)
